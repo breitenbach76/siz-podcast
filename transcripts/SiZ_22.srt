@@ -1,0 +1,8095 @@
+1
+00:00:00,000 --> 00:00:02,000
+.
+
+2
+00:00:30,000 --> 00:00:32,000
+.
+
+3
+00:01:00,000 --> 00:01:02,000
+.
+
+4
+00:01:30,000 --> 00:01:32,000
+.
+
+5
+00:02:00,000 --> 00:02:02,000
+.
+
+6
+00:02:30,000 --> 00:02:32,000
+.
+
+7
+00:03:00,000 --> 00:03:02,000
+.
+
+8
+00:03:30,000 --> 00:03:32,000
+.
+
+9
+00:04:00,000 --> 00:04:02,000
+.
+
+10
+00:04:30,000 --> 00:04:32,000
+.
+
+11
+00:05:00,000 --> 00:05:02,000
+.
+
+12
+00:05:30,000 --> 00:05:32,000
+.
+
+13
+00:06:00,000 --> 00:06:02,000
+.
+
+14
+00:06:30,000 --> 00:06:32,000
+.
+
+15
+00:07:00,000 --> 00:07:02,000
+.
+
+16
+00:07:30,000 --> 00:07:32,000
+.
+
+17
+00:08:00,000 --> 00:08:02,000
+.
+
+18
+00:08:30,000 --> 00:08:32,000
+.
+
+19
+00:09:00,000 --> 00:09:02,000
+.
+
+20
+00:09:30,000 --> 00:09:32,000
+.
+
+21
+00:10:00,000 --> 00:10:02,000
+.
+
+22
+00:10:30,000 --> 00:10:32,000
+.
+
+23
+00:11:00,000 --> 00:11:02,000
+.
+
+24
+00:11:30,000 --> 00:11:32,000
+.
+
+25
+00:12:00,000 --> 00:12:02,000
+.
+
+26
+00:12:30,000 --> 00:12:32,000
+.
+
+27
+00:13:00,000 --> 00:13:02,000
+.
+
+28
+00:13:30,000 --> 00:13:32,000
+.
+
+29
+00:14:00,000 --> 00:14:02,000
+.
+
+30
+00:14:30,000 --> 00:14:32,000
+.
+
+31
+00:14:32,000 --> 00:14:36,000
+.
+
+32
+00:14:36,000 --> 00:14:38,000
+.
+
+33
+00:14:38,000 --> 00:14:40,000
+.
+
+34
+00:14:40,000 --> 00:14:42,000
+.
+
+35
+00:14:42,000 --> 00:14:44,000
+.
+
+36
+00:14:44,000 --> 00:14:46,000
+.
+
+37
+00:14:46,000 --> 00:14:48,000
+.
+
+38
+00:14:48,000 --> 00:14:50,000
+.
+
+39
+00:14:50,000 --> 00:14:52,000
+.
+
+40
+00:14:52,000 --> 00:14:54,000
+.
+
+41
+00:14:54,000 --> 00:14:56,000
+.
+
+42
+00:14:56,000 --> 00:14:58,000
+.
+
+43
+00:14:58,000 --> 00:15:00,000
+.
+
+44
+00:15:00,000 --> 00:15:06,779
+du bewirbst dich bei einem Job und du kommst vielleicht vorher aus dem Niedriglohnsektor,
+
+45
+00:15:06,899 --> 00:15:10,539
+du hast kein Vermögen, du hast vielleicht sogar Schulden,
+
+46
+00:15:10,940 --> 00:15:13,639
+du hast sogar vielleicht dein Girokonto ist überzogen,
+
+47
+00:15:13,759 --> 00:15:16,139
+du bist also wirklich tief in dieser Schuldenfalle drin
+
+48
+00:15:16,139 --> 00:15:22,159
+und dann bekommst du sozusagen einen Job angeboten mit den schlechtesten, prekärsten Bedingungen
+
+49
+00:15:22,159 --> 00:15:24,639
+und du bist einfach gezwungen, den anzunehmen.
+
+50
+00:15:25,500 --> 00:15:28,980
+Wohingegen, wenn du schon irgendwie ein Häuschen besitzt,
+
+51
+00:15:28,980 --> 00:15:31,399
+du ein gewisses finanzielles Polster hast,
+
+52
+00:15:32,019 --> 00:15:36,000
+wirst du einfach dir nicht nur zehnmal überlegen, ob du den Job abnimmst,
+
+53
+00:15:36,060 --> 00:15:41,000
+sondern du bist einfach in der Position, an der Stelle diesen Job abzulehnen.
+
+54
+00:15:41,800 --> 00:15:43,899
+Ja, das stell dir vor, also super Beispiel.
+
+55
+00:15:44,539 --> 00:15:46,940
+Und du stell dir vor, du hast noch andere Kapitalsorten,
+
+56
+00:15:46,980 --> 00:15:49,980
+weil du zum Beispiel Access hast, also Zugang durch ein Netzwerk,
+
+57
+00:15:50,399 --> 00:15:53,200
+dass dann irgendwie der Vater dem anderen Vater mal die Hand schüttelt
+
+58
+00:15:53,200 --> 00:15:55,080
+und du dadurch den Praktikumsplatz bekommst
+
+59
+00:15:55,379 --> 00:15:58,420
+oder halt eben dadurch, dass du halt eben eine andere Art
+
+60
+00:15:58,420 --> 00:15:58,960
+und dann noch tiefere Kapitalstrukturen,
+
+61
+00:15:58,980 --> 00:16:01,779
+tieferes Wissen aufgebaut hast, weil du Zugang dazu hattest,
+
+62
+00:16:02,100 --> 00:16:04,060
+sondern kommst du mit anderen Kapitalsorten da dran
+
+63
+00:16:04,060 --> 00:16:06,779
+und hast dann eine bessere oder halt eben eine schlechtere Position.
+
+64
+00:16:07,240 --> 00:16:09,980
+Sehr gut, dass du das mit den anderen Kapitalsorten erwähnst,
+
+65
+00:16:10,779 --> 00:16:16,180
+weil es gibt noch einen Aspekt, den ich noch nicht zum Rahmen hinzugefügt hatte,
+
+66
+00:16:16,500 --> 00:16:24,200
+nämlich, dass es zwar sehr oft um Geld geht und um materielle Ressourcen,
+
+67
+00:16:24,379 --> 00:16:27,180
+es aber auch andere Ressourcen in der Gesellschaft gibt,
+
+68
+00:16:27,180 --> 00:16:28,720
+die ungleich verteilt sind.
+
+69
+00:16:28,980 --> 00:16:32,259
+Die auch ineinander verschränkt verkoppelt sind.
+
+70
+00:16:32,659 --> 00:16:36,379
+Und hier beziehe ich mich eindeutig und du ja auch letztlich
+
+71
+00:16:36,379 --> 00:16:39,279
+auf den Soziologen Pierre Bourdieu,
+
+72
+00:16:39,980 --> 00:16:45,399
+der das Ganze mal formuliert hat mit diesen vier Kapitalsorten.
+
+73
+00:16:45,759 --> 00:16:49,560
+Nämlich zu sagen, ja klar, alle kennen wir sozusagen das monetäre Kapital,
+
+74
+00:16:49,720 --> 00:16:52,360
+also Geld, das was auf dem Konto ist, das ist super wichtig.
+
+75
+00:16:52,580 --> 00:16:55,460
+Wenn das ungleich verteilt ist, gibt es schon mal grundsätzlich ein Problem,
+
+76
+00:16:55,700 --> 00:16:58,240
+weil die einen können sich was leisten, die anderen nicht.
+
+77
+00:16:58,240 --> 00:17:01,820
+Und sie sind prinzipiell besser gestellt und all diese Dinge.
+
+78
+00:17:02,860 --> 00:17:06,799
+Aber er hat noch drei weitere andere Kapitalsorten mit ins Spiel gebracht,
+
+79
+00:17:06,920 --> 00:17:09,240
+die aber unmittelbar damit verknüpft sind.
+
+80
+00:17:09,400 --> 00:17:11,440
+Das erste ist soziales Kapital.
+
+81
+00:17:11,599 --> 00:17:13,960
+Da könnte man sagen, das ist sowas wie Vitamin B.
+
+82
+00:17:14,279 --> 00:17:16,279
+Also Beziehungen sind super wichtig.
+
+83
+00:17:16,480 --> 00:17:20,460
+Je mehr Beziehungen ich habe, auch in Richtung Macht und so weiter,
+
+84
+00:17:20,640 --> 00:17:24,420
+desto mehr Einfluss habe ich, desto mehr Handlungsmöglichkeiten habe ich.
+
+85
+00:17:24,640 --> 00:17:27,140
+Und gleichzeitig gibt es dann die unmittelbare Verknüpfung.
+
+86
+00:17:27,140 --> 00:17:31,440
+Je mehr Geld ich habe, desto mehr Optionen habe ich auch und desto mehr Beziehungen.
+
+87
+00:17:31,680 --> 00:17:36,240
+Und nicht im Sinne von den guten zwischenmenschlichen freundschaftlichen Beziehungen habe ich,
+
+88
+00:17:36,380 --> 00:17:41,259
+sondern eher in Richtung lobbyistische Beziehungen kann ich sozusagen verwirklichen.
+
+89
+00:17:41,400 --> 00:17:44,340
+Die dritte Sorte ist kulturelles Kapital.
+
+90
+00:17:44,500 --> 00:17:45,560
+Das ist sowas wie Bildung.
+
+91
+00:17:45,920 --> 00:17:49,540
+Das heißt, je mehr ich weiß und Wissen erfahren kann,
+
+92
+00:17:49,860 --> 00:17:51,500
+desto mehr kann ich auch damit machen.
+
+93
+00:17:51,640 --> 00:17:54,700
+Ich kann sozusagen wieder mehr Optionen mehr erarbeiten,
+
+94
+00:17:54,700 --> 00:17:57,100
+je mehr Informationen, Wissen.
+
+95
+00:17:57,300 --> 00:18:02,300
+Ich habe und auch in diesem Unterschied zu Leuten, die kein Wissen haben,
+
+96
+00:18:02,820 --> 00:18:04,240
+bin ich sozusagen immer im Vorteil.
+
+97
+00:18:04,360 --> 00:18:07,100
+Das drückt sich so aus in Wissen ist Macht beispielsweise.
+
+98
+00:18:07,880 --> 00:18:10,060
+Und deswegen ist es dann super wichtig zu schauen,
+
+99
+00:18:10,380 --> 00:18:12,759
+wie ist eigentlich unser Bildungssystem gerade aufgestellt.
+
+100
+00:18:12,920 --> 00:18:17,700
+Ermöglicht es uns allen gleichsam kulturelles Kapital aufzubauen?
+
+101
+00:18:18,460 --> 00:18:22,920
+Im Sinne von, dass wir eben freien Zugang zu Bildung haben.
+
+102
+00:18:22,920 --> 00:18:25,200
+Und hier kann man schon ein bisschen spoilern und sagen,
+
+103
+00:18:25,340 --> 00:18:27,120
+naja, so einfach ist es eben nicht.
+
+104
+00:18:27,300 --> 00:18:33,700
+Weil heutzutage natürlich auch das ökonomische Kapital gekoppelt ist mit kulturellem Kapital.
+
+105
+00:18:33,840 --> 00:18:37,380
+Also ich brauche auch Geld oder Zugang oder Beziehungen,
+
+106
+00:18:38,140 --> 00:18:39,800
+wenn ich gute Bildung haben will.
+
+107
+00:18:39,980 --> 00:18:42,660
+Und gerade in den USA, ein Land mit großer Ungleichheit,
+
+108
+00:18:42,800 --> 00:18:45,180
+wissen wir ja auch, es ist a Geld entscheidend,
+
+109
+00:18:45,259 --> 00:18:47,880
+wenn ich auf eine gute Uni will, Elite-Uni beispielsweise.
+
+110
+00:18:48,300 --> 00:18:51,100
+Oder ich brauche zusätzlich sogar noch gute Beziehungen,
+
+111
+00:18:51,160 --> 00:18:52,800
+wenn die Plätze sozusagen limitiert sind.
+
+112
+00:18:52,800 --> 00:18:56,060
+Dann muss vielleicht der Vater schon an der Uni gewesen sein
+
+113
+00:18:56,060 --> 00:18:56,800
+und den Dekan.
+
+114
+00:18:57,140 --> 00:18:59,140
+Und dann muss er dann auch noch die Dekan kennen,
+
+115
+00:18:59,140 --> 00:19:01,140
+damit er eine Empfehlung und so weiter.
+
+116
+00:19:01,140 --> 00:19:03,140
+Und das vierte ist symbolisches Kapital.
+
+117
+00:19:03,140 --> 00:19:05,140
+Das resultiert dann auch so ein bisschen aus sozialen
+
+118
+00:19:05,140 --> 00:19:07,140
+und aber in erster Linie aus dem kulturellen.
+
+119
+00:19:07,140 --> 00:19:09,140
+Symbolisch ist dann wirklich so was,
+
+120
+00:19:09,140 --> 00:19:13,140
+naja, so was wie ein Professorentitel beispielsweise.
+
+121
+00:19:13,140 --> 00:19:17,140
+Oder wenn ich irgendwie eine Auszeichnung bekomme.
+
+122
+00:19:17,140 --> 00:19:19,140
+Dann habe ich sozusagen ein symbolisches Kapital erworben,
+
+123
+00:19:19,140 --> 00:19:21,140
+mit dem ich wiederum mehr Beziehungen,
+
+124
+00:19:21,140 --> 00:19:25,140
+mehr ökonomisches Kapital erwirtschaften kann.
+
+125
+00:19:25,140 --> 00:19:26,140
+Und so muss man sich dann auch wieder ein bisschen ausbilden.
+
+126
+00:19:26,140 --> 00:19:27,140
+Und das ist dann auch so ein bisschen,
+
+127
+00:19:27,140 --> 00:19:30,140
+wie man sich all diese Kapitalsorten eigentlich zusammendenken.
+
+128
+00:19:30,140 --> 00:19:32,140
+Und dann kann man sich eben vorstellen,
+
+129
+00:19:32,140 --> 00:19:34,140
+dass Ungleichheit eben nicht nur ein Problem
+
+130
+00:19:34,140 --> 00:19:36,140
+rein auf der monetären Ebene ist,
+
+131
+00:19:36,140 --> 00:19:40,140
+sondern allumfassend ein gesellschaftliches Problem
+
+132
+00:19:40,140 --> 00:19:42,140
+von vielen Menschen darstellt,
+
+133
+00:19:42,140 --> 00:19:45,140
+die eben nicht über Kapital verfügen
+
+134
+00:19:45,140 --> 00:19:47,140
+und gar nicht die Möglichkeit haben,
+
+135
+00:19:47,140 --> 00:19:51,140
+gewisse Kapitalsorten für sich in Anspruch zu nehmen.
+
+136
+00:19:51,140 --> 00:19:53,140
+Und zwar unabhängig davon,
+
+137
+00:19:53,140 --> 00:19:55,140
+ob sie etwas leisten können oder nicht,
+
+138
+00:19:55,140 --> 00:19:56,140
+ob sie intelligent sind oder nicht,
+
+139
+00:19:56,140 --> 00:19:58,140
+kreativ sind oder nicht.
+
+140
+00:19:58,140 --> 00:20:01,140
+Das gehört natürlich zum weiten Teil auch noch dazu.
+
+141
+00:20:01,140 --> 00:20:04,140
+Also ich muss mich doppelt, dreifach, vierfach anstrengen,
+
+142
+00:20:04,140 --> 00:20:06,140
+leisten, kreativ sein,
+
+143
+00:20:06,140 --> 00:20:09,140
+um sozusagen auf ein gleiches Level zu kommen wie andere,
+
+144
+00:20:09,140 --> 00:20:15,140
+die schon quasi diese Kapitalsorten vererbt bekommen haben.
+
+145
+00:20:15,140 --> 00:20:17,140
+So, das waren die vier Kapitalsorten.
+
+146
+00:20:17,140 --> 00:20:22,140
+Gehen wir mal zurück an den Verhandlungstisch von Per Molander
+
+147
+00:20:22,140 --> 00:20:25,140
+und eben der von ihm auch erklärte,
+
+148
+00:20:25,140 --> 00:20:30,140
+der von ihm auch erklärten Lösung oder dem Instrument,
+
+149
+00:20:30,140 --> 00:20:35,140
+wie man krasser Ungleichheit eigentlich nur begegnen kann.
+
+150
+00:20:35,140 --> 00:20:38,140
+Weil er sagt ja, das ist eine Funktionslogik,
+
+151
+00:20:38,140 --> 00:20:42,140
+die von alleine abläuft, wenn man nichts dagegen tut.
+
+152
+00:20:42,140 --> 00:20:45,140
+Und wenn man was dagegen tun möchte,
+
+153
+00:20:45,140 --> 00:20:48,140
+dann bedeutet das, dass hier vor allen Dingen Politik
+
+154
+00:20:48,140 --> 00:20:52,140
+in allererster Linie in der Verantwortung steht.
+
+155
+00:20:52,140 --> 00:20:55,140
+Und wenn politisch hier nichts reguliert wird,
+
+156
+00:20:55,140 --> 00:20:58,140
+mal angenommen, man könnte die größten Drecksjobs dieser Welt
+
+157
+00:20:58,140 --> 00:21:01,140
+so ausführen, wie es früher auch vielleicht mal war
+
+158
+00:21:01,140 --> 00:21:05,140
+und zum großen Teil heute auch noch ist in vielen Ländern,
+
+159
+00:21:05,140 --> 00:21:09,140
+dann profitiert ja die Seite mit dem Kapitalüberschuss
+
+160
+00:21:09,140 --> 00:21:11,140
+am meisten wiederum.
+
+161
+00:21:11,140 --> 00:21:14,140
+Weil sie kann die andere Partei dadurch ausbeuten
+
+162
+00:21:14,140 --> 00:21:18,140
+und die andere kann sich der Ausbeutung fast nicht entziehen
+
+163
+00:21:18,140 --> 00:21:20,140
+in dieser Verhandlungsposition.
+
+164
+00:21:20,140 --> 00:21:22,140
+Und das ist ein Problem.
+
+165
+00:21:22,140 --> 00:21:24,140
+Und das ist, und das beschreibt er,
+
+166
+00:21:24,140 --> 00:21:27,140
+und das beschreibt Per Molander halt etwas,
+
+167
+00:21:27,140 --> 00:21:30,140
+was halt unendlich sich fortsetzt,
+
+168
+00:21:30,140 --> 00:21:33,140
+sofern es kein Gegenregulativ gibt,
+
+169
+00:21:33,140 --> 00:21:36,140
+die da einbremst und einschränkt.
+
+170
+00:21:36,140 --> 00:21:39,140
+Und deswegen ist es super wichtig,
+
+171
+00:21:39,140 --> 00:21:41,140
+auch über diese Regularien zu sprechen.
+
+172
+00:21:41,140 --> 00:21:45,140
+So, und wie sehen denn diese Regulative aus?
+
+173
+00:21:45,140 --> 00:21:48,140
+Also wir wissen, Staat organisiert in unserem Auftrag
+
+174
+00:21:48,140 --> 00:21:52,140
+in der Demokratiegesellschaft und soll ja möglichst dafür sorgen,
+
+175
+00:21:52,140 --> 00:21:54,140
+so dass jeder irgendwie einen Fair-Tag hat.
+
+176
+00:21:54,140 --> 00:21:56,140
+Also jeder, der eine Chance bekommt
+
+177
+00:21:56,140 --> 00:21:58,140
+oder zumindest einen Zugang hat dazu.
+
+178
+00:21:58,140 --> 00:22:01,140
+Und gleichzeitig die Regeln halt irgendwie für alle
+
+179
+00:22:01,140 --> 00:22:03,140
+irgendwie vernünftig darliegen.
+
+180
+00:22:03,140 --> 00:22:07,140
+Und es hat auch eine Zeit gegeben, wo das irgendwie ganz gut aussah.
+
+181
+00:22:07,140 --> 00:22:09,140
+Und da gab es eben einige Interessenten,
+
+182
+00:22:09,140 --> 00:22:11,140
+die haben dann angefangen zu sagen,
+
+183
+00:22:11,140 --> 00:22:13,140
+nein, ich fände das schon gut,
+
+184
+00:22:13,140 --> 00:22:16,140
+wenn die Chancen eher in meine Richtung verteilt wären.
+
+185
+00:22:16,140 --> 00:22:19,140
+Und um dieses System so ein bisschen zu unterminieren
+
+186
+00:22:19,140 --> 00:22:22,140
+oder zu verändern, braucht es erstmal eine Idee.
+
+187
+00:22:22,140 --> 00:22:24,140
+Und bevor wir jetzt mal gleich auf die Frage kommen,
+
+188
+00:22:24,140 --> 00:22:26,140
+auf die deutsche Situation kommen,
+
+189
+00:22:26,140 --> 00:22:29,140
+würde ich gerne mal kurz den Blick richten auf jemanden,
+
+190
+00:22:29,140 --> 00:22:31,140
+der Herr Laffer heißt.
+
+191
+00:22:31,140 --> 00:22:34,140
+Und Herr Laffer ist ein Professor aus den Vereinigten Staaten,
+
+192
+00:22:34,140 --> 00:22:35,140
+Ökonomie-Professor.
+
+193
+00:22:35,140 --> 00:22:39,140
+Und er hat Mitte der Siebziger die sogenannte Laffer-Kurve erfunden.
+
+194
+00:22:39,140 --> 00:22:41,140
+Angeblich, das ist eine Geschichte, die wird kolportiert,
+
+195
+00:22:41,140 --> 00:22:44,140
+hat er es auch ein paar hohen, auch bekannten amerikanischen Politikern
+
+196
+00:22:44,140 --> 00:22:48,140
+mal in einem Restaurant quasi auf einer Serviette erklärt.
+
+197
+00:22:48,140 --> 00:22:50,140
+Und basically, also ich vereinfache das jetzt,
+
+198
+00:22:50,140 --> 00:22:54,140
+ist seine Idee dahinter, wenn man die Steuern für Reiche senkt,
+
+199
+00:22:54,140 --> 00:22:56,140
+dann steigen die Staatseinnahmen.
+
+200
+00:22:56,140 --> 00:23:00,140
+Und die Idee dahinter ist, dadurch, dass ja dadurch die Reichen,
+
+201
+00:23:00,140 --> 00:23:03,140
+die ja besonders gut mit Geld umgehen können, klar,
+
+202
+00:23:03,140 --> 00:23:05,140
+und ja häufig auch Unternehmer sind,
+
+203
+00:23:05,140 --> 00:23:07,140
+dann würden sie das Geld ja reinvestieren.
+
+204
+00:23:07,140 --> 00:23:09,140
+Und durch diese Reinvestition,
+
+205
+00:23:09,140 --> 00:23:12,140
+und weil sie auch mal mehr konsumieren und teurer konsumieren,
+
+206
+00:23:12,140 --> 00:23:14,140
+würde dadurch mehr Steuer aufkommen,
+
+207
+00:23:14,140 --> 00:23:16,140
+kommen durch Wachstum und dergleichen.
+
+208
+00:23:16,140 --> 00:23:19,140
+So, das ist so eine, das ist basically so die Theorie.
+
+209
+00:23:19,140 --> 00:23:21,140
+Und das ist am Ende auch das,
+
+210
+00:23:21,140 --> 00:23:24,140
+was Regonomics halt eben auch als Aspekt dabei hatte.
+
+211
+00:23:24,140 --> 00:23:27,140
+Dass man eben gesagt hat, okay, das wollen wir jetzt mal tatsächlich anwenden
+
+212
+00:23:27,140 --> 00:23:30,140
+und damit halt free public enterprises
+
+213
+00:23:30,140 --> 00:23:33,140
+von all diesen wirklich wohlstandsverfesselnden,
+
+214
+00:23:33,140 --> 00:23:35,140
+schlimmen Steuern und so weiter.
+
+215
+00:23:35,140 --> 00:23:37,140
+Das war so die Idee dahinter.
+
+216
+00:23:37,140 --> 00:23:39,140
+Und eine wesentliche Mechanik dahinter ist die,
+
+217
+00:23:39,140 --> 00:23:41,140
+die man sich überlegt hat, nämlich die sogenannte
+
+218
+00:23:41,140 --> 00:23:43,140
+trickle-down-Economics.
+
+219
+00:23:43,140 --> 00:23:46,140
+Also, wenn es einigen Reichen besser geht,
+
+220
+00:23:46,140 --> 00:23:49,140
+dann trickelt das down, also sprich das, was sie jetzt mehr haben,
+
+221
+00:23:49,140 --> 00:23:53,140
+das fließt so als Tropfen herunter in die restliche Gesellschaft.
+
+222
+00:23:53,140 --> 00:23:55,140
+Und damit geht es dann ja allen gut.
+
+223
+00:23:55,140 --> 00:23:58,140
+Problem an der Sache ist, es gibt ein paar Studien
+
+224
+00:23:58,140 --> 00:24:00,140
+und ein paar Leute, die sie verteidigen.
+
+225
+00:24:00,140 --> 00:24:04,140
+Es gibt aber auch ganz viel Paper und Wissenschaftler,
+
+226
+00:24:04,140 --> 00:24:06,140
+die sagen halt, okay, das ist totaler Blödsinn,
+
+227
+00:24:06,140 --> 00:24:08,140
+damals gewesen und heute erst recht.
+
+228
+00:24:08,140 --> 00:24:12,140
+Und bei trickle-down-Economics ist man sich schon aus der Empirie heraus
+
+229
+00:24:12,140 --> 00:24:14,140
+ziemlich klar, dass das nicht funktioniert.
+
+230
+00:24:14,140 --> 00:24:17,140
+Also, das sind tatsächlich Ideen,
+
+231
+00:24:17,140 --> 00:24:19,140
+später könnte man auch sagen beinahe Lügen,
+
+232
+00:24:19,140 --> 00:24:21,140
+wenn man versucht, sie noch aufrechtzuerhalten,
+
+233
+00:24:21,140 --> 00:24:23,140
+die einfach eine Praxis testen,
+
+234
+00:24:23,140 --> 00:24:25,140
+die sie am besten nicht standhalten.
+
+235
+00:24:25,140 --> 00:24:27,140
+Tatsächlich war das die zentrale oder ein Teil
+
+236
+00:24:27,140 --> 00:24:30,140
+der zentralen ökonomischen Plattform der beiden Regierungen,
+
+237
+00:24:30,140 --> 00:24:33,140
+dass sie gesagt haben, ja, trickle-down-Economics funktioniert nicht,
+
+238
+00:24:33,140 --> 00:24:35,140
+das müssen wir halt ändern.
+
+239
+00:24:35,140 --> 00:24:37,140
+So, dazu ist es nicht wirklich gekommen.
+
+240
+00:24:37,140 --> 00:24:39,140
+Aber das müssen wir uns kurz im Hinterkopf behalten,
+
+241
+00:24:39,140 --> 00:24:42,140
+weil wir wollen uns heute sehr stark mit der Situation
+
+242
+00:24:42,140 --> 00:24:44,140
+hier in Deutschland beschäftigen.
+
+243
+00:24:44,140 --> 00:24:47,140
+Und ich hatte es vorhin schon mal so ein bisschen angedeutet,
+
+244
+00:24:47,140 --> 00:24:51,140
+die große Situationsänderung kam mit der Regierung Schröder.
+
+245
+00:24:51,140 --> 00:24:53,140
+Schauen wir einmal auf den Körperschaftssteuersatz,
+
+246
+00:24:53,140 --> 00:24:57,140
+also das ist im Prinzip das, was Unternehmen auf Gewinne bezahlen.
+
+247
+00:24:57,140 --> 00:25:03,140
+Vor Schröder lag der Körperschaftssteuersatz bei 45% für einbehaltene Gewinne
+
+248
+00:25:03,140 --> 00:25:05,140
+und 30% für ausgeschüttete.
+
+249
+00:25:05,140 --> 00:25:08,140
+Und 2001 wird das halt eben verändert
+
+250
+00:25:08,140 --> 00:25:11,140
+und es gibt danach einen einheitlichen Körperschaftssteuersatz
+
+251
+00:25:11,140 --> 00:25:14,140
+und der ist geringer, nämlich der liegt bei 25%.
+
+252
+00:25:14,140 --> 00:25:17,140
+Historisch hat er auch mal bei 50% gelegen.
+
+253
+00:25:17,140 --> 00:25:22,140
+Und heute, 2024, liegt er halt eben bei 15% plus Gewerbesteuer.
+
+254
+00:25:22,140 --> 00:25:27,140
+Und die Idee dahinter, oder eben auch hier die Idee war,
+
+255
+00:25:27,140 --> 00:25:30,140
+zu sagen, okay, wir müssen Deutschland attraktiver machen
+
+256
+00:25:30,140 --> 00:25:32,140
+für internationale Unternehmen,
+
+257
+00:25:32,140 --> 00:25:34,140
+wir müssen Investitionen im Inland fördern.
+
+258
+00:25:34,140 --> 00:25:36,140
+Also es gibt so ein Diktum, dass man sagt,
+
+259
+00:25:36,140 --> 00:25:39,140
+dort, wo Steuern niedrig, da gehen Unternehmen hin.
+
+260
+00:25:39,140 --> 00:25:42,140
+Diese einfache Mechanik stimmt aber nicht unbedingt.
+
+261
+00:25:42,140 --> 00:25:45,140
+Weil die Frage ist ja, wo findet denn die zentrale Wertschöpfung statt
+
+262
+00:25:45,140 --> 00:25:47,140
+und wo ist denn das Unternehmen tatsächlich steuerpflichtig?
+
+263
+00:25:47,140 --> 00:25:50,140
+Das sind durchaus Sachen, die auseinanderliegen können.
+
+264
+00:25:50,140 --> 00:25:51,140
+Also es gibt da so ein paar Steueroeinheiten,
+
+265
+00:25:51,140 --> 00:25:55,140
+die erstaunlich viele Unternehmensanteile haben,
+
+266
+00:25:55,140 --> 00:25:56,140
+ohne dort zu produzieren.
+
+267
+00:25:56,140 --> 00:25:59,140
+Das kann man also auch nutzen, um das zu umgehen.
+
+268
+00:25:59,140 --> 00:26:00,140
+Also diese Idee von wegen,
+
+269
+00:26:00,140 --> 00:26:02,140
+wenn Deutschland ganz geringe Unternehmenssteuern hat,
+
+270
+00:26:02,140 --> 00:26:04,140
+dann würden sich Unternehmen ansiedeln,
+
+271
+00:26:04,140 --> 00:26:06,140
+das hält keiner Überprüfung stand.
+
+272
+00:26:06,140 --> 00:26:09,140
+Und ebenso wenig, als dass man eben sagt,
+
+273
+00:26:09,140 --> 00:26:12,140
+dadurch sind Unternehmen jetzt wettbewerbsfähiger.
+
+274
+00:26:12,140 --> 00:26:15,140
+Weil dahinter auch ein bisschen der Gedanke war,
+
+275
+00:26:15,140 --> 00:26:17,140
+ja, wenn die Steuern besonders niedrig sind,
+
+276
+00:26:17,140 --> 00:26:19,140
+dann würden die Unternehmen, schlau wie sie sind natürlich,
+
+277
+00:26:19,140 --> 00:26:21,140
+in Wachstum das reinstecken.
+
+278
+00:26:21,140 --> 00:26:24,140
+Und in Innovation und in Investition.
+
+279
+00:26:24,140 --> 00:26:26,140
+Und das ist leider auch etwas,
+
+280
+00:26:26,140 --> 00:26:28,140
+was der Überprüfung nicht wirklich standhält.
+
+281
+00:26:28,140 --> 00:26:32,140
+Also die Investitionskurve ist halt immer noch
+
+282
+00:26:32,140 --> 00:26:35,140
+genauso auf einem ähnlichen Niveau wie einst.
+
+283
+00:26:35,140 --> 00:26:37,140
+Was wir aber gesehen haben ist,
+
+284
+00:26:37,140 --> 00:26:40,140
+dass die Gewinne für Unternehmen und die ausgestütteten Gewinne
+
+285
+00:26:40,140 --> 00:26:42,140
+tatsächlich gestiegen sind.
+
+286
+00:26:42,140 --> 00:26:45,140
+Und gleichzeitig halt eben die Wettbewerbsfähigkeit Deutschlands
+
+287
+00:26:45,140 --> 00:26:47,140
+an dieser Stelle nicht dadurch gestiegen ist.
+
+288
+00:26:47,140 --> 00:26:49,140
+Man hätte das vielleicht auch erreichen können
+
+289
+00:26:49,140 --> 00:26:50,140
+durch Investitionen in Infrastruktur.
+
+290
+00:26:50,140 --> 00:26:52,140
+In Bildung beispielsweise.
+
+291
+00:26:52,140 --> 00:26:56,140
+Ich habe ja wieder was gelernt im Zuge der Recherche
+
+292
+00:26:56,140 --> 00:26:58,140
+und mich gleichzeitig wieder geärgert.
+
+293
+00:26:58,140 --> 00:27:02,140
+Du hast ja vorhin gesprochen, es gibt so Steueroasen weltweit,
+
+294
+00:27:02,140 --> 00:27:05,140
+die es sozusagen ermöglichen, genau das so zu machen,
+
+295
+00:27:05,140 --> 00:27:06,140
+wie du gesagt hast.
+
+296
+00:27:06,140 --> 00:27:09,140
+Ich finde es ganz erstaunlich, dass eine Steueroase
+
+297
+00:27:09,140 --> 00:27:11,140
+direkt wahrscheinlich ein paar Kilometer
+
+298
+00:27:11,140 --> 00:27:14,140
+von deinem Wohnort entfernt liegt.
+
+299
+00:27:14,140 --> 00:27:18,140
+Treue Zuhörerinnen und Zuhörer wissen,
+
+300
+00:27:18,140 --> 00:27:19,140
+du bist so in München.
+
+301
+00:27:19,140 --> 00:27:25,140
+Und es gibt eine Gemeinde bei München, nämlich Grünwald.
+
+302
+00:27:25,140 --> 00:27:30,140
+Das ist eine, also die lokale Steueroase überhaupt.
+
+303
+00:27:30,140 --> 00:27:34,140
+Sind hinter diesen Fenstern illegale Briefkastenfirmen ansässig?
+
+304
+00:27:34,140 --> 00:27:38,140
+Also Unternehmen, die nur zum Schein in Grünwald gemeldet sind,
+
+305
+00:27:38,140 --> 00:27:41,140
+aber eigentlich von ganz woanders arbeiten?
+
+306
+00:27:41,140 --> 00:27:43,140
+Also wenn man durch den Ort geht,
+
+307
+00:27:43,140 --> 00:27:45,140
+dann sieht man diese vielen Klingelschilder.
+
+308
+00:27:45,140 --> 00:27:47,140
+Ja, einfach, dass es mehr Gewerbe wie Haus,
+
+309
+00:27:47,140 --> 00:27:52,140
+wie Haushalte hier gibt, das ist ja auch eigenartig.
+
+310
+00:27:52,140 --> 00:27:56,140
+Grünwald gilt als eine der reichsten Gemeinden Deutschlands.
+
+311
+00:27:56,140 --> 00:28:00,140
+Das liegt auch daran, dass der Gewerbesteuersatz hier so niedrig ist
+
+312
+00:28:00,140 --> 00:28:02,140
+und viele Firmen anlockt.
+
+313
+00:28:02,140 --> 00:28:05,140
+Er liegt in Grünwald bei 240%.
+
+314
+00:28:05,140 --> 00:28:09,140
+In München ist er mit 490% mehr als doppelt so hoch.
+
+315
+00:28:09,140 --> 00:28:12,140
+Eine, die den Grünwalder Hebesatz ausgenutzt haben soll,
+
+316
+00:28:12,140 --> 00:28:15,140
+ist die Münchner Unternehmerin Andrea Tandler.
+
+317
+00:28:15,140 --> 00:28:18,140
+Seit der Pandemie hat sie Masken an staatliche Stellen vermittelt
+
+318
+00:28:18,140 --> 00:28:20,140
+und Millionen verdient.
+
+319
+00:28:20,140 --> 00:28:22,140
+Den Gewinn soll sie mit einem Scheinunternehmen
+
+320
+00:28:22,140 --> 00:28:24,140
+in Grünwald erwirtschaftet haben.
+
+321
+00:28:24,140 --> 00:28:27,140
+Und so können dort vor allen Dingen Konzernableger,
+
+322
+00:28:27,140 --> 00:28:29,140
+Leasinggesellschaften, Immobilienfirmen,
+
+323
+00:28:29,140 --> 00:28:32,140
+Vermögensverwaltungen dort ansiedeln.
+
+324
+00:28:32,140 --> 00:28:34,140
+Und was sie halt dann auch erfolgreich tun,
+
+325
+00:28:34,140 --> 00:28:38,140
+um eben nochmal zusätzliche Steuern zu sparen.
+
+326
+00:28:38,140 --> 00:28:41,140
+Und wir halten jetzt aber ganz kurz fest,
+
+327
+00:28:41,140 --> 00:28:44,140
+also Unternehmenssteuern unter Schröder gesenkt mithalten,
+
+328
+00:28:44,140 --> 00:28:46,140
+mit einem ähnlichen gedanklichen Unterbau,
+
+329
+00:28:46,140 --> 00:28:49,140
+wie das, was wir gerade eben schon aus den Staaten gehört haben.
+
+330
+00:28:49,140 --> 00:28:51,140
+Schauen wir jetzt mal auf die Einkommen.
+
+331
+00:28:51,140 --> 00:28:54,140
+Wie war das vor Schröder 1998?
+
+332
+00:28:54,140 --> 00:28:57,140
+Da war der Einkommenssteuersatz 25,9%.
+
+333
+00:28:57,140 --> 00:29:00,140
+Spitzensteuersatz lag bei 53%.
+
+334
+00:29:00,140 --> 00:29:03,140
+Und nach der Reform, also 2005 jetzt,
+
+335
+00:29:03,140 --> 00:29:06,140
+war der Eingangssteuersatz bei 15%, also geringer.
+
+336
+00:29:06,140 --> 00:29:09,140
+Und der Spitzensteuersatz bei 42%.
+
+337
+00:29:09,140 --> 00:29:12,140
+Der Höchststand in der Nachkriegsgeschichte war bis 1974.
+
+338
+00:29:12,140 --> 00:29:13,140
+Spitzensteuersatz bis 70%.
+
+339
+00:29:13,140 --> 00:29:15,140
+Spitzensteuersatz bis 56%.
+
+340
+00:29:15,140 --> 00:29:16,140
+Und auch der Spitzensteuersatz,
+
+341
+00:29:16,140 --> 00:29:18,140
+wenn man auf die Vereinigten Staaten guckt,
+
+342
+00:29:18,140 --> 00:29:20,140
+war ja in der Nachkriegszeit auch deutlich höher
+
+343
+00:29:20,140 --> 00:29:23,140
+und wurde dann irgendwann schrittweise abgesenkt.
+
+344
+00:29:23,140 --> 00:29:25,140
+Heute liegt der Spitzensteuersatz bei 52%
+
+345
+00:29:25,140 --> 00:29:29,140
+beziehungsweise 45% bei sogenannter Reichensteuer.
+
+346
+00:29:29,140 --> 00:29:31,140
+Das klingt jetzt alles nicht viel,
+
+347
+00:29:31,140 --> 00:29:33,140
+aber es hat halt eine politische Verwerfung.
+
+348
+00:29:33,140 --> 00:29:35,140
+Weil nämlich die größten Entlastungen
+
+349
+00:29:35,140 --> 00:29:38,140
+erhielten letztlich die obersten Einkommensgruppen,
+
+350
+00:29:38,140 --> 00:29:40,140
+während untere und mittlere Einkommen
+
+351
+00:29:40,140 --> 00:29:41,140
+vergleichsweise gering profitierten.
+
+352
+00:29:41,140 --> 00:29:42,140
+Nämlich die Senkung von Einkommen,
+
+353
+00:29:42,140 --> 00:29:44,140
+die gesetzliche Verwaltung,
+
+354
+00:29:44,140 --> 00:29:46,140
+die gesetzliche Verwaltung der Einkommen
+
+355
+00:29:46,140 --> 00:29:48,140
+und die gesetzliche Verwaltung der Einkommen.
+
+356
+00:29:48,140 --> 00:29:50,140
+Die Senkung des Spitzensteuersatzes
+
+357
+00:29:50,140 --> 00:29:52,140
+führt jetzt zu deutlichem Rückgang
+
+358
+00:29:52,140 --> 00:29:53,140
+der progressiven Steuerwirkung,
+
+359
+00:29:53,140 --> 00:29:55,140
+was die Einkommensungleichheit verstärkte.
+
+360
+00:29:55,140 --> 00:29:57,140
+Und der Konsum der unteren Einkommensgruppen,
+
+361
+00:29:57,140 --> 00:29:59,140
+der stärker wachstumswirksam ist,
+
+362
+00:29:59,140 --> 00:30:01,140
+wurde nicht ausreichend gefördert.
+
+363
+00:30:01,140 --> 00:30:02,140
+Wir erinnern uns,
+
+364
+00:30:02,140 --> 00:30:05,140
+es gab zu der Zeit nach der Regierung Schröder
+
+365
+00:30:05,140 --> 00:30:08,140
+auch noch mal eine Erhöhung der Mehrwertsteuer.
+
+366
+00:30:08,140 --> 00:30:09,140
+Und das ist etwas,
+
+367
+00:30:09,140 --> 00:30:10,140
+was reiche viel weniger,
+
+368
+00:30:10,140 --> 00:30:11,140
+also indirekte Steuern,
+
+369
+00:30:11,140 --> 00:30:13,140
+das heißt hier ging es auch eben
+
+370
+00:30:13,140 --> 00:30:16,140
+eine Verschiebung von unten nach oben,
+
+371
+00:30:16,140 --> 00:30:19,140
+auch wenn das hier in den Zahlen gar nicht so deutlich
+
+372
+00:30:19,140 --> 00:30:21,140
+vielleicht im ersten Moment zu sehen ist.
+
+373
+00:30:21,140 --> 00:30:25,140
+Es handelt sich ja hier um Einkommen aus Erwerbsarbeit,
+
+374
+00:30:25,140 --> 00:30:28,140
+also nicht Einkommen aus Kapitalerträgen,
+
+375
+00:30:28,140 --> 00:30:30,140
+also aus Vermögensassets, die man hat,
+
+376
+00:30:30,140 --> 00:30:33,140
+wo man irgendwie Zinserträge, Fonderträge
+
+377
+00:30:33,140 --> 00:30:34,140
+und all diese Sachen,
+
+378
+00:30:34,140 --> 00:30:39,140
+die fallen nicht unter diese Einkommensgeschichte.
+
+379
+00:30:39,140 --> 00:30:41,140
+Und das ist schon allein für mich
+
+380
+00:30:41,140 --> 00:30:43,140
+der erste Trigger.
+
+381
+00:30:43,140 --> 00:30:44,140
+Und wir werden ja nachher
+
+382
+00:30:44,140 --> 00:30:47,140
+in die Vermögensverhältnisse tiefer reinschauen.
+
+383
+00:30:47,140 --> 00:30:49,140
+Aber der erste Trigger für mich ist schon,
+
+384
+00:30:49,140 --> 00:30:52,140
+in einem Land, was angeblich immer wieder sagt,
+
+385
+00:30:52,140 --> 00:30:54,140
+dass wir arbeitende Menschen sind,
+
+386
+00:30:54,140 --> 00:30:57,140
+dass es so wichtig ist, hier zu arbeiten,
+
+387
+00:30:57,140 --> 00:30:59,140
+dass Leistung so wichtig ist
+
+388
+00:30:59,140 --> 00:31:01,140
+und Leistung muss sich lohnen,
+
+389
+00:31:01,140 --> 00:31:05,140
+dass das wirklich auch im internationalen Vergleich
+
+390
+00:31:05,140 --> 00:31:08,140
+einfach unfassbar hoch besteuert wird.
+
+391
+00:31:08,140 --> 00:31:10,140
+Also Arbeitseinkommen,
+
+392
+00:31:10,140 --> 00:31:13,140
+und das ist ja sozusagen die Voraussetzung,
+
+393
+00:31:13,140 --> 00:31:16,140
+um überhaupt so etwas wie Vermögen zu schaffen,
+
+394
+00:31:16,140 --> 00:31:20,140
+wird hier über alle Maßen wirklich besteuert.
+
+395
+00:31:20,140 --> 00:31:21,140
+Und an der Stelle,
+
+396
+00:31:21,140 --> 00:31:27,140
+ich bin normal ein Fan von Steuerregularien und so weiter.
+
+397
+00:31:27,140 --> 00:31:28,140
+Es ist super wichtig,
+
+398
+00:31:28,140 --> 00:31:30,140
+dass wir einen gut ausgestatteten,
+
+399
+00:31:30,140 --> 00:31:31,140
+finanzierten Staat haben,
+
+400
+00:31:31,140 --> 00:31:35,140
+mit entsprechenden Angeboten im Commons-Bereich.
+
+401
+00:31:35,140 --> 00:31:37,140
+Und dann kann man sich natürlich unterhalten
+
+402
+00:31:37,140 --> 00:31:39,140
+auf der einen Seite die Einnahmesituation,
+
+403
+00:31:39,140 --> 00:31:41,140
+die sogenannte in Anführungszeichen,
+
+404
+00:31:41,140 --> 00:31:42,140
+und auf der anderen Seite,
+
+405
+00:31:42,140 --> 00:31:44,140
+wie werden die Gelder reinvestiert und ausgegeben,
+
+406
+00:31:44,140 --> 00:31:45,140
+für was?
+
+407
+00:31:45,140 --> 00:31:47,140
+Und auf beiden Seiten gibt es Kritik.
+
+408
+00:31:47,140 --> 00:31:51,140
+Aber hier wäre schon mal die allererste Kritik von meiner Seite,
+
+409
+00:31:51,140 --> 00:31:55,140
+dass Arbeit viel zu hoch in diesem Land besteuert wird.
+
+410
+00:31:55,140 --> 00:32:00,140
+Weil Arbeit ist auch in meinem Verständnis super wichtig.
+
+411
+00:32:00,140 --> 00:32:02,140
+Und natürlich kann man darüber,
+
+412
+00:32:02,140 --> 00:32:04,140
+und sollte man ganz dringend darüber diskutieren,
+
+413
+00:32:04,140 --> 00:32:06,140
+dass das natürlich weiterhin progressiv sein soll,
+
+414
+00:32:06,140 --> 00:32:08,140
+im Sinne von, je mehr ich verdiene,
+
+415
+00:32:08,140 --> 00:32:11,140
+desto mehr sollte ich auch Verantwortung tragen für die Gesellschaft.
+
+416
+00:32:11,140 --> 00:32:13,140
+Also ich finde es schon in Ordnung,
+
+417
+00:32:13,140 --> 00:32:15,140
+dass das höher geht bei höheren Einkommen
+
+418
+00:32:15,140 --> 00:32:17,140
+und ab einer gewissen Schwelle sowieso.
+
+419
+00:32:17,140 --> 00:32:19,140
+Aber prinzipiell würde ich sagen,
+
+420
+00:32:19,140 --> 00:32:23,140
+es ist im Grunde genommen viel zu hoch besteuert, Arbeit.
+
+421
+00:32:23,140 --> 00:32:26,140
+Also das, was wirklich Wert schafft,
+
+422
+00:32:26,140 --> 00:32:28,140
+im Sinne auch einer Gesellschaft,
+
+423
+00:32:28,140 --> 00:32:29,140
+wo Dinge produziert werden,
+
+424
+00:32:29,140 --> 00:32:30,140
+wo Sachen entstehen,
+
+425
+00:32:30,140 --> 00:32:32,140
+wo Dienstleistungen entstehen,
+
+426
+00:32:32,140 --> 00:32:33,140
+die unser Leben retten,
+
+427
+00:32:33,140 --> 00:32:35,140
+unser Leben besser machen,
+
+428
+00:32:35,140 --> 00:32:36,140
+all diese Sachen.
+
+429
+00:32:36,140 --> 00:32:37,140
+Ja, der Komparativ ist vollkommen richtig.
+
+430
+00:32:37,140 --> 00:32:38,140
+Wenn du jetzt sagst,
+
+431
+00:32:38,140 --> 00:32:39,140
+du guckst halt eben,
+
+432
+00:32:39,140 --> 00:32:41,140
+was müssen heute Unternehmen als Steuern zahlen
+
+433
+00:32:41,140 --> 00:32:44,140
+oder was für Steuern muss ich zahlen
+
+434
+00:32:44,140 --> 00:32:46,140
+eben auf Kapitalerträge,
+
+435
+00:32:46,140 --> 00:32:48,140
+dann sind die eben geringer als Arbeit
+
+436
+00:32:48,140 --> 00:32:50,140
+und dann merkt man auch die Verwerfung da drin.
+
+437
+00:32:50,140 --> 00:32:51,140
+Das heißt also,
+
+438
+00:32:51,140 --> 00:32:52,140
+Reiche können durch,
+
+439
+00:32:52,140 --> 00:32:54,140
+wenn sie jetzt eben nicht arbeiten,
+
+440
+00:32:54,140 --> 00:32:57,140
+von einem deutlich niedrigen Steuereinsatz profitieren,
+
+441
+00:32:57,140 --> 00:33:00,140
+wenn sie halt eben andere Einkunftsarten haben.
+
+442
+00:33:00,140 --> 00:33:02,140
+Auch weil wir, glaube ich,
+
+443
+00:33:02,140 --> 00:33:04,140
+gar keine Vermögensteuer haben, oder Patrick?
+
+444
+00:33:04,140 --> 00:33:07,140
+Genau, da sind wir jetzt schon im Bereich des Vermögens,
+
+445
+00:33:07,140 --> 00:33:09,140
+weil es ist auch nochmal super wichtig,
+
+446
+00:33:09,140 --> 00:33:10,140
+sich anzuschauen,
+
+447
+00:33:10,140 --> 00:33:13,140
+wie strukturiert sich Ungleichheit auf der Vermögensseite.
+
+448
+00:33:13,140 --> 00:33:14,140
+Es ist beides Geld,
+
+449
+00:33:14,140 --> 00:33:17,140
+aber es sind zwei unterschiedliche Paar Stiefel.
+
+450
+00:33:17,140 --> 00:33:23,140
+Also es gibt hier schon eine spürbare Einkommensungleichheit
+
+451
+00:33:23,140 --> 00:33:24,140
+in Deutschland,
+
+452
+00:33:24,140 --> 00:33:27,140
+aber was wesentlich frappierender ist
+
+453
+00:33:27,140 --> 00:33:33,140
+und was wirklich exorbitant auch in den letzten Jahrzehnten angestiegen ist,
+
+454
+00:33:33,140 --> 00:33:36,140
+ist die Ungleichheit bei Vermögenden.
+
+455
+00:33:36,140 --> 00:33:38,140
+Nur um das mal deutlich zu machen,
+
+456
+00:33:38,140 --> 00:33:40,140
+vor allen Dingen in den letzten Jahrzehnten,
+
+457
+00:33:40,140 --> 00:33:42,140
+ab 1990,
+
+458
+00:33:42,140 --> 00:33:45,140
+das ist so mit einer der Wendepunkte,
+
+459
+00:33:45,140 --> 00:33:48,140
+auch wahrscheinlich zusammenhängend mit der deutschen Einheit,
+
+460
+00:33:48,140 --> 00:33:52,140
+ist die Ungleichheit bei Vermögen exorbitant gestiegen.
+
+461
+00:33:52,140 --> 00:33:56,140
+1952, so roundabout,
+
+462
+00:33:56,140 --> 00:33:58,140
+kann man das nochmal so vergleichen,
+
+463
+00:33:58,140 --> 00:34:01,140
+dass der Anteil der reichsten 1%,
+
+464
+00:34:01,140 --> 00:34:03,140
+die obersten 1%,
+
+465
+00:34:03,140 --> 00:34:05,140
+denen gehörte unter 25,5%
+
+466
+00:34:05,140 --> 00:34:07,140
+des Gesamtvermögens,
+
+467
+00:34:07,140 --> 00:34:10,140
+heute sieht das komplett anders aus,
+
+468
+00:34:10,140 --> 00:34:15,140
+da sind wir mittlerweile bei roundabout 35%,
+
+469
+00:34:15,140 --> 00:34:17,140
+also so 31 bis 34%.
+
+470
+00:34:17,140 --> 00:34:21,140
+Und was man sich auch nochmal auf der Zunge zergehen lassen muss,
+
+471
+00:34:21,140 --> 00:34:29,140
+die obersten 10% in der Gesellschaft verfügen über bis zu 74% des Gesamtvermögens.
+
+472
+00:34:29,140 --> 00:34:33,140
+Und allein die 3.300 Superreichen in Deutschland,
+
+473
+00:34:33,140 --> 00:34:34,140
+wir sind übrigens,
+
+474
+00:34:34,139 --> 00:34:38,139
+Platz 3 glaube ich weltweit,
+
+475
+00:34:38,139 --> 00:34:40,139
+mit den Superreichen,
+
+476
+00:34:40,139 --> 00:34:41,139
+die hier sind,
+
+477
+00:34:41,139 --> 00:34:43,139
+das hat auch unter anderem was damit zu tun,
+
+478
+00:34:43,139 --> 00:34:46,139
+dass wir halt eine Steueroase für Superreiche sind.
+
+479
+00:34:46,139 --> 00:34:54,139
+Und allein die 3.300 Superreichen kontrollieren 23% des gesamten Finanzvermögens
+
+480
+00:34:54,139 --> 00:34:57,139
+mit steigender Tendenz für die nächsten Jahre.
+
+481
+00:34:57,139 --> 00:34:59,139
+Und das ist ein echtes Problem,
+
+482
+00:34:59,139 --> 00:35:01,139
+weil auch hier haben wir wieder diese Logik,
+
+483
+00:35:01,139 --> 00:35:03,139
+es wird von Jahr zu Jahr mehr,
+
+484
+00:35:03,139 --> 00:35:05,139
+wenn man denn nicht gegensteuert.
+
+485
+00:35:05,139 --> 00:35:08,139
+Erst letztes Jahr kam durch eine Studie ans Licht,
+
+486
+00:35:08,139 --> 00:35:11,139
+dass die Milliardenvermögen in Deutschland doppelt so groß sein könnten,
+
+487
+00:35:11,139 --> 00:35:13,139
+wie bisher angenommen,
+
+488
+00:35:13,139 --> 00:35:17,139
+und zwar 1,4 bis sogar 2 Billionen Euro.
+
+489
+00:35:17,139 --> 00:35:19,139
+Was wir aber garantiert wissen,
+
+490
+00:35:19,139 --> 00:35:23,139
+die wenigen sehr Reichen in Deutschland werden immer reicher.
+
+491
+00:35:23,139 --> 00:35:28,139
+Neues Vermögen landet zu über 80% bei dem reichsten 1%.
+
+492
+00:35:28,139 --> 00:35:32,139
+Die Milliardenvermögen haben sich in den letzten 10 Jahren so verdreifacht.
+
+493
+00:35:32,139 --> 00:35:38,139
+Inzwischen stehen auf der einen Seite 249 Milliardärinnen und Milliardäre,
+
+494
+00:35:38,139 --> 00:35:40,139
+so viele wie nie zuvor.
+
+495
+00:35:40,139 --> 00:35:43,139
+Auf der anderen Seite leben aber über 14 Millionen Menschen in Armut.
+
+496
+00:35:43,139 --> 00:35:45,139
+Und da sind wir wieder beim Thema Steuer.
+
+497
+00:35:45,139 --> 00:35:48,139
+Und die Vermögensteuer ist ein Instrument,
+
+498
+00:35:48,139 --> 00:35:52,139
+was übrigens jetzt nicht irgendwie eine Erfindung ist
+
+499
+00:35:52,139 --> 00:35:55,139
+von irgendwelchen durchgeknallten Kommunisten,
+
+500
+00:35:55,139 --> 00:36:00,139
+sondern die Vermögensteuer wurde ursprünglich von Preußen 1893,
+
+501
+00:36:00,139 --> 00:36:02,139
+wurde die Vermögensteuer,
+
+502
+00:36:02,139 --> 00:36:06,139
+die Steuer im deutschsprachigen Gebiet oder vor Deutschland
+
+503
+00:36:06,139 --> 00:36:09,139
+oder wie auch immer man das nennen will,
+
+504
+00:36:09,139 --> 00:36:15,139
+ursprünglich mal eingeführt und sie war eigentlich bis 1997 aktiv.
+
+505
+00:36:15,139 --> 00:36:20,139
+In den 1960er Jahren brachte die Steuer umgerechnet Deutschland
+
+506
+00:36:20,139 --> 00:36:23,139
+bis zu 20 Milliarden Euro jährlich.
+
+507
+00:36:23,139 --> 00:36:27,139
+Und sogar Theo Weigel aus der Union, CSU,
+
+508
+00:36:27,139 --> 00:36:31,139
+erhöhte 1995 den Steuersatz der Vermögensteuer
+
+509
+00:36:31,139 --> 00:36:34,139
+von 0,5 Prozent auf 1 Prozent.
+
+510
+00:36:34,139 --> 00:36:37,139
+Das ist das, was eigentlich heute noch gelten würde.
+
+511
+00:36:37,139 --> 00:36:39,139
+Jedoch ist Folgendes passiert.
+
+512
+00:36:39,139 --> 00:36:42,139
+Das Bundesverfassungsgericht hat in dem gleichen Jahr,
+
+513
+00:36:42,139 --> 00:36:45,139
+wo Weigel das erhöht hat, ein Urteil herausgegeben
+
+514
+00:36:45,139 --> 00:36:49,139
+und hat gesagt, dass die Vermögensteuer,
+
+515
+00:36:49,139 --> 00:36:52,139
+so wie sie verfasst ist, verfassungswidrig ist.
+
+516
+00:36:52,139 --> 00:36:56,139
+Aber nicht, weil sie an und für sich Vermögen besteuert,
+
+517
+00:36:56,139 --> 00:37:00,139
+sondern jetzt kommt der Kicker, weil es hier eine ungleiche,
+
+518
+00:37:00,139 --> 00:37:04,139
+eine ungleiche Bewertung von Immobilien und Geldvermögen gibt.
+
+519
+00:37:04,139 --> 00:37:06,139
+Und das wurde kritisiert.
+
+520
+00:37:06,139 --> 00:37:09,139
+Und das müsse die Regierung korrigieren,
+
+521
+00:37:09,139 --> 00:37:11,139
+damit es eben nicht mehr verfassungswidrig ist.
+
+522
+00:37:11,139 --> 00:37:15,139
+Also man hätte das Gesetz einfach ein bisschen anpassen müssen,
+
+523
+00:37:15,139 --> 00:37:19,139
+mit der Folge, dass sogar die Einnahmen über die Vermögensteuer
+
+524
+00:37:19,139 --> 00:37:21,139
+größer geworden wären.
+
+525
+00:37:21,139 --> 00:37:26,139
+Aber die damalige Kohl-Regierung war entweder faul
+
+526
+00:37:26,139 --> 00:37:29,139
+oder hatte einfach die Motivation,
+
+527
+00:37:29,139 --> 00:37:32,139
+diese Steuer irgendwie kalt zu stellen.
+
+528
+00:37:32,139 --> 00:37:36,139
+Und so wurde 1997 unter der Kohl-Regierung
+
+529
+00:37:36,139 --> 00:37:40,139
+die Vermögensteuer ausgesetzt und, ganz wichtig,
+
+530
+00:37:40,139 --> 00:37:44,139
+danach trotz rot-grüner Regierung und vielleicht auch weil,
+
+531
+00:37:44,139 --> 00:37:47,139
+Fragezeichen, nicht wieder aktiviert.
+
+532
+00:37:47,139 --> 00:37:51,139
+Das heißt, und das ist jetzt ganz wichtig für euch,
+
+533
+00:37:51,139 --> 00:37:54,139
+die vielleicht auch in den letzten Jahren Medien konsumiert haben,
+
+534
+00:37:54,139 --> 00:37:57,139
+wo dann so komische Begründungen auftauchten wie,
+
+535
+00:37:57,139 --> 00:38:01,139
+ja, eine Vermögensteuer ist ja grundsätzlich Quatsch,
+
+536
+00:38:01,139 --> 00:38:03,139
+weil es ist super aufwendig,
+
+537
+00:38:03,139 --> 00:38:08,139
+weil wir kommen ja gar nicht an die Vermögenswerte und so weiter und so fort.
+
+538
+00:38:08,139 --> 00:38:10,139
+Alles Bullshit. Das Ding war schon mal wirksam.
+
+539
+00:38:10,139 --> 00:38:12,139
+Das Ding wurde schon mal eingetrieben.
+
+540
+00:38:12,139 --> 00:38:15,139
+Das hat voll funktioniert über sehr viele Jahrzehnte hinweg.
+
+541
+00:38:15,139 --> 00:38:17,139
+Das ist alles glatt gelogen.
+
+542
+00:38:17,139 --> 00:38:20,139
+Man müsste einfach den Schalter wieder umlegen.
+
+543
+00:38:20,139 --> 00:38:24,139
+Man müsste einfach nur den kleinen politischen Willen haben, das zu tun.
+
+544
+00:38:24,139 --> 00:38:26,139
+Und ja, selbst die Sozialdemokratie,
+
+545
+00:38:26,139 --> 00:38:31,139
+selbst die Sozialdemokraten, denen man das vielleicht mit am meisten zugetraut hätte,
+
+546
+00:38:31,139 --> 00:38:35,139
+haben sie bis heute nicht reaktiviert
+
+547
+00:38:35,139 --> 00:38:39,139
+und machen auch keine Anstalten, das wieder zu tun.
+
+548
+00:38:39,139 --> 00:38:44,139
+Und das ist halt die traurige Geschichte der Vermögensteuer in Deutschland,
+
+549
+00:38:44,139 --> 00:38:46,139
+weil man muss dazu auch noch sagen,
+
+550
+00:38:46,139 --> 00:38:49,139
+in anderen Ländern gibt es selbstverständlich eine Vermögensteuer.
+
+551
+00:38:49,139 --> 00:38:53,139
+Übrigens auch in der anderen großen Steueroase, die Schweiz.
+
+552
+00:38:53,139 --> 00:38:55,139
+Wer hätte es gedacht?
+
+553
+00:38:55,139 --> 00:38:59,139
+Und da ist es nicht so, dass plötzlich alle Reichen flüchten und so weiter.
+
+554
+00:38:59,139 --> 00:39:02,139
+Genau, das ist ja immer das Erpressungsargument,
+
+555
+00:39:02,139 --> 00:39:04,139
+was immer gerne angebracht wird.
+
+556
+00:39:04,139 --> 00:39:06,139
+Und da dürfen die Debatten dann nicht mehr aufhören,
+
+557
+00:39:06,139 --> 00:39:09,139
+sondern man muss an der Stelle genau dann weiter nachfragen.
+
+558
+00:39:09,139 --> 00:39:13,139
+Grüße gehen raus an eben all unsere befreundeten Leute
+
+559
+00:39:13,139 --> 00:39:15,139
+in den Redaktions- und Funkhäusern.
+
+560
+00:39:15,139 --> 00:39:18,139
+Also ja, das Argument wird dann immer gebracht nach dem Motto,
+
+561
+00:39:18,139 --> 00:39:20,139
+dadurch gehen alle kaputt, alle hauen ab und so weiter.
+
+562
+00:39:20,139 --> 00:39:22,139
+Und das stimmt halt hart nicht.
+
+563
+00:39:22,139 --> 00:39:24,139
+Wir sehen es in den Staaten, wir sehen es in der Schweiz,
+
+564
+00:39:24,139 --> 00:39:26,139
+wir sehen das auch in vielen anderen Ländern.
+
+565
+00:39:26,139 --> 00:39:28,139
+Da ist es gang und gäbe.
+
+566
+00:39:28,139 --> 00:39:30,139
+Sollte eigentlich auch einfach so sein.
+
+567
+00:39:30,139 --> 00:39:32,139
+Wir haben neulich vorgerechnet bekommen,
+
+568
+00:39:32,139 --> 00:39:35,139
+wie viel wir allein durch das Aussetzen der Vermögensteuer
+
+569
+00:39:35,139 --> 00:39:38,139
+bis heute an Steuervermeidung haben.
+
+570
+00:39:38,139 --> 00:39:41,139
+Es sind 380 Milliarden Euro,
+
+571
+00:39:41,139 --> 00:39:47,139
+die dem deutschen Staat seit 1996 durch die Lappen gegangen sind.
+
+572
+00:39:47,139 --> 00:39:53,139
+Das entspricht in etwa 80 Prozent des Bundeshaushalts von 2024.
+
+573
+00:39:53,139 --> 00:39:56,139
+Wir hätten also gar nicht wahrscheinlich diese Geldsorgen,
+
+574
+00:39:56,139 --> 00:39:59,139
+die wir gerade im Zuge des Bundeshaushalts hatten.
+
+575
+00:39:59,139 --> 00:40:04,139
+Und wie gesagt, wohlgemerkt, wir sprechen hier von einem Prozent Steuer.
+
+576
+00:40:04,139 --> 00:40:06,139
+Also es ist wirklich nichts.
+
+577
+00:40:06,139 --> 00:40:10,139
+Weil das etwas ist, womit wir hier das Ganze,
+
+578
+00:40:10,139 --> 00:40:13,139
+geht ja nicht mehr darum, wieder ähnliche Lebensverhältnisse zu schaffen,
+
+579
+00:40:13,139 --> 00:40:16,139
+sondern es geht auch dabei darum, das hier zu erhalten,
+
+580
+00:40:16,139 --> 00:40:18,139
+was dieses Land halt irgendwie so hat.
+
+581
+00:40:18,139 --> 00:40:20,139
+Also eine Infrastruktur und so weiter.
+
+582
+00:40:20,139 --> 00:40:21,139
+Den Fair Share zurückzugeben.
+
+583
+00:40:21,139 --> 00:40:22,139
+Selbst wenn wir jetzt sagen,
+
+584
+00:40:22,139 --> 00:40:27,139
+wir haben eine Vermögensteuer mit einem höheren Prozentsatz,
+
+585
+00:40:27,139 --> 00:40:30,139
+würden die meisten Reichen, die darunter fallen,
+
+586
+00:40:30,139 --> 00:40:33,139
+nach der heutigen Lesart, nicht ein bisschen ärmer werden.
+
+587
+00:40:33,139 --> 00:40:37,139
+Weil halt eben das, was sie an Zuwachs haben, immer noch größer ist.
+
+588
+00:40:37,139 --> 00:40:40,139
+Außerdem gibt es auch unheimlich viele Ausnahmetatbestände und dergleichen.
+
+589
+00:40:40,139 --> 00:40:43,139
+Aber es wird immer gesagt, von wegen A ist es zu kompliziert,
+
+590
+00:40:43,139 --> 00:40:45,139
+was in der Regel gelogen ist.
+
+591
+00:40:45,139 --> 00:40:48,139
+Oder B, ja dann hauen ja alle ab, was auch gelogen ist.
+
+592
+00:40:48,139 --> 00:40:50,139
+Und dann kommt irgendwas mit Neid.
+
+593
+00:40:50,139 --> 00:40:51,139
+Aber nichts davon stimmt.
+
+594
+00:40:51,139 --> 00:40:54,139
+Und die Alternative ist dann eher etwas wie eine gerechtere Steuer,
+
+595
+00:40:54,139 --> 00:40:57,139
+dass man dann eine indirekte Steuer erhöht,
+
+596
+00:40:57,139 --> 00:41:00,139
+wodurch dann alle und dann nicht nur die Einkommensgruppe,
+
+597
+00:41:00,139 --> 00:41:03,139
+die hier besonders reich oder die Vermögensgruppe,
+
+598
+00:41:03,139 --> 00:41:05,139
+die hier besonders reich ist, irgendwie getroffen wird,
+
+599
+00:41:05,139 --> 00:41:07,139
+sondern dann tatsächlich alle belastet wird.
+
+600
+00:41:07,139 --> 00:41:10,139
+Und das merken wir auch dann, wenn einer von denen ins Gras beißt
+
+601
+00:41:10,139 --> 00:41:14,139
+und das Ganze irgendwie an die nächste Generation weitergegeben werden soll.
+
+602
+00:41:14,139 --> 00:41:17,139
+Die Erbschaftssteuer ist natürlich ebenfalls ein Instrument,
+
+603
+00:41:17,139 --> 00:41:19,139
+um Ungleichheit bei Vermögen,
+
+604
+00:41:19,139 --> 00:41:22,139
+entgegenzutreten und das zu regulieren.
+
+605
+00:41:22,139 --> 00:41:25,139
+Auch hier, die Erbschaftssteuer hat eine lange Historie,
+
+606
+00:41:25,139 --> 00:41:28,139
+1873 eingeführt, also auch schon uralt.
+
+607
+00:41:28,139 --> 00:41:34,139
+Sie war nach dem Krieg, und zwar auch bestimmt durch die damaligen Siegermächte,
+
+608
+00:41:34,139 --> 00:41:39,139
+die Alliierten, wurde sie auf 60 Prozent hochgesetzt.
+
+609
+00:41:39,139 --> 00:41:43,139
+Ich könnte mir vorstellen, dass die Motivation daraus resultierte,
+
+610
+00:41:43,139 --> 00:41:46,139
+weil natürlich die deutschen Regierungen,
+
+611
+00:41:46,139 --> 00:41:47,139
+die deutschen Regierungen,
+
+612
+00:41:47,139 --> 00:41:48,139
+die deutschen Regierungen,
+
+613
+00:41:48,139 --> 00:41:51,139
+natürlich die deutschen Industriekapitäne,
+
+614
+00:41:51,139 --> 00:41:54,139
+damals einen Großteil ihres Vermögens,
+
+615
+00:41:54,139 --> 00:41:59,139
+natürlich auch über Zwangsarbeit, Enteignung von jüdischen Menschen und so weiter,
+
+616
+00:41:59,139 --> 00:42:02,139
+generiert haben, ihr Kapital dahingehend akkumuliert haben,
+
+617
+00:42:02,139 --> 00:42:04,139
+und auch über Kriegswirtschaft und so,
+
+618
+00:42:04,139 --> 00:42:07,139
+dass man gesagt hat, naja, das wollen wir jetzt nicht,
+
+619
+00:42:07,139 --> 00:42:09,139
+dass sich das auch noch weiter vererbt,
+
+620
+00:42:09,139 --> 00:42:12,139
+neben den ideologischen Gedanken, die sich da vielleicht weiter vererben,
+
+621
+00:42:12,139 --> 00:42:16,139
+in diesen Kreisen von Krupp und wie sie alle hießen.
+
+622
+00:42:16,139 --> 00:42:17,139
+Und bis heute haben wir ja,
+
+623
+00:42:17,139 --> 00:42:20,139
+Superreiche aus dem Hause von manchen Industrien,
+
+624
+00:42:20,139 --> 00:42:23,139
+die mit Zwangsarbeit ihr Verögen angehäuft haben,
+
+625
+00:42:23,139 --> 00:42:24,139
+siehe Frau Klatten,
+
+626
+00:42:24,139 --> 00:42:27,139
+nämlich den Grundstein ihres heutigen Vermögens
+
+627
+00:42:27,139 --> 00:42:32,139
+hat ihr Großvater Günther Quandt maßgeblich während des Dritten Reiches gelegt.
+
+628
+00:42:32,139 --> 00:42:38,139
+In seinem Unternehmen wurden damals etwa 50.000 Zwangsarbeiter eingesetzt.
+
+629
+00:42:38,139 --> 00:42:46,139
+Und die Quandt-Unternehmen profitierten zugleich von einem großen Teil
+
+630
+00:42:46,139 --> 00:42:52,139
+mehrfach im NS-Regime von, ich habe es schon erwähnt,
+
+631
+00:42:52,139 --> 00:42:57,139
+günstigen Übernahmen von enteigneten jüdischen Unternehmen,
+
+632
+00:42:57,139 --> 00:43:01,139
+dann eben massive Gewinne durch Rüstungsproduktion
+
+633
+00:43:01,139 --> 00:43:05,139
+und eben die systematische Ausbeutung von Zwangsarbeitern,
+
+634
+00:43:05,139 --> 00:43:09,139
+insbesondere in der Batterieproduktion.
+
+635
+00:43:09,139 --> 00:43:14,139
+Die Familie konnte ihr Vermögen nach dem Krieg eben weitgehend behalten.
+
+636
+00:43:14,139 --> 00:43:21,139
+Die Gewinne wurden aus dieser Zeit unter anderem für den Einstieg bei BMW verwendet,
+
+637
+00:43:21,139 --> 00:43:27,139
+was die Basis eben für das heutige Vermögen von Susanne Klatten darstellt.
+
+638
+00:43:27,139 --> 00:43:31,139
+Und erst sehr, sehr, sehr, sehr, sehr viele Jahre später
+
+639
+00:43:31,139 --> 00:43:36,139
+beteiligten sich die Quandt-Unternehmen Ende der 1990er Jahre
+
+640
+00:43:36,139 --> 00:43:40,139
+am Zwangsarbeiterentschädigungsfonds,
+
+641
+00:43:40,139 --> 00:43:43,139
+aber auch nur nachdem US-Anwälte
+
+642
+00:43:43,139 --> 00:43:46,139
+mit Sammelklagen gedroht hatten.
+
+643
+00:43:46,139 --> 00:43:51,139
+So viel auch zur Historie des Vermögens,
+
+644
+00:43:51,139 --> 00:43:56,139
+was Susanne Klatten sowieso nicht mit ihrer eigenen Arbeit erwirtschaftet hat
+
+645
+00:43:56,139 --> 00:43:58,139
+und auch nicht ihr Großvater,
+
+646
+00:43:58,139 --> 00:44:05,139
+sondern eben mal mindestens diese 50.000 unter Zwang arbeitenden Menschen.
+
+647
+00:44:05,139 --> 00:44:10,139
+Und so haben die Alliierten das eben damals auf ganze 60 Prozent hochgesetzt,
+
+648
+00:44:10,139 --> 00:44:11,139
+die Erbschaftssteuer.
+
+649
+00:44:11,139 --> 00:44:12,139
+Sie wurde dann aber relativ stark,
+
+650
+00:44:12,139 --> 00:44:13,139
+relativ stark,
+
+651
+00:44:13,139 --> 00:44:17,139
+relativ zügig vier Jahre später auf 38 Prozent runtergesetzt,
+
+652
+00:44:17,139 --> 00:44:21,139
+1955 auf 15 Prozent.
+
+653
+00:44:21,139 --> 00:44:24,139
+Und da sind wir, glaube ich, roundabout.
+
+654
+00:44:24,139 --> 00:44:28,139
+Also auch hier haben wir so eine progressive Besteuerung
+
+655
+00:44:28,139 --> 00:44:32,139
+mit sehr vielen Freibetragsregelungen.
+
+656
+00:44:32,139 --> 00:44:37,139
+Das heißt, es ist noch gekoppelt an Steuerklassen und Freibetragsspannen.
+
+657
+00:44:37,139 --> 00:44:42,139
+Und es ist noch mal die Frage, welchen Verwandtschaftsgrad habe ich?
+
+658
+00:44:42,139 --> 00:44:48,139
+Und je enger ich am Verstorbenen bin, desto höher ist mein Freibetrag, den ich habe.
+
+659
+00:44:48,139 --> 00:44:53,139
+Also beispielsweise Ehepartner, Lebenspartner haben einen Freibetrag von 500.000 Euro,
+
+660
+00:44:53,139 --> 00:44:55,139
+einer halben Million.
+
+661
+00:44:55,139 --> 00:45:00,139
+Da fällt dann eben weniger Steuern letztlich an.
+
+662
+00:45:00,139 --> 00:45:07,139
+Und so staffelt sich das, sage ich mal, von 7 Prozent bis maximal 30 Prozent.
+
+663
+00:45:07,139 --> 00:45:10,139
+Dazu muss man aber sagen, dass jährlich in Deutschland
+
+664
+00:45:10,139 --> 00:45:16,139
+etwa 300 bis 400 Milliarden Euro vererbt werden.
+
+665
+00:45:16,139 --> 00:45:23,139
+Aber die Steuereinnahmen betrugen beispielsweise 2022 mal lediglich 9 Milliarden Euro.
+
+666
+00:45:23,139 --> 00:45:27,139
+Das heißt, wir haben einerseits ein Phänomen,
+
+667
+00:45:27,139 --> 00:45:33,139
+dass diese Erbschaftssteuer einerseits nach Schröder,
+
+668
+00:45:33,139 --> 00:45:38,139
+vor allen Dingen auch durch Merkel, noch mal wesentlich entschärft wurde.
+
+669
+00:45:38,139 --> 00:45:40,139
+Also dadurch, dass noch mal großzügigere,
+
+670
+00:45:40,139 --> 00:45:46,139
+größere Freibeträge reingekommen sind, Steuerbefreiung für Unternehmenserben.
+
+671
+00:45:46,139 --> 00:45:52,139
+Und ja, mit der Begründung, die wir halt auch haben bei vielen anderen Steuerfragen
+
+672
+00:45:52,139 --> 00:45:57,139
+und Rückverteilungsfragen, nämlich dass das ja leistungsfeindlich sei,
+
+673
+00:45:57,139 --> 00:46:01,139
+weil schließlich wurde das ja mal erarbeitet, dieses Vermögen.
+
+674
+00:46:01,139 --> 00:46:05,139
+Vielleicht nicht von denen erarbeitet, denen das gehört, sondern von anderen.
+
+675
+00:46:05,139 --> 00:46:08,139
+Siehe Zwangsarbeit, aber auch Lohnarbeit.
+
+676
+00:46:08,139 --> 00:46:10,139
+Und wenn sie auch gut bezahlt ist,
+
+677
+00:46:10,139 --> 00:46:14,139
+dann ist das ja auch ein Problem, wenn man trotzdem andere das mit erwirtschaftet.
+
+678
+00:46:14,139 --> 00:46:16,139
+Und das ist halt ein Problem.
+
+679
+00:46:16,139 --> 00:46:22,139
+Also wenn das zunehmend entschärft wird und zugleich tun sich da auch gewisse Lücken auf
+
+680
+00:46:22,139 --> 00:46:27,139
+und Spielräume, die ja auch ausgiebig genutzt werden.
+
+681
+00:46:27,139 --> 00:46:30,139
+So kann man natürlich das gesamte Vermögen.
+
+682
+00:46:30,139 --> 00:46:33,139
+So macht es zum Beispiel Susanne Klatten.
+
+683
+00:46:33,139 --> 00:46:37,139
+Und wir hören mal hier kurz rein in eine ZDF-Dokumentation,
+
+684
+00:46:37,139 --> 00:46:39,139
+wie Frau Klatten das denn geschickterweise macht.
+
+685
+00:46:39,139 --> 00:46:44,139
+Frau Klatten hat inzwischen ein geschätztes Vermögen von 24 Milliarden Euro angesammelt
+
+686
+00:46:44,139 --> 00:46:47,139
+durch Gewinnbeteiligungen an BMW und anderen Unternehmen.
+
+687
+00:46:47,139 --> 00:46:51,139
+Nun will sie einen großen Teil ihres Vermögens an ihre drei Kinder weitergeben.
+
+688
+00:46:51,139 --> 00:46:54,139
+Aber sie überträgt denen das Geld nicht einfach auf ein Bankkonto.
+
+689
+00:46:54,139 --> 00:46:57,139
+Dann müssten die Kinder ja Steuern zahlen, 30 Prozent.
+
+690
+00:46:57,139 --> 00:47:01,139
+Stattdessen gibt sie ihnen Anteile an einem Unternehmen namens Skion.
+
+691
+00:47:01,139 --> 00:47:05,139
+Was ist Skion? Skion produziert nichts und verkauft auch nichts,
+
+692
+00:47:05,139 --> 00:47:08,139
+sondern beteiligt sich an Unternehmen und sammelt Gewinne ein.
+
+693
+00:47:08,139 --> 00:47:11,139
+Das SK steht übrigens für Susanne Klatten.
+
+694
+00:47:11,139 --> 00:47:14,139
+Das Unternehmen gibt seinen Wert mit 4,5 Milliarden Euro an.
+
+695
+00:47:14,139 --> 00:47:17,139
+Macht 1,5 Milliarden Euro pro Kind.
+
+696
+00:47:17,139 --> 00:47:20,139
+Und dafür wären dann ja eigentlich richtig Steuern fällig.
+
+697
+00:47:20,139 --> 00:47:22,139
+Jeweils 450 Millionen Euro.
+
+698
+00:47:22,139 --> 00:47:26,139
+Und jetzt kommt's. Wenn die Kinder jetzt sagen, äh, blöd,
+
+699
+00:47:26,139 --> 00:47:29,139
+so viel habe ich gerade gar nicht flüssig auf dem Konto,
+
+700
+00:47:29,139 --> 00:47:31,139
+dann müssen sie es auch nicht zahlen.
+
+701
+00:47:31,139 --> 00:47:34,139
+Denn dafür gibt es die sogenannte Verschonungsbedarfsprüfung.
+
+702
+00:47:34,139 --> 00:47:36,139
+Die wurde 2016 eingeführt.
+
+703
+00:47:36,139 --> 00:47:40,139
+Dank ihr können Erbinnen und Erben von großen Unternehmensvermögen
+
+704
+00:47:40,139 --> 00:47:42,139
+einen Steuererlass beantragen,
+
+705
+00:47:42,139 --> 00:47:46,139
+falls sie die anfallende Steuer gerade nicht aus eigener Tasche bezahlen können.
+
+706
+00:47:46,139 --> 00:47:47,139
+Praktisch.
+
+707
+00:47:47,139 --> 00:47:48,139
+Noch praktischer.
+
+708
+00:47:48,139 --> 00:47:53,139
+Den Stichtag, an dem das Finanzamt prüft, ob Geld für die Abgabe da ist,
+
+709
+00:47:53,139 --> 00:47:55,139
+den kann man sich selbst aussuchen.
+
+710
+00:47:55,139 --> 00:47:58,139
+Dann ist an dem Tag eben kein Geld da, weil es woanders hin geschafft wurde.
+
+711
+00:47:58,139 --> 00:48:01,139
+Jetzt wissen wir natürlich nicht, ob die Familie Klatten
+
+712
+00:48:01,139 --> 00:48:03,139
+wirklich einen solchen Erlass auch beantragen wird.
+
+713
+00:48:03,139 --> 00:48:05,139
+Aber so könnte das Familienvermögen weitestgehend sein.
+
+714
+00:48:06,139 --> 00:48:08,139
+Und so könnte es auch nicht so schnell und nicht so schnell
+
+715
+00:48:08,139 --> 00:48:10,139
+steuerfrei weitergegeben werden.
+
+716
+00:48:10,139 --> 00:48:12,139
+Erst letztes Jahr gab es 26 solcher Fälle,
+
+717
+00:48:12,139 --> 00:48:14,139
+bei denen Betriebsvermögen verschenkt wurde.
+
+718
+00:48:14,139 --> 00:48:16,139
+Aber wegen dieser Verschonungsbedarfsprüfung
+
+719
+00:48:16,139 --> 00:48:18,139
+wurden letztendlich nur 0,3% an Steuern gezahlt.
+
+720
+00:48:18,139 --> 00:48:21,139
+Auf mehr als 2 Milliarden Euro hat der Staat dabei verzichtet.
+
+721
+00:48:21,139 --> 00:48:23,139
+Die Klattenkinder könnten dann also in Zukunft
+
+722
+00:48:23,139 --> 00:48:27,139
+ihr Einkommen aus den Gewinnen dieses Familienunternehmens beziehen.
+
+723
+00:48:27,139 --> 00:48:29,139
+Um dieses Einkommen zu besteuern,
+
+724
+00:48:29,139 --> 00:48:32,139
+müsste man also eigentlich bei den Unternehmensgewinnen ansetzen.
+
+725
+00:48:32,139 --> 00:48:34,139
+Im Prinzip zahlen Milliardäre und Hochvermögende
+
+726
+00:48:34,139 --> 00:48:35,139
+vor allem Unternehmensvermögen.
+
+727
+00:48:35,139 --> 00:48:39,139
+Aber genau diese Unternehmenssteuern gehen immer weiter runter.
+
+728
+00:48:39,139 --> 00:48:43,139
+Während Susanne Klatten 1996 noch 61%
+
+729
+00:48:43,139 --> 00:48:45,139
+auf ihre BMW-Gewinne zahlen musste,
+
+730
+00:48:45,139 --> 00:48:48,139
+sind es inzwischen nur noch 21%.
+
+731
+00:48:48,139 --> 00:48:50,139
+Auch die Körperschafts- und Gewerbesteuer
+
+732
+00:48:50,139 --> 00:48:54,139
+wurden über die letzten 30 Jahre gesenkt auf nur noch 30%.
+
+733
+00:48:54,139 --> 00:48:55,139
+Und wer noch mehr sparen will,
+
+734
+00:48:55,139 --> 00:48:57,139
+verlegt Unternehmen ins Ausland
+
+735
+00:48:57,139 --> 00:48:59,139
+oder in ein Steuerparadies in Deutschland.
+
+736
+00:48:59,139 --> 00:49:02,139
+Zum Beispiel nach Grünwald in der Nähe von München,
+
+737
+00:49:02,139 --> 00:49:04,139
+eine der reichsten Gemeinden Deutschlands.
+
+738
+00:49:04,139 --> 00:49:08,139
+Und da sind wir wieder an dem Punkt am Verhandlungstisch.
+
+739
+00:49:08,139 --> 00:49:11,139
+Also da will ich jetzt noch mal kurz rekurrieren
+
+740
+00:49:11,139 --> 00:49:14,139
+auf diese Verhandlungstisch-Metapher.
+
+741
+00:49:14,139 --> 00:49:16,139
+Hier hat man nämlich zwei Faktoren.
+
+742
+00:49:16,139 --> 00:49:20,139
+Das erste ist, Frau Klatten kann Lobbyismus machen.
+
+743
+00:49:20,139 --> 00:49:23,139
+Und das ist sicherlich auch passiert bei Frau Merkel,
+
+744
+00:49:23,139 --> 00:49:25,139
+Herrn Schröder und wie sie alle hießen,
+
+745
+00:49:25,139 --> 00:49:29,139
+dass sozusagen da Lobbyverbände, Interessensverbände der Vermögenden,
+
+746
+00:49:29,139 --> 00:49:32,139
+denen auf dem Schoß saß und ihnen die ganze Zeit ins Ohr reingejault haben,
+
+747
+00:49:32,139 --> 00:49:35,139
+und gejammert haben,
+
+748
+00:49:35,139 --> 00:49:39,139
+dass sie doch bitte ihre Wirtschaftsleistung behalten sollen.
+
+749
+00:49:39,139 --> 00:49:41,139
+Und sonst würde Deutschland ja den Bach runtergehen,
+
+750
+00:49:41,139 --> 00:49:44,139
+wenn sie irgendwie ein bisschen was von ihrem Vermögen abgeben.
+
+751
+00:49:44,139 --> 00:49:47,139
+Also Verhandlungstisch Nummer eins ist sozusagen,
+
+752
+00:49:47,139 --> 00:49:51,139
+ich kann mein Kapital einsetzen, meine Beziehung einsetzen,
+
+753
+00:49:51,139 --> 00:49:55,139
+weil natürlich bekomme ich als Frau Klatten einen Termin bei Frau Merkel,
+
+754
+00:49:55,139 --> 00:49:57,139
+im Gegensatz zu Jens Brodersen.
+
+755
+00:49:57,139 --> 00:50:00,139
+Wenn er ein Anliegen hat, wird er da nicht so schnell durchdringen.
+
+756
+00:50:00,139 --> 00:50:01,139
+Aber Frau Klatten, die wird da nicht so schnell durchdringen.
+
+757
+00:50:01,139 --> 00:50:04,139
+Frau Klatten, die wird mal ganz schnell jemanden an der Strippe haben,
+
+758
+00:50:04,139 --> 00:50:07,139
+und zwar alle Kanzlerinnen und Kanzler in Deutschland.
+
+759
+00:50:07,139 --> 00:50:11,139
+Und das zweite ist aber eben, Frau Klatten kann sich halt
+
+760
+00:50:11,139 --> 00:50:17,139
+windige und gewiefte Juristen, Anwälte, Steuerfachleute ohne Ende,
+
+761
+00:50:17,139 --> 00:50:20,139
+deren Geschäftsmodell ja auch darauf basiert,
+
+762
+00:50:20,139 --> 00:50:24,139
+wenn man für sie Steuern spart, dann ist es deren Gewinn.
+
+763
+00:50:24,139 --> 00:50:27,139
+Und somit kann sie die besten Top-Leute engagieren,
+
+764
+00:50:27,139 --> 00:50:29,139
+um all diese Schächtelchen vorzubereiten,
+
+765
+00:50:29,139 --> 00:50:31,139
+wo man denn überall Geld so reinkriegt,
+
+766
+00:50:31,139 --> 00:50:35,139
+dass man rein verstauen kann, dass es eben ohne Steuerentnahme
+
+767
+00:50:35,139 --> 00:50:39,139
+wiederum in die Familienhände zurückgeführt wird.
+
+768
+00:50:39,139 --> 00:50:43,139
+Und so haben wir halt so eine Art oligarchisches System,
+
+769
+00:50:43,139 --> 00:50:48,139
+so eine Familiendynastie, die halt genau Kapital und Macht bei sich hortet
+
+770
+00:50:48,139 --> 00:50:52,139
+und aufgrund dessen, dass sie an dem Verhandlungstisch
+
+771
+00:50:52,139 --> 00:50:55,139
+diese Ressourcen mit einbringen kann überhaupt.
+
+772
+00:50:55,139 --> 00:50:58,139
+Ja, du hast den Begriff schon genannt, Dynastie.
+
+773
+00:50:58,139 --> 00:51:00,139
+Also durch sowas entsteht Geldadel,
+
+774
+00:51:00,139 --> 00:51:02,139
+der sich dann quasi darüber fortpflanzt.
+
+775
+00:51:02,139 --> 00:51:05,139
+Irgendwann hat Opa mal richtig hart geschuftet so
+
+776
+00:51:05,139 --> 00:51:08,139
+und kann das quasi an die nächste Generation weitergeben.
+
+777
+00:51:08,139 --> 00:51:10,139
+Man kann jetzt da auf verschiedene Arten draufgucken
+
+778
+00:51:10,139 --> 00:51:12,139
+und häufig beginnen die Leute die Reise beim,
+
+779
+00:51:12,139 --> 00:51:14,139
+wie sie darüber nachdenken, mit einem Gedanken,
+
+780
+00:51:14,139 --> 00:51:17,139
+was wäre denn, wenn ich einen lange verschollenen reichen Onkel habe
+
+781
+00:51:17,139 --> 00:51:19,139
+und der gibt mir dann Geld per Erbschaft,
+
+782
+00:51:19,139 --> 00:51:21,139
+das wäre doch blöd für mich.
+
+783
+00:51:21,139 --> 00:51:23,139
+Aber genau so sollte man eben nicht drüber denken.
+
+784
+00:51:23,139 --> 00:51:25,139
+Also kann man schon machen, aber wenn es darum geht,
+
+785
+00:51:25,139 --> 00:51:27,139
+Gesellschaft zu organisieren, muss man anders drüber denken.
+
+786
+00:51:27,139 --> 00:51:29,139
+Gerade halt die Leute von irgendwelchen vulgären,
+
+787
+00:51:29,139 --> 00:51:34,139
+liberalen Parteien, die immer allen Leuten entgegen rülpsen von wegen,
+
+788
+00:51:34,139 --> 00:51:36,139
+wir sind ja hier eine Leistungsgesellschaft
+
+789
+00:51:36,139 --> 00:51:38,139
+und leistungsloses Einkommen sollte es nicht geben.
+
+790
+00:51:38,139 --> 00:51:40,139
+Hier ist das leistungslose Einkommen.
+
+791
+00:51:40,139 --> 00:51:42,139
+Das sollte es ja nicht geben.
+
+792
+00:51:42,139 --> 00:51:44,139
+Ja, weil was ja hier passiert ist,
+
+793
+00:51:44,139 --> 00:51:46,139
+dass jemand aus dem Leben scheidet, schade wie es ist,
+
+794
+00:51:46,139 --> 00:51:48,139
+und seine weltliche Habe,
+
+795
+00:51:48,139 --> 00:51:50,139
+da kann man dann schon drüber nachdenken als Gesellschaft.
+
+796
+00:51:50,139 --> 00:51:53,139
+Er hat ja das nicht irgendwie alles irgendwie vom Himmel geholt,
+
+797
+00:51:53,139 --> 00:51:55,139
+sondern das ist ja eben, fußt ja eben auch auf dem,
+
+798
+00:51:55,139 --> 00:51:57,139
+was die Gesellschaft so an Rahmen, an Sicherheit,
+
+799
+00:51:57,139 --> 00:52:00,139
+an Bildung, an Innovation und so weiter ja auch providet.
+
+800
+00:52:00,139 --> 00:52:02,139
+Da hat er eben seinen Anteil gehabt
+
+801
+00:52:02,139 --> 00:52:04,139
+und er gibt jetzt halt einen Teil davon wieder.
+
+802
+00:52:04,139 --> 00:52:06,139
+Ihn selber stört das nicht.
+
+803
+00:52:06,139 --> 00:52:08,139
+Er ist aber der Letzte, um den das geht.
+
+804
+00:52:08,139 --> 00:52:10,139
+Und wer dann irgendwie denkt, ich verschenke das vorher,
+
+805
+00:52:10,139 --> 00:52:12,139
+der zahlt halt eben Schenkungssteuer in gleicher Höhe.
+
+806
+00:52:12,139 --> 00:52:14,139
+So eigentlich die Idee.
+
+807
+00:52:14,139 --> 00:52:17,139
+Aber das tatsächlich findet dann so nicht so richtig statt,
+
+808
+00:52:17,139 --> 00:52:21,139
+beziehungsweise ist halt hier eben so weit entkernt worden,
+
+809
+00:52:21,139 --> 00:52:23,139
+dass es von der Wirkung her gar nicht so sehr ist.
+
+810
+00:52:23,139 --> 00:52:26,139
+Also wer jetzt heute sagt, ich erbe ein Haus und wohne auch da,
+
+811
+00:52:26,139 --> 00:52:28,139
+aber selber zehn Jahre drin,
+
+812
+00:52:28,139 --> 00:52:31,139
+der wird dann irgendwie kein Thema haben mit der Erbschaftsteuer.
+
+813
+00:52:31,139 --> 00:52:33,139
+Oder dann gibt es ja auch diese vulgären Argumente.
+
+814
+00:52:33,139 --> 00:52:36,139
+Naja, wenn du jetzt den kleinen Industriebetrieb
+
+815
+00:52:36,139 --> 00:52:39,139
+oder den größeren Handwerkerbetrieb besteuerst,
+
+816
+00:52:39,139 --> 00:52:41,139
+dann müssen die ja sofort alles verkaufen
+
+817
+00:52:41,139 --> 00:52:44,139
+und sofort alle Leute entlassen, was natürlich auch falsch ist.
+
+818
+00:52:44,139 --> 00:52:47,139
+Weil man kann das natürlich auch ausgestalten mit,
+
+819
+00:52:47,139 --> 00:52:50,139
+da kann dann eben der Staat als stiller Teilhaber rein
+
+820
+00:52:50,139 --> 00:52:52,139
+oder man kann irgendwie einen günstigen Kredit bekommen
+
+821
+00:52:52,139 --> 00:52:53,139
+oder sonst etwas.
+
+822
+00:52:53,139 --> 00:52:55,139
+Also was ich sagen möchte, wenn man das wirklich durchführen wollte,
+
+823
+00:52:55,139 --> 00:52:58,139
+dass wir eine Erbschaftsteuergerechtigkeit bekommen,
+
+824
+00:52:58,139 --> 00:53:00,139
+so wie das in anderen Ländern ja auch üblich ist,
+
+825
+00:53:00,139 --> 00:53:03,139
+dann kann man das mit entsprechenden Politikmaßnahmen auch so ausgestalten,
+
+826
+00:53:03,139 --> 00:53:07,139
+dass es niemanden jetzt im Kern der Substanz tatsächlich trifft.
+
+827
+00:53:07,139 --> 00:53:10,139
+Dann ist das eben so, dass du als junger Mensch,
+
+828
+00:53:10,139 --> 00:53:13,139
+der jetzt gerade von deinem Papa die Fabrik geerbt hast,
+
+829
+00:53:13,139 --> 00:53:17,139
+jetzt vielleicht die nächsten zehn Jahre mal ein paar Prozent Rendite abgeben musst.
+
+830
+00:53:17,139 --> 00:53:18,139
+Oh, wie schade.
+
+831
+00:53:18,139 --> 00:53:20,139
+Aber danach hast du eben ganz leistungsloses,
+
+832
+00:53:20,139 --> 00:53:22,139
+dir diese fucking Fabrik in den Hals gefallen.
+
+833
+00:53:22,139 --> 00:53:24,139
+Man könnte auch sagen, hör mal zu, das gehört alles der Gesellschaft, 100 Prozent.
+
+834
+00:53:24,139 --> 00:53:27,139
+Auch darüber gibt es durchaus ein paar ökonomische Theoretiker,
+
+835
+00:53:27,139 --> 00:53:29,139
+die sich das mal angesehen haben.
+
+836
+00:53:29,139 --> 00:53:32,139
+Turns out, wären wir tatsächlich eine Leistungsgesellschaft
+
+837
+00:53:32,139 --> 00:53:35,139
+und hätten Erbschaftssteuer 100 Prozent,
+
+838
+00:53:35,139 --> 00:53:39,139
+und damit meine ich jetzt nicht, die Witwe bleibt noch im Haus und so weiter
+
+839
+00:53:39,139 --> 00:53:41,139
+und muss das jetzt aufgeben, das könnte man ja irgendwie regeln,
+
+840
+00:53:41,139 --> 00:53:45,139
+sondern es geht wirklich darum, tatsächlich die erblassene Gemeinschaft ist gestorben
+
+841
+00:53:45,139 --> 00:53:48,139
+und da gibt es dann jetzt kein direktes Eheverhältnis
+
+842
+00:53:48,139 --> 00:53:50,139
+oder sonstiges Eheverhältnis mehr.
+
+843
+00:53:50,139 --> 00:53:52,139
+Und man würde das jetzt zu 100 Prozent besteuern,
+
+844
+00:53:52,139 --> 00:53:54,139
+dann könnte man das, wenn man das zum Beispiel anbietet,
+
+845
+00:53:54,139 --> 00:54:00,139
+auszahlen würde, jedem Deutschen 400.000 Euro quasi Startrente geben,
+
+846
+00:54:00,139 --> 00:54:04,139
+die man am Anfang des Lebens, zum Beispiel mit 18, 19, 20 in die Hand gibt
+
+847
+00:54:04,139 --> 00:54:07,139
+und könnte damit dann sagen, da kannst du jetzt mal anfangen,
+
+848
+00:54:07,139 --> 00:54:09,139
+dir eine Zukunft aufzubauen, ein Unternehmen zu gründen,
+
+849
+00:54:09,139 --> 00:54:12,139
+zu studieren, ins Ausland zu gehen und so weiter.
+
+850
+00:54:12,139 --> 00:54:14,139
+Also was ich sagen will, da steckt ja richtig Geld drin.
+
+851
+00:54:14,139 --> 00:54:18,139
+Es werden so viele, du hast vorhin schon die große Zahl genannt,
+
+852
+00:54:18,139 --> 00:54:22,139
+Milliarden pro Jahr vererbt, wo man sagen kann,
+
+853
+00:54:22,139 --> 00:54:24,139
+da könnte man ruhig mal dieses Bild machen,
+
+854
+00:54:24,139 --> 00:54:28,139
+die löchrige Sieb der Erbschaftssteuer ruhig mal runterhalten konsequenterweise,
+
+855
+00:54:28,139 --> 00:54:32,139
+damit wir hier dieses Land, was wir finanzieren müssen
+
+856
+00:54:32,139 --> 00:54:36,139
+und wir haben die letzten drei Jahre diesen unwürdigen Steuerdiskurs ja mitgemacht,
+
+857
+00:54:36,139 --> 00:54:39,139
+wo dann immer gesagt wurde, ja wir müssen den armen Kindern was wegnehmen,
+
+858
+00:54:39,139 --> 00:54:44,139
+keine Kindergrundsicherung, damit hier die Leute ihre Elfenbeinrückenkratzer vererben können.
+
+859
+00:54:44,139 --> 00:54:48,139
+Das ist halt Blödsinn, sondern man müsste genau an der Stelle eben hinschauen,
+
+860
+00:54:48,139 --> 00:54:50,139
+wie kann man es gerechter gestalten.
+
+861
+00:54:50,139 --> 00:54:53,139
+Und jetzt mal ein ganz kurzes Gedankenexperiment.
+
+862
+00:54:53,139 --> 00:54:57,139
+Also stellt euch mal wirklich vor, ich habe ja vorhin darüber mich beschwert,
+
+863
+00:54:57,139 --> 00:54:59,139
+wie hoch Arbeit besteuert ist.
+
+864
+00:54:59,139 --> 00:55:02,139
+Und wenn wir jetzt mal wirklich davon ausgehen würden,
+
+865
+00:55:02,139 --> 00:55:05,139
+Deutschland soll eine Leistungsgesellschaft sein.
+
+866
+00:55:05,139 --> 00:55:11,139
+Alle reden immer davon, ja, und dann werden immer die Leute pauschal
+
+867
+00:55:11,139 --> 00:55:14,139
+von irgendwelchen Politikern und Verbandschefs irgendwie beschimpft,
+
+868
+00:55:14,139 --> 00:55:16,139
+dass alle so faul wären und so weiter.
+
+869
+00:55:16,139 --> 00:55:19,139
+Aber wenn man es mal wirklich ernst nimmt und sagt,
+
+870
+00:55:19,139 --> 00:55:21,139
+okay, wie bauen wir eine Leistungsgesellschaft,
+
+871
+00:55:21,139 --> 00:55:22,139
+dann würde ich sagen,
+
+872
+00:55:22,139 --> 00:55:27,139
+die steuern auf Arbeit rigoros nach unten
+
+873
+00:55:27,139 --> 00:55:31,139
+und die steuern auf Vermögen und Erbschaften ganz nach oben.
+
+874
+00:55:31,139 --> 00:55:33,139
+Und ich wäre da ganz bei Jens zu sagen,
+
+875
+00:55:33,139 --> 00:55:37,139
+auch mal zu wagen so ein Ding wie 100 Prozent und so.
+
+876
+00:55:37,139 --> 00:55:39,139
+Weil letztendlich würde das bedeuten,
+
+877
+00:55:39,139 --> 00:55:42,139
+es ist aus meiner Sicht, wenn ich mir das vorstelle,
+
+878
+00:55:42,139 --> 00:55:45,139
+auch eine Explosion an Innovation.
+
+879
+00:55:45,139 --> 00:55:49,139
+Weil dieses Geld, was ja immer behauptet wird,
+
+880
+00:55:49,139 --> 00:55:51,139
+dass das ja reinvestiert werden würde,
+
+881
+00:55:51,139 --> 00:55:54,139
+auch in Innovation ist ja vollkommener Quatsch.
+
+882
+00:55:54,139 --> 00:55:57,139
+Das wird reinvestiert in andere Unternehmen,
+
+883
+00:55:57,139 --> 00:55:59,139
+in Anteile, in Fonds und so weiter.
+
+884
+00:55:59,139 --> 00:56:01,139
+Da geht es einfach nur darum,
+
+885
+00:56:01,139 --> 00:56:03,139
+nicht irgendwelche Innovationen zu schaffen,
+
+886
+00:56:03,139 --> 00:56:05,139
+sondern das Geld, was man schon zuhauf hat,
+
+887
+00:56:05,139 --> 00:56:07,139
+noch größer zu machen.
+
+888
+00:56:07,139 --> 00:56:11,139
+Das ist die Logik in den allermeisten Fällen von Vermögenden.
+
+889
+00:56:11,139 --> 00:56:14,139
+Die haben in der Regel auch keine Ahnung von Innovationen.
+
+890
+00:56:14,139 --> 00:56:16,139
+Ja, vielleicht mag es da so ein paar geben,
+
+891
+00:56:16,139 --> 00:56:18,139
+die sich dann auch mit Technologie und so weiter beschäftigen
+
+892
+00:56:18,139 --> 00:56:20,139
+und da irgendwas sponsern.
+
+893
+00:56:20,139 --> 00:56:24,139
+Sponsoren, aber das allermeiste Geld geht dafür drauf,
+
+894
+00:56:24,139 --> 00:56:27,139
+dass man wiederum sein eigenes Geld vermehrt.
+
+895
+00:56:27,139 --> 00:56:30,139
+Und damit verhindert man letztendlich genau das,
+
+896
+00:56:30,139 --> 00:56:33,139
+was man eigentlich immer behauptet, dass man das will.
+
+897
+00:56:33,139 --> 00:56:35,139
+Nämlich eine Leistungsgesellschaft,
+
+898
+00:56:35,139 --> 00:56:37,139
+eine Gesellschaft, die Dinge erschafft,
+
+899
+00:56:37,139 --> 00:56:40,139
+die innovativ ist, Lösungen entwickelt
+
+900
+00:56:40,139 --> 00:56:42,139
+und neue Sachen schafft.
+
+901
+00:56:42,139 --> 00:56:45,139
+Und ich würde sagen, der beste Anreiz dafür ist es eben,
+
+902
+00:56:45,139 --> 00:56:48,139
+dass man nicht mit dem goldenen Löffel im Mund geboren wird,
+
+903
+00:56:48,139 --> 00:56:50,139
+dass man sich, wie jeder andere auch,
+
+904
+00:56:50,139 --> 00:56:55,139
+der nicht das Glück hatte, in der Sperma-Lotterie ganz nach oben geboren zu werden,
+
+905
+00:56:55,139 --> 00:56:59,139
+dass man sich halt anstrengen muss, um Dinge zu erreichen.
+
+906
+00:56:59,139 --> 00:57:02,139
+Und das wäre doch ganz nett, wenn das alle machen würden,
+
+907
+00:57:02,139 --> 00:57:05,139
+dann würde es nämlich auch in Summe sehr, sehr spannend werden.
+
+908
+00:57:05,139 --> 00:57:07,139
+Aber genau das ist nicht der Fall.
+
+909
+00:57:07,139 --> 00:57:10,139
+Vielleicht noch ein Nachleger, Statistik und Zahlen.
+
+910
+00:57:10,139 --> 00:57:14,139
+Ich habe gerade die Hauptsummen genannt, die vererbt werden.
+
+911
+00:57:14,139 --> 00:57:16,139
+Jetzt schauen wir uns mal die Verteilung an.
+
+912
+00:57:16,139 --> 00:57:18,139
+Wie sieht es denn real aus?
+
+913
+00:57:18,139 --> 00:57:20,139
+Das ist etwas, was mich zusätzlich ärgert.
+
+914
+00:57:20,139 --> 00:57:22,139
+Ich ärgere mich über euch da draußen.
+
+915
+00:57:22,139 --> 00:57:24,139
+Nicht alle, die jetzt zuhören,
+
+916
+00:57:24,139 --> 00:57:26,139
+aber da draußen die allermeisten,
+
+917
+00:57:26,139 --> 00:57:28,139
+die nämlich genau diese Argumentation haben,
+
+918
+00:57:28,139 --> 00:57:30,139
+die Jens vorhin gesagt hat,
+
+919
+00:57:30,139 --> 00:57:32,139
+es könnte ja irgend so ein Onkel sein,
+
+920
+00:57:32,139 --> 00:57:34,139
+ich könnte ja auch irgendwas vererben
+
+921
+00:57:34,139 --> 00:57:37,139
+oder wenn die Oma ihr Haus mir gibt, dann ist es weg.
+
+922
+00:57:37,139 --> 00:57:39,139
+Das ist alles Bullshit.
+
+923
+00:57:39,139 --> 00:57:42,139
+Und um jetzt nochmal auf den Teppich der Realität zu kommen,
+
+924
+00:57:42,139 --> 00:57:46,139
+damit ihr nicht beim nächsten Mal wieder gegen eure eigenen Interessen wählt,
+
+925
+00:57:46,139 --> 00:57:48,139
+nochmal die statistischen Zusammenhänge,
+
+926
+00:57:48,139 --> 00:57:50,139
+hier ganz klar gesagt.
+
+927
+00:57:50,139 --> 00:57:54,139
+Sie 51,7% der Erben,
+
+928
+00:57:54,139 --> 00:57:56,139
+also grundsätzlich muss man mal sagen,
+
+929
+00:57:56,139 --> 00:58:01,139
+23% der Deutschen haben überhaupt mal irgendwas geerbt,
+
+930
+00:58:01,139 --> 00:58:04,139
+15,7% erwarten eine Erbschaft
+
+931
+00:58:04,139 --> 00:58:08,139
+und über die Hälfte, nämlich 52,3% gehen sowieso davon aus,
+
+932
+00:58:08,139 --> 00:58:11,139
+dass sie niemals was erben werden.
+
+933
+00:58:11,139 --> 00:58:14,139
+Wenn jetzt vererbt wird, sieht die Verteilung wie folgt aus.
+
+934
+00:58:14,139 --> 00:58:16,139
+51,7%, also mehr als die Hälfte,
+
+935
+00:58:16,139 --> 00:58:21,139
+aller Erben erhalten weniger als 50.000 Euro.
+
+936
+00:58:21,139 --> 00:58:27,139
+20% kriegen zwischen 50.000 und 250.000 Euro.
+
+937
+00:58:27,139 --> 00:58:32,139
+10,8% erhalten zwischen 250.000 und einer Million,
+
+938
+00:58:32,139 --> 00:58:34,139
+das ist schon sauber,
+
+939
+00:58:34,139 --> 00:58:39,139
+aber nur 2,4% erben mehr als eine Million.
+
+940
+00:58:39,139 --> 00:58:42,139
+Und das heißt, wir machen hier Politik
+
+941
+00:58:42,139 --> 00:58:45,139
+für eine ganz kleine Anzahl von Menschen,
+
+942
+00:58:45,139 --> 00:58:48,139
+Mini-Menschen, und das sind aber die,
+
+943
+00:58:48,139 --> 00:58:51,139
+die weiterhin in einem demokratischen System
+
+944
+00:58:51,139 --> 00:58:56,139
+ganz rigoros sehr viel Macht und Einfluss haben als andere.
+
+945
+00:58:56,139 --> 00:58:59,139
+Hier gilt nicht one man, one vote.
+
+946
+00:58:59,139 --> 00:59:03,139
+Hier gilt ganz klar, je mehr Geld ich auf dem Konto habe,
+
+947
+00:59:03,139 --> 00:59:05,139
+desto mehr Einfluss habe ich
+
+948
+00:59:05,139 --> 00:59:08,139
+und desto mehr kann ich dieses Geld vermehren
+
+949
+00:59:08,139 --> 00:59:10,139
+und ich kann meinen Einfluss dafür einsetzen,
+
+950
+00:59:10,139 --> 00:59:14,139
+dass das geschieht und weiter geschieht und weiter geschieht.
+
+951
+00:59:14,139 --> 00:59:17,139
+Und gleichzeitig ist man so ein Wettbewerb im Club
+
+952
+00:59:17,139 --> 00:59:19,139
+der Supermilliardäre und Superreichen,
+
+953
+00:59:19,139 --> 00:59:21,139
+dass das auch weitergeht.
+
+954
+00:59:21,139 --> 00:59:23,139
+Also ich kenne auch genügend vermögende Leute,
+
+955
+00:59:23,139 --> 00:59:25,139
+die kein Ende kennen.
+
+956
+00:59:25,139 --> 00:59:27,139
+Die kennen einfach kein Ende.
+
+957
+00:59:27,139 --> 00:59:29,139
+Du guckst da als Außenstehender drauf und denkst dir,
+
+958
+00:59:29,139 --> 00:59:32,139
+Alter, du kannst das alles im Leben nicht mehr ausgeben.
+
+959
+00:59:32,139 --> 00:59:34,139
+Warum machst du weiter?
+
+960
+00:59:34,139 --> 00:59:36,139
+Die sind in diesem Game drin,
+
+961
+00:59:36,139 --> 00:59:38,139
+weil du auch gleichzeitig Angst hast,
+
+962
+00:59:38,139 --> 00:59:41,139
+ja, wenn ich jetzt nicht weitermache, dann verliere ich.
+
+963
+00:59:41,139 --> 00:59:43,139
+Und so ist man wirklich dann in so einer Art Gierspirale,
+
+964
+00:59:43,139 --> 00:59:45,139
+sind diese Leute gefangen
+
+965
+00:59:45,139 --> 00:59:48,139
+und sie müssen sich dann selber die Geschichte erzählen,
+
+966
+00:59:48,139 --> 00:59:51,139
+dass es ohne sie würde hier ja alles gar nicht laufen.
+
+967
+00:59:51,139 --> 00:59:53,139
+Das ist ja genau die Geschichte
+
+968
+00:59:53,139 --> 00:59:55,139
+und ich spiele jetzt mal einen Ausschnitt
+
+969
+00:59:55,139 --> 00:59:57,139
+aus dieser Superreichen Doku bei der ZDF ein,
+
+970
+00:59:57,139 --> 00:59:59,139
+wo hier ein Superreicher sitzt
+
+971
+00:59:59,139 --> 01:00:01,139
+und ernsthaft Folgendes von sich gibt.
+
+972
+01:00:01,139 --> 01:00:05,139
+Ich sorge dafür, dass gewisse Sachen passieren.
+
+973
+01:00:05,139 --> 01:00:08,139
+Wenn das Geld verteilt wird, wird es nicht investiert,
+
+974
+01:00:08,139 --> 01:00:09,139
+wird es ausgegeben.
+
+975
+01:00:09,139 --> 01:00:11,139
+Also hier sitzt ein Mann, der sagt,
+
+976
+01:00:11,139 --> 01:00:14,139
+er alleine muss sehr viel Geld haben,
+
+977
+01:00:14,139 --> 01:00:17,139
+weil er weiß am besten, wie man dieses Geld investiert.
+
+978
+01:00:17,139 --> 01:00:19,139
+Alle anderen haben davon gar keine Ahnung.
+
+979
+01:00:19,139 --> 01:00:22,139
+Und wenn er das nicht macht, dann geht ja alles den Bach runter.
+
+980
+01:00:22,139 --> 01:00:24,139
+Das ist doch verrückt.
+
+981
+01:00:24,139 --> 01:00:26,139
+Ja, das ist eine Selbsttäuschung,
+
+982
+01:00:26,139 --> 01:00:28,139
+die natürlich dann auch irgendwie das Loch stopfen soll,
+
+983
+01:00:28,139 --> 01:00:30,139
+wo das Herz so irgendwie ist.
+
+984
+01:00:30,139 --> 01:00:32,139
+Also nach dem Motto, ich habe alles dem untergeordnet
+
+985
+01:00:32,139 --> 01:00:34,139
+und dann gehe ich diesen Weg auch weiter,
+
+986
+01:00:34,139 --> 01:00:36,139
+sonst müsste ich mir eingestehen,
+
+987
+01:00:36,139 --> 01:00:38,139
+dass ich die ganze Zeit für Zahlen in irgendeinem Computersystem
+
+988
+01:00:38,139 --> 01:00:40,139
+oder auf irgendeinem Sparbuch was gemacht hätte.
+
+989
+01:00:40,139 --> 01:00:42,139
+Das ist dann eben etwas, wo man wirklich sagt,
+
+990
+01:00:42,139 --> 01:00:44,139
+das ist eine Weltanschauung, eine Ideologie,
+
+991
+01:00:44,139 --> 01:00:46,139
+die sich dann selbst verstärkt
+
+992
+01:00:46,139 --> 01:00:48,139
+und wo dann ja teilweise auch der Wettbewerb
+
+993
+01:00:48,139 --> 01:00:49,139
+zwischenpersönlich ist.
+
+994
+01:00:49,139 --> 01:00:51,139
+Also wo es dann darum geht nach dem Motto,
+
+995
+01:00:51,139 --> 01:00:53,139
+ja, ich habe so und so viel Millionen,
+
+996
+01:00:53,139 --> 01:00:55,139
+der Heinz um die Ecke hat aber so und so viel Millionen
+
+997
+01:00:55,139 --> 01:00:57,139
+und da möchte ich jetzt schon noch hin.
+
+998
+01:00:57,139 --> 01:00:59,139
+Und dann beweist man sich dann darüber und so
+
+999
+01:00:59,139 --> 01:01:00,139
+und produziert sich.
+
+1000
+01:01:00,139 --> 01:01:02,139
+Also das ist nochmal eine ganz eigene Sendung wert,
+
+1001
+01:01:02,139 --> 01:01:04,139
+sich mit Superreichen und deren Welt
+
+1002
+01:01:04,139 --> 01:01:06,139
+sich auseinanderzusetzen.
+
+1003
+01:01:06,139 --> 01:01:08,139
+Was wir hier gerade eben gehört haben,
+
+1004
+01:01:08,139 --> 01:01:10,139
+sind ja im Prinzip so ein paar Politikern,
+
+1005
+01:01:10,139 --> 01:01:13,139
+Politikentscheidungen, die etwas verändert haben,
+
+1006
+01:01:13,139 --> 01:01:17,139
+wie sich Gesellschaft in diesen materiellen Denken reguliert.
+
+1007
+01:01:17,139 --> 01:01:19,139
+Und wir haben dabei auch gelernt,
+
+1008
+01:01:19,139 --> 01:01:21,139
+dass es früher mal anders war.
+
+1009
+01:01:21,139 --> 01:01:23,139
+Und dieses früher anders sein hat eben auch
+
+1010
+01:01:23,139 --> 01:01:25,139
+zu anderen Zuständen geführt.
+
+1011
+01:01:25,139 --> 01:01:27,139
+Und man hat dann gesagt,
+
+1012
+01:01:27,139 --> 01:01:29,139
+Deutschland war damals eben auch komplett
+
+1013
+01:01:29,139 --> 01:01:31,139
+von dieser neoliberalen Idee halt eben durchsetzt.
+
+1014
+01:01:31,139 --> 01:01:32,139
+Ja, wir machen das jetzt,
+
+1015
+01:01:32,139 --> 01:01:34,139
+dann werden wir bestimmt total erfolgreich.
+
+1016
+01:01:34,139 --> 01:01:36,139
+Wer aber erfolgreich geworden ist,
+
+1017
+01:01:36,139 --> 01:01:38,139
+und da sehen wir nämlich dann auch immer
+
+1018
+01:01:38,139 --> 01:01:39,139
+die Schere auseinander gehen,
+
+1019
+01:01:39,139 --> 01:01:41,139
+dann haben wir eben einige Reiche,
+
+1020
+01:01:41,139 --> 01:01:42,139
+wurden halt viel reicher,
+
+1021
+01:01:42,139 --> 01:01:45,139
+Unternehmen haben eben auch höhere Gewinne ausschütten können.
+
+1022
+01:01:45,139 --> 01:01:49,139
+Aber Arbeitern ging es jetzt dadurch jetzt nicht wirklich besser.
+
+1023
+01:01:49,139 --> 01:01:51,139
+Und wenn man mal eben drauf schaut,
+
+1024
+01:01:51,139 --> 01:01:53,139
+wir haben hier so von der Hans-Böckler-Stiftung
+
+1025
+01:01:53,139 --> 01:01:55,139
+mal so eine Studie rausgefischt.
+
+1026
+01:01:55,139 --> 01:01:57,139
+Die haben mal analysiert,
+
+1027
+01:01:57,139 --> 01:01:59,139
+wie so Arbeitsentgelte, also Löhne und Gehälter,
+
+1028
+01:01:59,139 --> 01:02:02,139
+und auf der anderen Seite Unternehmen,
+
+1029
+01:02:02,139 --> 01:02:05,139
+deren Gewinne gesteigert haben seit 2000,
+
+1030
+01:02:05,139 --> 01:02:07,139
+also wo das Ganze eben so abging,
+
+1031
+01:02:07,139 --> 01:02:10,139
+da hat man den Basiswert zum Zeitpunkt 2000 genommen,
+
+1032
+01:02:10,139 --> 01:02:12,139
+und dann ist man Mitte der 10er Jahre
+
+1033
+01:02:12,139 --> 01:02:14,139
+bei 5% Lohnsteigerung,
+
+1034
+01:02:14,139 --> 01:02:19,139
+aber 69% Steigerung der Unternehmensgewinne.
+
+1035
+01:02:19,139 --> 01:02:21,139
+Das heißt, dieses Ganze, was wir gesehen haben,
+
+1036
+01:02:21,139 --> 01:02:23,139
+dass die Besteuerung halt eben jetzt
+
+1037
+01:02:23,139 --> 01:02:25,139
+in eine ganz andere Richtung steuert,
+
+1038
+01:02:25,139 --> 01:02:26,139
+zeigt halt eben auch,
+
+1039
+01:02:26,139 --> 01:02:29,139
+dass da die Gewinne auch ganz gewaltig abgeschöpft worden sind.
+
+1040
+01:02:29,139 --> 01:02:31,139
+Und diese Entwicklung geht im Prinzip weiter
+
+1041
+01:02:31,139 --> 01:02:33,139
+bis kurz vor der Corona-Krise.
+
+1042
+01:02:33,139 --> 01:02:35,139
+Da gibt es dann mal so einen Einbruch.
+
+1043
+01:02:35,139 --> 01:02:38,139
+Und nach der Corona-Krise geht das wieder auseinander.
+
+1044
+01:02:38,139 --> 01:02:41,139
+Also Unternehmensgewinne steigen wieder rasant an,
+
+1045
+01:02:41,139 --> 01:02:44,139
+und im Verhältnis dazu, die Löhne fallen sogar wieder leicht.
+
+1046
+01:02:44,139 --> 01:02:46,139
+So, das haben wir ja nun auch in letzter Zeit gesehen.
+
+1047
+01:02:46,139 --> 01:02:49,139
+Jetzt, glaube ich, macht das gerade wieder die Gegenbewegung.
+
+1048
+01:02:49,139 --> 01:02:51,139
+Aber es geht hier eher um die Tendenz.
+
+1049
+01:02:51,139 --> 01:02:53,139
+Also wo man früher halt so ein bisschen näher dran war,
+
+1050
+01:02:53,139 --> 01:02:55,139
+und ich gönne denen ja ihre Unternehmensgewinne,
+
+1051
+01:02:55,139 --> 01:02:57,139
+das ist ja irgendwie ganz okay,
+
+1052
+01:02:57,139 --> 01:02:59,139
+aber sie geben ja vorher nicht den Fair Share
+
+1053
+01:02:59,139 --> 01:03:01,139
+an Löhnen und Gehältern ab.
+
+1054
+01:03:01,139 --> 01:03:03,139
+Und das ist ein Problem,
+
+1055
+01:03:03,139 --> 01:03:05,139
+wenn man gleichzeitig Arbeit noch höher besteuert,
+
+1056
+01:03:05,139 --> 01:03:07,139
+Gewinne so niedrig besteuert,
+
+1057
+01:03:07,139 --> 01:03:09,139
+dass hier tatsächlich die Lebensverhältnisse auseinandergehen.
+
+1058
+01:03:09,139 --> 01:03:11,139
+Dass der, der kein Kapital hat,
+
+1059
+01:03:11,139 --> 01:03:13,139
+der, der nicht Unternehmer ist,
+
+1060
+01:03:13,139 --> 01:03:15,139
+im signifikanten Maße tatsächlich von der Wertschöpfung
+
+1061
+01:03:15,139 --> 01:03:17,139
+am Ende weniger abbekommt.
+
+1062
+01:03:17,139 --> 01:03:19,139
+Das heißt also, Arbeiter werden heute immer noch schlecht bezahlt
+
+1063
+01:03:19,139 --> 01:03:21,139
+und Reiche werden reicher.
+
+1064
+01:03:21,139 --> 01:03:23,139
+Das ist die Situation, die wir jetzt heute haben.
+
+1065
+01:03:23,139 --> 01:03:25,139
+Genau, wobei man muss dazu noch
+
+1066
+01:03:25,139 --> 01:03:27,139
+eine kleine Verteidigung einbringen,
+
+1067
+01:03:27,139 --> 01:03:29,139
+was die Verhältnisse in Deutschland angeht.
+
+1068
+01:03:29,139 --> 01:03:33,139
+In Deutschland ist es nicht so super krass,
+
+1069
+01:03:33,139 --> 01:03:35,139
+wie vielleicht in anderen Ländern,
+
+1070
+01:03:35,139 --> 01:03:37,139
+beispielsweise in den USA.
+
+1071
+01:03:37,139 --> 01:03:39,139
+Aber das hat einen gewissen Grund.
+
+1072
+01:03:39,139 --> 01:03:41,139
+Das liegt nicht daran, dass Unternehmer
+
+1073
+01:03:41,139 --> 01:03:43,139
+besonders fairer werden
+
+1074
+01:03:43,139 --> 01:03:45,139
+oder die Reichen besonders wohlwollender
+
+1075
+01:03:45,139 --> 01:03:47,139
+oder Politik besonders gut.
+
+1076
+01:03:47,139 --> 01:03:49,139
+Das hat in erster Linie etwas mit
+
+1077
+01:03:49,139 --> 01:03:51,139
+Arbeitskampf zu tun.
+
+1078
+01:03:51,139 --> 01:03:53,139
+Und auch hier möchte ich nochmal
+
+1079
+01:03:53,139 --> 01:03:55,139
+an die Verhandlungstischmetapher verweisen.
+
+1080
+01:03:55,139 --> 01:03:57,139
+Weil eine Gewerkschaft
+
+1081
+01:03:57,139 --> 01:03:59,139
+hat eine ganz
+
+1082
+01:03:59,139 --> 01:04:01,139
+explizite Funktion
+
+1083
+01:04:01,139 --> 01:04:03,139
+in dieser ganzen Ungleichheitsthematik.
+
+1084
+01:04:03,139 --> 01:04:05,139
+Erst durch den Zusammenstieg
+
+1085
+01:04:05,139 --> 01:04:07,139
+und den Zusammenschluss
+
+1086
+01:04:07,139 --> 01:04:09,139
+von arbeitenden Menschen,
+
+1087
+01:04:09,139 --> 01:04:11,139
+die eben nicht über das Kapital verfügen
+
+1088
+01:04:11,139 --> 01:04:13,139
+aufgrund ihres Einkommens.
+
+1089
+01:04:13,139 --> 01:04:15,139
+Erst indem sie sich solidarisieren,
+
+1090
+01:04:15,139 --> 01:04:17,139
+sich zusammentun
+
+1091
+01:04:17,139 --> 01:04:19,139
+und das wenige Geld, was sie haben,
+
+1092
+01:04:19,139 --> 01:04:21,139
+über Mitgliedsbeiträge einer Gewerkschaftskasse
+
+1093
+01:04:21,139 --> 01:04:23,139
+zur Verfügung stellen
+
+1094
+01:04:23,139 --> 01:04:27,139
+und somit eine Form von Kapitalakkumulation erzeugen.
+
+1095
+01:04:27,139 --> 01:04:29,139
+Plus nochmal natürlich
+
+1096
+01:04:29,139 --> 01:04:31,139
+gemeinsam soziales, kulturelles Kapital
+
+1097
+01:04:31,139 --> 01:04:33,139
+auf den Tisch legen.
+
+1098
+01:04:33,139 --> 01:04:35,139
+Das heißt,
+
+1099
+01:04:35,139 --> 01:04:37,139
+dass die Gewerkschaften
+
+1100
+01:04:37,139 --> 01:04:39,139
+auch wichtige Bildungsträger
+
+1101
+01:04:39,139 --> 01:04:41,139
+beispielsweise, die machen sehr viele
+
+1102
+01:04:41,139 --> 01:04:43,139
+Weiterbildungsangebote für ihre Mitglieder,
+
+1103
+01:04:43,139 --> 01:04:45,139
+hat man eben ein Gegengewicht erzeugen können,
+
+1104
+01:04:45,139 --> 01:04:47,139
+die an einem Verhandlungstisch
+
+1105
+01:04:47,139 --> 01:04:49,139
+wesentlich bessere Ergebnisse erzielen kann
+
+1106
+01:04:49,139 --> 01:04:51,139
+als ein einzelner Mitarbeiter.
+
+1107
+01:04:51,139 --> 01:04:53,139
+Deswegen dieses Instrumentarium
+
+1108
+01:04:53,139 --> 01:04:55,139
+sowohl Betriebsrat
+
+1109
+01:04:55,139 --> 01:04:57,139
+wie Gewerkschaft
+
+1110
+01:04:57,139 --> 01:04:59,139
+ist ein super wichtiges Instrument
+
+1111
+01:04:59,139 --> 01:05:01,139
+um dieser Ungleichheitsthematik
+
+1112
+01:05:01,139 --> 01:05:03,139
+zu begegnen.
+
+1113
+01:05:03,139 --> 01:05:05,139
+Und Gott sei Dank
+
+1114
+01:05:05,139 --> 01:05:07,139
+hat Deutschland auch eine lange Gewerkschaftstradition,
+
+1115
+01:05:07,139 --> 01:05:09,139
+die, und jetzt kommt aber der Knaller,
+
+1116
+01:05:09,139 --> 01:05:11,139
+zeitweise auch richtig
+
+1117
+01:05:11,139 --> 01:05:13,139
+untergebuttert wurde.
+
+1118
+01:05:13,139 --> 01:05:15,139
+Und das unter einer Regierung,
+
+1119
+01:05:15,139 --> 01:05:17,139
+wo ich sagen würde,
+
+1120
+01:05:17,139 --> 01:05:19,139
+normalerweise müsste sie ein Programm haben,
+
+1121
+01:05:19,139 --> 01:05:21,139
+was Hand in Hand
+
+1122
+01:05:21,139 --> 01:05:23,139
+mit der Gewerkschaft geht.
+
+1123
+01:05:23,139 --> 01:05:25,139
+War aber nicht der Fall
+
+1124
+01:05:25,139 --> 01:05:27,139
+und ich spreche hier von der Schröder-Regierung
+
+1125
+01:05:27,139 --> 01:05:29,139
+für alle, die noch
+
+1126
+01:05:29,139 --> 01:05:31,139
+Geld haben müssen.
+
+1127
+01:05:31,139 --> 01:05:33,139
+Sehr jung sind.
+
+1128
+01:05:33,139 --> 01:05:35,139
+Gerhard Schröder war der Kanzler
+
+1129
+01:05:35,139 --> 01:05:37,139
+und Parteivorsitzender der SPD.
+
+1130
+01:05:37,139 --> 01:05:39,139
+Nicht etwa der FDP
+
+1131
+01:05:39,139 --> 01:05:41,139
+oder CDU, man könnte es fast meinen,
+
+1132
+01:05:41,139 --> 01:05:43,139
+wenn man sich so die politischen
+
+1133
+01:05:43,139 --> 01:05:45,139
+Reformen anschaut, die er
+
+1134
+01:05:45,139 --> 01:05:47,139
+durchgeboxt hat.
+
+1135
+01:05:47,139 --> 01:05:49,139
+Und unter der Schröder-Regierung gab es
+
+1136
+01:05:49,139 --> 01:05:51,139
+tatsächlich auch richtige politische
+
+1137
+01:05:51,139 --> 01:05:53,139
+Verwerfungen.
+
+1138
+01:05:53,139 --> 01:05:55,139
+Es gab zum ersten Mal einen öffentlich
+
+1139
+01:05:55,139 --> 01:05:57,139
+auch formulierten Bruch
+
+1140
+01:05:57,139 --> 01:05:59,139
+zwischen den Gewerkschaften und der SPD,
+
+1141
+01:05:59,139 --> 01:06:01,139
+die eigentlich, ja,
+
+1142
+01:06:01,139 --> 01:06:03,139
+sehr eng beieinander jeweils immer wieder standen
+
+1143
+01:06:03,139 --> 01:06:05,139
+und Hand in Hand
+
+1144
+01:06:05,139 --> 01:06:07,139
+gegangen sind, weil Sozialdemokratie
+
+1145
+01:06:07,139 --> 01:06:09,139
+und die
+
+1146
+01:06:09,139 --> 01:06:11,139
+Agenda der Gewerkschaften
+
+1147
+01:06:11,139 --> 01:06:13,139
+sind eigentlich relativ identisch.
+
+1148
+01:06:13,139 --> 01:06:15,139
+Beide wollen eigentlich soziale Gerechtigkeit,
+
+1149
+01:06:15,139 --> 01:06:17,139
+beide wollen eigentlich
+
+1150
+01:06:17,139 --> 01:06:19,139
+bessere Bedingungen für arbeitende
+
+1151
+01:06:19,139 --> 01:06:21,139
+Menschen. Aber nicht so
+
+1152
+01:06:21,139 --> 01:06:23,139
+bei Schröder, vor allen Dingen die
+
+1153
+01:06:23,139 --> 01:06:25,139
+Einführung der Agenda 2010
+
+1154
+01:06:25,139 --> 01:06:27,139
+hat eben zu diesem dramatischen
+
+1155
+01:06:27,139 --> 01:06:29,139
+Bruch zwischen den Gewerkschaften und
+
+1156
+01:06:29,139 --> 01:06:31,139
+der SPD-Regierung geführt.
+
+1157
+01:06:31,139 --> 01:06:33,139
+Die Reform an sich
+
+1158
+01:06:33,139 --> 01:06:35,139
+bedeutete auch eine fundamentale
+
+1159
+01:06:35,139 --> 01:06:37,139
+Abkehr vom
+
+1160
+01:06:37,139 --> 01:06:39,139
+bisherigen sozialdemokratischen
+
+1161
+01:06:39,139 --> 01:06:41,139
+Selbstverständnis. Nicht nur die SPD
+
+1162
+01:06:41,139 --> 01:06:43,139
+selbst hat bis heute
+
+1163
+01:06:43,139 --> 01:06:45,139
+daran zu knabbern und hat
+
+1164
+01:06:45,139 --> 01:06:47,139
+sozusagen auch tiefe Furchen
+
+1165
+01:06:47,139 --> 01:06:49,139
+innerhalb der Partei selbst
+
+1166
+01:06:49,139 --> 01:06:51,139
+hinterlassen. Und
+
+1167
+01:06:51,139 --> 01:06:53,139
+gleichzeitig war es so, dass damals
+
+1168
+01:06:53,139 --> 01:06:55,139
+die Gewerkschaften auch
+
+1169
+01:06:55,139 --> 01:06:57,139
+aufrufen zu Demonstrationen gegen
+
+1170
+01:06:57,139 --> 01:06:59,139
+die Gesetzgebung von
+
+1171
+01:06:59,139 --> 01:07:01,139
+Rot-Grün damals.
+
+1172
+01:07:01,139 --> 01:07:03,139
+Und der Konflikt führte eben
+
+1173
+01:07:03,139 --> 01:07:05,139
+zu einer zunehmenden Entkopplung
+
+1174
+01:07:05,139 --> 01:07:07,139
+zwischen SPD und den
+
+1175
+01:07:07,139 --> 01:07:09,139
+deutschen Gewerkschaften. Ganz
+
+1176
+01:07:09,139 --> 01:07:11,139
+konkret hießen die Reformen
+
+1177
+01:07:11,139 --> 01:07:13,139
+für gewerkschaftliche Positionen
+
+1178
+01:07:13,139 --> 01:07:15,139
+ganz drastische Einschnitte.
+
+1179
+01:07:15,139 --> 01:07:17,139
+So sank beispielsweise die
+
+1180
+01:07:17,139 --> 01:07:19,139
+Tarifbindung von 72%
+
+1181
+01:07:19,139 --> 01:07:21,139
+auf
+
+1182
+01:07:21,139 --> 01:07:23,139
+62% der Beschäftigten
+
+1183
+01:07:23,139 --> 01:07:25,139
+und der Niedriglohnsektor,
+
+1184
+01:07:25,139 --> 01:07:27,139
+das was man zumindest aus
+
+1185
+01:07:27,139 --> 01:07:29,139
+konservative Seite oder
+
+1186
+01:07:29,139 --> 01:07:31,139
+liberaler Seite Schröder immer wieder
+
+1187
+01:07:31,139 --> 01:07:33,139
+hoch anrechnet, wuchs von
+
+1188
+01:07:33,139 --> 01:07:35,139
+14 auf 21,5%.
+
+1189
+01:07:35,139 --> 01:07:37,139
+Was natürlich
+
+1190
+01:07:37,139 --> 01:07:39,139
+zugleich bedeutete, dass die
+
+1191
+01:07:39,139 --> 01:07:41,139
+Einkommensungleichheit auch
+
+1192
+01:07:41,139 --> 01:07:43,139
+massiv mit angestiegen ist.
+
+1193
+01:07:43,139 --> 01:07:45,139
+Das Ganze ist richtig
+
+1194
+01:07:45,139 --> 01:07:47,139
+in einem Konflikt eskaliert.
+
+1195
+01:07:47,139 --> 01:07:49,139
+Es kam auch zu einem
+
+1196
+01:07:49,139 --> 01:07:51,139
+großen Bruch innerhalb der Partei.
+
+1197
+01:07:51,139 --> 01:07:53,139
+Daraus entstand auch
+
+1198
+01:07:53,139 --> 01:07:55,139
+letztendlich die neue
+
+1199
+01:07:55,139 --> 01:07:57,139
+Linkspartei. Vorab
+
+1200
+01:07:57,139 --> 01:07:59,139
+gab es noch eine Brückenpartei,
+
+1201
+01:07:59,139 --> 01:08:01,139
+nämlich die
+
+1202
+01:08:01,139 --> 01:08:03,139
+Arbeit und soziale Gerechtigkeit,
+
+1203
+01:08:03,139 --> 01:08:05,139
+die Wahlalternative, auch kurz
+
+1204
+01:08:05,139 --> 01:08:07,139
+WASG,
+
+1205
+01:08:07,139 --> 01:08:09,139
+die sich damals gegründet hat.
+
+1206
+01:08:09,139 --> 01:08:11,139
+Oskar Lafontaine, wir erinnern uns, ist damals
+
+1207
+01:08:11,139 --> 01:08:13,139
+auch aus der Regierung Schröder
+
+1208
+01:08:13,139 --> 01:08:15,139
+relativ zeitnah ausgetreten,
+
+1209
+01:08:15,139 --> 01:08:17,139
+als Finanzminister, auch weil er
+
+1210
+01:08:17,139 --> 01:08:19,139
+mit Schröder eben nicht dort
+
+1211
+01:08:19,139 --> 01:08:21,139
+auf einer Linie war und einverstanden war.
+
+1212
+01:08:21,139 --> 01:08:23,139
+Also das hat
+
+1213
+01:08:23,139 --> 01:08:25,139
+letztendlich auch die SPD,
+
+1214
+01:08:25,139 --> 01:08:27,139
+wie wir sie heute kennen, richtig
+
+1215
+01:08:27,139 --> 01:08:29,139
+richtig auseinandergerissen.
+
+1216
+01:08:29,140 --> 01:08:31,140
+Und damals hat schon
+
+1217
+01:08:31,140 --> 01:08:33,140
+der Verdi-Chef Bzirske
+
+1218
+01:08:33,140 --> 01:08:35,140
+eben davor gewarnt, dass die
+
+1219
+01:08:35,140 --> 01:08:37,140
+SPD durch diese Reform,
+
+1220
+01:08:37,140 --> 01:08:39,140
+diese Hartz-IV-Reform und
+
+1221
+01:08:39,140 --> 01:08:41,140
+diese Schröder-Agenda
+
+1222
+01:08:41,140 --> 01:08:43,140
+letztendlich auch komplett ihr
+
+1223
+01:08:43,140 --> 01:08:45,140
+Profil verlieren wird und entsprechend
+
+1224
+01:08:45,140 --> 01:08:47,140
+ja nach unten rauscht.
+
+1225
+01:08:47,140 --> 01:08:49,140
+Das können wir heute sehen, denn genau
+
+1226
+01:08:49,140 --> 01:08:51,140
+dieser Kurs wurde nie korrigiert
+
+1227
+01:08:51,140 --> 01:08:53,140
+und entsprechend braucht man sich
+
+1228
+01:08:53,140 --> 01:08:55,140
+jetzt auch nicht wundern, dass die
+
+1229
+01:08:55,140 --> 01:08:57,140
+SPD gerade so bei Roundabout,
+
+1230
+01:08:57,140 --> 01:08:59,140
+wenn sie Glück hat, über die 10
+
+1231
+01:08:59,140 --> 01:09:01,140
+Prozent im Bund jetzt
+
+1232
+01:09:01,140 --> 01:09:03,140
+noch kommt.
+
+1233
+01:09:03,140 --> 01:09:05,140
+Ich würde auch sagen, das ist eine
+
+1234
+01:09:05,140 --> 01:09:07,140
+Anti-Sozialdemokratie gewesen,
+
+1235
+01:09:07,140 --> 01:09:09,140
+eine neoliberale Regierung gewesen,
+
+1236
+01:09:09,140 --> 01:09:11,140
+es war mehr FDP als
+
+1237
+01:09:11,140 --> 01:09:13,140
+SPD, definitiv.
+
+1238
+01:09:13,140 --> 01:09:15,140
+Und das einzige, was man
+
+1239
+01:09:15,140 --> 01:09:17,140
+heute noch einigermaßen
+
+1240
+01:09:17,140 --> 01:09:19,140
+der SPD,
+
+1241
+01:09:19,140 --> 01:09:21,140
+die sich selber, weiß ich gar nicht,
+
+1242
+01:09:21,140 --> 01:09:23,140
+ob sich selber noch als Sozialdemokratie
+
+1243
+01:09:23,140 --> 01:09:25,140
+benennen, ich würde sagen, da ist nicht mehr so viel
+
+1244
+01:09:25,140 --> 01:09:27,140
+übrig, aber das einzige Instrument,
+
+1245
+01:09:27,140 --> 01:09:29,140
+was nochmal dazu geführt hat, dass die Reallöse
+
+1246
+01:09:29,140 --> 01:09:31,140
+nicht komplett in den Keller gegangen
+
+1247
+01:09:31,140 --> 01:09:33,140
+sind, war dann tatsächlich die Einführung
+
+1248
+01:09:33,140 --> 01:09:35,140
+des Mindestlohns. Also auch das ist
+
+1249
+01:09:35,140 --> 01:09:37,140
+ein Regularium, damit
+
+1250
+01:09:37,140 --> 01:09:39,140
+die Lohnverhältnisse
+
+1251
+01:09:39,140 --> 01:09:41,140
+sozusagen sich zumindest mal stabilisieren,
+
+1252
+01:09:41,140 --> 01:09:43,140
+aber lange Zeit
+
+1253
+01:09:43,140 --> 01:09:45,140
+sind sie auch stagnierend
+
+1254
+01:09:45,140 --> 01:09:47,140
+gewesen und vor allen Dingen auch so
+
+1255
+01:09:47,140 --> 01:09:49,140
+große Krisen, Banken, Finanzkrisen,
+
+1256
+01:09:49,140 --> 01:09:51,140
+Corona,
+
+1257
+01:09:51,140 --> 01:09:53,140
+Energiepreiskrisen, Lohnen
+
+1258
+01:09:53,140 --> 01:09:55,140
+führen auch immer wieder dazu,
+
+1259
+01:09:55,140 --> 01:09:57,140
+dass die Reallöhne mindestens
+
+1260
+01:09:57,140 --> 01:09:59,140
+mal stagnieren oder leicht zurückgehen.
+
+1261
+01:09:59,140 --> 01:10:01,140
+Und auf der anderen Seite,
+
+1262
+01:10:01,140 --> 01:10:03,140
+Reformen wie Mindestlohn,
+
+1263
+01:10:03,140 --> 01:10:05,140
+aber auch Institutionen,
+
+1264
+01:10:05,140 --> 01:10:07,140
+Zivilgesellschaften, die Gewerkschaften führen dazu,
+
+1265
+01:10:07,140 --> 01:10:09,140
+dass es sich besser entwickelt. Und so,
+
+1266
+01:10:09,140 --> 01:10:11,140
+liebe Leute, könnt ihr euch
+
+1267
+01:10:11,140 --> 01:10:13,140
+vorstellen, wer vertritt eigentlich eure Interessen?
+
+1268
+01:10:13,140 --> 01:10:15,140
+Also es sei denn, ihr seid gar nicht so
+
+1269
+01:10:15,140 --> 01:10:17,140
+superreich, die hier zuhört, dann
+
+1270
+01:10:17,140 --> 01:10:19,140
+sind das natürlich nicht eure Interessen.
+
+1271
+01:10:19,140 --> 01:10:21,140
+Aber ich würde mal sagen,
+
+1272
+01:10:21,140 --> 01:10:23,140
+90 bis 95 Prozent
+
+1273
+01:10:23,140 --> 01:10:25,140
+oder 90 Prozent der Leute
+
+1274
+01:10:25,140 --> 01:10:27,140
+in Deutschland, die
+
+1275
+01:10:27,140 --> 01:10:29,140
+müssten eigentlich pro Gewerkschaft
+
+1276
+01:10:29,140 --> 01:10:31,140
+pro Sozialdemokratie,
+
+1277
+01:10:31,140 --> 01:10:33,140
+pro Besteuerung
+
+1278
+01:10:33,140 --> 01:10:35,140
+und all diese Sachen sein, die wir gerade
+
+1279
+01:10:35,140 --> 01:10:37,140
+benannt haben. Aber es ist halt einfach
+
+1280
+01:10:37,140 --> 01:10:39,140
+alles nicht der Fall. Wir sprechen jetzt gerade davon,
+
+1281
+01:10:39,140 --> 01:10:41,140
+einen neuen neoliberalen
+
+1282
+01:10:41,140 --> 01:10:43,140
+Kanzler hier irgendwie zu installieren.
+
+1283
+01:10:43,140 --> 01:10:45,140
+Wir haben in der letzten
+
+1284
+01:10:45,140 --> 01:10:47,140
+Sendung ausführlich über Friedrich Merz gesprochen.
+
+1285
+01:10:47,140 --> 01:10:49,140
+Hört es euch doch gerne mal an.
+
+1286
+01:10:49,140 --> 01:10:51,140
+Auch jetzt nochmal mit diesem Wissen
+
+1287
+01:10:51,140 --> 01:10:53,140
+und fragt euch, führt
+
+1288
+01:10:53,140 --> 01:10:55,140
+die Politik von Friedrich Merz
+
+1289
+01:10:55,140 --> 01:10:57,140
+dazu, dass diese Gesellschaft gerechter wird?
+
+1290
+01:10:57,140 --> 01:10:59,140
+Führt sie dazu, dass Arbeit
+
+1291
+01:10:59,140 --> 01:11:01,140
+arbeitende Menschen, hart arbeitende Menschen
+
+1292
+01:11:01,140 --> 01:11:03,140
+in Deutschland mehr in der Tasche haben?
+
+1293
+01:11:03,140 --> 01:11:05,140
+Führt es dazu, dass Menschen, die von
+
+1294
+01:11:05,140 --> 01:11:07,140
+Armut betroffen sind, eine bessere
+
+1295
+01:11:07,140 --> 01:11:09,140
+Verhandlungsposition und eine Perspektive für
+
+1296
+01:11:09,140 --> 01:11:11,140
+die Zukunft haben?
+
+1297
+01:11:11,140 --> 01:11:13,140
+I doubt it, würde ich mal sagen.
+
+1298
+01:11:13,140 --> 01:11:15,140
+Wir tun das Gegenteil.
+
+1299
+01:11:15,140 --> 01:11:17,140
+Wir bevorzugen und
+
+1300
+01:11:17,140 --> 01:11:19,140
+bepampern die Menschen,
+
+1301
+01:11:19,140 --> 01:11:21,140
+die schon alles haben und
+
+1302
+01:11:21,140 --> 01:11:23,140
+nichts dafür getan haben.
+
+1303
+01:11:23,140 --> 01:11:25,140
+Ja, wir haben jetzt darüber gesprochen, halt eben
+
+1304
+01:11:25,140 --> 01:11:27,140
+okay, Arbeiter kriegen
+
+1305
+01:11:27,140 --> 01:11:29,140
+nicht die gerechten Löhne, werden dazu nur
+
+1306
+01:11:29,140 --> 01:11:31,140
+hoch besteuert und die, die halt
+
+1307
+01:11:31,140 --> 01:11:33,140
+eben ein bisschen mehr haben,
+
+1308
+01:11:33,140 --> 01:11:35,140
+sei es jetzt eben sehr hoch verdient oder
+
+1309
+01:11:35,140 --> 01:11:37,140
+tatsächlich auch reich sind, die genießen
+
+1310
+01:11:37,140 --> 01:11:39,140
+dafür im Gegenteil eine ganze Menge
+
+1311
+01:11:39,140 --> 01:11:41,140
+Vorteile, weil auch wenn der tatsächliche
+
+1312
+01:11:41,140 --> 01:11:43,140
+Steuersatz ja hoch erscheint,
+
+1313
+01:11:43,140 --> 01:11:45,140
+wir haben ja darüber gerade eben gesprochen,
+
+1314
+01:11:45,140 --> 01:11:47,140
+so ist dann der Steuersatz, der am Ende tatsächlich
+
+1315
+01:11:47,140 --> 01:11:49,140
+dann effektiv gezahlt wird,
+
+1316
+01:11:49,140 --> 01:11:51,140
+noch ein anderer Fall. Es gibt halt eine ganze Menge
+
+1317
+01:11:51,140 --> 01:11:53,140
+Tatbestände, wie man dann irgendwie
+
+1318
+01:11:53,140 --> 01:11:55,140
+da seine Steuerlast senken
+
+1319
+01:11:55,140 --> 01:11:57,140
+kann, also Steuern verringern, Werbungskosten,
+
+1320
+01:11:57,140 --> 01:11:59,140
+Dienstwagenprivileg zum Beispiel sind
+
+1321
+01:11:59,140 --> 01:12:01,140
+mehrere Milliarden, die wir jedes Jahr
+
+1322
+01:12:01,140 --> 01:12:03,140
+ausgeben, was eben auch überproportional
+
+1323
+01:12:03,140 --> 01:12:05,140
+häufig halt eben eher Reiche
+
+1324
+01:12:05,140 --> 01:12:07,140
+trifft, so genannte Scheinselbstständigkeit,
+
+1325
+01:12:07,140 --> 01:12:09,140
+die dann als Selbstständigkeit ausgegeben
+
+1326
+01:12:09,140 --> 01:12:11,140
+wird, wodurch man dann bestimmte
+
+1327
+01:12:11,140 --> 01:12:13,140
+Ausgaben, die man hat, sei es jetzt irgendwie
+
+1328
+01:12:13,140 --> 01:12:15,140
+Essen, Büromaterial, bestimmte
+
+1329
+01:12:15,140 --> 01:12:17,140
+andere Dinge dann eben versuchen kann, dadurch
+
+1330
+01:12:17,140 --> 01:12:19,140
+als Betriebskosten auszuweisen
+
+1331
+01:12:19,140 --> 01:12:21,140
+und damit seine Steuerlast an der Stelle
+
+1332
+01:12:21,140 --> 01:12:23,140
+zu senken, Nutzen von Kapitalgesellschaften,
+
+1333
+01:12:23,140 --> 01:12:25,140
+die dann eben anders besteuert werden,
+
+1334
+01:12:25,140 --> 01:12:27,140
+Stiftungen, internationale Steuergestaltung,
+
+1335
+01:12:27,140 --> 01:12:29,140
+die Verschonungsbedarfsbefragung,
+
+1336
+01:12:29,140 --> 01:12:31,140
+Prüfung zum Beispiel, ist auch bei besonders
+
+1337
+01:12:31,140 --> 01:12:33,140
+Hochvermögenden was, ist auch so eine Erfindung,
+
+1338
+01:12:33,140 --> 01:12:35,140
+damit superreiche im Prinzip
+
+1339
+01:12:35,140 --> 01:12:37,140
+Firmenanteile weitergeben
+
+1340
+01:12:37,140 --> 01:12:39,140
+können, sei es jetzt als Schenkung
+
+1341
+01:12:39,140 --> 01:12:41,140
+oder als Erbschaft, das ist zum Beispiel das, was
+
+1342
+01:12:41,140 --> 01:12:43,140
+Matthias Döpfner gemacht hat, also der hat von
+
+1343
+01:12:43,140 --> 01:12:45,140
+der Erbin von Springer
+
+1344
+01:12:45,140 --> 01:12:47,140
+einen großen Teil der Firma geschenkt
+
+1345
+01:12:47,140 --> 01:12:49,140
+bekommen, also von Axel Springer,
+
+1346
+01:12:49,140 --> 01:12:51,140
+also ein erheblich großes Aktienpaket,
+
+1347
+01:12:51,140 --> 01:12:53,140
+mehrere Milliarden, und dafür hat
+
+1348
+01:12:53,140 --> 01:12:55,140
+er tatsächlich für diese Schenkung kaum etwas zahlen
+
+1349
+01:12:55,140 --> 01:12:57,140
+müssen, weil er eben diese Verschonungsbedarfsprüfung
+
+1350
+01:12:57,140 --> 01:12:59,140
+in Anspruch genommen hat.
+
+1351
+01:12:59,140 --> 01:13:01,140
+Dazu haben wir auch nochmal einen Einspieler von
+
+1352
+01:13:01,140 --> 01:13:03,140
+Michael Hartmann. Die Verschonungsbedarfsprüfung,
+
+1353
+01:13:03,140 --> 01:13:05,140
+komplizierter Name,
+
+1354
+01:13:05,140 --> 01:13:07,140
+kennt auch niemand, soll auch niemand kennen,
+
+1355
+01:13:07,140 --> 01:13:09,140
+die Verschonungsbedarfsprüfung
+
+1356
+01:13:09,140 --> 01:13:11,140
+besagt,
+
+1357
+01:13:11,140 --> 01:13:13,140
+dass wenn du, ich sag mal, ein Unternehmen
+
+1358
+01:13:13,140 --> 01:13:15,140
+im Wert von 5 Milliarden
+
+1359
+01:13:15,140 --> 01:13:17,140
+erbst
+
+1360
+01:13:17,140 --> 01:13:19,140
+oder geschenkt bekommst,
+
+1361
+01:13:19,140 --> 01:13:21,140
+und dich bereit erklärst,
+
+1362
+01:13:21,140 --> 01:13:23,140
+sofort die Hälfte deines
+
+1363
+01:13:23,140 --> 01:13:25,140
+eigenen Vermögens und das,
+
+1364
+01:13:25,140 --> 01:13:27,140
+was das Unternehmen nicht unbedingt braucht,
+
+1365
+01:13:27,140 --> 01:13:29,140
+also den Picasso an der Wand oder den Ferrari
+
+1366
+01:13:29,140 --> 01:13:31,140
+oder der Garage, das wird alles
+
+1367
+01:13:31,140 --> 01:13:33,140
+vom Finanzamt kassiert,
+
+1368
+01:13:33,140 --> 01:13:35,140
+dann ist der Rest steuerfrei.
+
+1369
+01:13:35,140 --> 01:13:37,140
+Das heißt, also, wenn ich jetzt mal
+
+1370
+01:13:37,140 --> 01:13:39,140
+sage, da ist jemand,
+
+1371
+01:13:39,140 --> 01:13:41,140
+der ist 25,
+
+1372
+01:13:41,140 --> 01:13:43,140
+wie die Kinder von
+
+1373
+01:13:43,140 --> 01:13:45,140
+manchen Milliardären,
+
+1374
+01:13:45,140 --> 01:13:47,140
+und die
+
+1375
+01:13:47,140 --> 01:13:49,140
+haben vielleicht schon ein Vermögen von
+
+1376
+01:13:49,140 --> 01:13:51,140
+5 Millionen, ist schon viel, aber ich greif mal
+
+1377
+01:13:51,140 --> 01:13:53,140
+hoch, dann sagen die, okay,
+
+1378
+01:13:53,140 --> 01:13:55,140
+zweieinhalb Millionen gehen sofort zum Fiskus,
+
+1379
+01:13:55,140 --> 01:13:57,140
+und die 5 Milliarden sind
+
+1380
+01:13:57,140 --> 01:13:59,140
+komplett steuerfrei.
+
+1381
+01:13:59,140 --> 01:14:01,140
+Und deswegen gibt es in den letzten,
+
+1382
+01:14:01,140 --> 01:14:03,140
+das ist angefangen 2009, da hat Steinbrück
+
+1383
+01:14:03,140 --> 01:14:05,140
+dieses Modell so ähnlich entwickelt,
+
+1384
+01:14:05,140 --> 01:14:07,140
+da galt es aber...
+
+1385
+01:14:07,140 --> 01:14:09,140
+Das hat ein Sozialdemokrat gemacht.
+
+1386
+01:14:09,140 --> 01:14:11,140
+Ja, ja, die sozialdemokratische Finanzminister,
+
+1387
+01:14:11,140 --> 01:14:13,140
+auch Olaf Scholz, die rühren da auch nicht dran.
+
+1388
+01:14:13,140 --> 01:14:15,140
+Und dieses neue Modell,
+
+1389
+01:14:15,140 --> 01:14:17,140
+das ist eine Abweichung von dem alten,
+
+1390
+01:14:17,140 --> 01:14:19,140
+weil man vor das Bundesverfassungsgericht
+
+1391
+01:14:19,140 --> 01:14:21,140
+gezwungen worden ist,
+
+1392
+01:14:21,140 --> 01:14:23,140
+das Bundesverfassungsgericht
+
+1393
+01:14:23,140 --> 01:14:25,140
+hat gesagt, das ist nicht okay,
+
+1394
+01:14:25,140 --> 01:14:27,140
+wie ihr da umgeht, mit der Besteuerung
+
+1395
+01:14:27,140 --> 01:14:29,140
+von großen Unternehmen. Dann haben die
+
+1396
+01:14:29,140 --> 01:14:31,140
+das Gesetz 2016
+
+1397
+01:14:31,140 --> 01:14:33,140
+verabschiedet,
+
+1398
+01:14:33,140 --> 01:14:35,140
+unter viel Druck, weil das Bundesverfassungsgericht
+
+1399
+01:14:35,140 --> 01:14:37,140
+gesagt hat, wenn ihr das nicht macht, machen wir das.
+
+1400
+01:14:37,140 --> 01:14:39,140
+Und das sah diese
+
+1401
+01:14:39,140 --> 01:14:41,140
+Lösung vor. Die ist weitgehend
+
+1402
+01:14:41,140 --> 01:14:43,140
+an der Öffentlichkeit vorbei,
+
+1403
+01:14:43,140 --> 01:14:45,140
+aber wird häufig genutzt. Es gibt
+
+1404
+01:14:45,140 --> 01:14:47,140
+immer mehr, gerade bei den
+
+1405
+01:14:47,140 --> 01:14:49,140
+Milliardären, die nicht schon
+
+1406
+01:14:49,140 --> 01:14:51,140
+150 Jahre Familientradition im
+
+1407
+01:14:51,140 --> 01:14:53,140
+Unternehmen haben, wo dann steht
+
+1408
+01:14:53,140 --> 01:14:55,140
+Familie. Und das bedeutet
+
+1409
+01:14:55,140 --> 01:14:57,140
+in der Regel, und es gibt ja Zahlen darüber,
+
+1410
+01:14:57,140 --> 01:14:59,140
+das bedeutet in der Regel, die haben ihren Kindern
+
+1411
+01:14:59,140 --> 01:15:01,140
+einen Teil der Aktien
+
+1412
+01:15:01,140 --> 01:15:03,140
+oder des Unternehmens, wenn es keine AG ist,
+
+1413
+01:15:03,140 --> 01:15:05,140
+überschrieben und haben dieses
+
+1414
+01:15:05,140 --> 01:15:07,140
+Gesetz genutzt. Weil natürlich,
+
+1415
+01:15:07,140 --> 01:15:09,140
+es macht wenig, wenn du dann stirbst.
+
+1416
+01:15:09,140 --> 01:15:11,140
+Also das ist der Fall gewesen
+
+1417
+01:15:11,140 --> 01:15:13,140
+bei dem Eigentümer von Knorr-Bremse.
+
+1418
+01:15:13,140 --> 01:15:15,140
+Der ist
+
+1419
+01:15:15,140 --> 01:15:17,140
+überraschend gestorben. Thiele. War einer
+
+1420
+01:15:17,140 --> 01:15:19,140
+der reichsten Deutschen.
+
+1421
+01:15:19,140 --> 01:15:21,140
+Hatte Herzinfarkt gekriegt, dann war er weg.
+
+1422
+01:15:21,140 --> 01:15:23,140
+Und der hatte vorher erst
+
+1423
+01:15:23,140 --> 01:15:25,140
+Teile
+
+1424
+01:15:25,140 --> 01:15:27,140
+steuerbegünstigt an
+
+1425
+01:15:27,140 --> 01:15:29,140
+Frau und Tochter,
+
+1426
+01:15:29,140 --> 01:15:31,140
+das heißt, da ist richtig Erbschaftsteuer
+
+1427
+01:15:31,140 --> 01:15:33,140
+angefallen. Die haben ihre gesamten
+
+1428
+01:15:33,140 --> 01:15:35,140
+Lufthansa-Aktien verkaufen müssen, um Erbschaftsteuer
+
+1429
+01:15:35,140 --> 01:15:37,140
+zahlen zu können. Und das will man vermeiden.
+
+1430
+01:15:37,140 --> 01:15:39,140
+So, und das bedeutet,
+
+1431
+01:15:39,140 --> 01:15:41,140
+man hat wirklich alles dafür getan, damit
+
+1432
+01:15:41,140 --> 01:15:43,140
+Reiche und Superreiche sogar noch
+
+1433
+01:15:43,140 --> 01:15:45,140
+weniger ihren Fair-Share
+
+1434
+01:15:45,140 --> 01:15:47,140
+beitragen sollen. Weil, nochmal, es geht ja hier nicht
+
+1435
+01:15:47,140 --> 01:15:49,140
+lasst euch nicht aufs Glattes führen von irgendwelchen
+
+1436
+01:15:49,140 --> 01:15:51,140
+Neiddebatten-Quatsch oder so. Sondern es geht
+
+1437
+01:15:51,140 --> 01:15:53,140
+darum, dass in einer Gesellschaft
+
+1438
+01:15:53,140 --> 01:15:55,140
+der Starke halt ein bisschen
+
+1439
+01:15:55,140 --> 01:15:57,140
+mehr abgibt als der Schwächere. Das ist
+
+1440
+01:15:57,140 --> 01:15:59,140
+ganz normal. Nur wir gestalten es so, dass der
+
+1441
+01:15:59,140 --> 01:16:01,140
+Schwache besonders viel ergibt
+
+1442
+01:16:01,140 --> 01:16:03,140
+und der Starke möglichst geschont wird.
+
+1443
+01:16:03,140 --> 01:16:05,140
+Und deswegen haben wir eben keine Vermögensteuer und eben
+
+1444
+01:16:05,140 --> 01:16:07,140
+kaum eine effektive Erbschaftsteuer.
+
+1445
+01:16:07,140 --> 01:16:09,140
+Und zu dieser Ungerechtigkeit
+
+1446
+01:16:09,140 --> 01:16:11,140
+gesellt sich noch dazu, dass es ja auch
+
+1447
+01:16:11,140 --> 01:16:13,140
+reale Steuerhinterziehung gibt.
+
+1448
+01:16:13,140 --> 01:16:15,140
+Und damit meine ich jetzt nicht nur die
+
+1449
+01:16:15,140 --> 01:16:17,140
+Steuergestaltung und so weiter, sondern echte Steuerhinterziehung.
+
+1450
+01:16:17,140 --> 01:16:19,140
+Und da reden wir von
+
+1451
+01:16:19,140 --> 01:16:21,140
+100 Milliarden Euro im Jahr.
+
+1452
+01:16:21,140 --> 01:16:23,140
+Superreiche begehen nämlich
+
+1453
+01:16:23,140 --> 01:16:25,140
+prozentual die höchste Steuerhinterziehung.
+
+1454
+01:16:25,140 --> 01:16:27,140
+Und dazu werden sie auch noch unterdurchschnittlich
+
+1455
+01:16:27,140 --> 01:16:29,140
+oft entdeckt.
+
+1456
+01:16:29,140 --> 01:16:31,140
+100 Milliarden Euro gehen dem Staat schätzungsweise
+
+1457
+01:16:31,140 --> 01:16:33,140
+jedes Jahr durch Steuerhinterziehung
+
+1458
+01:16:33,140 --> 01:16:35,140
+verloren. Ich habe auch schon höhere Summen gehört.
+
+1459
+01:16:35,140 --> 01:16:37,140
+Aber das ist das, von dem man jetzt
+
+1460
+01:16:37,140 --> 01:16:39,140
+ziemlich gut ausgehen kann.
+
+1461
+01:16:39,140 --> 01:16:41,140
+100 Milliarden, das ist unser Geld.
+
+1462
+01:16:41,140 --> 01:16:43,140
+Also jeder, der hier zuhört, müsste darüber wütend
+
+1463
+01:16:43,140 --> 01:16:45,140
+sein, weil das ist unser Geld.
+
+1464
+01:16:45,140 --> 01:16:47,140
+Das gehört uns als Gesellschaft.
+
+1465
+01:16:47,140 --> 01:16:49,140
+Und die schaffen das aber durch diverse Tricks,
+
+1466
+01:16:49,140 --> 01:16:51,140
+das zu hinterziehen. In der ganzen EU ist
+
+1467
+01:16:51,140 --> 01:16:53,140
+das eine Billion Euro.
+
+1468
+01:16:53,140 --> 01:16:55,140
+Das gehört in Schulen, in Straßen,
+
+1469
+01:16:55,140 --> 01:16:57,140
+meinetwegen auch in Sicherheit,
+
+1470
+01:16:57,140 --> 01:16:59,140
+in jedem Fall aber in Klima und so weiter.
+
+1471
+01:16:59,140 --> 01:17:01,140
+Und da gehört das rein. Aber die sacken das ein
+
+1472
+01:17:01,140 --> 01:17:03,140
+für sich privat. Das sollte eigentlich für uns
+
+1473
+01:17:03,140 --> 01:17:05,140
+das Abend- und
+
+1474
+01:17:05,140 --> 01:17:07,140
+das Morgengebet sein.
+
+1475
+01:17:07,140 --> 01:17:09,140
+Wir dürfen eigentlich so lange nicht aufhören
+
+1476
+01:17:09,140 --> 01:17:11,140
+darüber zu reden, bis sich das geändert hat.
+
+1477
+01:17:11,140 --> 01:17:13,140
+Was sehen wir aber?
+
+1478
+01:17:13,140 --> 01:17:15,140
+Naja, es gibt die Nichtverfolgung von Geldwäsche.
+
+1479
+01:17:15,140 --> 01:17:17,140
+Weil du musst ja, wenn du jetzt irgendwie Geld
+
+1480
+01:17:17,140 --> 01:17:19,140
+beiseite geschafft hast, musst du es ja irgendwie
+
+1481
+01:17:19,140 --> 01:17:21,140
+dann wieder so hinkriegen, dass du es auch
+
+1482
+01:17:21,140 --> 01:17:23,140
+ausgeben kannst. Und dafür musst du halt eben
+
+1483
+01:17:23,140 --> 01:17:25,140
+Geldwäsche betonen. Also illegales Geld
+
+1484
+01:17:25,140 --> 01:17:27,140
+kommt durch Geldwäsche in den legalen
+
+1485
+01:17:27,140 --> 01:17:29,140
+Gebrauch wieder. Und im Bundesfinanzministerium
+
+1486
+01:17:29,140 --> 01:17:31,140
+waren 100.000
+
+1487
+01:17:31,140 --> 01:17:33,140
+Geldwäsche-Verdachtsfälle
+
+1488
+01:17:33,140 --> 01:17:35,140
+gemeldet und dem wurde nicht
+
+1489
+01:17:35,140 --> 01:17:37,140
+nachgegangen.
+
+1490
+01:17:59,140 --> 01:18:01,140
+Die FIU soll schauen, welche davon sind denn
+
+1491
+01:18:01,140 --> 01:18:03,140
+wirklich relevant und wo muss ein Landeskriminalamt
+
+1492
+01:18:03,140 --> 01:18:05,140
+einsteigen. Und diese Filterfunktion funktioniert
+
+1493
+01:18:05,140 --> 01:18:07,140
+aber nicht.
+
+1494
+01:18:07,140 --> 01:18:09,140
+Nach Wochen der Recherche kommen wir mit einem
+
+1495
+01:18:09,140 --> 01:18:11,140
+Mitarbeiter der FIU in Kontakt.
+
+1496
+01:18:11,140 --> 01:18:13,140
+Die Stimmung bei uns ist miserabel. Viele wollen
+
+1497
+01:18:13,140 --> 01:18:15,140
+nur noch weg.
+
+1498
+01:18:15,140 --> 01:18:17,140
+Die FIU hat sich mit den FDU-Fraktionen
+
+1499
+01:18:17,140 --> 01:18:19,140
+in Kontakt gebracht.
+
+1500
+01:18:19,140 --> 01:18:21,140
+Die FDU hat sich mit den FDU-Fraktionen
+
+1501
+01:18:21,140 --> 01:18:23,140
+in Kontakt gebracht.
+
+1502
+01:18:23,140 --> 01:18:25,140
+Die FDU hat sich mit den FDU-Fraktionen
+
+1503
+01:18:25,140 --> 01:18:27,140
+in Kontakt gebracht.
+
+1504
+01:18:27,140 --> 01:18:29,140
+Viele wollen nur noch weg.
+
+1505
+01:18:29,140 --> 01:18:31,140
+Es sind einfach viel zu viele Meldungen.
+
+1506
+01:18:31,140 --> 01:18:33,140
+Es ist eine Flut.
+
+1507
+01:18:33,140 --> 01:18:35,140
+Die meisten können wir nicht schnell genug bearbeiten.
+
+1508
+01:18:35,140 --> 01:18:37,140
+Viele werden auch nie von Mitarbeitern angeschaut.
+
+1509
+01:18:37,140 --> 01:18:39,140
+Die sind praktisch für die Tonne.
+
+1510
+01:18:39,140 --> 01:18:41,140
+Die Geldwäschebehörde sei zu schlecht
+
+1511
+01:18:41,140 --> 01:18:43,140
+ausgestattet. Und das sei lange bekannt.
+
+1512
+01:18:43,140 --> 01:18:45,140
+Intern haben wir seit
+
+1513
+01:18:45,140 --> 01:18:47,140
+Jahren das Gefühl, es geht bei uns nicht um
+
+1514
+01:18:47,140 --> 01:18:49,140
+Geldwäsche-Bekämpfung, sondern um die Verwaltung
+
+1515
+01:18:49,140 --> 01:18:51,140
+des Problems, um interne Politik
+
+1516
+01:18:51,140 --> 01:18:53,140
+und dass man nach außen gut dasteht.
+
+1517
+01:18:53,140 --> 01:18:55,140
+Fast 290.000
+
+1518
+01:18:55,140 --> 01:18:57,140
+Meldungen waren bei der FIU
+
+1519
+01:18:57,140 --> 01:19:03,980
+liegen geblieben. Ein Skandal. Echte Bekanntheit erlangte die Spezialeinheit des Zolls aber erst
+
+1520
+01:19:03,980 --> 01:19:09,740
+im Jahr 2021. Und zwar, weil sie selbst zum Gegenstand von Ermittlungen wurde. Die
+
+1521
+01:19:09,740 --> 01:19:14,980
+Staatsanwaltschaft Osnabrück ließ mehrere Büroräume der Unit durchsuchen. Wegen möglicher
+
+1522
+01:19:14,980 --> 01:19:20,079
+Strafvereitelung im Amt. Die Beamten sollen Hinweise auf Geldwäsche nicht an die Polizei
+
+1523
+01:19:20,079 --> 01:19:25,520
+weitergeleitet haben. Dadurch wurden offenbar wichtige Ermittlungen behindert. Rechtsaufsicht
+
+1524
+01:19:25,520 --> 01:19:30,200
+hatte in dieser Zeit Finanzminister Olaf Scholz. Bei einer Prüfung der internationalen
+
+1525
+01:19:30,200 --> 01:19:35,980
+Financial Action Task Force, FATF, wäre Deutschland beinahe auf der schwarzen Liste gelandet.
+
+1526
+01:19:36,220 --> 01:19:42,820
+Gemeinsam mit Iran, Angola, Pakistan und Nordkorea. Was aber sagt der zuständige Bundesfinanzminister
+
+1527
+01:19:42,820 --> 01:19:48,220
+dazu? Auf eine Interviewanfrage erhalten wir zunächst keine Antwort. Konfrontieren ihn
+
+1528
+01:19:48,220 --> 01:19:49,380
+deshalb im Bundestag.
+
+1529
+01:19:49,960 --> 01:19:51,460
+Hallo, guten Tag, grüße Sie.
+
+1530
+01:19:51,460 --> 01:19:55,460
+Deutschland gilt als Paradies für Geldwäsche immer noch. Warum tun Sie nichts dagegen?
+
+1531
+01:19:55,520 --> 01:20:00,580
+Wir bilden eine neue Bundesoberbehörde und Sie tun jetzt gerade so, als sei das eine
+
+1532
+01:20:00,580 --> 01:20:05,340
+total investigative Recherche. Dabei hätten Sie einfach im Ministerium anfragen können,
+
+1533
+01:20:05,340 --> 01:20:09,900
+dann hätten Sie einen regulären Gesprächstermin bekommen. Und jetzt erwecken Sie den Eindruck
+
+1534
+01:20:09,900 --> 01:20:14,220
+gegenüber den Zuschauerinnen und Zuschauern, wir wollten nichts sagen und Sie müssten
+
+1535
+01:20:14,220 --> 01:20:17,460
+quasi auflauern, weil sonst gäbe es keine Antwort des BMF.
+
+1536
+01:20:17,460 --> 01:20:21,500
+Das haben wir getan. Wir haben noch keine Antwort bekommen. Insider berichten uns von
+
+1537
+01:20:21,500 --> 01:20:25,000
+schlimmen Zuständen bei der FIU. Warum kriegen Sie das nicht in den Griff?
+
+1538
+01:20:25,520 --> 01:20:26,520
+Die hat doch einen neuen Leiter.
+
+1539
+01:20:26,520 --> 01:20:31,980
+Die FIU ist ein einziges Behördenversagen. Das kann man so sagen. Diese Behörde ist
+
+1540
+01:20:31,980 --> 01:20:36,200
+einfach nicht funktional aufgestellt. Das ändert man nicht, indem man einfach nur den
+
+1541
+01:20:36,200 --> 01:20:40,300
+Kopf dieser Behörde austauscht, sondern da muss man an die Strukturen der Behörde ran.
+
+1542
+01:20:40,300 --> 01:20:46,220
+Ob allein ein neuer Leiter hilft, angesichts der Missstände bei der FIU, kaum vorstellbar.
+
+1543
+01:20:46,220 --> 01:20:51,140
+Tatsächlich will Lindner eine ganz neue Behörde aufbauen. Experten haben Zweifel, dass das
+
+1544
+01:20:51,140 --> 01:20:52,140
+die Lösung ist.
+
+1545
+01:20:52,140 --> 01:20:53,420
+Wir sind der tiefen Überzeugung, dass Minister Lindner nicht die Lösung ist. Wir sind der
+
+1546
+01:20:53,420 --> 01:20:54,420
+tiefen Überzeugung, dass Minister Lindner nicht die Lösung ist. Wir sind der tiefen Überzeugung,
+
+1547
+01:20:54,420 --> 01:20:55,420
+dass Minister Lindner nicht die Lösung ist. Wir sind der tiefen Überzeugung, dass Minister Lindner nicht
+
+1548
+01:20:55,420 --> 01:21:01,340
+mit dieser Entscheidung in die völlig falsche Richtung rennt. Am Ende wird die geldwäsche
+
+1549
+01:21:01,340 --> 01:21:07,680
+Bekämpfung dadurch komplizierter, behäbiger, strukturell unübersichtlicher und wir haben
+
+1550
+01:21:07,680 --> 01:21:09,300
+wirklich keinen Benefit dadurch.
+
+1551
+01:21:09,300 --> 01:21:13,420
+Christian Lindner hat darauf ein bisschen Ärger gekriegt medial. Hat dann gesagt, er
+
+1552
+01:21:13,420 --> 01:21:16,800
+wird jetzt eine große Einheit gründen, die wird sich darum kümmern. Vier Monate später
+
+1553
+01:21:16,800 --> 01:21:21,220
+hat er es dann irgendwie abgesagt. Oder dass Steuerfahnder beharrlich abgebaut werden.
+
+1554
+01:21:21,220 --> 01:21:25,220
+Jeder Steuerfahnder bringt ein Vielfaches seines Jahresgehalts an Steuererträgen.
+
+1555
+01:21:25,220 --> 01:21:43,780
+Es hat hier Landeschefs gegeben, also Ministerpräsidenten, die im Ausland waren, um für das eigene Bundesland zu werben und naja, so halb hinter vorgehaltener Hand gesagt haben, ja und wegen Steuern müssen Sie sich keine Sorgen machen, unsere Steuerbehörden haben wir im Griff, wir werden Sie da schon nicht irgendwie großartig unter Druck setzen.
+
+1556
+01:21:43,779 --> 01:21:57,319
+Also es gibt eine ganz schwierige Art von, wie denn die Institutionen, die wir geschaffen haben, hier geltendes Recht umzusetzen, das nicht tun. Allen voran, wir haben das ja, wir hätten das noch im Ohr vom letzten Jahr.
+
+1557
+01:21:57,439 --> 01:22:13,300
+Die Frau, die hier hinter mir im Bundesfinanzministerium die Abteilung zu Vermögens- und Erbschaftssteuern leitet, eine Staatsdienerin, von uns allen bezahlt, spricht auf einer Konferenz von denen hier, Flick, Gocke, Schaumburg.
+
+1558
+01:22:13,300 --> 01:22:37,619
+Bekannt für aggressive Steuergestaltung, vor allem für Vermögende. Und diese Top-Beamtin aus dem Bundesfinanzministerium warnt die Berater davor, dass sich ein Steuerschlupfloch schließt, sagt aber, keine Sorge, ich habe da meine Werkzeugkästen. Und das alles in angeblich nicht dienstlicher Eigenschaft. Ernsthaft?
+
+1559
+01:22:37,900 --> 01:22:43,000
+War das ein Skandal, wer zu richtig? Hat da Lindners Stuhl auch nur eine Sekunde gewackelt? Nein.
+
+1560
+01:22:43,300 --> 01:22:55,520
+Wir haben uns zu sehr daran gewöhnt. Man hat uns mit diesem narrativen Hops genommen, nach dem Motto, dem Staat, den kannst du ruhig bescheißen. Komm, das kannst du machen. Kannst du das hier alles irgendwie mitnehmen und so weiter. Ist ja eh doof, ist ja eh Raub. Steuern sind Raub. Hast du schon gehört? Steuern sind Raub.
+
+1561
+01:22:55,520 --> 01:23:10,880
+Aber dass das letzten Endes hier diesen ganzen Laden zusammenhält, dass jeder was in den Klingelbeutel wirft, das wird dabei vergessen. Dann stelle sich mal die Situation vor, um mit diesem Beispiel zu bleiben, der Klingelbeutel geht rum und einer wirft sogar nichts rein, sondern der nächste greift noch rein und nimmt was raus.
+
+1562
+01:23:10,880 --> 01:23:13,180
+Weil das ist ja genau das. Und da habe ich jetzt mit Cum-Ex.
+
+1563
+01:23:13,300 --> 01:23:23,960
+Und so weiter noch gar nicht angefangen. Aber wir müssen solche Sachen ganz anders lesen und auch viel mehr als Skandal verstehen, weil die greifen uns hier in die Tasche.
+
+1564
+01:23:24,960 --> 01:23:34,220
+Hey du, ja du. Du hörst ja gerade diesen Podcast und findest ihn vielleicht sogar ganz fantastisch. Es würde uns unheimlich helfen, wenn du uns unterstützen würdest.
+
+1565
+01:23:34,440 --> 01:23:43,279
+Du kannst das natürlich dadurch tun, dass du uns weiter empfiehlst, dass du allen davon erzählst oder eine positive Bewertung dalässt auf der Podcast-Plattform deiner Wahl.
+
+1566
+01:23:43,300 --> 01:23:56,300
+Oder aber du schließt dich den Leuten an, die uns bereits finanziell unterstützen und zwar über Steady oder über PayPal. Bei Steady erhältst du zudem verschiedene Abo-Pakete mit Zusatz-Content.
+
+1567
+01:23:57,100 --> 01:24:12,340
+Gleichzeitig bei den großen Supporter-Contents hast du nicht nur zusätzliche Gastzugänge, die du noch weiter verschenken kannst, sondern auch Zugang zu exklusiven Community-Events, die wir gemeinsam mit euch dann bestreiten werden.
+
+1568
+01:24:12,340 --> 01:24:19,720
+Zudem werdet ihr bei den großen Paketen auch hier als Hauptproduzenten benannt.
+
+1569
+01:24:19,720 --> 01:24:34,840
+Das machen schon ein paar Leute und dafür nochmal ein dickes Dankeschön. Und die Unterstützung sorgt letztendlich dafür, je mehr und je größer sie wird, desto mehr und größer wird dieses Medienangebot sein.
+
+1570
+01:24:34,840 --> 01:24:41,760
+Das heißt, wir investieren das Geld zurück unmittelbar in die Arbeit für diesen Podcast.
+
+1571
+01:24:42,340 --> 01:24:56,600
+Wir können mehr recherchieren, wir können vielleicht in Zukunft neue Formate entwickeln und wir können die gesamten Kosten, die dieses Projekt eben zusätzlich auch erzeugt, viel besser schultern.
+
+1572
+01:24:56,600 --> 01:25:11,739
+Das heißt, ihr sorgt nicht nur dafür, dass wir jede Menge positive Resonanz erfahren durch euch und das uns super zusätzlich motiviert, hier weiterzumachen, sondern ihr tragt auch aktiv mit dazu bei,
+
+1573
+01:25:11,739 --> 01:25:12,180
+dass wir hier weitergehen.
+
+1574
+01:25:12,180 --> 01:25:12,199
+dass wir hier weitergehen.
+
+1575
+01:25:12,199 --> 01:25:12,319
+dass wir hier weitergehen.
+
+1576
+01:25:12,319 --> 01:25:16,819
+dass dieses Format entsprechend sich weiterentwickeln kann.
+
+1577
+01:25:17,319 --> 01:25:18,939
+Vielen Dank für euer Vertrauen.
+
+1578
+01:25:19,259 --> 01:25:26,359
+Alle dazu notwendigen Links zu Steady, PayPal etc. findet ihr in der Episodenbeschreibung.
+
+1579
+01:25:26,559 --> 01:25:30,179
+Aber ich will euch nicht weiter nerven. Weiter geht's mit der Episode.
+
+1580
+01:25:31,619 --> 01:25:39,179
+Vielleicht ist es an der Stelle auch nochmal wichtig zu benennen, was sind eigentlich die langfristigen Folgen der Ungleichheit.
+
+1581
+01:25:39,859 --> 01:25:42,179
+Weil Jens, du hast ja gerade gesagt, die nehmen...
+
+1582
+01:25:42,319 --> 01:25:44,819
+Die nehmen es sozusagen aus unserer Tasche.
+
+1583
+01:25:45,460 --> 01:25:52,299
+Ich würde sogar sagen, langfristig sind sie so dumm und nehmen das auch aus ihrer eigenen Tasche, weil sie sind ja eigentlich mit im Boot.
+
+1584
+01:25:52,299 --> 01:25:54,759
+Weil auch diese Menschen müssen ja irgendwo leben.
+
+1585
+01:25:54,920 --> 01:25:57,119
+Auch diese Menschen müssen ihre Kinder in die Schulen bringen.
+
+1586
+01:25:57,420 --> 01:26:02,819
+Und ja, da kann man jetzt formulieren, wenn ich sehr viel Geld habe, Milliardär bin, dann kann ich mir meine eigenen Schulen bauen.
+
+1587
+01:26:03,019 --> 01:26:04,739
+Und das ist ja auch gerade die Tendenz.
+
+1588
+01:26:04,840 --> 01:26:09,219
+Man will sich eigene Städte und Staaten bauen nach seinem eigenen Gusto.
+
+1589
+01:26:09,579 --> 01:26:12,299
+Und hier haben wir schon in weiten Teilen...
+
+1590
+01:26:12,319 --> 01:26:14,939
+Echte Parallelgesellschaften, die stattfinden.
+
+1591
+01:26:14,939 --> 01:26:28,960
+Wir sprechen hier von einem organisierten Verbrechen, was sich zugleich Lebenswelten aufbaut, die völlig entkoppelt sind von unserer normalen Realität im Alltag.
+
+1592
+01:26:29,840 --> 01:26:34,019
+Also diese Leute, man kann sich das so ein bisschen vorstellen wie in einem Freizeitpark.
+
+1593
+01:26:34,259 --> 01:26:39,979
+In manchen Freizeitparks ist es ja so, dass es ja meistens so Warteschlangen gibt.
+
+1594
+01:26:39,979 --> 01:26:41,979
+Und man steht da zum Teil...
+
+1595
+01:26:42,319 --> 01:26:43,340
+Die Beine in dem Bauch.
+
+1596
+01:26:43,979 --> 01:26:49,699
+Wenn man aber genügend Geld hat, kann man sich einen Fastlane-Pass holen.
+
+1597
+01:26:50,279 --> 01:26:54,179
+Ein Fastlane-Pass, der diese Warteschlange umgeht.
+
+1598
+01:26:54,659 --> 01:26:57,420
+Ja, und somit bin ich ganz schnell Erster.
+
+1599
+01:26:57,920 --> 01:27:00,039
+Und so ein bisschen kann man sich das vorstellen.
+
+1600
+01:27:00,439 --> 01:27:03,939
+Diese Menschen mit sehr viel Geld bauen sich überall Fastlanes.
+
+1601
+01:27:04,799 --> 01:27:05,939
+Sie bauen sich Parallelstrukturen.
+
+1602
+01:27:06,759 --> 01:27:12,119
+Ihre eigenen Schulen, ihre eigene Gesundheitsversorgung, ihre eigene Mobilität.
+
+1603
+01:27:12,319 --> 01:27:18,960
+Ja, also die stehen nicht tagtäglich noch im Stau, warten auf die kaputte Bahn, wenn das Klo wieder defekt ist.
+
+1604
+01:27:19,319 --> 01:27:21,340
+ICE selbst in der ersten Klasse.
+
+1605
+01:27:21,960 --> 01:27:27,139
+Nein, nein, die fliegen dann schön mit ihrem Privatflugzeug, werden sie hin und her geflogen
+
+1606
+01:27:27,139 --> 01:27:36,460
+und umgehen all die mühsamen Dinge des Alltags, die wir als Zumutung tagtäglich immer mehr erleben.
+
+1607
+01:27:36,779 --> 01:27:39,159
+Nein, darüber setzen sie sich hinweg.
+
+1608
+01:27:39,699 --> 01:27:42,139
+Und nichtsdestotrotz sind sie mühsam.
+
+1609
+01:27:42,319 --> 01:27:46,979
+Mit Nutznießer unserer bisherigen staatlichen Infrastruktur.
+
+1610
+01:27:47,439 --> 01:27:52,599
+Also all die Straßen und Schienen sind ja nicht nur dazu da, dass wir von A nach B fahren,
+
+1611
+01:27:52,599 --> 01:27:58,059
+sondern auch zur Arbeit kommen und dass die Güter von A nach B transportiert werden.
+
+1612
+01:27:58,380 --> 01:28:04,559
+Was dazu dann wiederum führt, dass diese Menschen ihren Reichtum eigentlich erst mehren können.
+
+1613
+01:28:05,039 --> 01:28:09,599
+Und selbst die Menschen, die in Finanzkapital investieren, sind darauf angewiesen,
+
+1614
+01:28:10,399 --> 01:28:11,599
+dass Realwirtschaft trotzdem funktioniert.
+
+1615
+01:28:12,319 --> 01:28:13,359
+Und das ist natürlich auch ein sehr wichtiger Punkt.
+
+1616
+01:28:13,359 --> 01:28:13,380
+Und das ist natürlich auch ein sehr wichtiger Punkt.
+
+1617
+01:28:13,380 --> 01:28:13,439
+Und das ist natürlich auch ein sehr wichtiger Punkt.
+
+1618
+01:28:13,439 --> 01:28:17,319
+Und Dinge produziert werden und Dienstleistungen angeboten werden,
+
+1619
+01:28:17,699 --> 01:28:23,079
+weil natürlich die Investitionen in andere Unternehmen dann vielleicht auch mal welche sind,
+
+1620
+01:28:23,079 --> 01:28:27,079
+die nicht nur mehr Geld aus Geld heraus generieren,
+
+1621
+01:28:27,739 --> 01:28:33,460
+sondern eben auch Waren und Dienstleistungen des täglichen Bedarfes für Menschen produzieren.
+
+1622
+01:28:33,960 --> 01:28:40,079
+Plus, um jetzt nochmal die Thematik aufzumachen, welche Folgen hat eigentlich zu starke Ungleichheit?
+
+1623
+01:28:41,279 --> 01:28:42,299
+Zum einen, was dazu kommt, ist, dass wir uns nicht mehr so sehr auf die Welt bewegen,
+
+1624
+01:28:42,300 --> 01:28:42,360
+sondern dass wir uns nicht mehr so sehr auf die Welt bewegen,
+
+1625
+01:28:42,360 --> 01:28:42,440
+sondern dass wir uns nicht mehr so sehr auf die Welt bewegen,
+
+1626
+01:28:42,440 --> 01:28:45,400
+was dazu führt und das ist auch ein Problem, was wir heute merken.
+
+1627
+01:28:45,880 --> 01:28:50,900
+Man könnte natürlich sagen, das ist ein Symptom, das könnte unterschiedliche Wurzeln und Ursachen haben.
+
+1628
+01:28:51,020 --> 01:28:57,520
+Aber ich würde sagen, die ausgeprägte und steigende Ungleichheit ist mit eine Ursache für dieses Symptom,
+
+1629
+01:28:57,619 --> 01:29:02,600
+nämlich die Schwächung des sozialen Zusammenhalts und des gegenseitigen Vertrauens in der Gesellschaft.
+
+1630
+01:29:02,940 --> 01:29:07,760
+Also, dass wir sozusagen uns zum Teil das Schwarze unter dem Fingernagel nicht gönnen,
+
+1631
+01:29:07,760 --> 01:29:11,760
+egal wie viel wir verdienen oder nicht, ist ein Resultat dieser sogenannten Ellbogengesellschaft,
+
+1632
+01:29:12,300 --> 01:29:19,119
+die eben aus sich heraus auch dazu führt, dass prinzipiell so eine Art Gierspirale ja in Gang gesetzt wird.
+
+1633
+01:29:19,220 --> 01:29:22,440
+Also jeder schaut, dass er seine Schäfchen ins Trockene bringt.
+
+1634
+01:29:23,100 --> 01:29:28,820
+Und zur Not dann eben, wenn es eben nicht gerecht zugeht, auch mit ungerechten Methoden und Tricks.
+
+1635
+01:29:28,920 --> 01:29:34,460
+Und man guckt sich das halt auch ab von den Reichen und übernimmt sozusagen auch deren skrupellose Ideologie.
+
+1636
+01:29:34,460 --> 01:29:42,100
+Ich bin ganz erstaunt und empört darüber in den letzten Tagen, wie sehr jetzt plötzlich die Methoden von Trump,
+
+1637
+01:29:42,100 --> 01:29:48,820
+und Elon Musk auch in der deutschen Presse wie FAZ und so weiter ganz komisch normalisiert werden.
+
+1638
+01:29:48,920 --> 01:29:54,240
+Und man plötzlich jetzt so Forderungen stellt, so das, was Elon Musk jetzt da macht mit der Kettensäge,
+
+1639
+01:29:54,300 --> 01:29:56,020
+das brauchen wir auch ganz dringend in Deutschland.
+
+1640
+01:29:56,120 --> 01:30:00,380
+Nein, brauchen wir nicht. Das ist das Gegenteil von dem, was wir brauchen.
+
+1641
+01:30:01,100 --> 01:30:08,560
+Wir brauchen eine starke solidarische Gemeinschaft, eine starke auf demokratischen Werten basierende Gemeinschaft,
+
+1642
+01:30:08,560 --> 01:30:11,560
+weil das war überhaupt erst...
+
+1643
+01:30:12,100 --> 01:30:16,520
+Ja, die Ursache dafür, dass wir so einen Wohlstand aufbauen konnten.
+
+1644
+01:30:17,360 --> 01:30:22,579
+Und zwar Wohlstand in relativer Breite und nicht ein Wohlstand von einigen wenigen Akteuren.
+
+1645
+01:30:22,840 --> 01:30:29,440
+Und deswegen ist das, was gerade in den USA geschieht, super krass und sollten wir auf gar keinen Fall nachmachen,
+
+1646
+01:30:29,600 --> 01:30:34,760
+sondern wir sollten immer das Gegenteil von dem tun, was Elon Musk sagt und Donald Trump macht.
+
+1647
+01:30:35,280 --> 01:30:37,800
+Immer das Gegenteil. Da liegen wir nie falsch.
+
+1648
+01:30:38,079 --> 01:30:40,460
+Also das ist schon mal das Allererste.
+
+1649
+01:30:40,960 --> 01:30:41,800
+Also das heißt, dieser...
+
+1650
+01:30:42,100 --> 01:30:47,960
+Soziale Zusammenhalt, Vertrauen ist super wichtig für funktionierende Gesellschaften.
+
+1651
+01:30:48,180 --> 01:30:52,200
+Luhmann hat darüber Bücher geschrieben, wie wichtig Vertrauen ist gegenseitig,
+
+1652
+01:30:52,579 --> 01:30:54,600
+weil sonst würde hier auch gar nichts mehr funktionieren.
+
+1653
+01:30:55,020 --> 01:30:56,860
+Also auch in Organisationen und so weiter.
+
+1654
+01:30:57,000 --> 01:31:03,539
+Das Schlimmste, was man einer Organisation antun kann, ist Wettbewerb, also zu krasser Wettbewerb im eigenen Haus.
+
+1655
+01:31:03,539 --> 01:31:07,800
+Dann sind nämlich alle noch damit beschäftigt, das Beste für sich selbst rauszuholen,
+
+1656
+01:31:07,880 --> 01:31:11,220
+die eigenen Interessen und die gesamte Organisation kann dadurch lahmgelegt werden.
+
+1657
+01:31:11,220 --> 01:31:13,840
+Also das heißt, Zusammenhalt super wichtig.
+
+1658
+01:31:14,300 --> 01:31:19,180
+Das Nächste ist, natürlich daraus resultieren dann politische Polarisierungen.
+
+1659
+01:31:19,380 --> 01:31:19,920
+Wir erleben es.
+
+1660
+01:31:21,260 --> 01:31:24,520
+Ungleichheit gefährdet demokratische Systeme.
+
+1661
+01:31:24,579 --> 01:31:27,699
+Auch das ist in zahlreichen Studien hinterlegt worden,
+
+1662
+01:31:28,380 --> 01:31:35,240
+dass eine Konzentration von Kapital und damit auch politischer Macht autoritäre Systeme fördern.
+
+1663
+01:31:35,240 --> 01:31:41,180
+Wir sehen es gerade auch hier in den USA, wo Milliardäre plötzlich Politiker spielen,
+
+1664
+01:31:41,220 --> 01:31:48,440
+und diese Trennung von Politik und Wirtschaft oder Vermögen oder wie auch immer man das nennt,
+
+1665
+01:31:48,440 --> 01:31:51,140
+komplett zusammengeschmolzen wird.
+
+1666
+01:31:51,140 --> 01:31:55,500
+Ich hatte ja schon mal in der letzten Ausgabe oder vorletzten so ein bisschen gesagt,
+
+1667
+01:31:55,500 --> 01:31:57,500
+es gibt so was wie die Triade der Macht.
+
+1668
+01:31:57,500 --> 01:32:03,980
+Also wenn du wirklich ultimative Macht haben willst, brauchst du eigentlich drei Elemente auf deiner Seite.
+
+1669
+01:32:03,980 --> 01:32:07,980
+Das ist zum einen Kapital, das ist Politik und das ist Medien.
+
+1670
+01:32:07,980 --> 01:32:11,180
+Das sind Dinge, die die Nazis sehr schnell und früh verstanden.
+
+1671
+01:32:11,180 --> 01:32:14,420
+Und genau diese Triade der Macht auf sich vereint haben.
+
+1672
+01:32:14,420 --> 01:32:19,320
+Also sie haben Propaganda gemacht, sie haben die Massenmedien kontrolliert und darüber Propaganda gemacht,
+
+1673
+01:32:19,320 --> 01:32:22,700
+damit die Bevölkerung sozusagen indoktriniert und gesteuert.
+
+1674
+01:32:22,700 --> 01:32:26,420
+Sie hatten die Kapitalisten auf ihrer Seite, die Industrieleute,
+
+1675
+01:32:26,420 --> 01:32:32,100
+die sozusagen dann im Gegenzug mit Zwangsarbeit und Profiten aus Kriegswirtschaft belohnt wurden.
+
+1676
+01:32:32,100 --> 01:32:38,260
+Und letztlich waren die Nazis natürlich in der Lage selber politische Regelungen und Gesetze zu entwerfen.
+
+1677
+01:32:38,260 --> 01:32:40,260
+Das ist sozusagen diese Triade.
+
+1678
+01:32:40,260 --> 01:32:40,940
+Und eigentlich,
+
+1679
+01:32:40,939 --> 01:32:50,179
+im demokratischen System ist es so, dass diese Triade eigentlich sich gegenseitig Checks and Balances-artig eigentlich in Balance halten soll.
+
+1680
+01:32:50,179 --> 01:32:55,059
+Also sprich, natürlich ist es wichtig, dass es irgendwie eine Form von Kapital gibt.
+
+1681
+01:32:55,059 --> 01:32:59,699
+Ob das jetzt irgendwelchen Privatleuten zu Milliardenfach gehören muss, sei mal dahingestellt.
+
+1682
+01:32:59,699 --> 01:33:04,179
+Aber es muss ja eine Form von Medium geben, um die Dinge am Laufen zu halten.
+
+1683
+01:33:04,179 --> 01:33:09,099
+Aber super wichtig ist, dass die Politik die Rahmen und Regularien setzt,
+
+1684
+01:33:09,099 --> 01:33:10,899
+um auch in erster Linie eben diese,
+
+1685
+01:33:10,939 --> 01:33:15,059
+diese Ungleichheiten zu vermeiden, diese Ungerechtigkeiten zu vermeiden,
+
+1686
+01:33:15,059 --> 01:33:21,339
+wenn man denn der demokratischen Idee von Freiheit, Gleichheit, Geschwisterlichkeit,
+
+1687
+01:33:21,339 --> 01:33:28,259
+man könnte es auch als, ja, Freiheit sozusagen übersetzen, nicht Freiheit alles zu tun, was ich will,
+
+1688
+01:33:28,259 --> 01:33:33,699
+das ist sozusagen die Milliardärsfreiheit, sondern Freiheit bedeutet hier eine Gesellschaft zu schaffen,
+
+1689
+01:33:33,699 --> 01:33:39,859
+wo ich mich sicher durch den öffentlichen Raum bewegen kann, wo ich sicher sein kann, dass mir geholfen wird,
+
+1690
+01:33:39,859 --> 01:33:40,819
+wenn es mir schlecht geht.
+
+1691
+01:33:40,819 --> 01:33:44,979
+und ich sozusagen ganz andere Formen der Freiheit genießen kann,
+
+1692
+01:33:44,979 --> 01:33:49,739
+wie dieses, ja, ich kann mit 250 mit meinem Porsche über die Autobahn brettern
+
+1693
+01:33:49,739 --> 01:33:51,699
+und scheiß drauf, wenn da jemand ums Leben kommt,
+
+1694
+01:33:51,759 --> 01:33:55,739
+weil ich kann mir gute Anwälte leisten und am Ende komme ich wie Otto Wiesheu
+
+1695
+01:33:55,739 --> 01:33:58,979
+als ehemaliger Verkehrsminister, der besoffen Leute totgefahren hat,
+
+1696
+01:33:59,159 --> 01:34:00,319
+mit einem blauen Auge davon.
+
+1697
+01:34:01,279 --> 01:34:05,539
+So, das bedeutet, das hier gerät gerade aus den Fugen.
+
+1698
+01:34:05,699 --> 01:34:09,500
+Also, wir haben die Medienfolge gemacht, hört sie euch nochmal an,
+
+1699
+01:34:09,500 --> 01:34:13,880
+was da im Argen liegt, wenn nämlich Kapital zu sehr verknüpft ist mit Medien,
+
+1700
+01:34:14,479 --> 01:34:17,720
+wenn Kapitaleigner Medien steuern, auch das haben wir in den USA,
+
+1701
+01:34:18,060 --> 01:34:20,680
+mit Elon Musk, aber auch Leuten wie Jeff Bezos,
+
+1702
+01:34:20,819 --> 01:34:25,500
+der der Washington Post mal eben verbietet, sich zu positionieren im Wahlkampf
+
+1703
+01:34:26,020 --> 01:34:30,680
+und wir haben eben mittlerweile Milliardäre direkt im Kabinett sitzen und so weiter.
+
+1704
+01:34:30,880 --> 01:34:35,279
+Und das führt dazu, dass sie letztlich ein autoritäres System
+
+1705
+01:34:35,279 --> 01:34:38,399
+damit schon automatisch aufbauen.
+
+1706
+01:34:38,399 --> 01:34:42,379
+Und das gilt es zu verhindern und das kann man nur verhindern,
+
+1707
+01:34:42,379 --> 01:34:46,399
+indem man extreme Ungleichheit eben reguliert und eindämmt.
+
+1708
+01:34:46,399 --> 01:34:51,299
+Und dafür braucht es eine funktionierende Demokratie mit demokratischen Instanzen.
+
+1709
+01:34:51,299 --> 01:34:56,299
+Wir brauchen Medien, die die Checks and Balances machen und sowohl Kapital überwachen,
+
+1710
+01:34:56,299 --> 01:35:01,899
+kontrollieren, kritisch hinterfragen, Machtmissbrauch, wie auch die Politik das letztlich tut.
+
+1711
+01:35:01,899 --> 01:35:08,019
+So, noch zwei Argumente, was schlecht ist, auch für vielleicht für diejenigen,
+
+1712
+01:35:08,020 --> 01:35:09,320
+die gerade superreich ist.
+
+1713
+01:35:09,320 --> 01:35:15,620
+Kriminalitätsrate steigt immens, das ist auch für Superreiche im Zweifel ein Problem.
+
+1714
+01:35:15,620 --> 01:35:18,320
+Zumindest müssen sie immer mehr aufrüsten, sich selber schützen.
+
+1715
+01:35:18,320 --> 01:35:22,520
+Sie verlieren dadurch ja eigentlich ihre Freiheit, die sie ja absolut gewinnen.
+
+1716
+01:35:22,520 --> 01:35:24,520
+Das ist ja der Witz an der Sache.
+
+1717
+01:35:24,520 --> 01:35:29,820
+Sie gewinnen dadurch nicht mehr, sondern weniger Freiheit auf gewissen Gebieten.
+
+1718
+01:35:29,820 --> 01:35:35,220
+Dann, was man feststellt, ist natürlich, Gesundheit leidet immens.
+
+1719
+01:35:35,220 --> 01:35:38,000
+Man könnte sagen, Bevölkerungsgesundheit oder Gesellschaft,
+
+1720
+01:35:38,000 --> 01:35:42,199
+Gesellschaftsgesundheit und das wiederum ist ja auch ein Problem für die Vermögenden.
+
+1721
+01:35:42,199 --> 01:35:47,300
+Also wir haben ja jetzt gerade alle Arbeitgeberverbände, die rumjaulen, dass so viele Leute krank sind.
+
+1722
+01:35:47,300 --> 01:35:49,699
+Ach was, warum jaulen sie denn rum?
+
+1723
+01:35:49,699 --> 01:35:53,000
+Nicht, weil sie sich Sorgen machen um die Menschen, denen es gerade schlecht geht,
+
+1724
+01:35:53,000 --> 01:35:57,000
+sondern um die Arbeitskräfte, die sie dann eben nicht mehr nutzen können,
+
+1725
+01:35:57,000 --> 01:35:59,699
+um ihren eigenen Wohlstand letztlich zu mehren.
+
+1726
+01:35:59,699 --> 01:36:05,199
+Und Ungleichheit und eklatante Ungleichheit führt eben auch zu Gesundheitsproblemen.
+
+1727
+01:36:05,199 --> 01:36:07,899
+Und wenn man dann noch ein Gesundheitssystem hat, wie in den USA,
+
+1728
+01:36:08,000 --> 01:36:11,000
+merkt man ja, das wird dann nochmal richtig drastisch.
+
+1729
+01:36:11,000 --> 01:36:18,000
+Und all das mündet dann irgendwann auch tatsächlich in ein schwächeres Wirtschaftswachstum
+
+1730
+01:36:18,000 --> 01:36:20,500
+durch reduzierte Binnennachfrage.
+
+1731
+01:36:20,500 --> 01:36:27,500
+Weil natürlich sind wir ja nicht nur ausbeutbare Arbeitskräfte, sondern wir sind ja zugleich Konsumenten.
+
+1732
+01:36:27,500 --> 01:36:30,500
+Also wir füttern die Milliardäre ja doppelt.
+
+1733
+01:36:30,500 --> 01:36:34,000
+Mit unserer Arbeitskraft und mit unserer Kaufkraft.
+
+1734
+01:36:34,000 --> 01:36:38,000
+Und all das rauben sie uns aber gleichzeitig langfristig.
+
+1735
+01:36:38,000 --> 01:36:44,000
+Genau durch ihre Regierungen, dieses Prinzip, wir wollen auf gar keinen Fall Verantwortung geben und da irgendwas zurückgeben.
+
+1736
+01:36:44,000 --> 01:36:46,500
+Und das ist das System.
+
+1737
+01:36:46,500 --> 01:36:50,000
+Und deswegen ist es aber umso wichtig, Regularien zu haben.
+
+1738
+01:36:50,000 --> 01:36:56,000
+Und Kräfte, politische Kräfte zu haben, die es ernst meinen mit der Demokratie.
+
+1739
+01:36:56,000 --> 01:36:59,000
+Und die es ernst meinen mit dem Sozialvertrag.
+
+1740
+01:36:59,000 --> 01:37:03,500
+Und da lande ich dann irgendwann bei so einem Konzept wie ganz einfache Sozialdemokratie.
+
+1741
+01:37:03,500 --> 01:37:06,500
+Da müssen wir noch nicht mal irgendwie in Richtung Kommunismus gehen.
+
+1742
+01:37:06,500 --> 01:37:07,500
+Es reicht schon.
+
+1743
+01:37:07,500 --> 01:37:10,500
+Das Ernstnehmen von Sozialdemokratie.
+
+1744
+01:37:10,500 --> 01:37:12,500
+Das würde schon reichen.
+
+1745
+01:37:12,500 --> 01:37:17,500
+Du hast gerade eben über die Edelfedern gesprochen und inwieweit die dann hier anfangen Trump zu normalisieren.
+
+1746
+01:37:17,500 --> 01:37:18,500
+Ja genau.
+
+1747
+01:37:18,500 --> 01:37:21,500
+Das ist natürlich auch etwas, was so ein bisschen politischen Hintergrund hat.
+
+1748
+01:37:21,500 --> 01:37:28,500
+Aber, und dass man ja eben keine Haltung zeigen will, weil Haltungsjournalismus wäre ja falsch und inobjektiv und überhaupt und so.
+
+1749
+01:37:28,500 --> 01:37:30,500
+Also Medienfolge, da erklären wir das alles.
+
+1750
+01:37:30,500 --> 01:37:37,500
+Aber, was eben auch dazu gehört ist, in den Privatmedienoligarchien, die Edelfedern, die ganz oben stehen,
+
+1751
+01:37:37,500 --> 01:37:41,500
+die gehören halt eben auch zu den obersten 10 Prozent, teilweise zu den obersten 1 Prozent.
+
+1752
+01:37:41,500 --> 01:37:45,500
+Ja, also da gibt es halt wenig, die jetzt irgendwie, wenn du jetzt Frank Schiermacher mal ausklammerst,
+
+1753
+01:37:45,500 --> 01:37:50,500
+die tatsächlich gegen ihre eigenen Interessen halt vehement anschreiben und wie Herausgeber und so weiter.
+
+1754
+01:37:50,500 --> 01:37:54,500
+Also der Grund, wenn ihr jetzt irgendwie denkt, habe ich ja noch nie was von gehört.
+
+1755
+01:37:54,500 --> 01:37:56,500
+Ja, es gibt halt irgendwie systemische Gründe.
+
+1756
+01:37:56,500 --> 01:37:58,500
+Wir haben es in der Medienfolge alles besprochen.
+
+1757
+01:37:58,500 --> 01:38:01,500
+Aber ich möchte gerne noch mal kurz darauf eingehen.
+
+1758
+01:38:01,500 --> 01:38:03,500
+Wir haben jetzt ja ganz viel horrende Sachen gehört.
+
+1759
+01:38:03,500 --> 01:38:06,500
+Also wir haben angefangen, die Steuergerechtigkeit,
+
+1760
+01:38:06,500 --> 01:38:12,500
+quasi abzuschaffen beziehungsweise so stark einzuschränken, dass einige sehr profitieren.
+
+1761
+01:38:12,500 --> 01:38:17,500
+Die profitieren dann sogar eigentlich in gewisser Weise doppelt, was du gerade eben erzählt hast.
+
+1762
+01:38:17,500 --> 01:38:24,500
+Und bereichern sich sogar noch, indem sie dann ihren Fair Share sowieso sehr gering zahlen und noch was beiseite schaffen.
+
+1763
+01:38:24,500 --> 01:38:25,500
+Wo parken sie das dann?
+
+1764
+01:38:25,500 --> 01:38:29,500
+Ja, wir haben keine Börsenumsatzsteuer und wir hatten früher mal Wohnungsgemeinnützigkeit.
+
+1765
+01:38:29,500 --> 01:38:31,500
+Die kommt jetzt ja wieder so.
+
+1766
+01:38:31,500 --> 01:38:35,500
+Aber das wird dann geparkt in Geld, in Anleihen, in Aktien oder halt eben in den Betrieben.
+
+1767
+01:38:35,500 --> 01:38:36,500
+Ja, das ist ja auch so.
+
+1768
+01:38:36,500 --> 01:38:38,500
+Und dann kommen wir eben in Vermietung.
+
+1769
+01:38:38,500 --> 01:38:40,500
+Ja, und dann sehen wir halt eben genau das, was wir heute eben auch haben.
+
+1770
+01:38:40,500 --> 01:38:44,500
+So hast du jetzt ein Mehrfamilienhaus, dann hast du im Prinzip dein eigenes Sparschwein geschaffen.
+
+1771
+01:38:44,500 --> 01:38:47,500
+So, und all die Leute wissen nicht mehr, wo sie denn wohnen sollen.
+
+1772
+01:38:47,500 --> 01:38:50,500
+Auch dagegen könnte man ja politisch was machen.
+
+1773
+01:38:50,500 --> 01:38:53,500
+Ja, dagegen gab es auch mal politische Programme.
+
+1774
+01:38:53,500 --> 01:38:55,500
+Aber versuch das heute mal.
+
+1775
+01:38:55,500 --> 01:38:57,500
+Also das ist ein großes Problem.
+
+1776
+01:38:57,500 --> 01:39:02,500
+Stattdessen wird gesagt, jetzt wo halt unser Wirtschaftssystem langsam so ein bisschen die eigenen Grenzen kennenlernt.
+
+1777
+01:39:02,500 --> 01:39:05,500
+Stattdessen wird gesagt, wir sollen doch bitte schön,
+
+1778
+01:39:05,500 --> 01:39:07,500
+wir sollen doch bitte schön mehr arbeiten.
+
+1779
+01:39:07,500 --> 01:39:10,500
+Und dann wird da gesagt, okay, wir müssen Lohnzurückhaltung üben.
+
+1780
+01:39:10,500 --> 01:39:12,500
+Wir sollen mehr Stunden arbeiten, sollen später in Rente gehen,
+
+1781
+01:39:12,500 --> 01:39:18,500
+sollen keine Lohnfortzahlung und Krankheitsfall mehr haben, zumindest nicht in den ersten Tagen und so weiter und so fort.
+
+1782
+01:39:18,500 --> 01:39:24,500
+Und dabei übersehen wir, dass wir über eine Milliarde Überstunden im Jahr haben.
+
+1783
+01:39:24,500 --> 01:39:29,500
+Über eine Milliarde Überstunden, wovon 50 Prozent unbezahlt sind.
+
+1784
+01:39:29,500 --> 01:39:34,500
+Wir übersehen, dass acht Millionen Arbeitnehmer weniger als 14 Euro Stundenlohn erhalten.
+
+1785
+01:39:34,500 --> 01:39:36,500
+Warum 14 Euro?
+
+1786
+01:39:36,500 --> 01:39:42,500
+Ja, bei 14 Euro Keks ungefähr ist die Grenze, wo so ein Mindestlohn eigentlich arbeits-, armutssicher wäre.
+
+1787
+01:39:42,500 --> 01:39:47,500
+Das heißt, acht Millionen Arbeitnehmer arbeiten unter ziemlich schlechten Verhältnissen,
+
+1788
+01:39:47,500 --> 01:39:53,500
+kriegen also nicht mal nur den gerechten Lohn, sondern nicht mal einen Lohn, von dem sie jetzt tatsächlich gut leben könnten.
+
+1789
+01:39:53,500 --> 01:39:55,500
+Also das sind ja alles strukturelle Realitäten.
+
+1790
+01:39:55,500 --> 01:39:58,500
+Das ist alles Gegenstand von Politikprogramm.
+
+1791
+01:39:58,500 --> 01:40:03,500
+Eine echte Sozialdemokratie, so wie du gerade eben genannt hast, würde solche Sachen adressieren.
+
+1792
+01:40:03,500 --> 01:40:08,500
+Macht es manchmal auch, aber sobald dann eine Headline irgendwie komisch klingt,
+
+1793
+01:40:08,500 --> 01:40:12,500
+gehen die sofort wieder wie das Reh von der Straße oder zurück in den Wald.
+
+1794
+01:40:12,500 --> 01:40:13,500
+Ja, und dann ist wieder Essig.
+
+1795
+01:40:13,500 --> 01:40:16,500
+Aber tatsächlich ist genau das, was wir hier haben.
+
+1796
+01:40:16,500 --> 01:40:18,500
+Das System ist nicht broken.
+
+1797
+01:40:18,500 --> 01:40:21,500
+Das System wurde die letzten Jahre gebaut this way.
+
+1798
+01:40:21,500 --> 01:40:28,500
+Also wir haben hier eine Art von Raubzug der Umverteilung von unten nach oben.
+
+1799
+01:40:28,500 --> 01:40:32,500
+Und auch das ist etwas, was sich Politikwissenschaftler an verschiedenen Stellen angesehen haben.
+
+1800
+01:40:32,500 --> 01:40:37,500
+Drüben in den Staaten gibt es mehrere groß angelegte Studien, die das belegt haben.
+
+1801
+01:40:37,500 --> 01:40:39,500
+Und auch hier in Deutschland ist das mehrfach rausgekommen.
+
+1802
+01:40:39,500 --> 01:40:47,500
+Selbst die Bundesregierung selber hatte in den Armuts- und Reichtumsberichten von 2016 einen ganz tollen Satz gehabt.
+
+1803
+01:40:47,500 --> 01:40:51,500
+Nämlich die Wahrscheinlichkeit für eine Politikveränderung ist wesentlich höher,
+
+1804
+01:40:51,500 --> 01:40:56,500
+wenn diese Politikveränderung von einer großen Anzahl von Menschen mit höherem Einkommen unterstützt wird.
+
+1805
+01:40:56,500 --> 01:41:00,500
+Also wir haben doch hier genau dieses, was wir immer wieder haben.
+
+1806
+01:41:00,500 --> 01:41:04,500
+Dass wir postdemokratische Strukturen haben, dass wir plutokratische Strukturen haben.
+
+1807
+01:41:04,500 --> 01:41:08,500
+Also sprich, Teilnahme an der Herrschaft hat viel mit Vermögen und Geld zu tun.
+
+1808
+01:41:08,500 --> 01:41:09,500
+Ja genau.
+
+1809
+01:41:09,500 --> 01:41:14,500
+Also wenn wir uns fragen, warum die obersten 10% so gutgestellt sind und das immer weiter in die Richtung geht,
+
+1810
+01:41:14,500 --> 01:41:16,500
+da haben wir den Beleg.
+
+1811
+01:41:16,500 --> 01:41:20,500
+Einen weiteren Teil aus der Empirie wissen wir zum Beispiel, als es losging mit Kindergrundsicherung
+
+1812
+01:41:20,500 --> 01:41:26,500
+und sollte man halt irgendwie Elterngeld auch für Superreiche rausgeben oder sehr Hoch- und Höchstverdienende.
+
+1813
+01:41:26,500 --> 01:41:29,500
+Da hat man gesagt, okay, ihr könnt die Kindergrundsicherung haben,
+
+1814
+01:41:29,500 --> 01:41:32,500
+aber dafür müssen die Hoch- und Höchstverdienenden auf das Elterngeld verzichten.
+
+1815
+01:41:32,500 --> 01:41:36,500
+Die haben sich ganz schnell organisiert und schwups war am Ende beides aus dem Raum.
+
+1816
+01:41:36,500 --> 01:41:43,500
+Das ist genau das. Das ist echte Power durch diese verschiedenen Kapitalsorten, die du vorhin genannt hast.
+
+1817
+01:41:43,500 --> 01:41:48,500
+Das hat nichts mit links oder rechts zu tun, sondern das ist letzten Endes ein Stück weit Betrug.
+
+1818
+01:41:48,500 --> 01:41:52,500
+Also das, was wir hier haben, ist ein System, das nicht gerecht ist.
+
+1819
+01:41:52,500 --> 01:41:58,500
+Und zwar nicht im Christian Lindner Sinne gerecht, nach dem Motto, ja, man müsste den Superreichen und Solidärer zum Schlag und so.
+
+1820
+01:41:58,500 --> 01:41:59,500
+Nein.
+
+1821
+01:41:59,500 --> 01:42:04,500
+Sondern wir haben hier strukturelle Systeme geschaffen, die den größten Teil der Bevölkerung benachteiligen
+
+1822
+01:42:04,500 --> 01:42:09,500
+und sind gerade dabei, dieses System nochmal auf elf zu drehen, wenn der nächste kommt.
+
+1823
+01:42:09,500 --> 01:42:15,500
+Also jeder, der jetzt heute das, was wir haben, verteidigt oder die Politik, die das verschlimmert, also extremer macht, verteidigt,
+
+1824
+01:42:15,500 --> 01:42:20,500
+der wird nicht morgen Millionär sein, sondern der ist nur ein Arbeiter mit Stockholm-Syndrom.
+
+1825
+01:42:20,500 --> 01:42:23,500
+Ja, und muss sich dann die Frage stellen, ob er das wirklich will.
+
+1826
+01:42:23,500 --> 01:42:26,500
+Das Einzige, was uns herausbringt, wäre sozialdemokratische Politik.
+
+1827
+01:42:26,500 --> 01:42:28,500
+Und an der Stelle würde ich gerne ein Zitat noch bringen von der Frau von der Linke.
+
+1828
+01:42:28,500 --> 01:42:32,500
+Der war nämlich 2006 noch der reichste Mann der Welt.
+
+1829
+01:42:32,500 --> 01:42:37,500
+Und der hat damals in den New York Times einen Satz gesagt, den muss man sich eigentlich tätowieren.
+
+1830
+01:42:37,500 --> 01:42:46,500
+Er hat damals gesagt, es herrscht Klassenkrieg, richtig, aber es ist meine Klasse, die Klasse der Reichen, die Krieg führt und wir gewinnen.
+
+1831
+01:42:46,500 --> 01:42:50,500
+Und das erklärt so ein bisschen etwas nicht, dass er dazu aufgerufen hätte.
+
+1832
+01:42:50,500 --> 01:42:52,500
+Es gibt auch keine große Verschwörung.
+
+1833
+01:42:52,500 --> 01:42:57,500
+Man sieht nur halt eben die Tendenz dazu, dass wir etwas haben, was sich Legislative Capture nennt.
+
+1834
+01:42:57,500 --> 01:43:06,500
+Also, dass wir momentan Politik machen, eher nicht für alle und dass jeder seinen Platz bekommt, sondern dass sich das eben über all die Jahre verschoben hat.
+
+1835
+01:43:06,500 --> 01:43:10,500
+Und nach der Finanzkrise wurde es noch schlimmer und jetzt die letzten Jahre auch.
+
+1836
+01:43:10,500 --> 01:43:17,500
+Wir haben in Corona 3,7 Billionen weltweit an Vermögen, wurde verteilt in Richtung der Reichen und den Ärmeren wurde es genommen.
+
+1837
+01:43:17,500 --> 01:43:20,500
+Das ist jetzt ein Systemfaktor und darüber müssen wir reden.
+
+1838
+01:43:20,500 --> 01:43:23,500
+Das muss ins Zentrum der Debatte.
+
+1839
+01:43:23,500 --> 01:43:25,500
+Und es ist nochmal ganz wichtig, dass du betont hast,
+
+1840
+01:43:25,500 --> 01:43:30,500
+dass das eigentlich keine Frage von links und rechts ist, wobei, dann könnte man sich überstreiten,
+
+1841
+01:43:30,500 --> 01:43:38,500
+für mich ist rechts ja oft sozusagen die Bewahrung des Status Quo und der herrschenden Ungleichheitsverhältnisse.
+
+1842
+01:43:38,500 --> 01:43:42,500
+So könnte man auch rechts lesen, aber oft tun wir es ja ein bisschen anders.
+
+1843
+01:43:42,500 --> 01:43:48,500
+Und da will ich einfach nochmal euch verdeutlichen, es gibt ja gewisse politische Strömungen.
+
+1844
+01:43:48,500 --> 01:43:53,500
+Nehmen wir mal beispielsweise den Liberalismus, wie sie angeblich die FDP vertritt.
+
+1845
+01:43:53,500 --> 01:43:54,500
+Aber!
+
+1846
+01:43:54,500 --> 01:44:02,500
+Wenn die FDP sozusagen ihre liberalen Werte, die sie immer vorgibt zu haben, wirklich ernst nehmen würde,
+
+1847
+01:44:02,500 --> 01:44:09,500
+auch im Sinne von ja, Leistungsgesellschaft, im Sinne von Chancengleichheit und diese Sachen,
+
+1848
+01:44:09,500 --> 01:44:15,500
+also Anstrengung und dann bekomme ich meinen Lohn, wenn sie das wirklich ernst meint.
+
+1849
+01:44:15,500 --> 01:44:22,500
+Und das ist aus meiner Sicht ein legitimes, liberales Vorhaben und es ist ja nicht umsonst, ist die liberale Strömung eine,
+
+1850
+01:44:22,500 --> 01:44:23,500
+die eigentlich auch sehr stark interessiert ist.
+
+1851
+01:44:23,500 --> 01:44:26,500
+Und die eigentlich auch sehr pro-demokratisch in der Vergangenheit war.
+
+1852
+01:44:26,500 --> 01:44:29,500
+Das war mit eine treibende Kraft für sehr viele Revolutionen.
+
+1853
+01:44:29,500 --> 01:44:33,500
+Das heften sie sich auch gerne immer mal wieder zur Zierde ans Revier.
+
+1854
+01:44:33,500 --> 01:44:44,500
+Zum Beispiel nennt die FDP ja immer ganz gerne das Hambacher Fest als Vorläufer der Märzrevolution 1848 in Deutschland.
+
+1855
+01:44:44,500 --> 01:44:49,500
+Und man muss sich da nochmal bewusst machen, gegen was die Leute damals aufbegehrt haben.
+
+1856
+01:44:49,500 --> 01:44:52,500
+Nämlich gegen die herrschenden Machtstrukturen.
+
+1857
+01:44:52,500 --> 01:44:58,500
+Adel, Fürstentümer, deren überbordende Macht.
+
+1858
+01:44:58,500 --> 01:45:04,500
+Und gleichzeitig waren sie eben auch dazu, Grund- und Freiheitsrechte einzufordern.
+
+1859
+01:45:04,500 --> 01:45:11,500
+Und heute erleben wir, dass die FDP bereit ist, Grund- und Freiheitsrechte mit Füßen zu treten.
+
+1860
+01:45:11,500 --> 01:45:18,500
+An ganz vielen verschiedenen Stellen und vor allen Dingen da, wo es um Herrschafts- und Machtverhältnisse geht.
+
+1861
+01:45:18,500 --> 01:45:21,500
+Also sie sind sozusagen konservativ in der Frage,
+
+1862
+01:45:21,500 --> 01:45:24,500
+wie man mit Ungleichheit und Leistung umgeht.
+
+1863
+01:45:24,500 --> 01:45:31,500
+Und so ist es zum Beispiel eben so, eigentlich müsste eine FDP eine radikale Erbschaftssteuer einfordern.
+
+1864
+01:45:31,500 --> 01:45:33,500
+Im Sinne ihrer eigenen Logik.
+
+1865
+01:45:33,500 --> 01:45:42,500
+Also um eben die Freiheit der Einzelnen zu ermöglichen, die Leistung abzurufen und zu zeigen, die ja angeblich in allen schlummert.
+
+1866
+01:45:42,500 --> 01:45:44,500
+Das Zweite wäre in der Bildungspolitik.
+
+1867
+01:45:44,500 --> 01:45:50,500
+Also es müsste eigentlich von vorne bis hinten, inklusive auch so Konzepte wie Kindergrundsicherung,
+
+1868
+01:45:50,500 --> 01:45:53,500
+müsste eigentlich ein FDP-Programmpunkt sein.
+
+1869
+01:45:53,500 --> 01:46:01,500
+Wenn man Interesse hat, Armut nachhaltig zu verändern, indem ich nämlich Kindern in Armut, wofür sie ja nichts können,
+
+1870
+01:46:01,500 --> 01:46:11,500
+ein Kapital zur Verfügung gebe, damit sie überhaupt eine Chance haben, letztendlich über eigene Leistungen da rauszukommen.
+
+1871
+01:46:11,500 --> 01:46:13,500
+Aber selbst das lösen diese Leute nicht ein.
+
+1872
+01:46:13,500 --> 01:46:17,500
+Also selbst ihre eigene Ideologie verraten sie an der Stelle.
+
+1873
+01:46:17,500 --> 01:46:19,500
+So und dann gehen wir den nächsten Schritt weiter zur Sozialdemokratie.
+
+1874
+01:46:20,500 --> 01:46:22,500
+Das haben wir jetzt ausführlich besprochen.
+
+1875
+01:46:22,500 --> 01:46:25,500
+Auch hier Verrat an der Idee.
+
+1876
+01:46:25,500 --> 01:46:27,500
+An sehr vielen Punkten.
+
+1877
+01:46:27,500 --> 01:46:32,500
+Und das begann eklatant mit Schröder und hat sich aber so durchfortgesetzt.
+
+1878
+01:46:32,500 --> 01:46:42,500
+Und ich meine, nicht umsonst haben wir hier heute einen Kanzler, der sich irgendwie komischerweise an sehr komplexe Sachverhalte wie Cum-Ex nicht mehr erinnern kann.
+
+1879
+01:46:42,500 --> 01:46:49,500
+Wo ich mich dann auch frage, sollte man solche Leute dann zum Bundeskanzler machen, die sich an solche Sachverhalte nicht mehr erinnern können?
+
+1880
+01:46:49,500 --> 01:46:50,500
+Fragezeit.
+
+1881
+01:46:50,500 --> 01:46:54,500
+An welchen?
+
+1882
+01:46:54,500 --> 01:46:56,500
+Finde ich fragwürdig.
+
+1883
+01:46:56,500 --> 01:47:09,500
+Aber die SPD hat ihre eigene Ideologie komplett verraten in weiten Teilen oder lässt sich da auch über den Tisch ziehen und vertritt noch nichtmals mutig sozialdemokratische Positionen.
+
+1884
+01:47:09,500 --> 01:47:16,500
+Und selbst eine CDU, die ja innerhalb ihrer Bewegung christliche Werte immer wieder vornehmen.
+
+1885
+01:47:16,500 --> 01:47:18,500
+Es gab auch so was wie die Katholische Soziallehre und so weiter.
+
+1886
+01:47:18,500 --> 01:47:23,239
+gestörte Verteilung der Erdengüter, das ist ein Zitat,
+
+1887
+01:47:23,600 --> 01:47:27,239
+in Übereinstimmung mit dem Gemeinwohl gebracht werden muss.
+
+1888
+01:47:27,500 --> 01:47:30,119
+Und dazu gehört eben ein gerechter Lohn,
+
+1889
+01:47:30,840 --> 01:47:35,960
+die Verpflichtung der Reichen zu einem gerechten Gebrauch ihres Besitzes
+
+1890
+01:47:35,960 --> 01:47:40,000
+und den Abbau von Diskriminierung aufgrund von Ungleichheiten.
+
+1891
+01:47:40,000 --> 01:47:44,720
+Und die Rolle des Staates wird ganz klar als Rechts- und Wohlfahrtsstaat benannt,
+
+1892
+01:47:44,720 --> 01:47:52,060
+der aktiv eingreifen soll, um letztendlich gleiche Chancen
+
+1893
+01:47:52,060 --> 01:47:57,199
+und gleichwertige Lebensbedingungen für alle Gesellschaftsmitglieder zu schaffen.
+
+1894
+01:47:57,560 --> 01:48:00,640
+Aber wo ist das bei Friedrich Merz? Wo ist das bei Carsten Linnemann,
+
+1895
+01:48:00,860 --> 01:48:06,360
+die jetzt die Armen knechten wollen, die Reichen weiter sozusagen stopfen wollen
+
+1896
+01:48:06,360 --> 01:48:11,900
+mit Zugeständnissen und weiteren Belohnungen und noch weiteren Steuererleichterungen?
+
+1897
+01:48:12,360 --> 01:48:14,520
+Wir haben es ja gerade ausgeführt, die sind ja über die Jahrzehnte
+
+1898
+01:48:14,520 --> 01:48:14,699
+immer wieder in der Lage, die Reichen zu stopfen.
+
+1899
+01:48:14,699 --> 01:48:15,859
+Die Reichen sind immer weiter nach unten gegangen.
+
+1900
+01:48:16,300 --> 01:48:17,420
+Wie weit soll es denn noch gehen?
+
+1901
+01:48:18,279 --> 01:48:21,399
+Und wie prekär soll es denn noch werden für die, die nichts haben?
+
+1902
+01:48:21,720 --> 01:48:27,779
+So, und Grün, ähnlich Thematik, ja, ökologisches Bewusstsein und so weiter,
+
+1903
+01:48:27,960 --> 01:48:30,960
+aber Ökologie kannst du heute und Bekämpfung des Klimawandels
+
+1904
+01:48:30,960 --> 01:48:33,179
+kannst du ohne Rückverteilung heute nicht denken.
+
+1905
+01:48:33,739 --> 01:48:36,920
+Das ist nicht möglich, sowohl auf dem Global Scale,
+
+1906
+01:48:37,559 --> 01:48:41,859
+ja, also Stichwort Schadensausgleich, wie aber auch im Innern des eigenen Landes.
+
+1907
+01:48:41,859 --> 01:48:44,260
+Wenn ich Akzeptanz schaffen will für Transformation,
+
+1908
+01:48:44,260 --> 01:48:48,699
+für grüne Transformation, muss ich mit der ökonomischen Rückverteilung anfangen.
+
+1909
+01:48:48,820 --> 01:48:53,119
+Das ist die Grundvoraussetzung, weil dann haben die Leute auch keine Angst mehr,
+
+1910
+01:48:53,659 --> 01:48:56,300
+dass sie irgendwelche Kosten schultern müssen,
+
+1911
+01:48:56,539 --> 01:48:58,960
+die die Superreichen ja wieder nicht schultern müssen,
+
+1912
+01:48:59,039 --> 01:49:00,260
+weil sie wieder Ausnahmen haben.
+
+1913
+01:49:00,720 --> 01:49:03,739
+Und deswegen ist sozusagen mein Appell,
+
+1914
+01:49:04,180 --> 01:49:07,260
+schaut weniger auf diese Ideologie-Ablenkungen,
+
+1915
+01:49:08,119 --> 01:49:09,659
+die da immer wieder ins Felde geführt wird,
+
+1916
+01:49:09,760 --> 01:49:12,000
+so, das ist zu links, das ist zu rechts,
+
+1917
+01:49:12,000 --> 01:49:13,680
+sondern guckt euch an,
+
+1918
+01:49:13,680 --> 01:49:19,680
+wie handeln diese Akteure und sie handeln im Moment für mich ununterscheidbar ähnlich.
+
+1919
+01:49:19,680 --> 01:49:25,920
+Und zwar alle im Interesse des bestehenden Status Quo und des Finanzkapitals
+
+1920
+01:49:25,920 --> 01:49:30,920
+und nicht mehr auch nur annähernd im Zuge ihrer ursprünglichen Ideologie,
+
+1921
+01:49:30,920 --> 01:49:36,920
+wo überall eine Bekämpfung von sozialer Ungleichheit mal einen Platz hatte
+
+1922
+01:49:36,920 --> 01:49:39,420
+und wo ich eigentlich davon ausgegangen bin,
+
+1923
+01:49:39,420 --> 01:49:42,079
+dass sie alle demokratische Werte vertreten,
+
+1924
+01:49:42,079 --> 01:49:43,640
+die wiederum auf der Idee sind,
+
+1925
+01:49:43,640 --> 01:49:44,119
+die sich in der Demokratie beruhen,
+
+1926
+01:49:44,300 --> 01:49:46,860
+siehe Rousseau, siehe Gesellschaftsvertrag und so weiter.
+
+1927
+01:49:47,320 --> 01:49:50,079
+Demokratie basiert auf der Grundidee,
+
+1928
+01:49:50,100 --> 01:49:53,340
+gleiche Chancen, gleiche Werte zu schaffen
+
+1929
+01:49:53,340 --> 01:49:58,079
+und auch die ökonomischen Verhältnisse zumindest nicht ausufern zu lassen
+
+1930
+01:49:58,079 --> 01:49:59,760
+in eine maximale Ungleichheit.
+
+1931
+01:49:59,860 --> 01:50:05,039
+Ja, und wer sich vollständig ideologisch irgendwie von Parteipolitik lösen möchte
+
+1932
+01:50:05,039 --> 01:50:09,640
+und immer noch auf unser gemeinsames Grundgesetz,
+
+1933
+01:50:09,640 --> 01:50:12,640
+auf unsere Verfassung, auf unseren Gesellschaftsvertrag,
+
+1934
+01:50:13,640 --> 01:50:16,539
+der hoffentlich noch Geltung hat, schaut,
+
+1935
+01:50:16,820 --> 01:50:22,400
+ja, der sollte einfach auf Paragraf 20 oder 28 des Grundgesetzes schauen.
+
+1936
+01:50:22,900 --> 01:50:27,160
+Artikel 20 Absatz 1 fordert den sozialen Bundesstaat.
+
+1937
+01:50:27,260 --> 01:50:32,039
+Artikel 28 definiert Deutschland als sozialen Rechtsstaat
+
+1938
+01:50:32,039 --> 01:50:34,980
+und zwar mit ganz konkreten Verpflichtungen,
+
+1939
+01:50:35,560 --> 01:50:40,020
+nämlich die Kombination von Grundrechten und Sozialstaatsprinzip.
+
+1940
+01:50:40,020 --> 01:50:41,940
+Unter anderem ist da benannt,
+
+1941
+01:50:41,939 --> 01:50:47,059
+die Sicherung des materiellen Existenzminimums für alle Bürgerinnen und Bürger.
+
+1942
+01:50:47,460 --> 01:50:52,279
+By the way, etwas, was Spahn, Linnemann, Merz und so weiter
+
+1943
+01:50:52,279 --> 01:50:57,479
+am liebsten stärker absehen möchten und beseitigen möchten.
+
+1944
+01:50:57,719 --> 01:50:59,939
+Stichwort Bürgergeldempfängerkrieg.
+
+1945
+01:51:00,879 --> 01:51:02,979
+Dann steht aber auch explizit drin,
+
+1946
+01:51:03,099 --> 01:51:05,399
+Beseitigung sozialer Ungleichheit.
+
+1947
+01:51:05,539 --> 01:51:07,659
+Das ist eine Pflicht des Staates,
+
+1948
+01:51:07,659 --> 01:51:11,799
+den dieser Staat eingeht im Sinne seines Gesellschaftsvertrages.
+
+1949
+01:51:11,939 --> 01:51:14,859
+Und letztendlich Eigentum verpflichtet.
+
+1950
+01:51:15,219 --> 01:51:18,019
+Die Sozialbindung des Eigentums.
+
+1951
+01:51:18,359 --> 01:51:23,819
+Nicht jeder kann hier x-beliebig haufenweise Geld anhäufen
+
+1952
+01:51:23,819 --> 01:51:26,719
+und sich der sozialen Verantwortung entziehen.
+
+1953
+01:51:27,319 --> 01:51:32,779
+Das widerspricht und bricht unseren gemeinsamen Gesellschaftsvertrag,
+
+1954
+01:51:33,019 --> 01:51:34,599
+unser Grundgesetz.
+
+1955
+01:51:35,019 --> 01:51:36,359
+Ich hatte gerade eben noch was,
+
+1956
+01:51:36,439 --> 01:51:38,019
+aber du hast das einfach so perfekt abgebildet,
+
+1957
+01:51:38,139 --> 01:51:40,059
+dass ich das jetzt gar nicht spoilern will.
+
+1958
+01:51:40,819 --> 01:51:41,759
+Nee, nee, das war jetzt einfach,
+
+1959
+01:51:41,760 --> 01:51:43,760
+das war jetzt so gut am Ende zusammengeschnürt,
+
+1960
+01:51:44,480 --> 01:51:46,260
+da kann ich gar nichts mehr dahinter ansetzen.
+
+1961
+01:51:46,640 --> 01:51:47,739
+Ich hätte jetzt nur noch sagen können,
+
+1962
+01:51:47,860 --> 01:51:50,060
+dieses ganz gleich, wo jeder politisch steht,
+
+1963
+01:51:50,500 --> 01:51:52,039
+was hier stattfindet, ist ein Raub.
+
+1964
+01:51:52,159 --> 01:51:53,619
+Das ist Ungleichheit bei Design.
+
+1965
+01:51:54,000 --> 01:51:56,220
+Und niemand sollte das akzeptieren wollen,
+
+1966
+01:51:56,560 --> 01:51:59,860
+es sei denn, er gehört zu den obersten halben Prozent oder so.
+
+1967
+01:52:00,300 --> 01:52:01,760
+Jeder muss sich dagegen aufbegehren
+
+1968
+01:52:02,380 --> 01:52:03,900
+und darf das nicht so hinnehmen.
+
+1969
+01:52:04,079 --> 01:52:06,280
+Das hätte ich noch gesagt, aber brauchen wir nicht.
+
+1970
+01:52:07,460 --> 01:52:08,239
+Brauchen wir schon.
+
+1971
+01:52:10,239 --> 01:52:10,680
+Schredi.
+
+1972
+01:52:10,680 --> 01:52:13,960
+Was da nur hilft, ist halt eben nicht schweigen,
+
+1973
+01:52:14,280 --> 01:52:15,500
+sondern sich hörbar machen.
+
+1974
+01:52:15,960 --> 01:52:18,260
+Das ist ja Ungerechtigkeit bei Design.
+
+1975
+01:52:18,800 --> 01:52:22,360
+Und zwar so lange, bis wir daran hinreichend Kritik üben.
+
+1976
+01:52:23,060 --> 01:52:24,640
+Ja, das bleibt nicht aus.
+
+1977
+01:52:25,140 --> 01:52:30,100
+Und wer das macht, der kann bei dem Hinweis auch gerne uns weiterempfehlen
+
+1978
+01:52:30,100 --> 01:52:32,579
+und uns verlinken und kommentieren und liken.
+
+1979
+01:52:33,260 --> 01:52:37,360
+Und wer Lust hat, der kann auch hier unser Format unterstützen.
+
+1980
+01:52:37,560 --> 01:52:38,539
+Ein paar machen das schon.
+
+1981
+01:52:38,539 --> 01:52:40,640
+Und die Hauptproduzenten von dieser Serie,
+
+1982
+01:52:40,680 --> 01:52:44,700
+Sendung waren Alexander, Chris, Katharina, Patrick und Robert.
+
+1983
+01:52:44,940 --> 01:52:45,700
+Vielen lieben Dank.
+
+1984
+01:52:46,300 --> 01:52:48,539
+Vielen lieben Dank, dass ihr unsere Position
+
+1985
+01:52:49,100 --> 01:52:53,720
+am Verhandlungstisch der Gesellschaft ein Stück weit stärkt.
+
+1986
+01:52:54,000 --> 01:52:54,680
+Danke dafür.
+
+1987
+01:52:54,900 --> 01:52:57,680
+Und wir freuen uns natürlich auf jeden und jede,
+
+1988
+01:52:57,960 --> 01:52:59,700
+die da vielleicht noch mit dazukommt
+
+1989
+01:52:59,700 --> 01:53:02,320
+und genau das mit unterstützt.
+
+1990
+01:53:02,640 --> 01:53:07,159
+In diesem Sinne, ich hoffe, ihr seid auch ein bisschen wütend geworden,
+
+1991
+01:53:07,159 --> 01:53:09,060
+so wie ich im Laufe der Sendung.
+
+1992
+01:53:09,060 --> 01:53:12,200
+Ich habe mich ja schier da reingeschraubt,
+
+1993
+01:53:12,280 --> 01:53:16,360
+weil das Thema macht mich wirklich zum Teil fassungslos
+
+1994
+01:53:16,360 --> 01:53:18,060
+und zum Teil wirklich wütend.
+
+1995
+01:53:19,080 --> 01:53:22,280
+Und ja, darüber hinaus uns zu unterstützen gilt auch,
+
+1996
+01:53:22,320 --> 01:53:24,500
+ihr habt es jetzt gehört, was die Instrumente sind,
+
+1997
+01:53:24,660 --> 01:53:26,420
+sowohl auf der politischen, aber vor allen Dingen
+
+1998
+01:53:26,420 --> 01:53:28,340
+auf der zivilgesellschaftlichen Ebene.
+
+1999
+01:53:28,400 --> 01:53:31,780
+Wir wissen, einige aus Gewerkschaften hören uns zu.
+
+2000
+01:53:32,080 --> 01:53:35,180
+Die werden das wahrscheinlich doppelt und dreifach unterschreiben.
+
+2001
+01:53:35,420 --> 01:53:36,300
+Das ist super wichtig.
+
+2002
+01:53:36,300 --> 01:53:37,960
+Das heißt, auch hier wieder der Appell,
+
+2003
+01:53:37,960 --> 01:53:40,560
+wenn ihr was verändern wollt, müsst ihr aktiv werden.
+
+2004
+01:53:40,560 --> 01:53:41,420
+Anders wird es nicht gehen.
+
+2005
+01:53:41,420 --> 01:53:43,380
+Also das wird nicht von alleine passieren.
+
+2006
+01:53:43,380 --> 01:53:45,779
+Das ist hoffentlich auch mit dieser Sendung noch mal klar.
+
+2007
+01:53:45,779 --> 01:53:49,140
+Also mehr Gleichheit wird nicht von alleine passieren.
+
+2008
+01:53:49,140 --> 01:53:50,100
+Das ist ein Konflikt.
+
+2009
+01:53:50,100 --> 01:53:51,020
+Das ist ein Kampf.
+
+2010
+01:53:51,460 --> 01:53:55,079
+Man muss an den Verhandlungstisch und man muss vor allen Dingen mit guten Mitteln
+
+2011
+01:53:55,520 --> 01:53:59,380
+dorthin gehen, um das dann wirklich zu verändern.
+
+2012
+01:53:59,380 --> 01:54:02,980
+Und in diesem Sinne wünschen wir euch für die kommende Woche sehr viel Kraft dafür.
+
+2013
+01:54:03,640 --> 01:54:07,520
+Und ja, seid wachsam, seid kämpferisch.
+
+2014
+01:54:07,520 --> 01:54:07,939
+Und wir hören uns dann wieder.
+
+2015
+01:54:07,939 --> 01:54:10,079
+Wir hören uns nächste Woche wieder.
+
+2016
+01:54:10,299 --> 01:54:11,039
+Macht's gut, ihr Lieben.
+
+2017
+01:54:11,639 --> 01:54:11,799
+Ciao.
+
+2018
+01:54:11,979 --> 01:54:12,379
+Macht's gut.
+
+2019
+01:54:12,439 --> 01:54:12,759
+Bis bald.
+
+2020
+01:54:12,859 --> 01:54:13,099
+Ciao.
+
+2021
+01:54:37,939 --> 01:55:06,500
+,,es ist gut und dieses Video ist auch
+
+2022
+01:55:06,500 --> 01:55:06,979
+besonders gut.
+
+2023
+01:55:06,979 --> 01:55:07,299
+,,Es war super, mau, gut gemacht.
+
+2024
+01:55:07,300 --> 01:55:13,500
+India!

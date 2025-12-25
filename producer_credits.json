@@ -1,0 +1,386 @@
+{
+  "episodes": {
+    "10": [
+      "Alexander",
+      "Robert"
+    ],
+    "13": [
+      "Alexander",
+      "Robert",
+      "Patrick"
+    ],
+    "14": [
+      "Robert",
+      "Patrick"
+    ],
+    "22": [
+      "Sendung waren Alexander",
+      "Chris",
+      "Katharina",
+      "Patrick",
+      "Robert"
+    ],
+    "26": [
+      "Chris",
+      "Katharina",
+      "Patrick",
+      "Robert"
+    ],
+    "27": [
+      "Chris",
+      "Katharina",
+      "Patrick"
+    ],
+    "37": [
+      "Chris",
+      "Katharina",
+      "Patrick",
+      "Robert"
+    ],
+    "40": [
+      "Chris",
+      "Alexander",
+      "Robert",
+      "Patrick"
+    ],
+    "43": [
+      "Alexander",
+      "Katharina",
+      "Robert",
+      "Patrick"
+    ],
+    "45": [
+      "Chris",
+      "Katharina",
+      "Alexander",
+      "Patrick",
+      "Robert"
+    ],
+    "47": [
+      "Katharina",
+      "Patrick",
+      "Adrian",
+      "Alexander",
+      "Robert"
+    ],
+    "48": [
+      "Katharina",
+      "Adrian",
+      "Patrick",
+      "Robert",
+      "Alexander"
+    ],
+    "50": [
+      "Patrick",
+      "Adrian",
+      "Chris",
+      "Alexander",
+      "Robert"
+    ],
+    "54": [
+      "Chris",
+      "Katharina",
+      "Patrick",
+      "Adrian",
+      "Alexander",
+      "Robert",
+      "Matthias",
+      "Andreas"
+    ],
+    "55": [
+      "Katharina",
+      "Patrick",
+      "Adrian",
+      "Alexander",
+      "Robert",
+      "Matthias",
+      "Andreas"
+    ],
+    "56": [
+      "Katharina",
+      "Patrick",
+      "Adrian",
+      "Alexander",
+      "Robert",
+      "Matthias",
+      "Andreas"
+    ],
+    "57": [
+      "Chris",
+      "Katharina",
+      "Patrick",
+      "Adrian",
+      "Alexander",
+      "Robert",
+      "Matthias",
+      "Andreas"
+    ],
+    "58": [
+      "Matthias",
+      "Robert",
+      "Alexander",
+      "Adrian",
+      "Patrick",
+      "Katharina",
+      "Chris"
+    ],
+    "61": [
+      "Patrick",
+      "Katharina",
+      "Adrian",
+      "Alexander",
+      "Robert",
+      "Matthias",
+      "Andreas"
+    ],
+    "62": [
+      "Katharina",
+      "Patrick",
+      "Adrian",
+      "Alexander",
+      "Robert",
+      "Matthias",
+      "Andreas"
+    ],
+    "64": [
+      "Matthias",
+      "Robert",
+      "Alexander",
+      "Adrian",
+      "Patrick",
+      "Katharina",
+      "Chris"
+    ],
+    "67": [
+      "Mike",
+      "Patrick",
+      "Andreas",
+      "Matthias",
+      "Chris",
+      "Katharina",
+      "Adrian",
+      "Alexander",
+      "Robert"
+    ]
+  },
+  "producer_stats": {
+    "Alexander": {
+      "count": 17,
+      "episodes": [
+        10,
+        13,
+        40,
+        43,
+        45,
+        47,
+        48,
+        50,
+        54,
+        55,
+        56,
+        57,
+        58,
+        61,
+        62,
+        64,
+        67
+      ]
+    },
+    "Robert": {
+      "count": 21,
+      "episodes": [
+        10,
+        13,
+        14,
+        22,
+        26,
+        37,
+        40,
+        43,
+        45,
+        47,
+        48,
+        50,
+        54,
+        55,
+        56,
+        57,
+        58,
+        61,
+        62,
+        64,
+        67
+      ]
+    },
+    "Patrick": {
+      "count": 21,
+      "episodes": [
+        13,
+        14,
+        22,
+        26,
+        27,
+        37,
+        40,
+        43,
+        45,
+        47,
+        48,
+        50,
+        54,
+        55,
+        56,
+        57,
+        58,
+        61,
+        62,
+        64,
+        67
+      ]
+    },
+    "Sendung waren Alexander": {
+      "count": 1,
+      "episodes": [
+        22
+      ]
+    },
+    "Chris": {
+      "count": 12,
+      "episodes": [
+        22,
+        26,
+        27,
+        37,
+        40,
+        45,
+        50,
+        54,
+        57,
+        58,
+        64,
+        67
+      ]
+    },
+    "Katharina": {
+      "count": 17,
+      "episodes": [
+        22,
+        26,
+        27,
+        37,
+        43,
+        45,
+        47,
+        48,
+        54,
+        55,
+        56,
+        57,
+        58,
+        61,
+        62,
+        64,
+        67
+      ]
+    },
+    "Adrian": {
+      "count": 12,
+      "episodes": [
+        47,
+        48,
+        50,
+        54,
+        55,
+        56,
+        57,
+        58,
+        61,
+        62,
+        64,
+        67
+      ]
+    },
+    "Matthias": {
+      "count": 9,
+      "episodes": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        61,
+        62,
+        64,
+        67
+      ]
+    },
+    "Andreas": {
+      "count": 7,
+      "episodes": [
+        54,
+        55,
+        56,
+        57,
+        61,
+        62,
+        67
+      ]
+    },
+    "Mike": {
+      "count": 1,
+      "episodes": [
+        67
+      ]
+    }
+  },
+  "first_episode_with_producers": 10,
+  "not_found": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    38,
+    39,
+    41,
+    42,
+    44,
+    46,
+    49,
+    51,
+    52,
+    53,
+    59,
+    60,
+    63,
+    65,
+    66,
+    68,
+    69
+  ]
+}

@@ -1,0 +1,9083 @@
+1
+00:00:00,000 --> 00:00:28,719
+Schweigen ist Zustimmung.
+
+2
+00:00:28,719 --> 00:00:39,640
+Patrick, hast du eine Ahnung, wie diese ganzen neoliberalen Mythen und Erzählungen das immer wieder schaffen, sich zu erneuern, zu reproduzieren?
+
+3
+00:00:40,060 --> 00:00:51,620
+Das ist eine gute Frage. Wahrscheinlich wie so oft, Wiederholung, Wiederholung, Wiederholung, Wiederholung und das in wahrscheinlich allerlei Spielarten.
+
+4
+00:00:51,620 --> 00:00:58,620
+Ja, Spielarten passt, genau. Wir wollen uns heute mal mit Diskursen auseinandersetzen, die an anderer Stelle stattfinden.
+
+5
+00:00:58,719 --> 00:01:01,979
+Weil die finden halt eben auch in und um Kulturprodukten statt.
+
+6
+00:01:02,699 --> 00:01:07,299
+Und die größte Mediengattung, die wir haben, also wenn man nach Umsatz geht, sind Videospiele.
+
+7
+00:01:07,620 --> 00:01:13,739
+Also im Größenverhältnis, Videospielbranche hat heute mehr Umsatz als Film- und Musikindustrie zusammen.
+
+8
+00:01:13,739 --> 00:01:23,640
+Also wir sprechen jetzt davon 2022 über 180 Milliarden, wobei Musikindustrie und Filmindustrie jeweils so bummelig so 26 Milliarden zusammen erwirtschaftet haben.
+
+9
+00:01:23,879 --> 00:01:27,519
+So für das Jahr 2024 geht man jetzt aus von über 200 Milliarden etc.
+
+10
+00:01:28,099 --> 00:01:28,700
+Also es kommt auch.
+
+11
+00:01:28,719 --> 00:01:39,019
+Es kommt immer darauf an, wie man da zuschneidet. Aber man sieht halt eben das, was früher mal so ein Nischen-Hobby war, ist heute all around us so und auch ernstzunehmend groß.
+
+12
+00:01:39,659 --> 00:01:45,480
+Und wir wollen uns heute mal mit Diskursen in Videospielen auseinandersetzen an einem Beispiel.
+
+13
+00:01:45,799 --> 00:01:48,460
+Also von daher schaltet bitte nicht ab, das wird hier nicht komplett abgenerdet.
+
+14
+00:01:48,539 --> 00:01:53,579
+Wir werden ein bisschen erklären für die Leute, die damit noch keine Berührung hatten, worum es dabei geht.
+
+15
+00:01:53,659 --> 00:01:57,680
+Und dann werden wir immer tiefer einsteigen und darüber sprechen, warum das bedeutsam ist.
+
+16
+00:01:57,680 --> 00:02:05,000
+Also laut dem Kapitalvolumen, was Jens gerade vorgetragen hat, müsstest auch du als zuhörende Gamer sein.
+
+17
+00:02:05,140 --> 00:02:05,940
+Ja, eigentlich schon.
+
+18
+00:02:06,140 --> 00:02:08,420
+Oder zumindest in irgendeiner Art und Weise.
+
+19
+00:02:08,980 --> 00:02:11,080
+Weil ich glaube, man kommt fast nicht mehr drumherum.
+
+20
+00:02:11,300 --> 00:02:15,780
+Und ich meine, es wäre sogar bis zu einer 90-prozentigen Abdeckung.
+
+21
+00:02:15,920 --> 00:02:22,360
+Also von jung bis alt, egal welche Klasse, welche Schicht, welches Alter, welches Geschlecht.
+
+22
+00:02:22,360 --> 00:02:27,560
+Gaming ist allgegenwärtig, wie du ja schon richtig in Zahlen das Ganze formulierst.
+
+23
+00:02:27,680 --> 00:02:34,980
+Und deswegen lohnt es sich doppelt und dreifach hier zuzuhören, weil es geht nicht nur um ein Spiel an und für sich,
+
+24
+00:02:35,080 --> 00:02:42,520
+sondern wir wollen auch eben schauen, welchen Beitrag leisten eigentlich Spiele zum gesellschaftlichen Diskurs
+
+25
+00:02:42,520 --> 00:02:48,960
+und was wird da übertragen und vor allen Dingen, welche Ideologie wird dabei vielleicht auch transportiert.
+
+26
+00:02:49,300 --> 00:02:53,840
+Ja, und das passt auch. Wir haben jetzt gerade tatsächlich ein Spiel von einem deutschen Entwicklerstudio.
+
+27
+00:02:53,840 --> 00:02:57,540
+Ich glaube, aus Mainz kommen die. Das ist eine Spielserie, die ist schon relativ alt.
+
+28
+00:02:57,800 --> 00:03:01,560
+Ungefähr 20 Jahre, glaube ich. Und da ist der neueste Ableger gerade erschienen.
+
+29
+00:03:01,819 --> 00:03:06,340
+Anno 117. Die Zahlen stehen immer für ein Jahr und die Quersumme ist immer neun.
+
+30
+00:03:06,420 --> 00:03:14,840
+Das ist so der Gag, den sie sich mal überlegt haben und bildet quasi jedes Mal wieder den Aufbau einer Zivilisation in der jeweiligen Epoche.
+
+31
+00:03:15,080 --> 00:03:21,020
+So, und Patrick hat irgendwie, ich glaube, Anno 1800 auch ganz, ganz viel gespielt, oder? Kann das sein?
+
+32
+00:03:21,020 --> 00:03:26,300
+Genau, also um mir die Wartezeit auf Anno 117 zu verkürzen.
+
+33
+00:03:26,400 --> 00:03:27,280
+Pax Romana.
+
+34
+00:03:27,680 --> 00:03:28,840
+Anno 1800 ist ja jetzt die erste Woche Donnerstag erschienen.
+
+35
+00:03:29,640 --> 00:03:37,540
+Und bevor das erschienen ist, habe ich wieder mal angefangen, Anno 1800 zu spielen, sozusagen als Einstimmung dessen.
+
+36
+00:03:37,640 --> 00:03:42,819
+Weil dieses Spiel, das gibt es tatsächlich schon seit April 2019.
+
+37
+00:03:43,540 --> 00:03:48,600
+Und als ich das gespielt habe, das war, glaube ich, auch während meines Urlaubes.
+
+38
+00:03:48,600 --> 00:03:54,600
+Und da habe ich dann Jens schon geschrieben, Jens, wir müssen unbedingt eine Episode zu Anno 1800 machen.
+
+39
+00:03:54,960 --> 00:03:57,600
+Weil Anno 1800 ist für mich so...
+
+40
+00:03:57,680 --> 00:04:01,120
+Die prickelnde Essenz des Kapitalismus.
+
+41
+00:04:01,480 --> 00:04:04,340
+Und das muss dringend besprochen werden.
+
+42
+00:04:04,520 --> 00:04:08,659
+Und wir sprechen tatsächlich über das, was dieses Spiel transportiert und eben nicht transportiert.
+
+43
+00:04:08,840 --> 00:04:12,620
+Und welche Dinge es vielleicht verschleiert oder nicht verschleiert.
+
+44
+00:04:12,620 --> 00:04:20,819
+Um es gleich vorweg zu sagen, egal wie wir heute darüber sprechen und das kritisieren, es ist ein sehr, sehr gutes Spiel für mich persönlich.
+
+45
+00:04:21,000 --> 00:04:23,060
+Also ich spiele es sehr, sehr gerne.
+
+46
+00:04:23,780 --> 00:04:26,620
+Deswegen schon Grüße an die Mainzer Spieleentwickler.
+
+47
+00:04:26,620 --> 00:04:28,340
+Spieleentwickler von Ubisoft.
+
+48
+00:04:28,720 --> 00:04:33,840
+Oder um es ganz präzise zu sagen, Ubisoft Mainz bzw. Ubisoft Blue Byte.
+
+49
+00:04:34,139 --> 00:04:37,899
+Und wenn ich mich nicht täusche, kenne ich tatsächlich auch eine Person, die da arbeitet.
+
+50
+00:04:38,139 --> 00:04:41,180
+Deswegen, vielleicht hört ja jemand zufällig aus Mainz mit.
+
+51
+00:04:41,319 --> 00:04:42,560
+Herzliche Grüße gehen raus.
+
+52
+00:04:42,560 --> 00:04:51,639
+Ihr habt eigentlich, ich sag mal von den Mechanics her, wie man so schön sagt, von den Game Mechaniken, ein Spiel kreiert, was mich absolut am Ball bleiben lässt.
+
+53
+00:04:51,740 --> 00:04:53,139
+Und das ist schon eher ungewöhnlich.
+
+54
+00:04:53,340 --> 00:04:53,840
+Ja, absolut.
+
+55
+00:04:54,300 --> 00:04:55,540
+Ich habe tatsächlich auch...
+
+56
+00:04:55,540 --> 00:04:56,560
+Ich tue ja alles für diesen Spiel.
+
+57
+00:04:56,620 --> 00:04:56,899
+Podcast.
+
+58
+00:04:57,120 --> 00:05:02,319
+Ich habe es auch besorgt und letztes Wochenende da einige Stunden reingesteckt.
+
+59
+00:05:02,680 --> 00:05:04,160
+Was ich darüber denke, erzähle ich am Ende.
+
+60
+00:05:04,340 --> 00:05:05,000
+Also bleibt dran.
+
+61
+00:05:06,180 --> 00:05:09,300
+Aber vielleicht mal ganz kurz zur Einordnung, wer es halt eben nicht kennt.
+
+62
+00:05:09,360 --> 00:05:11,620
+Es ist halt ein Aufbauspiel, Echtzeitstrategie.
+
+63
+00:05:11,620 --> 00:05:16,439
+Man bildet also eine Art kleine Zivilisation ab, quasi so ein bisschen im Sandkasten.
+
+64
+00:05:17,040 --> 00:05:22,079
+Und das gehört auch so ein bisschen zu einem Spielsegment, das 4X heißt.
+
+65
+00:05:22,300 --> 00:05:25,079
+Also Explore, Expand, Exploit, Exterminate.
+
+66
+00:05:25,160 --> 00:05:26,620
+Wobei Exterminate hier jetzt nicht...
+
+67
+00:05:26,620 --> 00:05:27,120
+Das ist ja auch nicht so das Thema.
+
+68
+00:05:27,280 --> 00:05:30,920
+Aber wenn man die Begriffe übersetzt, dann wird das schon klar.
+
+69
+00:05:31,019 --> 00:05:35,120
+Damit dieses Auskundschaften, Expandieren, Ausbeuten, Auslöschen.
+
+70
+00:05:35,840 --> 00:05:40,780
+Und da gibt es ja eine ganze Reihe von Spielen, die so Zivilisation quasi symbolieren.
+
+71
+00:05:40,879 --> 00:05:44,379
+Und bei Anno ist das halt noch ein bisschen stärker auf diesen zivilisatorischen Aspekt.
+
+72
+00:05:44,519 --> 00:05:49,439
+Also sprich, man baut über Stunden lang eine Gesellschaft aus, entwickelt die dann weiter und so weiter.
+
+73
+00:05:49,439 --> 00:05:55,759
+Gerade bei Anno besteht hier das Spielprinzip zentral, daraus halt eben ein Inselreich auszubauen,
+
+74
+00:05:55,819 --> 00:05:56,439
+wo man quasi mit dem Spiel...
+
+75
+00:05:56,620 --> 00:05:58,079
+Wo man mit dem Spiel ein Schiff ankommt oder wo er schon da ist.
+
+76
+00:05:58,519 --> 00:06:03,220
+Dort dann einzelne Siedlungen hochzuziehen und dann verschiedene Zivilisationsstufen zu erreichen,
+
+77
+00:06:03,399 --> 00:06:07,100
+indem halt eben diese Wirtschaftskreisläufe immer weiter wachsen.
+
+78
+00:06:07,220 --> 00:06:11,780
+Damit auch die Stadt und damit auch die Arten von Managementaufgaben, die man dann eben hat.
+
+79
+00:06:12,079 --> 00:06:16,379
+Und da Anno 1800, wie der Name schon sagt, halt eben im 19. Jahrhundert angesiedelt ist,
+
+80
+00:06:16,379 --> 00:06:20,379
+passiert hier eben auch was ganz Zentrales, nämlich das Zeitalter der industriellen Revolution.
+
+81
+00:06:20,759 --> 00:06:25,019
+Und einiges davon ist tatsächlich von realen Vorbildern inspiriert.
+
+82
+00:06:25,379 --> 00:06:26,379
+Also so gibt es quasi...
+
+83
+00:06:26,620 --> 00:06:30,939
+Also hier gibt es quasi eine Art alte Welt, die Hauptregion, die ist stark an das industrielle Europa,
+
+84
+00:06:31,139 --> 00:06:33,019
+also Großbritannien, Deutschland etc. angelehnt.
+
+85
+00:06:33,600 --> 00:06:37,199
+Und hier startet man quasi sein, in Anführungszeichen, Imperium.
+
+86
+00:06:37,459 --> 00:06:40,120
+Und dann gibt es eine neue Welt, inspiriert von Südamerika.
+
+87
+00:06:40,120 --> 00:06:47,560
+Dort gilt es quasi zu kolonisieren, exotische Waren, also Kolonialwaren, Baumwolle rum, Bananen zu gelangen.
+
+88
+00:06:48,300 --> 00:06:52,100
+Und also damit die Bedürfnisse der Bürger in der alten Welt zu befriedigen.
+
+89
+00:06:52,180 --> 00:06:56,600
+Und dann gibt es noch eine Reihe von Erweiterungen, also diesen Download-Content,
+
+90
+00:06:56,620 --> 00:07:01,139
+den man dazukaufen kann, der sich dann eben um Arktis und Afrika und das Ganze noch erweitert.
+
+91
+00:07:01,500 --> 00:07:06,019
+Und man spielt quasi den Spross einer ehemals angesehenen britischen Adelsfamilie.
+
+92
+00:07:06,100 --> 00:07:09,259
+Zu Beginn des Spiels kommen wir aus der Ferne zurück und müssen feststellen,
+
+93
+00:07:09,340 --> 00:07:14,000
+dass der Vater im Gefängnis gestorben ist, wurde fälschlicherweise des Verrats an der Krone beschuldigt.
+
+94
+00:07:14,079 --> 00:07:17,860
+Das heißt, es gibt auch so ein bisschen Story drumherum, um das Ganze lebendiger zu machen.
+
+95
+00:07:18,259 --> 00:07:20,259
+Genau, das wäre dann tatsächlich die Kampagne.
+
+96
+00:07:20,540 --> 00:07:22,340
+Also es gibt quasi immer zwei Modi.
+
+97
+00:07:22,340 --> 00:07:26,319
+Einmal den Kampagnemodus, das, was Jens gerade diese Story erzählt hat.
+
+98
+00:07:26,319 --> 00:07:28,540
+Erinnert so ein bisschen an der Graf von Monte Cristo.
+
+99
+00:07:29,459 --> 00:07:33,120
+Das andere ist dann wirklich rein Aufbaulogik.
+
+100
+00:07:33,599 --> 00:07:37,599
+Und da kann man dann beliebig Länge einstellen, wie lange man spielt.
+
+101
+00:07:37,699 --> 00:07:44,639
+Und endlich kann sich die Inseln vorkonfigurieren, wie man es braucht, kann Feinde ein-, ausschalten und so weiter.
+
+102
+00:07:45,399 --> 00:07:49,060
+Und tatsächlich würde ich sagen, auch das vierte X kann man hier spielen.
+
+103
+00:07:49,060 --> 00:07:55,560
+Also im Sinne von militärische Hoheit und andere Mitspieler quasi von der Karte tilgen.
+
+104
+00:07:55,560 --> 00:07:58,819
+Also auch das vierte X ist hier durchaus vertreten.
+
+105
+00:07:58,959 --> 00:08:02,360
+Wobei, diesen Modi hasse ich eigentlich am allermeisten.
+
+106
+00:08:02,500 --> 00:08:06,019
+Also ich will mit Militär eigentlich gar nichts so wirklich am Hut haben.
+
+107
+00:08:06,139 --> 00:08:13,300
+Und mich nerven schon die Piraten, die da rumschippern und dich immer wieder angreifen, weil sie schlecht gelaunt sind und dich ausrauben wollen.
+
+108
+00:08:13,420 --> 00:08:15,560
+Und ich will einfach nur meine schöne Insel hochziehen.
+
+109
+00:08:16,860 --> 00:08:18,360
+Und du hast ja auch gesagt Zivilisation.
+
+110
+00:08:18,779 --> 00:08:23,639
+Also es ist nicht so vergleichbar mit anderen Zivilisationsspielen wie Civilization.
+
+111
+00:08:23,819 --> 00:08:25,360
+Also es geht hier nicht darum.
+
+112
+00:08:25,360 --> 00:08:31,699
+Es geht nicht darum, eine bestimmte Kultur wirklich zu spielen, sondern du bist von vornherein, ja ich würde sagen, englischer Kapitalist.
+
+113
+00:08:32,120 --> 00:08:34,860
+So, das ist deine Zivilisation.
+
+114
+00:08:36,000 --> 00:08:49,180
+Und die einzige andere Zivilisation, die es dann noch gibt, neben den Erweiterungen, die du gerade erwähnt hast, ist eben eine, die sich so in einem, ja, sogenannten neuen Welt, das ist angelehnt an Südamerika.
+
+115
+00:08:49,180 --> 00:08:52,180
+Dazu muss man sagen, es gibt aber keine echten Landesnamen.
+
+116
+00:08:53,080 --> 00:08:55,180
+Also man vermeidet hier sozusagen ein Bezeichnis.
+
+117
+00:08:55,360 --> 00:08:57,259
+Es gibt keinen Bezug zu echten Ländereien.
+
+118
+00:08:57,919 --> 00:09:05,700
+Es wirkt aber natürlich, und man weiß sofort, welche Gegend das ist, also dann eher so Karibik und Südamerika, diese Gegend rum.
+
+119
+00:09:05,700 --> 00:09:22,820
+Ja, und so geht man da rein und sorgt dann eben dazu, dass es, man könnte es zivilisatorischen Aufstieg nennen, aber im Endeffekt ist es nichts anderes, weil es gibt hier beispielsweise im Gegensatz zu dem neuen Anno, was ich zumindest mal kurz angespielt habe,
+
+120
+00:09:23,340 --> 00:09:24,700
+zum Beispiel keinen Technologiefort.
+
+121
+00:09:25,360 --> 00:09:26,460
+Keine Forschung in dem Sinne.
+
+122
+00:09:26,700 --> 00:09:31,840
+Sondern das Einzige, wie sich hier eine Bevölkerung entwickelt, ist quasi ein Klassenaufstieg.
+
+123
+00:09:31,840 --> 00:09:40,100
+Also ich beginne mit Bauern, ja, das sind die Bauern und die haben ganz einfache Bedürfnisse, nämlich Fisch und Schnaps.
+
+124
+00:09:40,480 --> 00:09:48,360
+Und das brauchen sie und Klamotten, also so Arbeitskleidung vor allen Dingen, das ist ja wichtig, weil sie müssen ja eigentlich auch nur arbeiten die ganze Zeit.
+
+125
+00:09:48,560 --> 00:09:55,340
+Das ist sozusagen so die erste Stufe und wenn du es schaffst, ihnen genug Fisch, Schnaps und Klamotten.
+
+126
+00:09:55,360 --> 00:10:05,800
+Klamotten produzieren zu lassen, also sie selber müssen das natürlich produzieren, ist klar, du finanzierst es ja nur und leitest das sozusagen an als Manager, als Großkapitalist.
+
+127
+00:10:05,980 --> 00:10:20,539
+Und wenn die dann genügend von Fisch und Schnaps haben, dann kannst du sie aufsteigen lassen und kannst ihre Häuser, ihre kleinen Bauernhäuschen mit so einem Klick so upgraden und zack sind die Bauern weg und plötzlich hast du Arbeiter.
+
+128
+00:10:20,539 --> 00:10:24,519
+Und das ist dann sozusagen die nächste Stufe.
+
+129
+00:10:25,060 --> 00:10:25,159
+Und.
+
+130
+00:10:25,360 --> 00:10:32,919
+Die haben dann wiederum nächste Bedürfnisse, Rum und Brot und Wurst und Seife und so.
+
+131
+00:10:33,060 --> 00:10:41,720
+Und wenn du das wiederum erfüllt hast, kannst du die nächste Stufe hoch machen, das wäre dann tatsächlich Handwerker und die nächste Stufe drüber wären Ingenieure.
+
+132
+00:10:41,720 --> 00:10:50,779
+Und die höchste Stufe und dann ist auch schon Schluss mit dem Aufstieg sind Investoren, was ich super lustig finde irgendwie.
+
+133
+00:10:51,100 --> 00:10:55,340
+Ja, die höchste Zivilisationsstufe, die da reichen kann, ist der Silvester.
+
+134
+00:10:55,360 --> 00:10:56,060
+Das weiß man.
+
+135
+00:10:57,360 --> 00:11:01,139
+Und es ist auch spannend, dieses nach dem Motto, dass die Leute ihre Bedürfnisse halt selber entwickeln.
+
+136
+00:11:01,240 --> 00:11:02,620
+Nach dem Motto, ich habe jetzt Bock auf Wurst.
+
+137
+00:11:02,860 --> 00:11:07,120
+Also der, wenn du vom Bauern zu Arbeiter, der hat dann auf einmal Bock auf Wurst.
+
+138
+00:11:07,779 --> 00:11:13,720
+Und das ja tatsächlich auch so ein zentrales Ding ist, dass häufig gesagt wird, so die Bedürfnisse, die entstehen einfach so im Markt.
+
+139
+00:11:13,800 --> 00:11:15,620
+Die Leute verlangt es einfach nach einem Walkman.
+
+140
+00:11:16,259 --> 00:11:20,019
+Und nicht umgekehrt, dass es auch eben sowas gibt wie Bedarf und Bedürfnisweckung und so.
+
+141
+00:11:20,220 --> 00:11:24,560
+Oder halt irgendwie, dass die Leute erst merken, ich hatte voll Bock auf Wurst, vorher kannte ich sie gar nicht.
+
+142
+00:11:24,560 --> 00:11:24,759
+Huch.
+
+143
+00:11:24,759 --> 00:11:28,519
+So, also das ist natürlich einerseits der Vereinfachung geschuldet.
+
+144
+00:11:28,720 --> 00:11:32,480
+Aber andererseits halt, man könnte natürlich auch da Marktkräfte anders simulieren.
+
+145
+00:11:32,559 --> 00:11:37,840
+Zum Beispiel so etwas wie, du kannst dich jetzt entscheiden zwischen, meinetwegen der Wurst, dem Kohl oder der Suppe.
+
+146
+00:11:38,019 --> 00:11:41,480
+So, und du kannst das quasi alles anbieten und am Markt nivelliert sich das dann auch.
+
+147
+00:11:41,539 --> 00:11:42,639
+Könnte man ja auch machen so.
+
+148
+00:11:42,720 --> 00:11:48,679
+Aber man hat sich halt eben hier dafür entschieden, über den Klick wird aus dem normalen Bauern halt eben ein Arbeiter.
+
+149
+00:11:48,679 --> 00:11:54,379
+Und die braucht man auch, weil die Arbeiter nicht nur neue Bedürfnisse und damit neue Warenketten und neue Wirtschaftszweige freischalten,
+
+150
+00:11:54,379 --> 00:11:56,139
+sondern auch Ressourcen sind.
+
+151
+00:11:56,439 --> 00:12:02,539
+Die Arbeiter sind Ressourcen für bestimmte Gebäudetypen, die dann nur sie tatsächlich dann wieder bedienen, bearbeiten können und so weiter.
+
+152
+00:12:02,799 --> 00:12:09,019
+Genau, das ist super wichtig, weil wenn du plötzlich zu wenig Arbeiter hast oder zu wenig Bauern oder zu wenig Ingenieure,
+
+153
+00:12:09,159 --> 00:12:14,820
+also jeder hat ja so sein Feld und das ist immer nur Arbeit und immer nur Wertschöpfung betreiben.
+
+154
+00:12:14,980 --> 00:12:16,840
+Also für dich, nicht für sich selbst.
+
+155
+00:12:17,039 --> 00:12:22,419
+Sie kriegen ja im Gegenzug sozusagen die paar Waren, die sie als Bedürfnisse formuliert haben.
+
+156
+00:12:22,580 --> 00:12:24,080
+Übrigens kleiner Fun Fact.
+
+157
+00:12:24,379 --> 00:12:32,939
+Es gibt da natürlich so Super-Nerds, die haben mal geschaut und das auch irgendwie abgeglichen mit Ernährungswissenschaftler
+
+158
+00:12:32,939 --> 00:12:40,000
+und haben irgendwie festgestellt, also in dem Spiel und das gibt schon so ein bisschen einen Hinweis darauf,
+
+159
+00:12:40,120 --> 00:12:43,439
+wie realistisch ist denn das alles da so gestrickt.
+
+160
+00:12:43,600 --> 00:12:51,759
+Da geht man davon aus, dass zum Beispiel der durchschnittliche Farmer 2,3 Kilogramm Fisch jede Minute isst.
+
+161
+00:12:53,519 --> 00:12:54,360
+Okay, ganz genau.
+
+162
+00:12:54,360 --> 00:12:54,820
+Ich bin schon hungrig.
+
+163
+00:12:55,840 --> 00:13:04,779
+Also und das heißt in zwölf Minuten hat ein Farmer mehr gegessen als ein durchschnittlicher Japaner das ganze Jahr.
+
+164
+00:13:04,860 --> 00:13:05,019
+Ja.
+
+165
+00:13:05,379 --> 00:13:06,120
+In zwölf Minuten.
+
+166
+00:13:06,460 --> 00:13:11,019
+Also sprich völliger Humbug, also macht gar keinen Sinn diese Mengenangabe.
+
+167
+00:13:11,639 --> 00:13:13,860
+Und gleiches gilt natürlich auch für den Schnaps.
+
+168
+00:13:14,039 --> 00:13:19,639
+Das ist ja die zweite Nahrungsbedürfnis, Ressource, die man craften und farmen muss.
+
+169
+00:13:20,120 --> 00:13:22,480
+Da kommt man auf drei Liter Schnaps pro Minute.
+
+170
+00:13:22,480 --> 00:13:23,399
+Ja.
+
+171
+00:13:23,960 --> 00:13:26,519
+Also das heißt, das macht da schon keinen Sinn.
+
+172
+00:13:26,680 --> 00:13:29,779
+Es macht auch keinen Sinn, dass das die einzigen Nahrungsmittel sind,
+
+173
+00:13:29,879 --> 00:13:34,279
+weil wenn man die nur sein Leben lang essen würde, würde man tatsächlich nicht sehr alt werden.
+
+174
+00:13:34,480 --> 00:13:39,840
+Aber es ist eine Chiffre letztendlich, die dir sagt, okay, du musst halt irgendwelche Sachen produzieren,
+
+175
+00:13:39,940 --> 00:13:41,480
+damit die Leute zufrieden sind.
+
+176
+00:13:41,600 --> 00:13:46,600
+Übrigens stirbt da auch niemand an Hunger oder sowas, sondern die werden halt einfach nur unzufrieden.
+
+177
+00:13:46,700 --> 00:13:48,860
+So, die werden halt einfach nur traurig.
+
+178
+00:13:49,120 --> 00:13:52,000
+Beziehungsweise ziehen dann einfach aus ihren Häusern aus.
+
+179
+00:13:52,000 --> 00:13:55,340
+Was wiederum zur Folge hat, dass man dann zu wenig Arbeitskräfte hat.
+
+180
+00:13:55,480 --> 00:13:58,899
+Was zur Folge hat, dass man dann wiederum weniger Bedürfnisse erfüllen kann.
+
+181
+00:13:59,240 --> 00:14:03,840
+Und so ist das dann die Spirale, bis letztendlich die Häuser zu Ruinen werden.
+
+182
+00:14:04,179 --> 00:14:08,259
+Und natürlich ist kein Klassenaufstieg möglich in dem Sinne.
+
+183
+00:14:08,480 --> 00:14:12,700
+Das ist auch ein besonderes Ding, dass hier Schnaps tatsächlich so eine frühe Ressource ist,
+
+184
+00:14:12,879 --> 00:14:16,740
+die dann zur Zufriedenheit und auf Demand des Bürgers kommt.
+
+185
+00:14:17,179 --> 00:14:20,679
+Weil ja tatsächlich gibt ja einige Beispiele in der Geschichte,
+
+186
+00:14:20,679 --> 00:14:25,120
+wo man harten Alkohol dafür eingesetzt hat, gerade um die Bevölkerung zu kontrollieren.
+
+187
+00:14:25,500 --> 00:14:27,779
+So, und also damit unter der Fuchtel zu halten.
+
+188
+00:14:28,179 --> 00:14:31,239
+Insofern schon spannend, das hier so ein bisschen so gedreht zu sehen.
+
+189
+00:14:31,639 --> 00:14:33,959
+Und gleichzeitig, dass es halt so früh und so deutlich ist.
+
+190
+00:14:34,079 --> 00:14:35,219
+Das ist auch an sich mutig.
+
+191
+00:14:35,359 --> 00:14:38,099
+Können ja auch einfach sagen, wir hätten gern, keine Ahnung, Wasser.
+
+192
+00:14:38,759 --> 00:14:40,539
+Sondern also gern, wer genügt andere Dinge noch.
+
+193
+00:14:40,599 --> 00:14:48,719
+Ja, da ist erstaunlicherweise Anno 1800 dann doch nah an der damaligen Realität der Industrialisierung in England.
+
+194
+00:14:48,719 --> 00:14:49,719
+Weil es gibt dort ein...
+
+195
+00:14:50,679 --> 00:14:53,099
+Ein dunkles Kapitel der Wirtschaftsgeschichte.
+
+196
+00:14:53,620 --> 00:14:58,979
+Das Ganze könnte man als ein perfides System der doppelten Ausbeutung betrachten.
+
+197
+00:14:59,719 --> 00:15:03,039
+Das kennt man unter dem Begriff Butty System.
+
+198
+00:15:03,539 --> 00:15:06,839
+Besonders war das im Bergbau wohl allgegenwärtig.
+
+199
+00:15:07,039 --> 00:15:10,039
+Und als Teil des sogenannten Truck Systems.
+
+200
+00:15:10,379 --> 00:15:11,079
+Was heißt das?
+
+201
+00:15:11,539 --> 00:15:19,439
+Also, in vielen englischen Kohleminen und Fabriken stellten die eigentlichen Besitzer die Arbeiter nicht direkt ein.
+
+202
+00:15:19,439 --> 00:15:20,439
+Sondern sie...
+
+203
+00:15:20,440 --> 00:15:22,540
+Nutzten Subunternehmer.
+
+204
+00:15:23,020 --> 00:15:24,520
+Sogenannte Butties.
+
+205
+00:15:24,920 --> 00:15:29,120
+Und diese Männer organisierten die Arbeitsteam und zahlten auch die Löhne aus.
+
+206
+00:15:29,420 --> 00:15:36,980
+Der Haken an der ganzen Sache war aber, viele dieser Butties besaßen oder pachteten gleichzeitig auch einen Pub.
+
+207
+00:15:37,420 --> 00:15:40,460
+Und so entstand dann auch eine Form des Zwanges.
+
+208
+00:15:40,660 --> 00:15:46,900
+Das bedeutet, um den Job zu behalten, mussten die Arbeiter in der Kneipe des Vorarbeiters trinken.
+
+209
+00:15:46,900 --> 00:15:50,400
+Wer dort nichts konsumierte, bekam oft keine Arbeit.
+
+210
+00:15:50,400 --> 00:15:50,420
+Wer dort nichts konsumierte, bekam oft keine Arbeit.
+
+211
+00:15:50,419 --> 00:15:50,860
+Wer dort nichts konsumierte, bekam oft keine Arbeit.
+
+212
+00:15:51,000 --> 00:16:20,399
+Wer dort nichts konsumierte, bekam oft keine Arbeit.
+
+213
+00:16:20,399 --> 00:16:20,980
+Wer dort nichts konsumierte, bekam oft keine Arbeit.
+
+214
+00:16:20,980 --> 00:16:29,819
+Und Löhne wurden oft nicht passend ausgezahlt, sondern man gab einer Gruppe von Arbeitern, zum Beispiel fünf Leuten, eine große Banknote.
+
+215
+00:16:30,019 --> 00:16:32,600
+Niemand hatte Wechselgeld, außer natürlich dem Wirt.
+
+216
+00:16:33,100 --> 00:16:42,379
+Und um die Note zu wechseln und den Lohn aufzuteilen, musste die Gruppe zwangsläufig Alkohol kaufen, damit der Wirt das Geld überhaupt wechseln konnte.
+
+217
+00:16:42,379 --> 00:16:48,419
+Und oft behielt der Wirt direkt eine Gebühr für dieses Wechseln auch nochmal ein.
+
+218
+00:16:48,819 --> 00:16:50,379
+Also, wenn man eben nichts verzichtet.
+
+219
+00:16:50,399 --> 00:16:59,759
+Da zu dieser Zeit die Löhne niedrig waren und oft auch erst am Ende der Woche oder des Monats kamen, mussten Arbeiter unter der Woche auch anschreiben lassen.
+
+220
+00:17:00,079 --> 00:17:07,980
+Also in der Kneipe des Arbeitgebers, also des Buttys, bekam man entsprechend Kredit, also hier so Deckel anschreiben lassen.
+
+221
+00:17:08,519 --> 00:17:15,539
+Und am Zahltag wurde dieser Deckel dann direkt vom Lohn abgezogen, bevor der Arbeiter auch nur ein Penny sah.
+
+222
+00:17:15,940 --> 00:17:20,019
+Manche Arbeiter gingen sogar am Zahltag mit weniger als Null nach Hause.
+
+223
+00:17:20,019 --> 00:17:23,299
+Und starteten die nächste Woche bereits mit Schulden beim Chef.
+
+224
+00:17:23,879 --> 00:17:28,039
+Das band sie dann wie Leibeigene an die entsprechende Firma.
+
+225
+00:17:28,400 --> 00:17:36,940
+Das Problem war dann so massiv, dass es letztlich nicht nur moralisch verurteilt wurde, sondern auch volkswirtschaftlichen Schaden anrichtete.
+
+226
+00:17:37,099 --> 00:17:43,240
+Also verarmte Familien, ineffiziente Arbeiter, die natürlich auch während der Arbeit Schnaps getrunken haben.
+
+227
+00:17:43,940 --> 00:17:48,740
+Und dazu muss man sagen, Schnaps war damals super billig in England, also Gin vor allen Dingen.
+
+228
+00:17:48,740 --> 00:17:49,980
+Und auch im Vergleich.
+
+229
+00:17:50,019 --> 00:17:59,700
+Zu anderen eher alkoholärmeren Getränken wie Bier zum Beispiel, Wein sowieso viel zu teuer und so.
+
+230
+00:17:59,819 --> 00:18:06,900
+Aber Schnaps war billig, es hat geballert und es hat natürlich Leute auch über 15, 16 Stunden Schichten gebracht.
+
+231
+00:18:07,099 --> 00:18:10,500
+Und auch überhaupt das elendige Leben hat vergessen lassen.
+
+232
+00:18:10,500 --> 00:18:19,500
+Und erst 1883 hat das britische Parlament explizit verboten, Löhne in diesen Gaststätten auszuzahlen.
+
+233
+00:18:19,500 --> 00:18:27,339
+Was es darüber hinaus auch noch gab, waren sogenannte Tokens, die statt hartem Geld ausgegeben wurden.
+
+234
+00:18:27,660 --> 00:18:33,420
+Das heißt, Fabrikbesitzer zahlten Löhne eben nicht in Münzgeld aus, sondern in Warengutscheine,
+
+235
+00:18:33,980 --> 00:18:42,059
+die aber auch nur und ausschließlich in fabrikeigenen Läden, die sogenannten Tommy Shops, eingelöst werden konnten.
+
+236
+00:18:42,380 --> 00:18:45,000
+Diese Läden gehörten wiederum dem Arbeitgeber.
+
+237
+00:18:45,000 --> 00:18:48,880
+Und die Preise dort waren oft überteuert, die Qualität war schlecht.
+
+238
+00:18:48,880 --> 00:18:54,300
+Und viele dieser Fabrikläden verkauften eben auch Alkohol, eben den billigen Gin oder Whisky.
+
+239
+00:18:54,600 --> 00:19:01,080
+Wenn Arbeiter eben ihre Tokens erhielten, war Alkohol eben oft eines der wenigen verfügbaren Güter,
+
+240
+00:19:01,700 --> 00:19:04,880
+die auch kurzfristige Erleichterung vom Elend verschafft.
+
+241
+00:19:05,820 --> 00:19:12,260
+Und auch Bier und Cider waren lange Zeit ein akzeptierter Teil des Lohns,
+
+242
+00:19:12,260 --> 00:19:18,260
+aber eher in der Landwirtschaft und in früheren Manufakturen, also eigentlich vor der Industrialisierung,
+
+243
+00:19:18,880 --> 00:19:25,260
+also auch da war das Thema Alkohol als direkte Bezahlung schon ein Thema.
+
+244
+00:19:26,240 --> 00:19:31,840
+Ja und witzigerweise ist ja das nächste Grundbedürfnis der nächsten Klasse, also die der Arbeiter,
+
+245
+00:19:32,180 --> 00:19:36,160
+also Schnaps ist ja bei Bauern und bei Arbeitern ist es dann das Bier.
+
+246
+00:19:36,920 --> 00:19:42,280
+So, also die nächst höhere Kategorie des Nervengifts Alkohol,
+
+247
+00:19:42,660 --> 00:19:46,780
+die damals eben auch wesentlich teurer war als eben der günstige Schnaps.
+
+248
+00:19:46,780 --> 00:19:48,420
+Ja und wie Jens schon sagte,
+
+249
+00:19:48,880 --> 00:19:51,220
+zwar eine Herrschaftstechnik auch,
+
+250
+00:19:51,540 --> 00:19:56,780
+bedeutet also ein betrunkener Arbeiter rebelliert erstmal nicht so wirklich,
+
+251
+00:19:56,920 --> 00:20:02,760
+solange er am nächsten Tag wieder an der Maschine steht oder durch ein Kind ersetzt werden kann,
+
+252
+00:20:02,860 --> 00:20:03,740
+war alles gut.
+
+253
+00:20:03,940 --> 00:20:08,360
+Allerdings hat man dann auch gemerkt, naja mit dem Schnaps, das geht nicht lange gut
+
+254
+00:20:08,360 --> 00:20:13,760
+und deswegen war man auch irgendwann sehr froh, dass man auf Bier umsteigen konnte,
+
+255
+00:20:13,760 --> 00:20:18,760
+was ja eben eine, sag ich mal, eher mildere Form des Rausches oder ist,
+
+256
+00:20:18,880 --> 00:20:22,260
+es dauerte halt einfach länger, bis man auf einem gewissen Pegel gekommen ist
+
+257
+00:20:22,260 --> 00:20:28,460
+und das hat sich ja fast bis in die frühe Gegenwart hindurchgezogen.
+
+258
+00:20:28,600 --> 00:20:33,320
+Also ich kann mich noch erinnern, ich habe Ferienjob gemacht in einer Gießerei
+
+259
+00:20:33,320 --> 00:20:39,620
+und da gab es einen Bierautomat und das Bier war entsprechend günstig zu kaufen
+
+260
+00:20:39,620 --> 00:20:45,960
+und es war völlig normal, auch während der Arbeit in der Schichtpause Bier zu trinken.
+
+261
+00:20:45,960 --> 00:20:48,860
+Ja, das könnte tatsächlich mal eine eigene Folge werden,
+
+262
+00:20:48,859 --> 00:20:55,979
+die Rolle von Alkoholismus in kapitalistischen Gesellschaften oder grundsätzlich in Gesellschaften.
+
+263
+00:20:55,979 --> 00:21:00,919
+Hey du, wenn du diese Arbeit, die wir hier leisten, wertschätzt,
+
+264
+00:21:01,000 --> 00:21:04,559
+dann würden wir uns unfassbar freuen über deine Unterstützung.
+
+265
+00:21:04,899 --> 00:21:11,000
+Neben der Möglichkeit, dieses Format zu streuen, positive Bewertungen zu geben,
+
+266
+00:21:11,099 --> 00:21:14,599
+zu kommentieren, um so den Algorithmus nach vorne zu bringen,
+
+267
+00:21:14,859 --> 00:21:18,259
+habt ihr auch die Möglichkeit, uns finanziell zu unterstützen.
+
+268
+00:21:18,259 --> 00:21:18,339
+Ja, das ist ja auch eine gute Frage.
+
+269
+00:21:18,339 --> 00:21:18,399
+Ja, das ist eine gute Frage.
+
+270
+00:21:18,399 --> 00:21:18,459
+Ja, das ist eine gute Frage.
+
+271
+00:21:18,459 --> 00:21:18,559
+Ja, das ist eine gute Frage.
+
+272
+00:21:18,559 --> 00:21:18,619
+Ja, das ist eine gute Frage.
+
+273
+00:21:18,619 --> 00:21:18,679
+Ja, das ist eine gute Frage.
+
+274
+00:21:18,679 --> 00:21:18,719
+Ja, das ist eine gute Frage.
+
+275
+00:21:18,719 --> 00:21:18,819
+Ja, das ist eine gute Frage.
+
+276
+00:21:18,819 --> 00:21:18,839
+Ja, das ist eine gute Frage.
+
+277
+00:21:18,839 --> 00:21:18,899
+Ja, das ist eine gute Frage.
+
+278
+00:21:18,899 --> 00:21:25,359
+Werft mal einen Blick in die Shownotes, da ist alles aufgeführt vom Steady-Abo in verschiedenen Paketen,
+
+279
+00:21:25,500 --> 00:21:30,359
+wo ihr auch noch Zusatz-Content für ein entsprechendes Abo erhaltet
+
+280
+00:21:30,359 --> 00:21:36,199
+oder eben auch die Möglichkeit, uns Spenden über PayPal zukommen zu lassen
+
+281
+00:21:36,199 --> 00:21:43,240
+oder über unser Konto, wo ihr auch problemlos beispielsweise einen Dauerauftrag einrichten könnt.
+
+282
+00:21:43,379 --> 00:21:45,699
+Alle Informationen, wie gesagt, in den Shownotes.
+
+283
+00:21:45,699 --> 00:21:47,939
+Und jetzt will ich nicht weiter nerven.
+
+284
+00:21:48,319 --> 00:21:48,699
+Gute Erkenntnisse.
+
+285
+00:21:48,700 --> 00:21:50,480
+Gute Erkenntnisse beim Weiterhören.
+
+286
+00:21:50,640 --> 00:21:51,160
+Schhh!
+
+287
+00:21:51,500 --> 00:21:58,600
+Genau, also wie ich schon eingangs gesagt habe, Anno fühlt sich an, als ob man irgendwie Kapitalismus auf Stereoide hat
+
+288
+00:21:58,600 --> 00:22:03,700
+und alles irgendwie, was schlecht am Kapitalismus wird, gar nicht miterzählt.
+
+289
+00:22:03,819 --> 00:22:08,400
+Und da sind noch einige Dinge letztlich beim Spielen aufgefallen.
+
+290
+00:22:08,640 --> 00:22:15,140
+Das Erste, was mir wirklich aufgefallen ist, ist dieser Wachstumsfetisch, den wir heute ja auch haben.
+
+291
+00:22:15,740 --> 00:22:18,140
+Sprich, ohne Wachstum geht in Anno...
+
+292
+00:22:18,700 --> 00:22:20,080
+... gar nichts.
+
+293
+00:22:20,200 --> 00:22:26,120
+Also das ganze Spiel basiert auf Wachstum im Sinne von, ich muss mich weiterentwickeln,
+
+294
+00:22:26,380 --> 00:22:28,900
+weil sonst stagniert halt das Spiel.
+
+295
+00:22:29,279 --> 00:22:31,500
+So, dann kann ich auch aufhören, letztendlich.
+
+296
+00:22:31,740 --> 00:22:34,920
+Und man will ja irgendwie weitermachen und weitermachen.
+
+297
+00:22:35,539 --> 00:22:42,660
+Und das wirklich Erstaunliche hier, da würde mich schon mal die Game Designer interessieren,
+
+298
+00:22:42,660 --> 00:22:48,680
+warum sie das so gemacht haben, weil selbst in Uraltspielen wie Command & Conquer,
+
+299
+00:22:48,700 --> 00:22:51,080
+und so, kenne ich dieses Prinzip tatsächlich gar nicht.
+
+300
+00:22:51,600 --> 00:22:54,700
+Nämlich, es gibt keine endlichen Ressourcen.
+
+301
+00:22:55,420 --> 00:22:56,420
+Also wirklich so gar nicht.
+
+302
+00:22:56,660 --> 00:23:06,519
+Also, du hast ja so verschiedene Minen, Kohle, Eisen, Zement, Messing und noch ein paar andere Sachen.
+
+303
+00:23:06,900 --> 00:23:08,460
+Und das hört aber nie auf.
+
+304
+00:23:08,740 --> 00:23:14,460
+Also so eine Mine wird nicht leer, sondern sie macht kontinuierlich, produziert sie für dich Rohstoffe,
+
+305
+00:23:14,460 --> 00:23:15,900
+du musst sie einmal aufmachen.
+
+306
+00:23:16,059 --> 00:23:18,580
+Wenn du Pech hast, brennt sie dir ab oder explodiert.
+
+307
+00:23:18,580 --> 00:23:18,680
+Und dann ist das so.
+
+308
+00:23:18,680 --> 00:23:22,740
+Dann kannst du sie aber relativ schnell und günstig auch wieder aufbauen,
+
+309
+00:23:22,840 --> 00:23:24,539
+dass da irgendwelche Leute bei gestorben sind.
+
+310
+00:23:24,640 --> 00:23:26,500
+Das interessiert natürlich das Spiel gar nicht.
+
+311
+00:23:26,660 --> 00:23:30,100
+Es kommt auch gar nicht irgendwie vor, dass Leute sterben und so weiter,
+
+312
+00:23:30,279 --> 00:23:33,160
+sondern du siehst ja nur Zahlen, die hoch und runter gehen.
+
+313
+00:23:33,759 --> 00:23:37,759
+Und das ist wirklich was, was ich wirklich sehr auffällig fand.
+
+314
+00:23:37,980 --> 00:23:41,220
+Weil, wie gesagt, in anderen Spielen kenne ich es so,
+
+315
+00:23:41,360 --> 00:23:45,759
+dass dann zumindest irgendwann so eine Mine einstürzt und einfach zu Ende gefarmt ist.
+
+316
+00:23:45,759 --> 00:23:48,460
+Also, dass dort wenigstens die Ressourcen,
+
+317
+00:23:48,680 --> 00:23:50,740
+die da letztlich fehlen.
+
+318
+00:23:50,860 --> 00:23:52,320
+Also, das hat mich irgendwie erstaunt.
+
+319
+00:23:52,660 --> 00:23:54,279
+Ja, es gibt ein unendliches Wachstum.
+
+320
+00:23:54,779 --> 00:23:58,539
+Also, der Planet ist nicht endlich, sondern an der Stelle ist er unendlich.
+
+321
+00:23:58,680 --> 00:24:01,960
+Also, sprich, in diesem Spielumfeld funktioniert das irgendwie.
+
+322
+00:24:02,400 --> 00:24:05,100
+Was ich auch spannend fand, als ich ausprobiert habe, das zu spielen,
+
+323
+00:24:05,240 --> 00:24:08,340
+ist, wie schnell dann so eine Art von Balance dann tatsächlich wieder
+
+324
+00:24:08,340 --> 00:24:11,779
+mit wachsendem Bedürfnis und so weiter wieder aus dem Tritt kommen kann.
+
+325
+00:24:12,039 --> 00:24:15,440
+Und wie schnell man auch da, wenn man irgendwo eine Entscheidung zu weit
+
+326
+00:24:15,440 --> 00:24:18,440
+oder nicht weit genug getroffen hat, dann diese ganze Wachstumsdurchschnittung,
+
+327
+00:24:18,680 --> 00:24:20,560
+diese Dynamik dann sich halt eben verändert.
+
+328
+00:24:20,860 --> 00:24:23,640
+Im Prinzip ist das alles so, sind das so mehrere Kreisläufe,
+
+329
+00:24:23,700 --> 00:24:25,700
+die dann ineinander greifen und immer komplexer werden.
+
+330
+00:24:25,960 --> 00:24:29,120
+Also, man kommt auf höhere Bevölkerungsstufen und muss dann halt immer
+
+331
+00:24:29,120 --> 00:24:31,860
+neue und komplexere Konsumbedürfnisse erfüllen.
+
+332
+00:24:32,279 --> 00:24:34,600
+Und das erfordert dann wieder neue Produktionsketten
+
+333
+00:24:34,600 --> 00:24:37,420
+und das wieder mehr Arbeitskräfte und das dann wieder mehr Raum.
+
+334
+00:24:37,640 --> 00:24:41,360
+Also, diese Spielmechanik fordert halt von einem halt genau das so zu tun.
+
+335
+00:24:41,840 --> 00:24:43,860
+Und es gibt auch außerhalb kein System.
+
+336
+00:24:43,860 --> 00:24:48,360
+Also, sprich, du kannst dich eigentlich nur für diese Art des Weges,
+
+337
+00:24:48,359 --> 00:24:52,359
+so ein Stück weit entscheiden, eine nicht wachsende Gesellschaft hier zu schaffen.
+
+338
+00:24:52,619 --> 00:24:55,359
+Führt dann eben dazu, dass dann die ganzen Leute unzufrieden werden.
+
+339
+00:24:55,579 --> 00:24:57,639
+So, und dann dann irgendwie böse und so weiter so.
+
+340
+00:24:57,740 --> 00:24:58,859
+Und dann gehen dann irgendwie Kennzahlen,
+
+341
+00:24:58,939 --> 00:25:00,919
+die für Siegbedingungen wichtig sind, nach unten und so.
+
+342
+00:25:01,679 --> 00:25:04,959
+Und das ist spannend, weil das halt irgendwie,
+
+343
+00:25:05,319 --> 00:25:07,539
+es kommt ja mit der Anmutung von Historie daher
+
+344
+00:25:07,539 --> 00:25:09,779
+und von wir bilden jetzt hier Gesellschaft ab und so.
+
+345
+00:25:10,419 --> 00:25:12,479
+Und gleichzeitig sieht es so aus,
+
+346
+00:25:12,479 --> 00:25:17,679
+als ob irgendwie der Homo economicus hier das Ganze quasi verlangt.
+
+347
+00:25:17,939 --> 00:25:17,959
+Also.
+
+348
+00:25:18,359 --> 00:25:19,699
+Der will so leben.
+
+349
+00:25:20,119 --> 00:25:21,679
+Und gleichzeitig ist er das Gute.
+
+350
+00:25:21,740 --> 00:25:24,839
+Er kann auch so leben, weil die Welt ja unendliches Wachstum verträgt.
+
+351
+00:25:25,459 --> 00:25:27,159
+Also, das heißt, man kommt gar nicht umhin,
+
+352
+00:25:27,539 --> 00:25:31,500
+dieses Wuchern und Ausbreiten tatsächlich so zu machen.
+
+353
+00:25:31,699 --> 00:25:36,399
+Was auch interessant ist, wenn ich in die dritte Klassenstufe aufsteige,
+
+354
+00:25:36,539 --> 00:25:38,759
+also von Arbeiter zu Handwerker,
+
+355
+00:25:39,099 --> 00:25:41,000
+dann entsteht ein Grundbedürfnis,
+
+356
+00:25:41,000 --> 00:25:46,019
+was ich nicht mehr innerhalb meines eigenen Territoriums abdecken kann.
+
+357
+00:25:46,259 --> 00:25:48,000
+Und zwar entsteht da das Grundbedürfnis,
+
+358
+00:25:48,359 --> 00:25:50,199
+Rum.
+
+359
+00:25:51,139 --> 00:25:52,679
+Also fässerweise Rum.
+
+360
+00:25:52,879 --> 00:25:55,859
+Ein Bedürfnis, was ich nur befriedigen kann,
+
+361
+00:25:56,139 --> 00:26:00,359
+wenn ich mich für Imperialismus und Kolonialismus entscheide.
+
+362
+00:26:00,539 --> 00:26:04,000
+Weil ich muss dann eine Ressource sozusagen besorgen,
+
+363
+00:26:04,139 --> 00:26:07,319
+die es nicht in meiner klassischen Inselumgebung gibt,
+
+364
+00:26:07,399 --> 00:26:11,219
+sondern ich muss dann über das große Meer schippern
+
+365
+00:26:11,219 --> 00:26:15,539
+und in die neue Welt, um dort Zuckerrohr anzubauen
+
+366
+00:26:15,539 --> 00:26:18,339
+und dann daraus Rum zu brennen.
+
+367
+00:26:18,359 --> 00:26:21,199
+Um sie dann über lange Wege mit Schiffen
+
+368
+00:26:21,199 --> 00:26:23,959
+letztlich zu meinem Heimathafen zu bringen.
+
+369
+00:26:24,740 --> 00:26:27,299
+Und man kann eigentlich sich das so vorstellen,
+
+370
+00:26:27,559 --> 00:26:30,299
+wie ist so die Strategie, wie man so vorgeht.
+
+371
+00:26:30,439 --> 00:26:34,899
+Also ich mache das jedenfalls so, man hat so eine Hauptinsel
+
+372
+00:26:34,899 --> 00:26:38,939
+und da sorgt man halt dafür, dass die so aufsteigt
+
+373
+00:26:38,939 --> 00:26:41,779
+und immer größer wird und schöner vor allen Dingen.
+
+374
+00:26:42,219 --> 00:26:45,779
+Weil hier bekommt man auch ganz viele Punkte für Ästhetik
+
+375
+00:26:45,779 --> 00:26:47,559
+oder auch Kultur genannt.
+
+376
+00:26:47,559 --> 00:26:48,179
+Aber Ästhetik ist eine große Frage.
+
+377
+00:26:48,180 --> 00:26:51,539
+Ästhetik ist hier tatsächlich das Entscheidende,
+
+378
+00:26:51,640 --> 00:26:56,000
+weil man alleine, wenn du ganz hübsche Parkanlagen baust
+
+379
+00:26:56,000 --> 00:26:58,900
+und Bäume pflanzt und keine Ahnung,
+
+380
+00:26:59,180 --> 00:27:02,480
+dann wird deine Stadt quasi kulturell aufgewertet,
+
+381
+00:27:02,560 --> 00:27:06,539
+hat auch zur Folge, dass man, wenn man irgendwann so einen Besucherhafen hat,
+
+382
+00:27:06,740 --> 00:27:09,539
+den man sich bauen kann, auch mal einen Tourismus erschließen kann.
+
+383
+00:27:09,620 --> 00:27:12,279
+Also dann kommen die Leute und besuchen dich.
+
+384
+00:27:12,400 --> 00:27:14,340
+Dafür muss aber eben deine Stadt attraktiv sein.
+
+385
+00:27:14,340 --> 00:27:16,259
+Das heißt, man hat so eine Hauptinsel
+
+386
+00:27:16,259 --> 00:27:18,160
+und da versucht man, die möglichst schön,
+
+387
+00:27:18,180 --> 00:27:20,460
+und groß und sich entwickeln zu lassen.
+
+388
+00:27:20,740 --> 00:27:24,400
+Und alles Notwendige und Ärgerliche besorgt man halt außenrum.
+
+389
+00:27:25,560 --> 00:27:28,480
+Also sprich, einerseits hat man seine Kolonien,
+
+390
+00:27:28,740 --> 00:27:32,539
+dann in der neuen Welt, da baut man dann Kaffee an,
+
+391
+00:27:33,299 --> 00:27:36,779
+also Kaffeebohnen und lässt sie da idealerweise rösten.
+
+392
+00:27:37,200 --> 00:27:39,580
+Man beutet da jede Menge Gold aus.
+
+393
+00:27:40,019 --> 00:27:43,019
+Dieses Volk da drüben in der neuen Welt ist natürlich zu dumm,
+
+394
+00:27:43,060 --> 00:27:45,240
+daraus irgendwas zu produzieren.
+
+395
+00:27:45,320 --> 00:27:46,940
+Das muss man dann schon zu Hause machen,
+
+396
+00:27:46,940 --> 00:27:48,039
+weil man hat ja da,
+
+397
+00:27:48,039 --> 00:27:50,839
+die toll ausgebildeten Ingenieure, die das können.
+
+398
+00:27:51,359 --> 00:27:56,420
+Das können die sogenannten Journaleros und Obreros,
+
+399
+00:27:56,899 --> 00:28:00,379
+so heißen die beiden Klassen in der neuen Welt.
+
+400
+00:28:00,619 --> 00:28:03,379
+Die können das alle nicht, die sind also gar nicht gebildet und so.
+
+401
+00:28:03,500 --> 00:28:05,180
+Man kann sich auch nicht darum kümmern,
+
+402
+00:28:05,279 --> 00:28:06,779
+dass die irgendwie gebildet werden,
+
+403
+00:28:06,899 --> 00:28:08,700
+sondern die bleiben halt auf ihrer Stufe.
+
+404
+00:28:08,819 --> 00:28:10,339
+Es gibt da auch nur diese zwei Stufen.
+
+405
+00:28:11,500 --> 00:28:13,700
+Interessanterweise diese Begrifflichkeiten schon.
+
+406
+00:28:14,019 --> 00:28:16,920
+Also Journalero heißt auf Deutsch Tagelöhner.
+
+407
+00:28:16,920 --> 00:28:17,759
+Ach was.
+
+408
+00:28:18,039 --> 00:28:21,859
+Ja, das lässt einem schon einen kleinen Hinweis darüber.
+
+409
+00:28:21,980 --> 00:28:23,779
+Das ist sozusagen deren Bauernschicht.
+
+410
+00:28:24,000 --> 00:28:27,259
+Also was bei uns die Bauern sind, ist bei denen Journaleros, die Tagelöhner.
+
+411
+00:28:27,879 --> 00:28:30,980
+Und der nächste Aufstieg ist Obreros.
+
+412
+00:28:31,559 --> 00:28:33,379
+Und ich dachte immer, das wären dann sowas wie,
+
+413
+00:28:33,980 --> 00:28:36,740
+ja weiß ich nicht, so Kapos, also so Aufseher oder sowas.
+
+414
+00:28:36,960 --> 00:28:38,519
+Aber tatsächlich sind es ganz normale Arbeiter.
+
+415
+00:28:38,720 --> 00:28:38,920
+Ah ja.
+
+416
+00:28:40,019 --> 00:28:43,539
+Also da gibt es gar keine höhere Klasse,
+
+417
+00:28:43,759 --> 00:28:45,720
+sondern wir bleiben in der Arbeiterklasse
+
+418
+00:28:45,720 --> 00:28:47,680
+und es gibt sozusagen die sehr prekäre.
+
+419
+00:28:48,039 --> 00:28:49,539
+Und die weniger prekäre.
+
+420
+00:28:50,420 --> 00:28:54,299
+Und was uns das Spiel allerdings komplett historisch verschleiert
+
+421
+00:28:54,299 --> 00:28:57,440
+und verheimlicht, na, du kommst wahrscheinlich drauf.
+
+422
+00:28:57,720 --> 00:28:59,259
+Ja, das ist Sklaverei, nicht?
+
+423
+00:28:59,659 --> 00:29:03,740
+Also wenn wir jetzt hier über Kolonien sprechen
+
+424
+00:29:03,740 --> 00:29:05,680
+und dass da halt irgendwie Völker sind
+
+425
+00:29:05,680 --> 00:29:07,659
+auf einem anderen Zivilisationsstand,
+
+426
+00:29:07,819 --> 00:29:09,799
+also jetzt aus eurozentrischer Sicht heraus,
+
+427
+00:29:09,920 --> 00:29:11,299
+dann zeigt ja eigentlich die Geschichte,
+
+428
+00:29:11,420 --> 00:29:12,259
+wie man damit umgegangen ist.
+
+429
+00:29:12,299 --> 00:29:14,359
+Man hat ja nicht gesagt, hey, können wir hier mal gemeinsam
+
+430
+00:29:14,359 --> 00:29:17,480
+in den Handel eintreten und so, sondern Sklaverei.
+
+431
+00:29:18,039 --> 00:29:19,759
+Ist halt ein ganz wesentlicher Teil,
+
+432
+00:29:19,859 --> 00:29:20,839
+dieser Teil der Ausbeutung.
+
+433
+00:29:20,940 --> 00:29:23,920
+Du hast ja gerade eben auch schon diese geografische Sache gesagt.
+
+434
+00:29:24,220 --> 00:29:25,639
+Hier leben die Guten,
+
+435
+00:29:26,000 --> 00:29:29,039
+hier werden dann viele dieser Waren dann verkonsumiert
+
+436
+00:29:29,039 --> 00:29:31,500
+und da hinten, dort, wo es dann hässlich ist,
+
+437
+00:29:31,940 --> 00:29:33,519
+dort ist dann ein ganz anderer Stand und so.
+
+438
+00:29:33,960 --> 00:29:35,779
+Und dort entsteht dann die Wertschöpfung.
+
+439
+00:29:35,899 --> 00:29:37,839
+Also etwas, was tatsächlich sich an dieser Stelle
+
+440
+00:29:37,839 --> 00:29:39,879
+ja auch so ein bisschen in der Historie ablesen lässt.
+
+441
+00:29:40,099 --> 00:29:41,180
+Aber Sklaverei fehlt halt.
+
+442
+00:29:41,500 --> 00:29:44,639
+Sowohl die Versklavung der Indigenen vor Ort
+
+443
+00:29:44,639 --> 00:29:47,180
+als dann eben auch, dass man aus ganz anderen Erdteilen
+
+444
+00:29:48,039 --> 00:29:50,779
+schon dahin verschleppt hat, um sie dann zu zwingen,
+
+445
+00:29:50,819 --> 00:29:53,279
+dort zu arbeiten unter unerträglichen Bedingungen.
+
+446
+00:29:53,700 --> 00:29:54,920
+So, und das ist natürlich etwas,
+
+447
+00:29:55,019 --> 00:29:57,659
+da könnte man natürlich sich jetzt rausreden als Entwickler
+
+448
+00:29:57,659 --> 00:29:59,680
+und sagen so, ja, das war zu kompliziert oder so.
+
+449
+00:29:59,940 --> 00:30:00,920
+Nee, ist es halt eben nicht.
+
+450
+00:30:01,339 --> 00:30:02,559
+Sondern es gibt ja durchaus auch Spiele
+
+451
+00:30:02,559 --> 00:30:05,480
+und die haben es ja selber dann auch jetzt mit Anno 117 bewiesen,
+
+452
+00:30:05,579 --> 00:30:08,319
+dass dort das Thema ja schon mit stattfindet so.
+
+453
+00:30:08,759 --> 00:30:11,019
+Aber hier wollte man da eben nicht rangehen.
+
+454
+00:30:11,240 --> 00:30:13,879
+Auch weil das natürlich dann, wenn man so in diesem schönen,
+
+455
+00:30:13,879 --> 00:30:16,200
+ja, ich bin hier mal im Sandkasten und ich mache hier so Häuser
+
+456
+00:30:16,200 --> 00:30:17,940
+und dann mache ich da eine Fabrik und so.
+
+457
+00:30:18,500 --> 00:30:20,339
+Da möchte man sich damit halt nicht beschäftigen.
+
+458
+00:30:20,399 --> 00:30:23,220
+Und genau diese Auslassung ist natürlich auch etwas,
+
+459
+00:30:23,359 --> 00:30:27,480
+was so ein bisschen ideologische Mystifikation dann auch wieder ist.
+
+460
+00:30:27,680 --> 00:30:29,819
+Also genauso wie sich ja viele Amerikaner
+
+461
+00:30:29,819 --> 00:30:32,879
+irgendwie den Völkermord an den Indigenen dort
+
+462
+00:30:32,879 --> 00:30:34,839
+halt irgendwie schönreden mit von wegen Thanksgiving.
+
+463
+00:30:35,059 --> 00:30:36,899
+Ja, wir haben damals dann Truthahne getauscht
+
+464
+00:30:36,899 --> 00:30:38,659
+wegen Maisbrei und so weiter so.
+
+465
+00:30:39,279 --> 00:30:43,240
+Ja, nee, also das ist halt irgendwie nicht ganz so einfach.
+
+466
+00:30:43,240 --> 00:30:45,379
+Und so ähnlich ist das halt eben auch hier.
+
+467
+00:30:45,579 --> 00:30:47,960
+Also auch hier findet dann quasi dieser Handel,
+
+468
+00:30:47,960 --> 00:30:50,960
+mit den Kolonien quasi so als normaler Tauschprozess,
+
+469
+00:30:51,700 --> 00:30:54,180
+also Arbeit gegen Güterstadt und nämlich eben etwas wie,
+
+470
+00:30:54,600 --> 00:30:56,880
+hört mal her, wir werden euch unter die Knute bringen
+
+471
+00:30:56,880 --> 00:30:58,319
+und ihr werdet jetzt für uns das erarbeiten,
+
+472
+00:30:58,400 --> 00:30:59,880
+was wir dann ausbeuten.
+
+473
+00:30:59,980 --> 00:31:02,799
+Und das wäre an dieser Stelle tatsächlich ehrlicher gewesen.
+
+474
+00:31:02,900 --> 00:31:05,360
+Wenn ich dann schon sage, okay, hier gibt es diese neue Welt,
+
+475
+00:31:05,480 --> 00:31:07,160
+dann hätte man auch anders umgehen können.
+
+476
+00:31:07,460 --> 00:31:08,279
+Und das ist ja auch etwas,
+
+477
+00:31:08,400 --> 00:31:11,500
+was ja auch Anno einiges an Kritik eingebracht hat damals.
+
+478
+00:31:12,500 --> 00:31:16,420
+2017, als das Spiel erschienen ist, auch unmittelbar danach,
+
+479
+00:31:16,420 --> 00:31:17,420
+wurde wirklich breit.
+
+480
+00:31:17,960 --> 00:31:20,279
+Und da wurde auch breit Kritik daran auch schon geäußert.
+
+481
+00:31:20,400 --> 00:31:21,880
+Das heißt, wir sind jetzt nicht die Ersten,
+
+482
+00:31:21,960 --> 00:31:24,759
+die da drauf gekommen sind und das hier inhaltlich kritisieren.
+
+483
+00:31:24,940 --> 00:31:29,460
+Und ich meine, die Aussage wäre gewesen laut Dom Schott.
+
+484
+00:31:29,740 --> 00:31:32,340
+Der hat ja einen Podcast, okay, cool.
+
+485
+00:31:33,039 --> 00:31:36,900
+Und der hat ja ganz gute Einblicke in die Industrie
+
+486
+00:31:36,900 --> 00:31:39,579
+und hat wohl auch mit dem Entwicklerstudio darüber gesprochen.
+
+487
+00:31:40,200 --> 00:31:43,100
+Und da hieß es eben, na ja, das war eine reine Marketingentscheidung.
+
+488
+00:31:43,100 --> 00:31:46,960
+Also man hat sich sozusagen nicht wohl dabei gefühlt,
+
+489
+00:31:47,039 --> 00:31:47,860
+irgendwie den,
+
+490
+00:31:47,960 --> 00:31:50,160
+Spielern ja an die Hand zu geben,
+
+491
+00:31:50,259 --> 00:31:52,059
+dass du jetzt hier Sklaven verwaltest,
+
+492
+00:31:52,200 --> 00:31:55,100
+was auch tatsächlich ein bisschen weird gewesen wäre.
+
+493
+00:31:55,240 --> 00:31:58,900
+Ich glaube auch, das hätte anders auch für Kritik gesorgt.
+
+494
+00:31:59,120 --> 00:31:59,519
+Ja, klar.
+
+495
+00:31:59,799 --> 00:32:04,779
+So ist es dann letztendlich wiederum der Kapitalismus im Kapitalismus,
+
+496
+00:32:05,120 --> 00:32:07,059
+weil man letztlich festgestellt hat,
+
+497
+00:32:07,559 --> 00:32:09,819
+okay, so ein Spiel verkauft sich halt einfach besser,
+
+498
+00:32:10,000 --> 00:32:14,579
+wenn ich nur so ein Postkarten-Idyllen-Spiel mache aus dieser Zeit.
+
+499
+00:32:14,579 --> 00:32:17,660
+Also ich nenne zwar diese Zeit, lasse aber alles Schreckliche,
+
+500
+00:32:17,960 --> 00:32:19,180
+und so weiter weg.
+
+501
+00:32:19,480 --> 00:32:21,640
+Und offenbar eben aus dem Grund,
+
+502
+00:32:21,759 --> 00:32:25,220
+dass man das Spielern nicht zumuten, zutrauen wollte
+
+503
+00:32:25,220 --> 00:32:27,539
+und man hier eben einen Blockbuster abliefert.
+
+504
+00:32:28,420 --> 00:32:33,059
+Und ja, deswegen hat man sich eben diesen unbequemen Fragen komplett entzogen,
+
+505
+00:32:33,279 --> 00:32:36,440
+was aber dazu geführt hat, dass es dann natürlich sofort auch Kritik gab.
+
+506
+00:32:37,019 --> 00:32:38,100
+Zum Glück, muss man sagen.
+
+507
+00:32:38,220 --> 00:32:40,460
+Genau, und wenn man vor allen Dingen sagt, was ist denn unbequem?
+
+508
+00:32:40,840 --> 00:32:43,299
+Unbequem ist natürlich auch, wenn auf einmal dann merkst du,
+
+509
+00:32:43,519 --> 00:32:45,120
+Mist, jetzt ist der Berg schon wieder leer.
+
+510
+00:32:45,120 --> 00:32:45,460
+Ja.
+
+511
+00:32:45,600 --> 00:32:47,940
+Jetzt muss ich ja woanders hin und mir eine neue Mine erschließen.
+
+512
+00:32:47,960 --> 00:32:49,860
+Oder ist schon jemand, was mein jetzt?
+
+513
+00:32:50,180 --> 00:32:52,240
+Trete ich jetzt mit dem in komplexe Handelsbeziehungen ein
+
+514
+00:32:52,240 --> 00:32:53,680
+oder versuche ich ihm den Kopf abzuschlagen?
+
+515
+00:32:53,920 --> 00:32:56,579
+Also das macht es ja auch unangenehm.
+
+516
+00:32:56,720 --> 00:32:59,480
+Also sprich, viel von diesen Sachen, die wir ja gesehen haben,
+
+517
+00:32:59,559 --> 00:33:02,640
+die durch dieses Haben, Ausbeuten, Erobern und so weiter ja kommt,
+
+518
+00:33:02,920 --> 00:33:05,039
+wird hier halt eben so gesugarcoated.
+
+519
+00:33:05,380 --> 00:33:06,980
+Und dazu gehört halt eben auch Umweltzerstörung.
+
+520
+00:33:07,500 --> 00:33:10,900
+Also viel von diesem ganzen Naturverbrauch und Umweltkonsum
+
+521
+00:33:10,900 --> 00:33:13,140
+ist ja tatsächlich ein Problem für Lebensgrundlagen,
+
+522
+00:33:13,519 --> 00:33:14,500
+für die Gesundheit der Leute.
+
+523
+00:33:14,500 --> 00:33:17,740
+Also wer sich so alte Gemälde oder Fotos aus der Zeit,
+
+524
+00:33:17,740 --> 00:33:20,400
+des frühen Kapitalismus gerade so in Großbritannien anguckt,
+
+525
+00:33:20,539 --> 00:33:22,240
+da möchte man ja tatsächlich nicht leben.
+
+526
+00:33:22,380 --> 00:33:24,720
+Und wenn man so sieht, wie groß die Lebenserwartung war
+
+527
+00:33:24,720 --> 00:33:26,480
+von den meisten Arbeitern.
+
+528
+00:33:26,660 --> 00:33:29,640
+Also wenn du von Kindesbeinen an dann irgendwie so ab circa elf
+
+529
+00:33:29,640 --> 00:33:31,339
+dann quasi dann mit in der Fabrik bist,
+
+530
+00:33:31,519 --> 00:33:33,339
+dann ist dann fraglich, ob du es dann irgendwie schaffst,
+
+531
+00:33:33,400 --> 00:33:34,380
+über 35 zu werden.
+
+532
+00:33:35,240 --> 00:33:36,400
+Arbeitsbedingungen jetzt mal kurz beiseite,
+
+533
+00:33:36,480 --> 00:33:39,740
+aber Umwelt und so weiter ist hier tatsächlich auch nicht das Problem.
+
+534
+00:33:39,900 --> 00:33:41,559
+Es ist eher so ein ästhetisches Problem.
+
+535
+00:33:41,819 --> 00:33:45,740
+Und das ist natürlich auch etwas, was eine ganze Menge runterschrubbt
+
+536
+00:33:46,059 --> 00:33:47,000
+von dem über.
+
+537
+00:33:47,000 --> 00:33:49,940
+Dass man hier tatsächlich sich anders auseinandersetzen könnte.
+
+538
+00:33:50,319 --> 00:33:52,539
+Was es zum Beispiel in anderen Zivilisationssimulationen
+
+539
+00:33:52,539 --> 00:33:53,019
+ja sogar gibt.
+
+540
+00:33:53,299 --> 00:33:55,799
+Also Civilization, glaube ich, hat seit Civilization 2,
+
+541
+00:33:55,960 --> 00:33:57,940
+und dann sprechen wir hier in den 90ern,
+
+542
+00:33:58,279 --> 00:33:59,700
+dass wenn du anfängst, Fabriken zu bauen,
+
+543
+00:33:59,779 --> 00:34:01,880
+dass rundherum dann Umweltverschmutzung entsteht.
+
+544
+00:34:02,000 --> 00:34:03,619
+Das macht die Bevölkerung krank.
+
+545
+00:34:03,720 --> 00:34:05,680
+Also musst du dich jetzt um Recycling kümmern und so weiter.
+
+546
+00:34:05,900 --> 00:34:08,420
+Das ist natürlich auch primitiv und einfach so.
+
+547
+00:34:08,820 --> 00:34:10,940
+Aber man kann das ja durchaus abbilden.
+
+548
+00:34:11,059 --> 00:34:14,139
+Es sei denn, man möchte es genau an dieser Stelle bewusst auslassen.
+
+549
+00:34:14,139 --> 00:34:16,880
+Also ganz wird es tatsächlich nicht,
+
+550
+00:34:17,000 --> 00:34:18,880
+ausgeklammert, aber wie du sagst,
+
+551
+00:34:18,900 --> 00:34:21,719
+das hat eher so einen ästhetischen Hintergrund.
+
+552
+00:34:22,000 --> 00:34:24,860
+Also sprich, es gibt bestimmte Produktionsketten,
+
+553
+00:34:25,199 --> 00:34:29,500
+die sich negativ auf die Attraktivität deiner Stadt auswirken.
+
+554
+00:34:30,039 --> 00:34:31,139
+Und ich glaube auch,
+
+555
+00:34:31,179 --> 00:34:33,840
+so ein bisschen Gesundheitseffekte zu folgen haben.
+
+556
+00:34:34,019 --> 00:34:36,420
+Also dass sich so Krankheiten schneller ausbreiten.
+
+557
+00:34:36,519 --> 00:34:38,559
+Aber sobald du mal so ein Krankenhaus gebaut hast,
+
+558
+00:34:38,639 --> 00:34:40,400
+ist das alles gar kein Problem mehr.
+
+559
+00:34:40,460 --> 00:34:41,440
+Das hast du alles im Griff.
+
+560
+00:34:41,440 --> 00:34:44,440
+Also da entsteht jetzt kein großer Kipppunkt und schwupps,
+
+561
+00:34:45,199 --> 00:34:46,440
+ist so eine ganze Insel irgendwie ausgelöscht.
+
+562
+00:34:47,000 --> 00:34:50,460
+Übrigens sterben da auch nicht Leute an Krankheiten,
+
+563
+00:34:50,460 --> 00:34:52,900
+sondern dir fehlen dann wieder Arbeiter.
+
+564
+00:34:53,639 --> 00:34:57,239
+Also du merkst es einfach an der Produktivität, die runtergeht
+
+565
+00:34:57,239 --> 00:34:59,619
+und nicht, dass irgendwelche Leute elendig krepieren.
+
+566
+00:34:59,960 --> 00:35:01,460
+Und du hast dann halt da so kleine Zeichen,
+
+567
+00:35:02,260 --> 00:35:04,519
+dass du jetzt hier eine Krankheit am Laufen hast.
+
+568
+00:35:04,619 --> 00:35:06,599
+Aber wie gesagt, mit so einem Hospital
+
+569
+00:35:06,599 --> 00:35:08,840
+ist das schnell wieder in den Griff zu kriegen.
+
+570
+00:35:09,019 --> 00:35:10,800
+Und das Zweite, was noch passiert ist,
+
+571
+00:35:10,960 --> 00:35:14,320
+dass so ein Ding halt explodieren und brennen kann.
+
+572
+00:35:14,780 --> 00:35:16,800
+Aber da pflanzt du direkt eine Feuerwehr,
+
+573
+00:35:16,800 --> 00:35:19,960
+schön daneben und dann passiert da eigentlich kaum noch was.
+
+574
+00:35:20,080 --> 00:35:21,900
+Und wenn, wie gesagt, auch nicht tragisch.
+
+575
+00:35:22,000 --> 00:35:25,500
+Es sterben keine Leute, sondern die Fabrik ist halt einfach kaputt.
+
+576
+00:35:25,600 --> 00:35:27,320
+Du musst halt wieder ein bisschen Geld investieren.
+
+577
+00:35:27,500 --> 00:35:30,300
+Natürlich je nach Schwierigkeitsstufe tut das mehr weh,
+
+578
+00:35:30,420 --> 00:35:32,280
+wenn du wieder Geld investieren musst.
+
+579
+00:35:32,519 --> 00:35:35,320
+Aber wenn du jetzt auf relativ easy Level spielst,
+
+580
+00:35:35,420 --> 00:35:36,760
+macht das irgendwie gar nichts.
+
+581
+00:35:36,980 --> 00:35:39,039
+Und tatsächlich diese Schwerindustrie,
+
+582
+00:35:39,500 --> 00:35:41,480
+also Gießerei und solche Sachen,
+
+583
+00:35:41,760 --> 00:35:46,720
+da siehst du schon so ein bisschen so ein Wölkchen quasi so.
+
+584
+00:35:46,720 --> 00:35:46,780
+Und dann ist es halt so, dass du da so ein bisschen
+
+585
+00:35:46,800 --> 00:35:50,100
+um dieses Gebiet und du merkst auch,
+
+586
+00:35:50,180 --> 00:35:52,080
+dass die Leute unzufriedener sind,
+
+587
+00:35:52,220 --> 00:35:54,480
+wenn sie nah an Wohngebieten ist.
+
+588
+00:35:54,580 --> 00:35:56,760
+Und wie gesagt, die Attraktivität lässt nach.
+
+589
+00:35:57,340 --> 00:35:58,660
+Aber es ist jetzt nicht so,
+
+590
+00:35:59,240 --> 00:36:02,100
+dass du deshalb jetzt so einen signifikanten,
+
+591
+00:36:02,300 --> 00:36:03,460
+extremen Nachteil hast.
+
+592
+00:36:03,760 --> 00:36:07,600
+Was auch interessant ist, wenn du Schweine züchtest,
+
+593
+00:36:07,800 --> 00:36:11,580
+die brauchst du für beispielsweise Wurst und für Seife,
+
+594
+00:36:11,880 --> 00:36:15,120
+dann sind das sogenannte unattraktive Orte.
+
+595
+00:36:15,360 --> 00:36:16,519
+Also die wiederum,
+
+596
+00:36:16,519 --> 00:36:19,019
+die dann deinen Kulturbonus runterbringen.
+
+597
+00:36:19,659 --> 00:36:22,239
+Und deswegen habe ich relativ schnell in dem Spiel
+
+598
+00:36:22,239 --> 00:36:24,320
+dann mir immer eine eigene Schweineinsel gebaut.
+
+599
+00:36:25,460 --> 00:36:28,159
+Also sprich, du kannst ja andere Inseln,
+
+600
+00:36:28,159 --> 00:36:31,619
+es sind ja nicht alle Inseln mit Mitspielern und Gegnern besetzt,
+
+601
+00:36:31,840 --> 00:36:33,340
+sondern du kannst relativ schnell,
+
+602
+00:36:33,559 --> 00:36:35,639
+wenn du genug Bauresourcen hast,
+
+603
+00:36:35,780 --> 00:36:37,179
+einfach so eine Insel dir nehmen.
+
+604
+00:36:37,380 --> 00:36:39,019
+Übrigens da auch nicht irgendwie,
+
+605
+00:36:39,179 --> 00:36:41,000
+dass die schon besiedelt ist oder so,
+
+606
+00:36:41,139 --> 00:36:43,880
+sondern es ist alles unbesiedelt, unberührt.
+
+607
+00:36:43,880 --> 00:36:46,400
+Du musst da einfach nur dein Kontor drauf pflanzen,
+
+608
+00:36:46,519 --> 00:36:48,719
+und zack, plötzlich kommen Leute,
+
+609
+00:36:49,219 --> 00:36:51,619
+und plötzlich hast du da Arbeiter und so weiter.
+
+610
+00:36:52,099 --> 00:36:55,440
+Und deswegen ist so eine gängige Strategie ab einer gewissen,
+
+611
+00:36:55,739 --> 00:36:57,219
+ja, ich würde sagen so im Midgame,
+
+612
+00:36:57,420 --> 00:37:00,940
+in Mitte des Spiels fange ich dann an,
+
+613
+00:37:01,000 --> 00:37:04,699
+wirklich meine Hauptinsel so attraktiv wie möglich zu machen
+
+614
+00:37:04,699 --> 00:37:08,460
+und dann alle ekelhaften Sachen sozusagen auszulagern.
+
+615
+00:37:08,639 --> 00:37:10,320
+Da sollen sich dann andere drum kümmern.
+
+616
+00:37:11,239 --> 00:37:13,500
+Das heißt, ich habe eine eigene Schweineinsel,
+
+617
+00:37:13,679 --> 00:37:15,340
+ich habe eine eigene Stahlinsel.
+
+618
+00:37:15,340 --> 00:37:16,239
+Ich habe ja sowieso,
+
+619
+00:37:16,239 --> 00:37:18,579
+meine Kolonien da draußen und so weiter.
+
+620
+00:37:19,439 --> 00:37:22,719
+Und mit Schiffsverkehr und Handelsverkehr
+
+621
+00:37:22,719 --> 00:37:25,279
+kann ich dann die Bedürfnisse trotzdem befriedigen
+
+622
+00:37:25,279 --> 00:37:29,459
+und kann über See quasi auch Produktionsketten aufbauen,
+
+623
+00:37:29,539 --> 00:37:30,859
+was natürlich super praktisch ist,
+
+624
+00:37:30,939 --> 00:37:34,479
+weil dann können meine super entwickelten Investoren
+
+625
+00:37:34,479 --> 00:37:37,239
+in Saus und Braus leben und ihren Champagner schlürfen,
+
+626
+00:37:37,379 --> 00:37:39,459
+was for real ein Grundbedürfnis ist.
+
+627
+00:37:39,619 --> 00:37:42,619
+Zigarren rauchen, was for real ein Grundbedürfnis ist
+
+628
+00:37:42,619 --> 00:37:43,979
+und Schokolade fressen.
+
+629
+00:37:43,979 --> 00:37:45,019
+Grundbedürfnisse.
+
+630
+00:37:46,239 --> 00:37:48,819
+Und das alles kommt, wir wissen ja woher,
+
+631
+00:37:49,219 --> 00:37:52,219
+ja, aus den Kolonien.
+
+632
+00:37:52,539 --> 00:37:55,439
+Plus sie haben goldene Taschenuhren und solche Sachen,
+
+633
+00:37:55,799 --> 00:37:59,399
+was halt so Investoren zu dieser Zeit getragen und gegessen haben.
+
+634
+00:37:59,739 --> 00:38:01,839
+Das ist auch geil, dass dieses, also nach dem Motto,
+
+635
+00:38:02,000 --> 00:38:04,579
+die höchste Stufe, die ein Mensch werden kann,
+
+636
+00:38:04,639 --> 00:38:05,459
+ist der Investor.
+
+637
+00:38:06,059 --> 00:38:08,059
+Und Ziel ist ja, möglichst weit zu kommen.
+
+638
+00:38:08,179 --> 00:38:10,359
+Das heißt, wenn am Ende alle Investoren sind,
+
+639
+00:38:10,399 --> 00:38:11,259
+geht es allen gut, nicht?
+
+640
+00:38:11,719 --> 00:38:14,559
+Also genau, bis auf den Leuten in der neuen Welt.
+
+641
+00:38:14,559 --> 00:38:16,219
+Naja, du brauchst auch die Leute auf der Schweine,
+
+642
+00:38:16,239 --> 00:38:16,579
+die Schweineinsel.
+
+643
+00:38:16,679 --> 00:38:19,699
+Und die Leute, genau, die Schweineinsel-Menschen,
+
+644
+00:38:19,819 --> 00:38:21,519
+die haben es schwer, das weiß man.
+
+645
+00:38:21,959 --> 00:38:25,139
+Aber du könntest tatsächlich eine reine Investoreninsel bauen,
+
+646
+00:38:25,219 --> 00:38:25,619
+das geht.
+
+647
+00:38:25,759 --> 00:38:27,819
+Wenn außenrum halt alles sie versorgen.
+
+648
+00:38:28,299 --> 00:38:30,019
+Die streiken auch nicht, oder?
+
+649
+00:38:30,139 --> 00:38:31,319
+Investoren streiken die, oder?
+
+650
+00:38:31,519 --> 00:38:33,279
+Also die Investoren auf gar keinen Fall.
+
+651
+00:38:34,399 --> 00:38:36,399
+Die Investoren produzieren aber auch nichts.
+
+652
+00:38:37,199 --> 00:38:39,239
+Sie gibt es halt einfach nur, die muss man halt nur so versorgen.
+
+653
+00:38:39,919 --> 00:38:41,779
+Und sie bringen einem natürlich Geld irgendwie.
+
+654
+00:38:43,699 --> 00:38:44,939
+Aber so wirklich was,
+
+655
+00:38:45,219 --> 00:38:46,219
+also sie werden nicht für,
+
+656
+00:38:46,219 --> 00:38:47,019
+sie werden nicht für Arbeit eingesetzt,
+
+657
+00:38:47,119 --> 00:38:48,679
+was auch interessant ist tatsächlich.
+
+658
+00:38:48,859 --> 00:38:50,359
+Weil alle anderen haben ja eine Funktion.
+
+659
+00:38:50,679 --> 00:38:54,379
+Also Ingenieure, die dann so Taschenuhren bauen können und so weiter.
+
+660
+00:38:54,500 --> 00:38:57,399
+Also diese hochfein entwickelten Produkte.
+
+661
+00:38:57,619 --> 00:38:59,239
+Ist ja klar, weil die sind ja gebildet,
+
+662
+00:38:59,319 --> 00:39:00,139
+die anderen sind dumm.
+
+663
+00:39:00,439 --> 00:39:03,219
+Und es gibt zwar Schulen und Universitäten,
+
+664
+00:39:04,079 --> 00:39:07,500
+aber es hat auch keine Auswirkung auf Bildungsgrade,
+
+665
+00:39:07,639 --> 00:39:09,159
+sondern einfach nur auf Zufriedenheit
+
+666
+00:39:09,159 --> 00:39:11,059
+und Kulturfaktor der Stadt.
+
+667
+00:39:11,219 --> 00:39:12,779
+Also es hat sonst keine Funktion.
+
+668
+00:39:13,419 --> 00:39:15,319
+Die Leute wünschen sich einfach nur Schulen,
+
+669
+00:39:15,319 --> 00:39:16,199
+aber du merkst,
+
+670
+00:39:16,199 --> 00:39:17,480
+du merkst keinen Bildungsfortschritt.
+
+671
+00:39:17,779 --> 00:39:19,419
+Ja, also das heißt,
+
+672
+00:39:19,839 --> 00:39:22,379
+die Investoren, das ist, wie du schon sagst,
+
+673
+00:39:22,419 --> 00:39:24,099
+die höchste Zivilisationsstufe.
+
+674
+00:39:24,279 --> 00:39:25,500
+Und Ziel wäre es dann,
+
+675
+00:39:25,579 --> 00:39:28,639
+die hübscheste Insel, die attraktiv ist,
+
+676
+00:39:28,739 --> 00:39:31,419
+nur mit Investorenhäusern auszustatten.
+
+677
+00:39:31,619 --> 00:39:34,159
+Und alles andere erledigen dann die anderen Leute
+
+678
+00:39:34,159 --> 00:39:37,159
+irgendwo anders auf anderen Inseln und so weiter.
+
+679
+00:39:38,059 --> 00:39:42,199
+Eigentlich musst du ja für jede Klasse und Stufe,
+
+680
+00:39:42,339 --> 00:39:44,500
+brauchst du ja Arbeiter, Ingenieure und so weiter.
+
+681
+00:39:44,500 --> 00:39:46,179
+Aber ab einer gewissen Zeit,
+
+682
+00:39:46,179 --> 00:39:47,039
+bis zu einer gewissen anderen Stufe,
+
+683
+00:39:47,119 --> 00:39:49,139
+ich meine, es wären Handwerker,
+
+684
+00:39:49,279 --> 00:39:51,639
+kannst du einen sogenannten Pendler-Kai
+
+685
+00:39:51,639 --> 00:39:53,259
+auf deinen Inseln bauen.
+
+686
+00:39:53,539 --> 00:39:56,460
+Die transportieren Arbeitskräfte von Insel zu Insel.
+
+687
+00:39:56,679 --> 00:39:59,159
+Das heißt, die müssen gar nicht mehr bei dir wohnen.
+
+688
+00:39:59,339 --> 00:40:02,139
+Dieses ganze Gesindel kannst du alle komplett
+
+689
+00:40:02,139 --> 00:40:04,539
+weg von der Investoreninsel auslagern.
+
+690
+00:40:05,019 --> 00:40:05,659
+Oh, geil.
+
+691
+00:40:06,419 --> 00:40:09,440
+Ja, das ist also an einigen Stellen erschreckend weit weg
+
+692
+00:40:09,440 --> 00:40:10,139
+von der Realität
+
+693
+00:40:10,139 --> 00:40:11,659
+und an anderen Stellen halt irgendwie
+
+694
+00:40:11,659 --> 00:40:13,619
+beinahe schon satirisch mit da drin.
+
+695
+00:40:13,859 --> 00:40:15,139
+Das ist schon spannend.
+
+696
+00:40:15,139 --> 00:40:16,059
+Wo wir gerade eben,
+
+697
+00:40:16,059 --> 00:40:16,159
+wo wir gerade eben,
+
+698
+00:40:16,159 --> 00:40:17,759
+wir haben gesprochen über Sklaverei,
+
+699
+00:40:17,899 --> 00:40:19,059
+die fehlt in den Kolonien.
+
+700
+00:40:19,179 --> 00:40:21,159
+Wie ist es denn so mit den Arbeitsbedingungen
+
+701
+00:40:21,159 --> 00:40:23,739
+für die Leute, die dann jetzt quasi aufsteigen
+
+702
+00:40:23,739 --> 00:40:25,279
+und dann in der Fabrik arbeiten dürfen?
+
+703
+00:40:26,219 --> 00:40:26,379
+Ja.
+
+704
+00:40:26,559 --> 00:40:28,059
+Freuen die sich da über die Tätigkeit?
+
+705
+00:40:28,659 --> 00:40:29,719
+Also man kann so ein bisschen
+
+706
+00:40:29,719 --> 00:40:31,579
+an der Produktivitätsschraube drehen,
+
+707
+00:40:31,719 --> 00:40:33,099
+also sprich Arbeitszeit einfach.
+
+708
+00:40:33,219 --> 00:40:36,259
+Man kann sozusagen die Schichtzeit erhöhen.
+
+709
+00:40:36,420 --> 00:40:38,119
+Dann fangen die Leute aber auch an,
+
+710
+00:40:38,199 --> 00:40:39,599
+so ein bisschen unzufrieden zu werden.
+
+711
+00:40:39,899 --> 00:40:42,159
+Es gibt tatsächlich dann auch Aufstände.
+
+712
+00:40:42,339 --> 00:40:45,179
+Das kann man aber auch relativ gut in den Griff kriegen,
+
+713
+00:40:45,179 --> 00:40:46,039
+so wie so ein Feuer
+
+714
+00:40:46,039 --> 00:40:46,460
+oder so.
+
+715
+00:40:46,579 --> 00:40:48,659
+Man baut da, wenn ein Feuer ist,
+
+716
+00:40:48,699 --> 00:40:50,619
+eine Feuerwehr hin und in dem Fall einfach
+
+717
+00:40:50,619 --> 00:40:51,519
+eine Polizeistation.
+
+718
+00:40:52,320 --> 00:40:54,039
+Und das war es dann.
+
+719
+00:40:54,500 --> 00:40:56,579
+Das heißt, die Polizei verprügelt die Streikenden
+
+720
+00:40:56,579 --> 00:40:57,519
+und dann ist wieder alles gut.
+
+721
+00:40:57,920 --> 00:40:59,300
+Genau, und dann ist wieder alles gut
+
+722
+00:40:59,300 --> 00:41:02,179
+und die Leute arbeiten wieder ganz normal.
+
+723
+00:41:02,800 --> 00:41:04,019
+Und vielleicht kann man,
+
+724
+00:41:04,139 --> 00:41:05,619
+also ich würde auch sagen,
+
+725
+00:41:05,920 --> 00:41:09,159
+ich spiele wirklich auf einem sehr normalen Level,
+
+726
+00:41:09,400 --> 00:41:11,480
+also eher niedrigen Normal-Level
+
+727
+00:41:11,480 --> 00:41:13,039
+und nicht die höhere Schwierigkeitsstufe.
+
+728
+00:41:13,039 --> 00:41:15,199
+Ich glaube, in den höheren Schwierigkeitsstufen
+
+729
+00:41:15,199 --> 00:41:16,019
+musst du ein bisschen,
+
+730
+00:41:16,039 --> 00:41:17,219
+ein bisschen rumexperimentieren,
+
+731
+00:41:17,340 --> 00:41:18,460
+auch mit den Arbeitszeiten,
+
+732
+00:41:18,539 --> 00:41:20,440
+um die Produktivität zu steuern und so weiter.
+
+733
+00:41:20,599 --> 00:41:21,679
+Da bin ich gar nicht an dem Punkt.
+
+734
+00:41:21,779 --> 00:41:23,699
+Das heißt, wenn du ganz normal spielst,
+
+735
+00:41:24,460 --> 00:41:26,039
+sind eigentlich auch diese Arbeiteraufstände
+
+736
+00:41:26,840 --> 00:41:27,699
+relativ normal,
+
+737
+00:41:27,779 --> 00:41:29,019
+weil die sind auch zufrieden,
+
+738
+00:41:29,079 --> 00:41:30,519
+einfach wenn sie acht Stunden da buckeln.
+
+739
+00:41:31,480 --> 00:41:32,820
+Wenn es überhaupt acht Stunden sind.
+
+740
+00:41:32,920 --> 00:41:33,400
+Ich weiß gar nicht,
+
+741
+00:41:33,460 --> 00:41:35,300
+ob es da eine konkrete Zeitangabe ist.
+
+742
+00:41:35,400 --> 00:41:37,139
+Ich glaube, es geht nur nach Prozentzahl,
+
+743
+00:41:37,279 --> 00:41:40,239
+also 100 Prozent, 120 Prozent oder 80 Prozent
+
+744
+00:41:40,239 --> 00:41:41,420
+ist, glaube ich, das Niedrigste.
+
+745
+00:41:41,679 --> 00:41:43,139
+Und je weniger sie arbeiten müssen,
+
+746
+00:41:43,259 --> 00:41:44,860
+desto zufriedener sind sie
+
+747
+00:41:44,860 --> 00:41:45,960
+und je mehr sie arbeiten,
+
+748
+00:41:45,960 --> 00:41:46,019
+desto zufriedener sind sie.
+
+749
+00:41:46,039 --> 00:41:46,219
+Je mehr sie arbeiten müssen,
+
+750
+00:41:46,340 --> 00:41:47,900
+desto unzufriedener sind sie.
+
+751
+00:41:48,019 --> 00:41:49,840
+Übrigens da noch beim Thema Arbeitszeit.
+
+752
+00:41:50,119 --> 00:41:51,900
+Es läuft ja kontinuierlich.
+
+753
+00:41:52,000 --> 00:41:54,480
+Es gibt sozusagen keine Schichten
+
+754
+00:41:54,480 --> 00:41:56,019
+oder irgendwie sowas,
+
+755
+00:41:56,099 --> 00:41:59,219
+sondern die Produktion läuft 24-7.
+
+756
+00:41:59,500 --> 00:42:01,039
+Aber sowas wie Gewerkschaft
+
+757
+00:42:01,039 --> 00:42:02,000
+oder irgendwie sowas,
+
+758
+00:42:02,179 --> 00:42:05,019
+das wird ab und zu angedeutet.
+
+759
+00:42:05,320 --> 00:42:06,779
+Gibt es da natürlich nicht.
+
+760
+00:42:07,279 --> 00:42:09,880
+Und ansonsten höre ich da auch keine Beschwerde,
+
+761
+00:42:10,119 --> 00:42:12,039
+dass die Leute da auf der Baumwollplantage
+
+762
+00:42:12,599 --> 00:42:14,019
+irgendwie schwitzen und schuften
+
+763
+00:42:14,019 --> 00:42:15,960
+oder im Stahlwerk Stahl gießen
+
+764
+00:42:15,960 --> 00:42:19,760
+oder irgendwie sowas,
+
+765
+00:42:19,840 --> 00:42:21,760
+was da vielleicht auch mal passieren könnte.
+
+766
+00:42:22,579 --> 00:42:22,880
+Nö, nö.
+
+767
+00:42:23,000 --> 00:42:26,179
+Also das ist relativ holzschnittartig geregelt.
+
+768
+00:42:26,260 --> 00:42:27,300
+Und wie gesagt, die Polizei,
+
+769
+00:42:27,460 --> 00:42:28,840
+deren einziger Zweck ist es,
+
+770
+00:42:28,860 --> 00:42:30,539
+weil es gibt sonst auch kein Verbrechen.
+
+771
+00:42:30,539 --> 00:42:30,720
+Ja.
+
+772
+00:42:31,460 --> 00:42:34,420
+Also auch das gibt es ja manchmal bei SimCity und so,
+
+773
+00:42:34,500 --> 00:42:36,039
+wenn du da Infrastruktur hast,
+
+774
+00:42:36,079 --> 00:42:38,159
+die nicht so schön versorgt ist und so weiter,
+
+775
+00:42:38,280 --> 00:42:40,260
+dann hast du auch eine höhere Kriminalitätsrate
+
+776
+00:42:40,260 --> 00:42:42,760
+oder Überarmutsfaktoren.
+
+777
+00:42:42,860 --> 00:42:44,500
+Da gibt es ja jede Menge Erkenntnisse,
+
+778
+00:42:44,579 --> 00:42:45,720
+wie Kriminalität entsteht.
+
+779
+00:42:45,719 --> 00:42:47,879
+Aber hier gibt es gar keine Kriminalität.
+
+780
+00:42:48,099 --> 00:42:50,599
+Das heißt, die Polizei hat die einzige Funktion,
+
+781
+00:42:51,039 --> 00:42:54,019
+die es auch sonst ja sehr prägnant und prägend
+
+782
+00:42:54,019 --> 00:42:55,359
+im Kapitalismus ja ausfüllt,
+
+783
+00:42:55,439 --> 00:42:56,480
+nämlich Schutz von Eigentum
+
+784
+00:42:56,480 --> 00:42:59,079
+oder in dem Fall einfach nur das Verhindern
+
+785
+00:42:59,079 --> 00:43:00,719
+von Aufständen von Arbeitern,
+
+786
+00:43:01,619 --> 00:43:03,879
+sodass deine Produktion ein bisschen in den Keller geht.
+
+787
+00:43:04,239 --> 00:43:05,379
+Ja, das kann ja kein Mensch wollen.
+
+788
+00:43:05,739 --> 00:43:07,259
+Ja, das ist, wenn man dann sagt,
+
+789
+00:43:07,359 --> 00:43:08,579
+okay, jetzt sind alles Investoren,
+
+790
+00:43:08,699 --> 00:43:10,019
+die Schweineinsel brummt,
+
+791
+00:43:10,119 --> 00:43:12,879
+alle Bäuche sind voll mit Schnaps und Fisch,
+
+792
+00:43:12,879 --> 00:43:15,339
+juhu, wir haben das höchste Maß an Kultur erreicht.
+
+793
+00:43:15,719 --> 00:43:17,519
+Ich habe, wie gesagt, ja nicht so lange gespielt wie du.
+
+794
+00:43:17,819 --> 00:43:18,779
+Ich habe nachher gemerkt,
+
+795
+00:43:18,839 --> 00:43:20,639
+man kann so einzelne Kulturelemente einbringen,
+
+796
+00:43:20,739 --> 00:43:23,239
+wie so einen hübschen Busch oder so oder so einen Park.
+
+797
+00:43:23,699 --> 00:43:24,959
+Und das ist dann eben Kultur.
+
+798
+00:43:25,539 --> 00:43:28,000
+Gibt es da noch weitere Dinge, die mit Kultur zu tun haben?
+
+799
+00:43:28,019 --> 00:43:29,019
+Ja, selbstverständlich.
+
+800
+00:43:29,239 --> 00:43:33,199
+Also es gibt sozusagen so kleinere Kulturgebäude
+
+801
+00:43:33,199 --> 00:43:35,199
+wie so ein Varieté.
+
+802
+00:43:36,779 --> 00:43:38,699
+Das gibt so ein paar Kulturpunkte.
+
+803
+00:43:38,699 --> 00:43:42,699
+Aber die prägnantesten und größten Kulturgüter,
+
+804
+00:43:44,239 --> 00:43:45,699
+was auch wieder spannend,
+
+805
+00:43:45,719 --> 00:43:50,919
+weil auch hier wieder eine leichte ideologische Verschleierung stattfindet,
+
+806
+00:43:51,379 --> 00:43:53,519
+ist, das eine ist ein Museum.
+
+807
+00:43:53,919 --> 00:43:58,000
+Das kann ich also sozusagen ausbauen, Schritt für Schritt.
+
+808
+00:43:58,419 --> 00:44:01,599
+Aber es kommt darauf an, was bekomme ich denn für Museumsstücke?
+
+809
+00:44:01,779 --> 00:44:03,079
+Also wenn ich ein Museumsstück habe,
+
+810
+00:44:03,159 --> 00:44:04,899
+kann ich sozusagen so einen Anbau machen.
+
+811
+00:44:05,439 --> 00:44:07,239
+Das ist nicht nur ein Gebäude, ein Museum,
+
+812
+00:44:08,039 --> 00:44:11,000
+sondern ich baue für jedes Stück, was ich so finde,
+
+813
+00:44:11,119 --> 00:44:12,259
+einen zusätzlichen Trakt.
+
+814
+00:44:12,399 --> 00:44:13,699
+Und dann wird es dort ausgestellt.
+
+815
+00:44:13,699 --> 00:44:15,699
+Und so kann man das also so skalieren.
+
+816
+00:44:15,719 --> 00:44:20,799
+Und dreimal darfst du raten, woher diese Kunstsammlungen kommen.
+
+817
+00:44:21,919 --> 00:44:24,819
+Ja, bestimmt nicht von der Schweineinsel,
+
+818
+00:44:24,939 --> 00:44:26,879
+aber da von der anderen Insel, oder?
+
+819
+00:44:27,319 --> 00:44:30,359
+Da, wo wir diese anderen Menschen angetroffen haben, oder?
+
+820
+00:44:30,939 --> 00:44:32,019
+Ja, auch da.
+
+821
+00:44:32,199 --> 00:44:34,639
+Also manchmal ploppen die irgendwo so auf,
+
+822
+00:44:34,779 --> 00:44:39,119
+auch so Piraten-Strandgut oder so.
+
+823
+00:44:39,199 --> 00:44:42,039
+Man muss immer so kleine Zwischenmissionen kann man so machen.
+
+824
+00:44:42,319 --> 00:44:44,879
+Da kann man solche Artefakte bekommen.
+
+825
+00:44:44,879 --> 00:44:45,699
+Aber hauptsächlich,
+
+826
+00:44:45,699 --> 00:44:48,159
+gibt es sozusagen nochmal eine Funktion.
+
+827
+00:44:48,500 --> 00:44:53,179
+Du musst nämlich, um diese Kolonieninseln überhaupt zu entdecken,
+
+828
+00:44:53,259 --> 00:44:55,159
+musst du erst mal auf Expedition gehen.
+
+829
+00:44:55,480 --> 00:44:57,699
+Das heißt, du musst dir ein ordentliches Schiff ausstatten
+
+830
+00:44:58,399 --> 00:45:01,599
+mit genug Proviant und bestimmten anderen Sachen,
+
+831
+00:45:01,739 --> 00:45:04,199
+damit du gut durch diese Expedition kommst.
+
+832
+00:45:04,279 --> 00:45:05,699
+Weil da gibt es dann noch so Zusatzherausforderungen,
+
+833
+00:45:06,279 --> 00:45:06,699
+dass du die meisterst.
+
+834
+00:45:07,339 --> 00:45:10,000
+Deswegen ist es wichtig, dass du die richtigen Waren und so mitnimmst.
+
+835
+00:45:10,579 --> 00:45:11,699
+Weil sonst scheitert deine Expedition.
+
+836
+00:45:12,819 --> 00:45:15,059
+Ja, und für diese ganzen Kulturgüter
+
+837
+00:45:15,059 --> 00:45:16,719
+kannst du quasi auf Raubzug gehen.
+
+838
+00:45:17,139 --> 00:45:20,980
+Also du kannst eine Expedition nach alten Kulturgütern.
+
+839
+00:45:21,039 --> 00:45:24,139
+Dann kannst du mal schön hier zu den Azteken oder so fahren
+
+840
+00:45:24,139 --> 00:45:26,079
+und da mal ein paar Sachen rauben.
+
+841
+00:45:26,179 --> 00:45:28,239
+Also da gibt es so Sachen wie alte Mumien
+
+842
+00:45:28,239 --> 00:45:31,340
+und so Aztekenfiguren und solche Sachen.
+
+843
+00:45:31,900 --> 00:45:33,059
+Die kann man sich über so Expeditionen
+
+844
+00:45:33,799 --> 00:45:35,980
+oder eben in der neuen Welt sich holen.
+
+845
+00:45:36,039 --> 00:45:38,340
+Oder man bekommt sie halt irgendwie so geschenkt.
+
+846
+00:45:38,719 --> 00:45:40,579
+Wahrscheinlich von jemand anders, der sie geraubt hat.
+
+847
+00:45:40,719 --> 00:45:43,400
+Weil der Ursprung ist ja immer irgendwo anders
+
+848
+00:45:43,400 --> 00:45:44,259
+und nicht die eine,
+
+849
+00:45:44,260 --> 00:45:45,940
+wie du es schon sagst, Schweineinsel.
+
+850
+00:45:46,600 --> 00:45:49,900
+Mir fallen da so zwei Sachen ein aus anderen Spielen.
+
+851
+00:45:50,360 --> 00:45:50,960
+Das eine ist nämlich,
+
+852
+00:45:50,980 --> 00:45:52,640
+du hast gerade eben Arbeitsunfall angesprochen.
+
+853
+00:45:53,000 --> 00:45:54,980
+Da fällt mir das Spiel Frostpunk ein.
+
+854
+00:45:55,140 --> 00:45:56,200
+Bei Frostpunk ist es so,
+
+855
+00:45:56,220 --> 00:45:58,920
+man ist quasi eingefroren so im ewigen Eis
+
+856
+00:45:58,920 --> 00:46:01,040
+so nach einer großen Umweltkatastrophe,
+
+857
+00:46:01,160 --> 00:46:01,800
+Klimawandel, whatever.
+
+858
+00:46:02,340 --> 00:46:04,960
+Man sitzt quasi mit seiner Bevölkerung,
+
+859
+00:46:05,060 --> 00:46:07,220
+den Überlebenden um so einen großen Ofen herum
+
+860
+00:46:07,220 --> 00:46:09,520
+und muss da eine Bevölkerung aufbauen
+
+861
+00:46:09,520 --> 00:46:11,540
+und sustainable hinbekommen.
+
+862
+00:46:11,640 --> 00:46:13,340
+Problem hier, endliche Ressourcen.
+
+863
+00:46:13,340 --> 00:46:14,140
+Das ist ein zweites Problem.
+
+864
+00:46:14,139 --> 00:46:17,139
+Hier eine genaue Abbildung von den Schwierigkeiten,
+
+865
+00:46:17,779 --> 00:46:18,739
+die das dann mit sich bringt.
+
+866
+00:46:18,900 --> 00:46:21,239
+Sprich, Arbeitnehmer werden verletzt.
+
+867
+00:46:21,400 --> 00:46:23,059
+Dann ist dann die Frage, wie gehst du damit um?
+
+868
+00:46:23,139 --> 00:46:24,940
+Wirst du dich darum kümmern, darum kümmern und so weiter.
+
+869
+00:46:25,099 --> 00:46:26,619
+Die Endlichkeit von Ressourcen
+
+870
+00:46:26,619 --> 00:46:28,699
+und das Treffen von schweren Entscheidungen
+
+871
+00:46:28,699 --> 00:46:30,199
+sind da halt sehr im Fokus.
+
+872
+00:46:30,639 --> 00:46:31,819
+Das macht auch was mit einem.
+
+873
+00:46:31,980 --> 00:46:32,539
+Es ist nicht so,
+
+874
+00:46:32,619 --> 00:46:34,500
+als ob man da großartig Freude empfindet.
+
+875
+00:46:34,619 --> 00:46:37,239
+Sondern das ist dann etwas, was man miterlebt.
+
+876
+00:46:37,759 --> 00:46:38,779
+Oder das andere Beispiel,
+
+877
+00:46:38,920 --> 00:46:40,339
+wo es dann auch um schwierige Themen geht,
+
+878
+00:46:40,339 --> 00:46:42,420
+aber auf der satirischen Note ist Tropico.
+
+879
+00:46:43,019 --> 00:46:43,980
+Wo man quasi so,
+
+880
+00:46:43,980 --> 00:46:46,039
+Diktator von seiner Bananenrepublik ist
+
+881
+00:46:46,039 --> 00:46:47,340
+und da dann sich auch überlegen muss,
+
+882
+00:46:47,440 --> 00:46:50,380
+okay, wie handel ich jetzt mit anderen Staatenlenkern?
+
+883
+00:46:50,460 --> 00:46:52,019
+Wie gehe ich mit meiner Bevölkerung um?
+
+884
+00:46:52,360 --> 00:46:55,139
+Auch da werden dann schwierige Themen angesprochen.
+
+885
+00:46:55,480 --> 00:46:57,440
+Aber weil es halt satirisch überzeichnet ist,
+
+886
+00:46:57,480 --> 00:46:59,099
+kann man das dann leichter verknusen.
+
+887
+00:46:59,500 --> 00:47:01,760
+Im Prinzip beides geht mit schwierigen Themen um,
+
+888
+00:47:01,900 --> 00:47:02,880
+ohne sie auszublenden.
+
+889
+00:47:02,960 --> 00:47:04,260
+Nur auf unterschiedliche Art und Weise.
+
+890
+00:47:04,380 --> 00:47:06,659
+Bei dem einen ist es halt dann irgendwie so lustig überzeichnet,
+
+891
+00:47:06,740 --> 00:47:08,099
+wo man dann irgendwie auch das Gefühl hat,
+
+892
+00:47:08,099 --> 00:47:09,500
+okay, ja gut, weiß jetzt nicht,
+
+893
+00:47:09,579 --> 00:47:11,619
+ob das jetzt irgendwie nicht so amüsiert.
+
+894
+00:47:11,840 --> 00:47:13,059
+Und bei dem anderen ist es irgendwie etwas,
+
+895
+00:47:13,159 --> 00:47:13,659
+wo ich sage, okay,
+
+896
+00:47:13,659 --> 00:47:15,139
+das macht jetzt aber nicht Spaß als Spiel.
+
+897
+00:47:16,319 --> 00:47:18,480
+Insofern kann ich natürlich die Entscheidungen,
+
+898
+00:47:18,500 --> 00:47:20,420
+die hier getroffen worden sind, nachvollziehen.
+
+899
+00:47:20,519 --> 00:47:21,739
+Aber das ist schon sehr speziell,
+
+900
+00:47:22,119 --> 00:47:24,440
+dass man dann irgendwie, also das normalisiert das halt.
+
+901
+00:47:24,819 --> 00:47:26,799
+Das ist so dieses, wir haben halt das Recht dazu.
+
+902
+00:47:27,420 --> 00:47:29,039
+Wir können da einfach einfallen,
+
+903
+00:47:29,399 --> 00:47:32,000
+den Leuten quasi Teil ihrer Kulturrauben zu uns bringen,
+
+904
+00:47:32,079 --> 00:47:34,179
+damit unsere Bevölkerung sich halt besser fühlt.
+
+905
+00:47:34,460 --> 00:47:36,059
+Das ist halt echt krass.
+
+906
+00:47:36,139 --> 00:47:38,359
+Ja, und selbst das wird ja verschleiert.
+
+907
+00:47:38,779 --> 00:47:41,619
+Also selbst das wird ja verniedlicht.
+
+908
+00:47:41,619 --> 00:47:43,319
+Also auf diese Expedition gehen,
+
+909
+00:47:43,320 --> 00:47:44,480
+heißt ja eben nicht,
+
+910
+00:47:44,620 --> 00:47:47,980
+dass ich dann irgendwie in dieses Land einfalle,
+
+911
+00:47:48,019 --> 00:47:49,200
+wie die Konquistadoren,
+
+912
+00:47:49,360 --> 00:47:50,860
+die jetzt erst mal abschlachten muss
+
+913
+00:47:50,860 --> 00:47:53,140
+und sich das dann das Raubgut an mich nehmen.
+
+914
+00:47:53,220 --> 00:47:55,840
+Nee, das ist ja alles komplett verschleiert.
+
+915
+00:47:55,960 --> 00:47:57,480
+Das ist ja komplett verniedlicht.
+
+916
+00:47:57,559 --> 00:47:59,519
+Sondern am Ende habe ich halt einfach dieses Artefakt.
+
+917
+00:47:59,660 --> 00:48:00,360
+Ich weiß gar nicht,
+
+918
+00:48:00,580 --> 00:48:02,840
+wie das sozusagen in meine Hände gekommen ist,
+
+919
+00:48:02,900 --> 00:48:05,140
+außer dass ich mal ein Schiff losgelegt habe
+
+920
+00:48:05,140 --> 00:48:06,400
+und die eine oder andere Entscheidung,
+
+921
+00:48:06,600 --> 00:48:08,620
+muss ich jetzt in die Höhle gehen oder nicht, so.
+
+922
+00:48:09,220 --> 00:48:11,320
+Aber das komplette Thema Raubkunst
+
+923
+00:48:11,320 --> 00:48:14,240
+und dass der Raub dazugehört,
+
+924
+00:48:14,380 --> 00:48:16,180
+das findet hier gar nicht statt.
+
+925
+00:48:16,860 --> 00:48:20,039
+Und ich habe noch ein anderes großes Kulturgut
+
+926
+00:48:20,039 --> 00:48:20,880
+neben dem Museum.
+
+927
+00:48:21,220 --> 00:48:22,760
+Das habe ich nämlich noch nicht erzählt.
+
+928
+00:48:23,519 --> 00:48:25,460
+Das ist tatsächlich der Zoo.
+
+929
+00:48:26,880 --> 00:48:30,940
+Und der Zoo ist in der gleichen Logik.
+
+930
+00:48:31,220 --> 00:48:34,220
+Also sprich, wenn ich ein seltenes Tier
+
+931
+00:48:34,220 --> 00:48:35,700
+mir irgendwo fange,
+
+932
+00:48:36,120 --> 00:48:37,780
+auch auf Expeditionen gehe,
+
+933
+00:48:37,940 --> 00:48:40,840
+auf Jagd, Großwildjagd und so weiter gehe,
+
+934
+00:48:41,200 --> 00:48:41,300
+dann ist das ein sehr, sehr guter Kulturgut.
+
+935
+00:48:41,320 --> 00:48:43,160
+Was aber noch nicht mal so genannt wird.
+
+936
+00:48:44,180 --> 00:48:47,640
+Dann kann ich mir sozusagen ein Tier erwerben
+
+937
+00:48:47,640 --> 00:48:49,519
+oder ich bekomme es irgendwie geschenkt
+
+938
+00:48:49,519 --> 00:48:51,000
+oder weiß der Kuckuck was.
+
+939
+00:48:51,480 --> 00:48:53,700
+Und dann kann ich quasi pro Tier
+
+940
+00:48:53,700 --> 00:48:56,120
+ein Gehege an meinen Zoo dranbauen.
+
+941
+00:48:56,320 --> 00:48:58,360
+Und dann sind da so Sachen wie Delfine,
+
+942
+00:48:58,800 --> 00:49:00,420
+Tiger, Löwen,
+
+943
+00:49:00,640 --> 00:49:02,280
+aber auch so merkwürdige Sachen,
+
+944
+00:49:02,380 --> 00:49:03,059
+wo ich gedacht habe,
+
+945
+00:49:03,220 --> 00:49:05,580
+hä, wer packt denn sowas in den Zoo?
+
+946
+00:49:05,780 --> 00:49:06,660
+Nämlich Möwen.
+
+947
+00:49:07,280 --> 00:49:07,800
+Wo ich mir denke,
+
+948
+00:49:08,100 --> 00:49:09,920
+ich bin auf einer Scheißinsel,
+
+949
+00:49:09,920 --> 00:49:11,140
+nur Inseln umgeben.
+
+950
+00:49:11,320 --> 00:49:12,940
+Und ich fange Möwen,
+
+951
+00:49:13,059 --> 00:49:14,460
+um sie dann in den Zoo zu tun.
+
+952
+00:49:14,580 --> 00:49:16,059
+Also macht so gar keinen Sinn.
+
+953
+00:49:17,000 --> 00:49:19,380
+Für Leute, die den ganzen Tag nur Champagner trinken,
+
+954
+00:49:19,480 --> 00:49:20,900
+ist das vielleicht der heißste Scheiß.
+
+955
+00:49:21,480 --> 00:49:23,160
+Ich glaube, die geben auch nur
+
+956
+00:49:23,160 --> 00:49:24,880
+fünf Kulturpunkte, diese Möwen,
+
+957
+00:49:25,000 --> 00:49:27,380
+während es so einen Tiger wahrscheinlich so 10, 15 gibt.
+
+958
+00:49:28,460 --> 00:49:29,640
+Aber auch hier wieder,
+
+959
+00:49:29,800 --> 00:49:31,280
+also dieses Rauben
+
+960
+00:49:31,280 --> 00:49:33,780
+aus der Tierwelt und dann Ausstellen.
+
+961
+00:49:34,539 --> 00:49:35,500
+Also du hast ja immer so
+
+962
+00:49:35,500 --> 00:49:36,980
+KI-Mitstreiter
+
+963
+00:49:36,980 --> 00:49:39,640
+und du kannst ja natürlich auch als Koop spielen
+
+964
+00:49:39,640 --> 00:49:41,240
+und mit echten Gegnern und so.
+
+965
+00:49:41,320 --> 00:49:44,320
+Aber das sind ja auch immer so Figuren,
+
+966
+00:49:44,600 --> 00:49:47,160
+die auch immer wieder so Sachen kommentieren.
+
+967
+00:49:48,059 --> 00:49:49,880
+Und da erinnere ich mich zumindest,
+
+968
+00:49:50,039 --> 00:49:51,539
+dass es einen Kritiker gibt,
+
+969
+00:49:52,240 --> 00:49:53,800
+der die ganze Zeit rumschimpft,
+
+970
+00:49:54,000 --> 00:49:55,820
+wenn du ein neues Tier da reinpackst.
+
+971
+00:49:55,920 --> 00:49:57,580
+Also der quasi dieses Zoo-Ding
+
+972
+00:49:57,580 --> 00:49:58,760
+kritisiert zumindest.
+
+973
+00:49:59,300 --> 00:50:00,740
+Das fand ich zumindest bemerkenswert.
+
+974
+00:50:01,300 --> 00:50:03,180
+Aber dafür hast du dann wieder so eine nette Frau,
+
+975
+00:50:03,519 --> 00:50:05,480
+die eben gefühlt nichts anderes macht,
+
+976
+00:50:05,620 --> 00:50:07,500
+als nur Tiere irgendwie einsammeln
+
+977
+00:50:07,500 --> 00:50:09,620
+und sich immer ganz doll freut,
+
+978
+00:50:09,620 --> 00:50:10,620
+wenn du so ein neues Tier ausstellst.
+
+979
+00:50:11,320 --> 00:50:13,360
+Ich finde dieses Aufsteigen
+
+980
+00:50:13,360 --> 00:50:15,220
+auch nach wie vor spannend.
+
+981
+00:50:15,440 --> 00:50:16,940
+Dieses so, okay, auf der höchsten Form
+
+982
+00:50:16,940 --> 00:50:19,380
+arbeitest du nicht mehr, bist aber derjenige mit dem Geld,
+
+983
+00:50:19,680 --> 00:50:21,460
+hat den ganzen Tag dann Champagner und so.
+
+984
+00:50:21,519 --> 00:50:22,800
+Also klingt ja irgendwie nach einem tollen Leben.
+
+985
+00:50:23,200 --> 00:50:25,680
+Aber das Witzige ist ja, wenn man das im Spiel macht,
+
+986
+00:50:25,780 --> 00:50:26,840
+dann drückt man auf so einen Button
+
+987
+00:50:26,840 --> 00:50:28,980
+und dann sind aus den Bauern
+
+988
+00:50:28,980 --> 00:50:30,600
+halt eben ganz schnell Arbeiter geworden.
+
+989
+00:50:30,860 --> 00:50:32,820
+Und die Häuser sehen plötzlich schöner aus.
+
+990
+00:50:33,340 --> 00:50:34,820
+Genau, die Häuser sind schöner, genau.
+
+991
+00:50:35,240 --> 00:50:36,940
+Aber so funktioniert es natürlich nicht.
+
+992
+00:50:37,440 --> 00:50:39,320
+Also diese Bildungshistorie würde ich gerne mal sehen.
+
+993
+00:50:39,320 --> 00:50:41,240
+Natürlich hat es da irgendwie auch immer wieder,
+
+994
+00:50:41,239 --> 00:50:42,619
+mal Bewegung gegeben.
+
+995
+00:50:42,819 --> 00:50:44,339
+Aber was jetzt hier quasi kommt, ist,
+
+996
+00:50:44,759 --> 00:50:47,699
+dass die Leute vom einfachen Bauern bis zum Investor werden
+
+997
+00:50:47,699 --> 00:50:49,559
+innerhalb von einer kurzen Zeit.
+
+998
+00:50:49,799 --> 00:50:51,839
+Aber es halt eben ja scheinbar keine Verlierer gibt.
+
+999
+00:50:52,019 --> 00:50:55,019
+Und dann irgendwie auch die alle nebeneinander leben.
+
+1000
+00:50:55,359 --> 00:50:57,179
+Also in so einem Mischgebiet.
+
+1001
+00:50:57,939 --> 00:50:59,819
+Und ich finde das spannend, weil das so aussieht,
+
+1002
+00:50:59,859 --> 00:51:01,719
+als hätte dieses System keine Verlierer.
+
+1003
+00:51:01,779 --> 00:51:04,219
+Sondern in diesem System geht alles nur vorwärts.
+
+1004
+00:51:04,579 --> 00:51:06,479
+Und es geht dann allen auch irgendwie nur besser.
+
+1005
+00:51:07,199 --> 00:51:09,759
+Und am Ende kann es dann wirklich allen dann richtig toll gehen.
+
+1006
+00:51:10,119 --> 00:51:11,139
+Witzigerweise entscheide ich,
+
+1007
+00:51:11,239 --> 00:51:13,359
+dass wer am Ende Investor wird und den Champagner bekommt.
+
+1008
+00:51:13,779 --> 00:51:16,419
+Nicht die selber durch Arbeit, Leistung, sonst irgendwas.
+
+1009
+00:51:16,559 --> 00:51:16,959
+Oder Glück.
+
+1010
+00:51:17,259 --> 00:51:18,139
+Sondern ich entscheide das.
+
+1011
+00:51:18,299 --> 00:51:19,939
+Das finde ich spannend.
+
+1012
+00:51:20,279 --> 00:51:21,599
+Wenn ich jetzt sage, ich mache ein Spiel
+
+1013
+00:51:21,599 --> 00:51:23,359
+und Industrialisierung ist da der Kern.
+
+1014
+00:51:23,979 --> 00:51:25,479
+Dann kann ich halt nicht einfach nur sagen,
+
+1015
+00:51:25,579 --> 00:51:27,139
+wir haben eine Nebenschiebe, wir haben eine Glühbirne.
+
+1016
+00:51:27,599 --> 00:51:30,159
+Sondern dann muss ich halt irgendwie so Kapitalfabrik und Arbeit
+
+1017
+00:51:30,159 --> 00:51:31,119
+auch irgendwie zusammendenken.
+
+1018
+00:51:31,219 --> 00:51:34,599
+Und dafür kommt der Arbeiter hier halt irgendwie zu eindimensional weg.
+
+1019
+00:51:34,759 --> 00:51:36,899
+Also klar, wir haben es schon geklärt.
+
+1020
+00:51:37,199 --> 00:51:39,099
+Das sind bewusste Designentscheidungen und so weiter.
+
+1021
+00:51:39,539 --> 00:51:40,579
+Aber das ist spannend,
+
+1022
+00:51:40,579 --> 00:51:43,279
+dass genau dieser Teil so fluffig ist.
+
+1023
+00:51:43,759 --> 00:51:45,880
+Der ist einfach sehr, der funktioniert da gut rein.
+
+1024
+00:51:46,000 --> 00:51:47,219
+Ja, und wie du sagst,
+
+1025
+00:51:47,420 --> 00:51:50,900
+dieses Aufstieg ist ja auch gar kein Aufstieg.
+
+1026
+00:51:51,119 --> 00:51:52,000
+Also es ist ja nicht so,
+
+1027
+00:51:52,099 --> 00:51:54,799
+dass die Bauern jetzt zu Arbeiter werden
+
+1028
+00:51:54,799 --> 00:51:56,579
+und die Arbeiter werden zu Handwerker
+
+1029
+00:51:57,319 --> 00:51:58,699
+und die Handwerker werden zu Ingenieuren.
+
+1030
+00:51:58,799 --> 00:52:00,679
+Die Ingenieure werden irgendwann Investoren.
+
+1031
+00:52:01,079 --> 00:52:03,880
+Sondern es macht zack und die Bauern sind einfach weg
+
+1032
+00:52:03,880 --> 00:52:06,500
+und es ziehen quasi die neuen Leute ein.
+
+1033
+00:52:07,019 --> 00:52:08,319
+In neue Gebäude.
+
+1034
+00:52:08,319 --> 00:52:09,519
+Man könnte auch sagen,
+
+1035
+00:52:09,860 --> 00:52:10,319
+Gentrifizierung.
+
+1036
+00:52:10,579 --> 00:52:11,819
+Gentrifizierung auf Stereoide,
+
+1037
+00:52:12,119 --> 00:52:13,159
+die hier stattfindet.
+
+1038
+00:52:13,500 --> 00:52:16,400
+Und das hat ja gleichzeitig den Grund,
+
+1039
+00:52:17,059 --> 00:52:20,179
+wenn du alles so auf Schönbau ausrichtest
+
+1040
+00:52:20,179 --> 00:52:22,500
+und natürlich sieht ein Investorenhaus
+
+1041
+00:52:22,500 --> 00:52:23,799
+sehr beeindruckend aus
+
+1042
+00:52:23,799 --> 00:52:27,900
+im viktorianischen Architekturstil und so weiter.
+
+1043
+00:52:28,639 --> 00:52:31,759
+Daneben so eine olle Bauernbutze,
+
+1044
+00:52:31,940 --> 00:52:34,019
+das macht irgendwie so gar keinen Sinn.
+
+1045
+00:52:34,639 --> 00:52:37,360
+Und deswegen leitet dich das Spiel
+
+1046
+00:52:37,360 --> 00:52:39,420
+eigentlich die ganze Zeit an zu gentrifizieren.
+
+1047
+00:52:39,420 --> 00:52:42,320
+Also die Bauern kommen ja bei mir auf die Schweineinsel.
+
+1048
+00:52:42,579 --> 00:52:43,639
+So, da können sie wohnen,
+
+1049
+00:52:43,700 --> 00:52:45,480
+da können sie arbeiten, Schweine hüten.
+
+1050
+00:52:46,000 --> 00:52:47,539
+Das reicht, aber die brauche ich ja nicht
+
+1051
+00:52:47,539 --> 00:52:48,380
+auf der schönen Insel.
+
+1052
+00:52:48,599 --> 00:52:50,840
+So, die will ich relativ schnell weg haben.
+
+1053
+00:52:51,139 --> 00:52:52,480
+Also die Stadt soll ja glänzen,
+
+1054
+00:52:52,599 --> 00:52:53,860
+die soll ja prosperieren,
+
+1055
+00:52:53,960 --> 00:52:55,340
+da sollen ja Touristen kommen,
+
+1056
+00:52:55,599 --> 00:52:58,019
+die sollen ja Geld da einspülen und so weiter.
+
+1057
+00:52:58,200 --> 00:52:59,400
+Und deswegen kann ich da,
+
+1058
+00:52:59,900 --> 00:53:01,800
+ja, so lächerliche Bauernhäuser
+
+1059
+00:53:01,800 --> 00:53:03,659
+da wirklich nicht gebrauchen.
+
+1060
+00:53:04,139 --> 00:53:05,539
+Und wir haben ja erst jüngst
+
+1061
+00:53:05,539 --> 00:53:07,659
+von unserem Bundesstromberg gehört,
+
+1062
+00:53:07,760 --> 00:53:09,079
+wie wichtig so ein Stadtbild ist.
+
+1063
+00:53:09,079 --> 00:53:09,260
+Und das ist ja auch ein sehr, sehr wichtiges Bild.
+
+1064
+00:53:09,260 --> 00:53:09,380
+Und das ist ja auch ein sehr, sehr wichtiges Bild.
+
+1065
+00:53:09,380 --> 00:53:11,059
+Und wie du sagst,
+
+1066
+00:53:11,300 --> 00:53:13,340
+also das findet alles
+
+1067
+00:53:13,340 --> 00:53:14,840
+im Verborgenen statt.
+
+1068
+00:53:15,039 --> 00:53:17,059
+Also du hast so zwar das Gefühl,
+
+1069
+00:53:17,240 --> 00:53:18,640
+dass alles irgendwie Fortschritt ist,
+
+1070
+00:53:18,740 --> 00:53:20,980
+aber im Endeffekt ist es ja nicht so,
+
+1071
+00:53:21,240 --> 00:53:23,280
+dass es den Leuten dann
+
+1072
+00:53:23,280 --> 00:53:25,119
+da besser geht, sondern sie sind halt weg.
+
+1073
+00:53:25,380 --> 00:53:26,519
+Und plötzlich sind neue da.
+
+1074
+00:53:26,760 --> 00:53:28,760
+Und man weiß aber nicht, wo sind sie jetzt hin.
+
+1075
+00:53:29,800 --> 00:53:31,440
+Also es sei denn, ich habe sie auf die Schweineinsel
+
+1076
+00:53:31,440 --> 00:53:33,140
+verlegt, aber sonst wird das
+
+1077
+00:53:33,140 --> 00:53:34,059
+nicht erzählt halt.
+
+1078
+00:53:34,340 --> 00:53:37,079
+Und da gibt sich zumindest die neoliberale Erzählung
+
+1079
+00:53:37,079 --> 00:53:38,880
+ja noch ein bisschen Mühe, die dir,
+
+1080
+00:53:38,980 --> 00:53:39,320
+du bist da,
+
+1081
+00:53:39,320 --> 00:53:39,360
+du bist da,
+
+1082
+00:53:39,380 --> 00:53:41,460
+du hast ja auch das Glück des Schmiedmärchen verkauft,
+
+1083
+00:53:41,539 --> 00:53:43,519
+zu sagen, du bist jetzt der Bauer,
+
+1084
+00:53:43,680 --> 00:53:45,660
+kannst aber in zehn Jahren,
+
+1085
+00:53:45,760 --> 00:53:47,440
+wenn du dir fünf Cent
+
+1086
+00:53:47,440 --> 00:53:49,500
+deines Arbeitslohnes immer zur Seite
+
+1087
+00:53:49,500 --> 00:53:51,619
+legst und ein ETF investierst,
+
+1088
+00:53:51,700 --> 00:53:53,300
+irgendwann im Alter
+
+1089
+00:53:53,300 --> 00:53:55,440
+passives Einkommen erwirtschaften,
+
+1090
+00:53:55,480 --> 00:53:56,860
+sollst du gar nicht mehr arbeiten brauchst.
+
+1091
+00:53:57,000 --> 00:53:58,280
+Das ist ja so die Erzählung.
+
+1092
+00:53:58,340 --> 00:54:01,000
+Ja, also das Spiel, glaube ich, wurde irgendwie
+
+1093
+00:54:01,000 --> 00:54:02,900
+dreieinhalb Millionen Mal verkauft.
+
+1094
+00:54:03,180 --> 00:54:05,280
+Das heißt also, so dreieinhalb Millionen Menschen
+
+1095
+00:54:05,280 --> 00:54:07,280
+haben damit so eine interaktive Erfahrung gehabt.
+
+1096
+00:54:07,960 --> 00:54:09,340
+Und ja, im Prinzip so,
+
+1097
+00:54:09,340 --> 00:54:11,260
+ich glaube, für ganz viele ist das einfach nur
+
+1098
+00:54:11,260 --> 00:54:13,059
+eine lustige Spielerfahrung und so weiter,
+
+1099
+00:54:13,160 --> 00:54:14,300
+so ein bisschen wie so ein Baukasten.
+
+1100
+00:54:14,519 --> 00:54:16,480
+Und gleichzeitig vermittelt das halt eben,
+
+1101
+00:54:17,059 --> 00:54:19,440
+neben dieser fehlenden historischen Komponente,
+
+1102
+00:54:19,880 --> 00:54:20,780
+halt eine
+
+1103
+00:54:20,780 --> 00:54:23,120
+soweit sugargecoatete Form
+
+1104
+00:54:23,120 --> 00:54:25,340
+des frühen Kapitalismus, wie nicht mal Neoklassiker
+
+1105
+00:54:25,340 --> 00:54:27,360
+sie herbeilügen. So, das ist halt
+
+1106
+00:54:27,360 --> 00:54:29,500
+krass, ne? Für Historienspiele
+
+1107
+00:54:29,500 --> 00:54:31,120
+ist es zu wenig, für Kapitalismus-Spiele ist es
+
+1108
+00:54:31,120 --> 00:54:33,180
+eigentlich zu wenig. Es ist halt irgendwie so ein bisschen
+
+1109
+00:54:33,180 --> 00:54:35,320
+wie, wir machen es halt so ein bisschen.
+
+1110
+00:54:35,519 --> 00:54:37,240
+Wir machen es so ein bisschen so und ihr
+
+1111
+00:54:37,240 --> 00:54:39,220
+könnt halt vor dieser Kulisse, vor dieser
+
+1112
+00:54:39,219 --> 00:54:40,819
+Kulisse könnt ihr jetzt irgendwie Dinge tun.
+
+1113
+00:54:40,819 --> 00:54:42,439
+Genau, also, wie gesagt,
+
+1114
+00:54:43,039 --> 00:54:44,679
+das Spiel macht mir enorm viel Spaß.
+
+1115
+00:54:45,339 --> 00:54:47,119
+Also, es ist auch
+
+1116
+00:54:47,119 --> 00:54:49,219
+schön anzuschauen. So, diese
+
+1117
+00:54:49,219 --> 00:54:51,159
+Postkarten-Idylle und wie
+
+1118
+00:54:51,159 --> 00:54:53,019
+die Stadt immer schöner wird
+
+1119
+00:54:53,019 --> 00:54:55,039
+und größer und keine Ahnung. Also,
+
+1120
+00:54:55,159 --> 00:54:57,000
+das macht dieses Spiel schon
+
+1121
+00:54:57,000 --> 00:54:59,459
+sehr, sehr gut. Also, diese ganzen Mechaniken
+
+1122
+00:54:59,459 --> 00:55:01,099
+und so weiter. Auch wenn das alles mit
+
+1123
+00:55:01,099 --> 00:55:03,199
+Realität gar nichts zu tun hat. Also, das ist
+
+1124
+00:55:03,199 --> 00:55:05,279
+schon mal wichtig an der Stelle zu erwähnen.
+
+1125
+00:55:05,739 --> 00:55:07,379
+Die Frage ist ja immer, welchen Anspruch
+
+1126
+00:55:07,379 --> 00:55:09,199
+ich sozusagen als Spiel verfolge.
+
+1127
+00:55:09,199 --> 00:55:10,879
+Weil, wenn ich jetzt sage, okay,
+
+1128
+00:55:11,259 --> 00:55:13,279
+Candy Crush, da erzähle
+
+1129
+00:55:13,279 --> 00:55:15,099
+ich jetzt auch keine politische Kritik
+
+1130
+00:55:15,099 --> 00:55:17,279
+und so weiter damit. Aber es ist natürlich
+
+1131
+00:55:17,279 --> 00:55:19,259
+mehr als Candy Crush, weil es eben
+
+1132
+00:55:19,259 --> 00:55:21,279
+immer mit diesen zeitlichen,
+
+1133
+00:55:21,500 --> 00:55:22,980
+historischen Dingen zumindest
+
+1134
+00:55:22,980 --> 00:55:24,460
+immer spielt. Also,
+
+1135
+00:55:25,259 --> 00:55:27,279
+ganz freimachen tut man sich ja
+
+1136
+00:55:27,279 --> 00:55:29,119
+davon auch nicht. Also, man könnte ja auch einfach
+
+1137
+00:55:29,119 --> 00:55:30,799
+sagen, ich lasse dieses 1800
+
+1138
+00:55:30,799 --> 00:55:33,039
+weg und mache da was völlig
+
+1139
+00:55:33,039 --> 00:55:35,199
+fiktives. So, keine Ahnung. Würde
+
+1140
+00:55:35,199 --> 00:55:37,099
+ja auch irgendwie funktionieren, wenn man sagt, es geht
+
+1141
+00:55:37,099 --> 00:55:39,099
+nur um Postkarte. Aber man greift,
+
+1142
+00:55:39,199 --> 00:55:41,399
+greift sich schon immer so auch schwierige
+
+1143
+00:55:41,399 --> 00:55:43,319
+Sachen raus. Also, ein
+
+1144
+00:55:43,319 --> 00:55:45,460
+Beispiel zum Beispiel, was da wiederum
+
+1145
+00:55:45,460 --> 00:55:47,399
+gar nicht so reinpasst und relativ
+
+1146
+00:55:47,399 --> 00:55:49,339
+deutlich gemacht wird. Es gibt
+
+1147
+00:55:49,339 --> 00:55:51,500
+immer so, nach einem
+
+1148
+00:55:51,500 --> 00:55:53,319
+gewissen Zeitraum
+
+1149
+00:55:53,319 --> 00:55:55,319
+muss so eine Zeitung erscheinen.
+
+1150
+00:55:55,419 --> 00:55:57,379
+Ah ja. Also, du hast so einen
+
+1151
+00:55:57,379 --> 00:55:59,460
+Journalisten oder einen Herausgeber,
+
+1152
+00:55:59,639 --> 00:56:01,299
+der sozusagen die Zeitung veröffentlicht
+
+1153
+00:56:01,299 --> 00:56:03,699
+und da wird dann so ein bisschen wiedergespiegelt,
+
+1154
+00:56:03,980 --> 00:56:05,179
+wie ist deine eigene
+
+1155
+00:56:05,179 --> 00:56:07,679
+Entwicklung. Und je nachdem,
+
+1156
+00:56:08,039 --> 00:56:09,179
+wie zufrieden deine Leute
+
+1157
+00:56:09,199 --> 00:56:11,139
+wiederum sind oder ob du gerade im
+
+1158
+00:56:11,139 --> 00:56:12,679
+Krieg verwickelt bist, vielleicht
+
+1159
+00:56:12,679 --> 00:56:14,980
+gibt es positive und negative
+
+1160
+00:56:14,980 --> 00:56:17,319
+Zeitungsmeldungen. Diese Zeitungsmeldungen
+
+1161
+00:56:17,319 --> 00:56:18,819
+haben wiederum Einfluss,
+
+1162
+00:56:19,119 --> 00:56:21,579
+ha ha ha, wer hätte es gedacht, auf deine Produktivität.
+
+1163
+00:56:22,919 --> 00:56:23,839
+Also, es heißt
+
+1164
+00:56:23,839 --> 00:56:25,599
+Zufriedenheit und Produktivität.
+
+1165
+00:56:25,819 --> 00:56:27,219
+Das heißt, wenn da schlechte
+
+1166
+00:56:27,219 --> 00:56:29,159
+Meldungen sind, fühlen sich die Leute schlechter,
+
+1167
+00:56:29,319 --> 00:56:31,239
+arbeiten schlechter und damit ist dann
+
+1168
+00:56:31,239 --> 00:56:32,699
+sozusagen dein Einkommen schlechter
+
+1169
+00:56:32,699 --> 00:56:34,879
+und dein Progress langsamer.
+
+1170
+00:56:35,419 --> 00:56:36,739
+Und jetzt hast du aber die Möglichkeit,
+
+1171
+00:56:37,119 --> 00:56:39,179
+Zeitungen zu lektorieren.
+
+1172
+00:56:39,199 --> 00:56:41,079
+Als Chef,
+
+1173
+00:56:41,379 --> 00:56:43,139
+also nicht Zeitungschef, sondern
+
+1174
+00:56:43,139 --> 00:56:45,279
+Chef-Chef, als Oberkapitalist
+
+1175
+00:56:45,279 --> 00:56:47,219
+und dann kannst du sozusagen da so
+
+1176
+00:56:47,219 --> 00:56:48,980
+Propaganda-Elemente einbauen.
+
+1177
+00:56:49,159 --> 00:56:51,319
+Also, je höher dein Einfluss ist, desto mehr
+
+1178
+00:56:51,319 --> 00:56:53,359
+kannst du auch die Zeitung beeinflussen
+
+1179
+00:56:53,359 --> 00:56:54,759
+und das führt dann dazu,
+
+1180
+00:56:55,219 --> 00:56:57,279
+dass zum einen du natürlich
+
+1181
+00:56:57,279 --> 00:56:59,119
+die Leute manipulieren kannst, wenn
+
+1182
+00:56:59,119 --> 00:57:01,239
+die Meldungen zu schlecht sind. Du darfst
+
+1183
+00:57:01,239 --> 00:57:03,159
+es aber auch wiederum nicht übertreiben, weil
+
+1184
+00:57:03,159 --> 00:57:05,199
+einerseits KI-Mitspieler
+
+1185
+00:57:05,839 --> 00:57:07,139
+beobachten das und
+
+1186
+00:57:07,139 --> 00:57:09,000
+kommentieren das. Also, es gibt dann so
+
+1187
+00:57:09,000 --> 00:57:10,800
+Mitspieler, die sagen, ja,
+
+1188
+00:57:11,139 --> 00:57:12,960
+gut so, man muss ja irgendwie
+
+1189
+00:57:12,960 --> 00:57:14,440
+Machiavelli sein und so.
+
+1190
+00:57:15,000 --> 00:57:16,539
+Und dann gibt es wieder welche, die sagen,
+
+1191
+00:57:16,800 --> 00:57:18,920
+das ist aber kritisch, dass du hier rumzensierst.
+
+1192
+00:57:19,460 --> 00:57:20,960
+Solltest du lieber sein lassen und
+
+1193
+00:57:20,960 --> 00:57:23,000
+verlierst dann sozusagen Diplomatie-Ansehen
+
+1194
+00:57:23,000 --> 00:57:25,199
+und Punkte bei denen. Oder gewinnst
+
+1195
+00:57:25,199 --> 00:57:26,860
+sie sogar, je nachdem, wie du dich verhältst.
+
+1196
+00:57:27,280 --> 00:57:28,860
+Und auch die Bevölkerung,
+
+1197
+00:57:28,980 --> 00:57:31,019
+wenn du das zu oft, zu lange
+
+1198
+00:57:31,019 --> 00:57:32,780
+machst, gibt es dann auch wieder so
+
+1199
+00:57:32,780 --> 00:57:34,780
+Unzufriedenheit oder kleine Aufstände.
+
+1200
+00:57:34,780 --> 00:57:37,039
+Aber wie gesagt, baut eine Polizeistation,
+
+1201
+00:57:37,139 --> 00:57:38,739
+dann ist das auch schnell wieder erledigt.
+
+1202
+00:57:38,739 --> 00:57:40,739
+Also, man kann auch da ruhig durchpropagandieren.
+
+1203
+00:57:42,279 --> 00:57:42,719
+Letztendlich.
+
+1204
+00:57:43,339 --> 00:57:45,079
+Aber das fand ich zumindest beeindruckend,
+
+1205
+00:57:45,179 --> 00:57:46,659
+dass dieses Thema dann durchaus
+
+1206
+00:57:46,659 --> 00:57:48,279
+doch irgendwie einigermaßen
+
+1207
+00:57:48,279 --> 00:57:50,739
+kritisch daherkommt, dass es so was
+
+1208
+00:57:50,739 --> 00:57:53,159
+gibt wie Zeitungsmanipulation.
+
+1209
+00:57:53,979 --> 00:57:54,859
+Das hätte man ja
+
+1210
+00:57:54,859 --> 00:57:56,259
+auch weglasken können irgendwie.
+
+1211
+00:57:56,419 --> 00:57:57,979
+Also, das ist irgendwie komisch.
+
+1212
+00:57:58,159 --> 00:58:00,479
+Das ist so das Einzige, wo ich so sagen würde,
+
+1213
+00:58:00,559 --> 00:58:02,859
+guck mal an, da ist so ein bisschen
+
+1214
+00:58:02,859 --> 00:58:03,839
+was Kritisches dabei.
+
+1215
+00:58:04,259 --> 00:58:06,979
+Ja, und auch manchmal so ein bisschen mit zum Augenzwinkern
+
+1216
+00:58:06,979 --> 00:58:07,979
+so auch dabei.
+
+1217
+00:58:08,739 --> 00:58:10,759
+Vor allen Dingen ist das auch so eine Unterbrechung im Spielfluss.
+
+1218
+00:58:10,859 --> 00:58:11,739
+Das ist mir auch aufgefallen.
+
+1219
+00:58:12,119 --> 00:58:13,579
+Wo du das gerade eben gesagt hast,
+
+1220
+00:58:13,719 --> 00:58:16,139
+dieses Element von wegen so zu sehen,
+
+1221
+00:58:16,219 --> 00:58:17,039
+wie da was entsteht und so.
+
+1222
+00:58:17,459 --> 00:58:20,159
+Eine der Spielerfahrungen, die ganz viele gerade in Deutschland
+
+1223
+00:58:20,159 --> 00:58:22,159
+miteinander teilen, die auch ein bisschen länger schon
+
+1224
+00:58:22,159 --> 00:58:24,419
+spielen, ist Siedler. Auch ein deutsches Spiel.
+
+1225
+00:58:24,559 --> 00:58:26,439
+Ich glaube, irgendwie Mitte der
+
+1226
+00:58:26,439 --> 00:58:28,779
+90er oder Anfang der 90er rausgekommen.
+
+1227
+00:58:28,879 --> 00:58:30,259
+Und da hatte man auch so einen Wuselfaktor.
+
+1228
+00:58:30,599 --> 00:58:32,239
+Weil das ist jetzt genau mein Punkt.
+
+1229
+00:58:32,779 --> 00:58:34,459
+Zivilisation aufbauen, kannst du
+
+1230
+00:58:34,459 --> 00:58:36,039
+halt eben machen ohne Anspruch auf
+
+1231
+00:58:36,039 --> 00:58:38,279
+Historizität oder so, sondern kannst du ja einfach
+
+1232
+00:58:38,280 --> 00:58:40,260
+sagen, so, wisst ihr was, habt ihr Bock
+
+1233
+00:58:40,260 --> 00:58:42,640
+so ein bisschen irgendwie Moderne nachzuspielen?
+
+1234
+00:58:42,760 --> 00:58:43,500
+Dann hier, da ist es.
+
+1235
+00:58:43,860 --> 00:58:45,960
+Und dann kannst du auch irgendwie eine Einblendung vorher machen.
+
+1236
+00:58:46,060 --> 00:58:48,019
+Und dann die Leute einfach baukastenmäßig
+
+1237
+00:58:48,019 --> 00:58:50,260
+rumbauen lassen. In dem Moment,
+
+1238
+00:58:50,500 --> 00:58:52,260
+wenn man selber, und ich weiß, das haben sie nicht getan,
+
+1239
+00:58:52,380 --> 00:58:54,600
+aber wenn es die Anmutung
+
+1240
+00:58:54,600 --> 00:58:56,100
+bekommt, hier wird Geschichte simuliert,
+
+1241
+00:58:57,000 --> 00:58:58,240
+dann muss man da irgendwie
+
+1242
+00:58:58,240 --> 00:59:00,380
+wahrscheinlich noch irgendwie andere Sachen machen.
+
+1243
+00:59:00,740 --> 00:59:02,160
+Dass das Spaß macht, verstehe ich total.
+
+1244
+00:59:02,380 --> 00:59:04,200
+Ich habe selber das, wie gesagt, auch
+
+1245
+00:59:04,200 --> 00:59:05,820
+jetzt ein bisschen gespielt. Nee, ich verrate es noch nicht.
+
+1246
+00:59:05,820 --> 00:59:06,019
+Jetzt.
+
+1247
+00:59:08,280 --> 00:59:10,100
+Ja, also ich kenne ja auch
+
+1248
+00:59:10,100 --> 00:59:12,060
+einige Zivilisations- und Aufbauspiele
+
+1249
+00:59:12,900 --> 00:59:13,920
+und ich muss sagen,
+
+1250
+00:59:14,200 --> 00:59:16,140
+Anno hat für mich
+
+1251
+00:59:16,140 --> 00:59:18,240
+meinen Sweetspot-Nerv
+
+1252
+00:59:18,240 --> 00:59:20,300
+an Spielspaß getroffen.
+
+1253
+00:59:20,500 --> 00:59:22,220
+Also Frostpunk
+
+1254
+00:59:22,220 --> 00:59:23,820
+hast du ja gerade schon erwähnt, auch das
+
+1255
+00:59:23,820 --> 00:59:26,140
+habe ich gespielt, aber es ist
+
+1256
+00:59:26,140 --> 00:59:27,900
+so, wie du sagst, gute Laune
+
+1257
+00:59:27,900 --> 00:59:28,880
+kriegt man dabei nicht.
+
+1258
+00:59:30,019 --> 00:59:32,260
+Das ist wirklich, was durchleidet man.
+
+1259
+00:59:32,500 --> 00:59:33,920
+Das ist furchtbar.
+
+1260
+00:59:34,320 --> 00:59:36,360
+Es gibt auch so Apokalypse-
+
+1261
+00:59:36,360 --> 00:59:38,040
+Simulationen, wo es quasi darum geht, so den
+
+1262
+00:59:38,039 --> 00:59:39,699
+Restbestand an Menschheit zu überleben.
+
+1263
+00:59:39,779 --> 00:59:42,059
+Dann musst du so Exkursionen machen, ein bisschen Wasser hereinwohnen.
+
+1264
+00:59:42,380 --> 00:59:44,179
+Das ist einfach nur immer voll depressing.
+
+1265
+00:59:44,320 --> 00:59:45,460
+Es wird immer nur schlimmer.
+
+1266
+00:59:45,699 --> 00:59:47,779
+Also versuchst es nur, sag ich mal,
+
+1267
+00:59:47,800 --> 00:59:50,019
+auf dieser schiefen Ebene, wie es schon immer schlimmer wird,
+
+1268
+00:59:50,019 --> 00:59:51,400
+so ein bisschen aufzuhalten.
+
+1269
+00:59:52,099 --> 00:59:54,039
+Ich kann verstehen,
+
+1270
+00:59:54,139 --> 00:59:55,059
+dass das Spaß machen kann.
+
+1271
+00:59:55,960 --> 00:59:57,880
+Aber wenn ich so meine wenige
+
+1272
+00:59:57,880 --> 01:00:00,039
+Freizeit auf sowas setze, dann ist das etwas,
+
+1273
+01:00:00,139 --> 01:00:01,480
+wo ich sage, das kann ich auch in Rente spielen.
+
+1274
+01:00:01,579 --> 01:00:02,340
+Das muss ich nicht jetzt machen.
+
+1275
+01:00:03,320 --> 01:00:06,019
+Dieser gute Laune-Faktor ist bei Anno halt einfach
+
+1276
+01:00:06,019 --> 01:00:06,900
+gegeben.
+
+1277
+01:00:08,039 --> 01:00:10,320
+Alles superhübsch und so weiter.
+
+1278
+01:00:10,960 --> 01:00:11,960
+Und es ist wirklich,
+
+1279
+01:00:12,579 --> 01:00:14,420
+wie du sagst, eigentlich ist ja
+
+1280
+01:00:14,420 --> 01:00:16,219
+das Kernprinzip, alles
+
+1281
+01:00:16,219 --> 01:00:17,719
+immer in Balance zu halten.
+
+1282
+01:00:18,119 --> 01:00:20,000
+Aber das führt dann ja dazu,
+
+1283
+01:00:20,000 --> 01:00:21,880
+dass der Progress weitergeht,
+
+1284
+01:00:22,000 --> 01:00:23,940
+also der Fortschritt, und damit ist die Balance schon
+
+1285
+01:00:23,940 --> 01:00:25,860
+wieder weg. Und somit hast du sozusagen
+
+1286
+01:00:25,860 --> 01:00:27,900
+ein unendliches Versuchen, alles
+
+1287
+01:00:27,900 --> 01:00:29,579
+in Balance zu halten. Und dann
+
+1288
+01:00:29,579 --> 01:00:31,960
+hast du schnell diesen Effekt, ah, jetzt hier
+
+1289
+01:00:31,960 --> 01:00:33,779
+noch schnell muss ich da die Fabrik
+
+1290
+01:00:33,779 --> 01:00:35,820
+fertig bauen. Ah nee, die verlege ich jetzt
+
+1291
+01:00:35,820 --> 01:00:37,779
+ganz schnell. Und ich muss jetzt hier meine Stadt
+
+1292
+01:00:37,780 --> 01:00:39,840
+nochmal umstrukturieren, damit die noch
+
+1293
+01:00:39,840 --> 01:00:41,920
+schöner wird. Und dann hast du mal
+
+1294
+01:00:41,920 --> 01:00:43,760
+zack, so ein paar Stunden wieder versenkt.
+
+1295
+01:00:43,960 --> 01:00:45,720
+Also man ist da wirklich immer
+
+1296
+01:00:45,720 --> 01:00:48,019
+sie voll drin in diesem
+
+1297
+01:00:48,019 --> 01:00:49,620
+Management-Ding. Und dann
+
+1298
+01:00:49,620 --> 01:00:51,900
+interessiert dich das auch, ehrlich gesagt,
+
+1299
+01:00:52,000 --> 01:00:53,760
+so diese Story drumherum nicht,
+
+1300
+01:00:53,820 --> 01:00:56,060
+weil du bist einfach voll auf Mikro-Management
+
+1301
+01:00:56,060 --> 01:00:58,280
+und in diesem Mikro-Management-Film
+
+1302
+01:00:58,280 --> 01:00:59,720
+drin. Von daher erfüllt
+
+1303
+01:00:59,720 --> 01:01:01,620
+dieses Spiel, zumindest bei mir, absolut
+
+1304
+01:01:01,620 --> 01:01:03,960
+seinen Zweck. Und wenn ich jetzt dann so vergleiche,
+
+1305
+01:01:04,000 --> 01:01:05,920
+es gibt ja so ultrakomplexe
+
+1306
+01:01:06,700 --> 01:01:07,760
+Simulationsspiele,
+
+1307
+01:01:07,760 --> 01:01:09,400
+also gerade hier von Paradox,
+
+1308
+01:01:09,600 --> 01:01:11,400
+das ist ja so ein Hersteller, Europa
+
+1309
+01:01:11,400 --> 01:01:13,160
+Universalis beispielsweise,
+
+1310
+01:01:13,680 --> 01:01:15,600
+oder Viktoria 3, was
+
+1311
+01:01:15,600 --> 01:01:17,680
+übrigens im gleichen Zeitalter
+
+1312
+01:01:17,680 --> 01:01:19,400
+angelehnt ist wie Anno 1800.
+
+1313
+01:01:20,640 --> 01:01:21,620
+Und da
+
+1314
+01:01:21,620 --> 01:01:23,860
+kommen diese Themen zu 100%
+
+1315
+01:01:23,860 --> 01:01:25,640
+vor. Also Zustände
+
+1316
+01:01:25,640 --> 01:01:27,460
+der Arbeiter etc. pp.
+
+1317
+01:01:27,520 --> 01:01:29,920
+Das wird da alles erzählt. Aber dieses Spiel
+
+1318
+01:01:29,920 --> 01:01:31,700
+ist so unfassbar sperrig
+
+1319
+01:01:31,700 --> 01:01:33,740
+und komplex. Ja, da sieht man
+
+1320
+01:01:33,740 --> 01:01:35,140
+auch genau, das ist genau der Punkt.
+
+1321
+01:01:35,140 --> 01:01:37,060
+Und da fehlt mir
+
+1322
+01:01:37,060 --> 01:01:37,620
+wiederum,
+
+1323
+01:01:37,760 --> 01:01:40,480
+so die Muße, mich da reinzufuchsen
+
+1324
+01:01:40,480 --> 01:01:42,600
+oder hier Crusader Kings 3,
+
+1325
+01:01:42,840 --> 01:01:44,540
+das ist eigentlich ein super
+
+1326
+01:01:44,540 --> 01:01:46,240
+gigantisch komplexes,
+
+1327
+01:01:46,540 --> 01:01:47,720
+tolles Spiel auch.
+
+1328
+01:01:47,940 --> 01:01:50,180
+Aber bis du da mal drin bist
+
+1329
+01:01:50,180 --> 01:01:51,980
+und alle kleinen Mechaniken
+
+1330
+01:01:51,980 --> 01:01:54,020
+verstanden hast, musst du
+
+1331
+01:01:54,020 --> 01:01:55,880
+wirklich schon ein eigenes Studium fast
+
+1332
+01:01:55,880 --> 01:01:58,060
+dafür abschließen. Und deswegen ist es halt so
+
+1333
+01:01:58,060 --> 01:02:00,000
+wie so Couch Potatoes,
+
+1334
+01:02:00,460 --> 01:02:01,840
+so Dads,
+
+1335
+01:02:01,980 --> 01:02:04,120
+die jetzt in dem hohen
+
+1336
+01:02:04,120 --> 01:02:06,040
+Alter Games machen,
+
+1337
+01:02:06,180 --> 01:02:07,680
+wo man auch nicht mehr so viel Zeit hat.
+
+1338
+01:02:07,760 --> 01:02:10,240
+Ist natürlich Anno
+
+1339
+01:02:10,240 --> 01:02:12,320
+super anschlussfähig. Im Vergleich
+
+1340
+01:02:12,320 --> 01:02:14,220
+zu diesen komplexen Spielen, die aber
+
+1341
+01:02:14,220 --> 01:02:16,560
+zumindest mir auch diese Simulationserfahrung
+
+1342
+01:02:16,560 --> 01:02:18,400
+geben, die wir ja hier
+
+1343
+01:02:18,400 --> 01:02:20,220
+stark vermissen. Also
+
+1344
+01:02:20,220 --> 01:02:22,160
+ich würde sagen, es gibt einfach
+
+1345
+01:02:22,160 --> 01:02:23,840
+prinzipielle Designentscheidungen,
+
+1346
+01:02:24,380 --> 01:02:26,080
+die dann dazu führen, ob ein Spiel
+
+1347
+01:02:26,080 --> 01:02:28,380
+so fluffig wird oder nicht. Und das
+
+1348
+01:02:28,380 --> 01:02:30,060
+kann man natürlich kritisieren,
+
+1349
+01:02:30,280 --> 01:02:32,400
+auf der einen Seite, was wir auch tun,
+
+1350
+01:02:32,580 --> 01:02:34,040
+was auch wichtig ist für den Diskurs,
+
+1351
+01:02:34,260 --> 01:02:36,060
+damit vielleicht Leute nicht denken,
+
+1352
+01:02:36,120 --> 01:02:37,640
+beim Konsum dieser Spiele, so ist die
+
+1353
+01:02:37,639 --> 01:02:39,699
+Wirklichkeit, so wie ja viele Leute
+
+1354
+01:02:39,699 --> 01:02:42,000
+erschreckenderweise denken, wenn sie Game of Thrones
+
+1355
+01:02:42,000 --> 01:02:43,799
+gucken, dass das ja auch alles Geschichte
+
+1356
+01:02:43,799 --> 01:02:45,799
+sei. Könnte natürlich auch
+
+1357
+01:02:45,799 --> 01:02:47,659
+die Gefahr bestehen, dass hier
+
+1358
+01:02:47,659 --> 01:02:49,779
+einiges verschleiert wird,
+
+1359
+01:02:49,839 --> 01:02:51,759
+weil man denkt, naja, also 1800
+
+1360
+01:02:51,759 --> 01:02:53,859
+war ja gar nicht so schlimm, wie man sonst immer
+
+1361
+01:02:53,859 --> 01:02:55,799
+gedacht hat. So ist doch alles
+
+1362
+01:02:55,799 --> 01:02:57,639
+schön da. Ich verstehe,
+
+1363
+01:02:57,719 --> 01:03:00,099
+warum man diese Designentscheidungen
+
+1364
+01:03:00,099 --> 01:03:01,339
+trifft, aus einer
+
+1365
+01:03:01,339 --> 01:03:03,659
+Verkaufsperspektive heraus
+
+1366
+01:03:03,659 --> 01:03:05,879
+und der Erfolg gibt ihnen
+
+1367
+01:03:05,879 --> 01:03:07,619
+an der Stelle recht. Auch jetzt der
+
+1368
+01:03:07,639 --> 01:03:09,679
+neue Teil, du hast ja gesagt,
+
+1369
+01:03:09,779 --> 01:03:11,579
+man spielt hier
+
+1370
+01:03:11,579 --> 01:03:13,900
+das Thema Sklaverei zumindest mal an,
+
+1371
+01:03:13,960 --> 01:03:15,699
+weil hier geht es ja um das römische Reich
+
+1372
+01:03:15,699 --> 01:03:17,739
+an der Stelle, aber tatsächlich auch sehr
+
+1373
+01:03:17,739 --> 01:03:19,699
+indirekt. Und zwar über
+
+1374
+01:03:19,699 --> 01:03:21,379
+den Namen der Völker.
+
+1375
+01:03:21,619 --> 01:03:23,819
+Du kannst die Kelten spielen oder
+
+1376
+01:03:23,819 --> 01:03:25,759
+Römer spielen und die Römer heißen
+
+1377
+01:03:25,759 --> 01:03:27,659
+dort Liberti, also die
+
+1378
+01:03:27,659 --> 01:03:30,179
+Freigelassenen. Das soll andeuten,
+
+1379
+01:03:30,379 --> 01:03:32,019
+dass man früher mal Sklave
+
+1380
+01:03:32,019 --> 01:03:33,799
+war und jetzt sich sozusagen was
+
+1381
+01:03:33,799 --> 01:03:35,619
+aufbauen kann. Aber es ist
+
+1382
+01:03:35,619 --> 01:03:37,619
+dort auch nicht so, dass dir Sklaven begegnen.
+
+1383
+01:03:37,639 --> 01:03:39,719
+Oder frei nach Franz Beckenbauer,
+
+1384
+01:03:39,879 --> 01:03:41,920
+als er in Saudi-Arabien
+
+1385
+01:03:41,920 --> 01:03:43,319
+die Baustellen begutachtet hat.
+
+1386
+01:03:43,379 --> 01:03:45,039
+Ich hab Sklaven nicht gesehen.
+
+1387
+01:03:46,099 --> 01:03:46,519
+Ja, genau.
+
+1388
+01:03:48,319 --> 01:03:49,619
+Du sagst genau
+
+1389
+01:03:49,619 --> 01:03:51,539
+die richtigen Punkte. Und es ist auch die Frage,
+
+1390
+01:03:51,679 --> 01:03:53,659
+muss jedes Kulturprodukt politisch
+
+1391
+01:03:53,659 --> 01:03:55,679
+sein? Natürlich nicht.
+
+1392
+01:03:55,759 --> 01:03:57,599
+Wir haben ja letztes Jahr uns auch sehr viel damit
+
+1393
+01:03:57,599 --> 01:03:59,420
+auseinandergesetzt mit Trennung von
+
+1394
+01:03:59,420 --> 01:04:01,500
+Künstler und Werk, weil das ist ja dann immer
+
+1395
+01:04:01,500 --> 01:04:03,139
+die nächste Diskussion, dass dann
+
+1396
+01:04:03,139 --> 01:04:05,000
+den Leuten irgendwas unterstellt wird.
+
+1397
+01:04:05,159 --> 01:04:07,039
+Ich glaube, hier diese Entscheidung
+
+1398
+01:04:07,039 --> 01:04:07,599
+getroffen zu haben,
+
+1399
+01:04:07,639 --> 01:04:09,099
+ist vollkommen okay. Es gibt ja zum Beispiel auch
+
+1400
+01:04:09,099 --> 01:04:11,519
+Flugsimulationen, die darauf ausgelegt sind,
+
+1401
+01:04:11,599 --> 01:04:13,599
+halt einfach nur so ein Flugzeug
+
+1402
+01:04:13,599 --> 01:04:15,559
+zu steuern und mal irgendwie eine Waffe
+
+1403
+01:04:15,559 --> 01:04:16,920
+abzufeuern. Und dann gibt es halt
+
+1404
+01:04:16,920 --> 01:04:18,659
+Microsoft Flight Simulator.
+
+1405
+01:04:19,019 --> 01:04:21,159
+Wo du dann auch eigentlich schon wieder
+
+1406
+01:04:21,159 --> 01:04:22,219
+eine eigene Studie brauchst.
+
+1407
+01:04:22,879 --> 01:04:25,319
+Und ich glaube, mit dieser richtigen Anspruchshaltung
+
+1408
+01:04:25,319 --> 01:04:27,259
+muss man daran kommen. Ich finde es jetzt gerade
+
+1409
+01:04:27,259 --> 01:04:29,099
+bei dem Spiel so spannend, weil
+
+1410
+01:04:29,099 --> 01:04:31,159
+wir einerseits natürlich hier die
+
+1411
+01:04:31,159 --> 01:04:33,420
+zeithistorische Sache so ein bisschen unsauber
+
+1412
+01:04:33,420 --> 01:04:35,420
+haben, aus den genannten Gründen. Und auf
+
+1413
+01:04:35,420 --> 01:04:37,519
+der anderen Seite diese ideologische Sache,
+
+1414
+01:04:37,639 --> 01:04:39,460
+dabei halt eben nicht sauber haben. Also sei es
+
+1415
+01:04:39,460 --> 01:04:41,299
+jetzt halt eben Arbeiterbewegung und so weiter.
+
+1416
+01:04:41,400 --> 01:04:43,259
+Alles, was auch eben zum frühen Kapitalismus
+
+1417
+01:04:43,259 --> 01:04:45,319
+dazugehört. Das sind ja beides
+
+1418
+01:04:45,319 --> 01:04:47,199
+Sachen, die so ein bisschen versunkene Themen sind.
+
+1419
+01:04:47,739 --> 01:04:49,319
+Also wer in unseren Katalog zurückguckt,
+
+1420
+01:04:49,359 --> 01:04:51,199
+wir haben ja eine Folge gemacht zum deutschen
+
+1421
+01:04:51,199 --> 01:04:53,299
+Kolonialismus. Finde ich nach wie vor eine der
+
+1422
+01:04:53,299 --> 01:04:55,199
+besten, die wir dazu gemacht haben. Oder eben auch
+
+1423
+01:04:55,199 --> 01:04:56,839
+zur deutschen Arbeiterbewegung. Auch das
+
+1424
+01:04:56,839 --> 01:04:59,299
+lohnt sich total. Und was ich immer als
+
+1425
+01:04:59,299 --> 01:05:01,259
+Feedback bekomme, ist von ganz vielen Leuten,
+
+1426
+01:05:01,359 --> 01:05:02,900
+dass sie das nicht wissen.
+
+1427
+01:05:03,159 --> 01:05:05,339
+Oder aber anders in Erinnerung haben
+
+1428
+01:05:05,339 --> 01:05:06,219
+oder so nicht
+
+1429
+01:05:06,219 --> 01:05:08,639
+eingeordnet haben.
+
+1430
+01:05:09,119 --> 01:05:11,039
+Und ich glaube, wenn man die heutigen politischen
+
+1431
+01:05:11,039 --> 01:05:13,219
+Zustände verstehen will, dann lohnt es sich mal
+
+1432
+01:05:13,219 --> 01:05:15,079
+in die Vergangenheit hinzugucken. Dann versteht man
+
+1433
+01:05:15,079 --> 01:05:17,179
+nämlich auch, was möglicherweise hier in anderer Form
+
+1434
+01:05:17,179 --> 01:05:19,299
+gerade auf uns zukommt. Diese ganzen
+
+1435
+01:05:19,299 --> 01:05:21,500
+Diskurse, die finden ja drumherum
+
+1436
+01:05:21,500 --> 01:05:23,339
+statt. Und wenn ich dann immer wieder
+
+1437
+01:05:23,339 --> 01:05:25,179
+aktualisiere nach dem Motto,
+
+1438
+01:05:25,319 --> 01:05:26,500
+da geht es halt jedem besser.
+
+1439
+01:05:26,879 --> 01:05:29,019
+Und das Wachstum gehört halt dazu.
+
+1440
+01:05:29,159 --> 01:05:30,919
+Und das Verdrängen des anderen gehört dazu.
+
+1441
+01:05:31,199 --> 01:05:33,139
+Und wir brauchen halt diesen Raum. Wir haben Anspruch
+
+1442
+01:05:33,139 --> 01:05:35,299
+drauf. Wir machen das jetzt und so weiter. Und am Ende
+
+1443
+01:05:35,299 --> 01:05:36,199
+werden alle Investoren,
+
+1444
+01:05:36,219 --> 01:05:37,279
+die in den Schambanja baden,
+
+1445
+01:05:37,699 --> 01:05:40,179
+das ist tatsächlich etwas, was wir heute
+
+1446
+01:05:40,179 --> 01:05:41,719
+so ein bisschen als Märchen
+
+1447
+01:05:41,719 --> 01:05:43,219
+auch enttarnen müssen.
+
+1448
+01:05:43,799 --> 01:05:45,699
+Insofern, ich fände ehrlich gesagt
+
+1449
+01:05:45,699 --> 01:05:47,779
+eine Frostpunk-artige Variante
+
+1450
+01:05:47,779 --> 01:05:49,659
+von dem Spiel sehr, sehr
+
+1451
+01:05:49,659 --> 01:05:50,519
+spannend.
+
+1452
+01:05:51,279 --> 01:05:54,399
+Ja, oder wie du sagst, man kann
+
+1453
+01:05:54,399 --> 01:05:55,959
+diese kritischen Punkte ja
+
+1454
+01:05:55,959 --> 01:05:57,939
+trotzdem verpacken. Und das macht
+
+1455
+01:05:57,939 --> 01:06:00,099
+das Spiel nicht. Es will dir einfach nicht die Laune
+
+1456
+01:06:00,099 --> 01:06:02,019
+verderben. Also man kann das ja
+
+1457
+01:06:02,019 --> 01:06:04,139
+eher satirischer angehen, wie Tropico
+
+1458
+01:06:04,139 --> 01:06:05,879
+beispielsweise. Oder halt
+
+1459
+01:06:06,219 --> 01:06:08,039
+muss ja nicht gleich hardcore wie Frostpunk,
+
+1460
+01:06:08,279 --> 01:06:10,219
+wo du entscheiden musst, sollen die sterben oder
+
+1461
+01:06:10,219 --> 01:06:12,219
+die sterben. Ja, zumindest
+
+1462
+01:06:12,219 --> 01:06:14,539
+ein bisschen unterschwelliger
+
+1463
+01:06:14,539 --> 01:06:15,980
+irgendwelche Sachen da
+
+1464
+01:06:15,980 --> 01:06:18,359
+unterbringen. Aber darauf hat
+
+1465
+01:06:18,359 --> 01:06:20,339
+das Spiel einfach gar keinen Bock. Ist halt
+
+1466
+01:06:20,339 --> 01:06:22,259
+so, wie es ist. Und ich muss auf der anderen
+
+1467
+01:06:22,259 --> 01:06:24,019
+Seite aber sagen, eigentlich
+
+1468
+01:06:24,019 --> 01:06:26,179
+spiegelt das schon wiederum ein bisschen
+
+1469
+01:06:26,179 --> 01:06:28,299
+die Realität wieder. Weil auch
+
+1470
+01:06:28,299 --> 01:06:30,399
+ich glaube, die Leute, die sozusagen
+
+1471
+01:06:30,399 --> 01:06:32,319
+Kolonialwarenläden besucht
+
+1472
+01:06:32,319 --> 01:06:34,399
+haben damals, um sich eine Tafel Schokolade
+
+1473
+01:06:34,399 --> 01:06:36,019
+zu kaufen, haben ja auch davon
+
+1474
+01:06:36,019 --> 01:06:38,159
+ja nichts mitbekommen. Und es war
+
+1475
+01:06:38,159 --> 01:06:39,940
+völlig normal, auch irgendwie
+
+1476
+01:06:39,940 --> 01:06:42,219
+die sogenannten Wilden dann
+
+1477
+01:06:42,219 --> 01:06:44,059
+aus den Kolonien dann in Deutschland
+
+1478
+01:06:44,059 --> 01:06:46,179
+in Zoos auszustellen. Und
+
+1479
+01:06:46,179 --> 01:06:48,039
+diese Sachen, wie gesagt, hört euch
+
+1480
+01:06:48,039 --> 01:06:49,780
+die Namibia-Episode
+
+1481
+01:06:49,780 --> 01:06:51,940
+rund um den ersten deutschen
+
+1482
+01:06:51,940 --> 01:06:54,099
+Genozid oder durch deutsche Hand
+
+1483
+01:06:54,099 --> 01:06:56,239
+vollzogenen Genozid in Namibia an.
+
+1484
+01:06:56,780 --> 01:06:58,019
+Da thematisieren wir das
+
+1485
+01:06:58,019 --> 01:07:00,300
+alles. Also das war ja völlig normal.
+
+1486
+01:07:00,619 --> 01:07:01,940
+Also da war ja nichts, was
+
+1487
+01:07:01,940 --> 01:07:04,099
+irgendwie absurd erschien, dass man
+
+1488
+01:07:04,099 --> 01:07:05,980
+diese Menschen eben nicht wie Menschen waren.
+
+1489
+01:07:06,019 --> 01:07:07,900
+Und dass man halt da auch ganz
+
+1490
+01:07:07,900 --> 01:07:10,320
+normal als Europäer andere Länder
+
+1491
+01:07:10,320 --> 01:07:12,259
+plötzlich besetzen,
+
+1492
+01:07:12,480 --> 01:07:14,139
+ausrauben und seinen
+
+1493
+01:07:14,139 --> 01:07:15,900
+Imperialismus da frönen konnte.
+
+1494
+01:07:16,119 --> 01:07:18,139
+Und bis heute würde ich sagen, auch wenn
+
+1495
+01:07:18,139 --> 01:07:20,320
+wir vieles scheinbar wissen,
+
+1496
+01:07:20,519 --> 01:07:22,219
+aber so wirklich wissen wollen,
+
+1497
+01:07:22,539 --> 01:07:23,960
+tun es ja dann doch die
+
+1498
+01:07:23,960 --> 01:07:25,880
+wenigsten, die letztlich davon
+
+1499
+01:07:25,880 --> 01:07:28,059
+profitieren. Und damit würde
+
+1500
+01:07:28,059 --> 01:07:30,179
+ich mich selbst ja auch einschließen. Also du kannst
+
+1501
+01:07:30,179 --> 01:07:32,280
+ja nicht jeden Tag darüber nachdenken,
+
+1502
+01:07:32,619 --> 01:07:34,159
+woher kommt jetzt das
+
+1503
+01:07:34,159 --> 01:07:35,880
+Gold in meinem Handy aus,
+
+1504
+01:07:36,019 --> 01:07:38,500
+in Minenkongos von Kinderhänden,
+
+1505
+01:07:38,619 --> 01:07:40,159
+die verätzt sind,
+
+1506
+01:07:40,340 --> 01:07:42,139
+weil sie da irgendwie
+
+1507
+01:07:42,139 --> 01:07:43,940
+unter den wenigsten Bedingungen dieses Gold
+
+1508
+01:07:43,940 --> 01:07:46,000
+schürfen müssen oder irgendwelche anderen Sachen.
+
+1509
+01:07:46,360 --> 01:07:47,860
+Also das findet alles statt, aber die
+
+1510
+01:07:47,860 --> 01:07:49,380
+Verschleierung eben halt auch.
+
+1511
+01:07:50,659 --> 01:07:52,039
+Das heißt, eigentlich ist das Spiel dann schon
+
+1512
+01:07:52,039 --> 01:07:54,059
+wieder ehrlich, wenn man es so sieht.
+
+1513
+01:07:54,199 --> 01:07:55,920
+Weil auch wir sind komplett
+
+1514
+01:07:55,920 --> 01:07:57,619
+verschleiert, was das Ganze angeht.
+
+1515
+01:07:57,800 --> 01:07:59,699
+Und auch tagespolitisch
+
+1516
+01:07:59,699 --> 01:08:01,940
+kriegen wir das ja jeden Tag um die Ohren
+
+1517
+01:08:01,940 --> 01:08:03,219
+gehauen. Also sei es darum,
+
+1518
+01:08:03,840 --> 01:08:05,780
+dass man jetzt irgendwie wie ein Donald
+
+1519
+01:08:05,780 --> 01:08:08,040
+Trump Grönland besetzen
+
+1520
+01:08:08,040 --> 01:08:09,060
+will. Ja, warum?
+
+1521
+01:08:09,920 --> 01:08:11,660
+Ja, weil da halt Ressourcen schlummern.
+
+1522
+01:08:11,760 --> 01:08:13,660
+Oder Venezuela, wir haben ja die Episode
+
+1523
+01:08:13,660 --> 01:08:15,840
+dazu gemacht, warum interessiert man sich
+
+1524
+01:08:15,840 --> 01:08:17,820
+so für Venezuela? Ja, nicht,
+
+1525
+01:08:17,940 --> 01:08:19,680
+weil die Menschen dort so leiden, sondern
+
+1526
+01:08:19,680 --> 01:08:21,780
+weil es da die größte Erdölreserve der
+
+1527
+01:08:21,780 --> 01:08:24,220
+Welt gibt, die man gerne dann mit Öltankern
+
+1528
+01:08:24,220 --> 01:08:25,500
+und so weiter abpumpen will.
+
+1529
+01:08:25,640 --> 01:08:27,780
+Wie übrigens bei Anno ja auch. Auch da
+
+1530
+01:08:27,780 --> 01:08:29,840
+kann ich Öltanker bauen und letztlich
+
+1531
+01:08:29,840 --> 01:08:31,980
+die reichhaltigen Ölquellen in der Karibik
+
+1532
+01:08:31,980 --> 01:08:33,640
+sozusagen ausbeuten und
+
+1533
+01:08:33,640 --> 01:08:35,659
+abpumpen, nur mit dem Vorteil, dass die
+
+1534
+01:08:35,659 --> 01:08:36,399
+nie leer werden.
+
+1535
+01:08:37,260 --> 01:08:39,800
+Wenn man die ganze Zeit seinen Kopf da drum
+
+1536
+01:08:39,800 --> 01:08:41,880
+herum dreht, dann kommt man gar nicht mehr
+
+1537
+01:08:41,880 --> 01:08:43,720
+überhaupt dazu, was zu tun. Dann kann man sich
+
+1538
+01:08:43,720 --> 01:08:45,599
+nur noch hinlegen und weinen. Aber gleichzeitig
+
+1539
+01:08:45,599 --> 01:08:47,720
+methodologischer Individualismus hilft halt
+
+1540
+01:08:47,720 --> 01:08:49,139
+eben auch nicht, die Probleme zu lösen,
+
+1541
+01:08:49,420 --> 01:08:51,739
+sondern muss sie halt eben adressieren und dafür
+
+1542
+01:08:51,739 --> 01:08:53,699
+müssen sie unverschleiert sein und so weiter und so fort.
+
+1543
+01:08:53,760 --> 01:08:55,819
+Weil dieses Problem mit der Kinderarbeit,
+
+1544
+01:08:55,920 --> 01:08:57,619
+das ist ja übrigens von der Rechten seit
+
+1545
+01:08:57,619 --> 01:08:59,739
+ungefähr 20 Jahren immer wieder ein Argument
+
+1546
+01:08:59,739 --> 01:09:01,319
+gegen Elektroautos. Ja,
+
+1547
+01:09:01,579 --> 01:09:03,659
+Elektroautos deswegen und dann werden
+
+1548
+01:09:03,659 --> 01:09:05,559
+irgendwelche seltenen Erden aufgezählt, die gar nicht
+
+1549
+01:09:05,560 --> 01:09:07,380
+da sind. Deswegen müssen die armen Kinder
+
+1550
+01:09:07,380 --> 01:09:09,460
+da leiden und so weiter. Da interessieren sie sich
+
+1551
+01:09:09,460 --> 01:09:11,560
+dann auf einmal dafür. Ja, aber die Lieferketten,
+
+1552
+01:09:11,560 --> 01:09:13,720
+Lieferkettengesetz jetzt am besten aufweichen,
+
+1553
+01:09:13,840 --> 01:09:15,660
+abschalten und so weiter. Genau, genau, genau,
+
+1554
+01:09:15,800 --> 01:09:17,340
+das ist es. Genau, das ist es.
+
+1555
+01:09:17,500 --> 01:09:19,620
+Und genau diese Art von Verschleierung,
+
+1556
+01:09:19,720 --> 01:09:21,520
+ich meine jetzt nicht das Spiel, ich meine jetzt generell,
+
+1557
+01:09:21,860 --> 01:09:23,480
+diese Zusammenhänge dann halt eben
+
+1558
+01:09:23,480 --> 01:09:25,640
+nicht auszustellen, nicht zum Gespräch zu machen und so weiter
+
+1559
+01:09:25,640 --> 01:09:27,480
+führt eben dazu, dass wir nicht drüber sprechen,
+
+1560
+01:09:27,580 --> 01:09:29,300
+sondern diese Sachen dann jetzt sich wieder
+
+1561
+01:09:29,300 --> 01:09:31,260
+verschlimmern. Also sie sind ja schon schlimm, sie werden sich dann
+
+1562
+01:09:31,260 --> 01:09:33,460
+weiter dadurch verschlimmern. Und das
+
+1563
+01:09:33,460 --> 01:09:35,320
+andere ist halt dieses auch, und das ist wieder
+
+1564
+01:09:35,320 --> 01:09:35,460
+so,
+
+1565
+01:09:35,560 --> 01:09:37,640
+flooding the zone with shit, ist halt
+
+1566
+01:09:37,640 --> 01:09:39,680
+eben das, was man um Diskurse herum
+
+1567
+01:09:39,680 --> 01:09:41,480
+auch um die Gaming-Industrie hat.
+
+1568
+01:09:41,560 --> 01:09:43,520
+Wir dürfen das nicht übersehen, wie groß tatsächlich
+
+1569
+01:09:43,520 --> 01:09:45,539
+dieser Einfluss von Gamergate auf
+
+1570
+01:09:45,539 --> 01:09:47,460
+die Rechtsextreme in den Vereinigten
+
+1571
+01:09:47,460 --> 01:09:49,440
+Staaten ist. Aber was wir hier haben, ist auch
+
+1572
+01:09:49,440 --> 01:09:51,480
+ein Phänomen, das kann man bei YouTube beobachten,
+
+1573
+01:09:51,800 --> 01:09:53,300
+das sogenannte Wokespotting. Vielleicht
+
+1574
+01:09:53,300 --> 01:09:55,400
+bevor du Wokespotting erklärst, musst du
+
+1575
+01:09:55,400 --> 01:09:57,460
+vielleicht nochmal allen, die nicht so
+
+1576
+01:09:57,460 --> 01:09:59,480
+tief nerdig in diesem
+
+1577
+01:09:59,480 --> 01:10:01,360
+Game-Themen drin sind, erklären, was
+
+1578
+01:10:01,360 --> 01:10:03,680
+Gamergate war oder ist.
+
+1579
+01:10:03,880 --> 01:10:05,280
+Ja, sehr gern.
+
+1580
+01:10:05,279 --> 01:10:07,099
+Dafür sollten wir auf jeden Fall uns nochmal länger
+
+1581
+01:10:07,099 --> 01:10:09,259
+Zeit nehmen. Gamergate war im Prinzip vor
+
+1582
+01:10:09,259 --> 01:10:11,399
+ungefähr zwölf Jahren ein großer
+
+1583
+01:10:11,399 --> 01:10:13,420
+Aufschrei, der sich ergeben hat,
+
+1584
+01:10:13,800 --> 01:10:15,219
+dass eine Journalistin
+
+1585
+01:10:15,219 --> 01:10:17,119
+dort unter anderem Kritik geübt hat
+
+1586
+01:10:17,119 --> 01:10:19,219
+daran, dass es so bestimmte Tropes gibt,
+
+1587
+01:10:19,300 --> 01:10:21,479
+die immer wieder reproduziert werden, wie zum Beispiel
+
+1588
+01:10:21,479 --> 01:10:23,359
+die Damsel in Distress, also sprich
+
+1589
+01:10:23,359 --> 01:10:25,179
+die Frau als das zu rettende
+
+1590
+01:10:25,179 --> 01:10:27,119
+Gut. Oder dass bestimmte
+
+1591
+01:10:27,119 --> 01:10:29,039
+Arten von Frauenkörpern reproduziert werden,
+
+1592
+01:10:29,119 --> 01:10:31,199
+bestimmte Arten von Männlichkeitsbildern und so weiter.
+
+1593
+01:10:31,519 --> 01:10:33,300
+Dass sich Kultur dann
+
+1594
+01:10:34,399 --> 01:10:35,079
+reproduziert so,
+
+1595
+01:10:35,279 --> 01:10:37,219
+und dass teilweise diese Sachen doch dann auch
+
+1596
+01:10:37,219 --> 01:10:39,199
+so, jetzt gar nicht mal ohne Wertung, das ist jetzt meine
+
+1597
+01:10:39,199 --> 01:10:40,639
+Wertung, auch so ein bisschen banal sind.
+
+1598
+01:10:40,939 --> 01:10:43,039
+Da gab es noch eine andere, ich glaube,
+
+1599
+01:10:43,159 --> 01:10:45,119
+das war Game-Entwicklerin, die wurde
+
+1600
+01:10:45,119 --> 01:10:47,019
+dann halt irgendwie in die Nähe gerückt,
+
+1601
+01:10:47,119 --> 01:10:49,420
+von wegen sie hätte sich in die Position hineingeschlafen.
+
+1602
+01:10:49,679 --> 01:10:51,199
+Dann gab es noch einen Skandal
+
+1603
+01:10:51,199 --> 01:10:53,539
+in Anführungszeichen um eine Redakteurin,
+
+1604
+01:10:53,599 --> 01:10:55,039
+die irgendwie ein Spiel
+
+1605
+01:10:55,039 --> 01:10:57,019
+auf eine andere Art bewertet hat, als es dann
+
+1606
+01:10:57,019 --> 01:10:59,000
+der Community gefallen hat und und und. Also es gab,
+
+1607
+01:10:59,099 --> 01:11:00,939
+insgesamt gab es da so sieben, acht Dinge,
+
+1608
+01:11:01,019 --> 01:11:02,739
+die sich so eine Perlenkette aneinander reihen.
+
+1609
+01:11:02,739 --> 01:11:04,779
+Im Prinzip war das halt, man wollte
+
+1610
+01:11:05,279 --> 01:11:06,899
+echauffieren, wie man sich halt irgendwie
+
+1611
+01:11:06,899 --> 01:11:09,319
+zehn Jahre vorher als gewollter Atheisten
+
+1612
+01:11:09,319 --> 01:11:10,679
+echauffiert hat über
+
+1613
+01:11:10,679 --> 01:11:13,019
+Evangelikale in Amerika, hat man sich
+
+1614
+01:11:13,019 --> 01:11:14,899
+dann eben dort echauffiert darüber,
+
+1615
+01:11:15,239 --> 01:11:16,840
+dass Frauen es gewagt haben, irgendwas
+
+1616
+01:11:16,840 --> 01:11:18,500
+zu sagen. Also es war immer dann
+
+1617
+01:11:18,500 --> 01:11:20,819
+im Prinzip so direkt zusammengebunden, so
+
+1618
+01:11:20,819 --> 01:11:23,000
+Frau-Kritik und er geht
+
+1619
+01:11:23,000 --> 01:11:24,899
+raus aus unserem Baumhaus. Und
+
+1620
+01:11:24,899 --> 01:11:27,000
+das hat aber immer weitere Kreise gezogen
+
+1621
+01:11:27,000 --> 01:11:28,800
+und immer weitere Verbindungen dann
+
+1622
+01:11:28,800 --> 01:11:30,920
+auch gegeben zwischen dieser reaktionären
+
+1623
+01:11:30,920 --> 01:11:33,019
+Gruppe von jungen Männern. Und
+
+1624
+01:11:33,019 --> 01:11:35,179
+mit der Zeit wurde sie dann politisch mit,
+
+1625
+01:11:35,279 --> 01:11:37,079
+anderen Auswüchsen und so weiter. Wir müssen
+
+1626
+01:11:37,079 --> 01:11:38,939
+uns dafür Zeit nehmen, das vernünftig zu machen.
+
+1627
+01:11:39,139 --> 01:11:41,219
+Worum es geht ist, in dieser Community von
+
+1628
+01:11:41,219 --> 01:11:42,679
+Leuten, die Games konsumieren,
+
+1629
+01:11:43,219 --> 01:11:45,219
+gab es dort tatsächlich etwas
+
+1630
+01:11:45,219 --> 01:11:47,239
+wie ein, ja, von sich selbst heraus
+
+1631
+01:11:47,239 --> 01:11:48,699
+organisierten Kulturkampf
+
+1632
+01:11:48,699 --> 01:11:51,079
+in alle verschiedenen Richtungen. Aber
+
+1633
+01:11:51,079 --> 01:11:52,800
+es ist halt eben ein bisschen
+
+1634
+01:11:52,800 --> 01:11:55,239
+rechts angemalt. Vor allen Dingen, weil man eben auch dadurch
+
+1635
+01:11:55,239 --> 01:11:57,139
+so bestimmte patriarchale Themen
+
+1636
+01:11:57,139 --> 01:11:58,920
+immer wieder auch für sich selber
+
+1637
+01:11:58,920 --> 01:12:01,179
+halt einnimmt. Aus diesem erweiterten
+
+1638
+01:12:01,179 --> 01:12:03,340
+Kreis heraus und aus dem Zentrum
+
+1639
+01:12:03,340 --> 01:12:05,199
+dieser Bewegung hat sich dann eben etwas ergeben, was sich
+
+1640
+01:12:05,199 --> 01:12:07,139
+Wokespotting nennt. Also sprich,
+
+1641
+01:12:07,199 --> 01:12:08,819
+dass sie seit fünf Jahren uns nerven,
+
+1642
+01:12:09,239 --> 01:12:11,279
+dass überall dann, wenn ein Frauenkörper
+
+1643
+01:12:11,279 --> 01:12:12,659
+dargestellt wird, der nicht
+
+1644
+01:12:12,659 --> 01:12:15,039
+ihnen jetzt irgendwie Grundlage
+
+1645
+01:12:15,039 --> 01:12:16,619
+für feuchte Träume geben kann,
+
+1646
+01:12:16,960 --> 01:12:18,899
+dann ist das implantiert worden
+
+1647
+01:12:18,899 --> 01:12:21,079
+von der bösen Verschwörung. Also es ist immer von
+
+1648
+01:12:21,079 --> 01:12:23,019
+denen und für denen, da kannst du dann
+
+1649
+01:12:23,019 --> 01:12:25,239
+einsetzen, so der Jude, die Frauen,
+
+1650
+01:12:25,479 --> 01:12:27,359
+die progressiven Left Lunatics,
+
+1651
+01:12:27,539 --> 01:12:29,019
+bla bla bla und so. Also die
+
+1652
+01:12:29,019 --> 01:12:31,279
+haben das gemacht, um unsere
+
+1653
+01:12:31,279 --> 01:12:33,019
+Spielerliebnis kaputt zu machen oder
+
+1654
+01:12:33,019 --> 01:12:34,960
+uns Männer halt zu
+
+1655
+01:12:34,960 --> 01:12:36,899
+feminisieren und so weiter. Oder immer, wenn
+
+1656
+01:12:36,899 --> 01:12:38,680
+eine weibliche Protagonistin da ist
+
+1657
+01:12:38,680 --> 01:12:41,199
+oder halt, wenn du mehrere Optionen
+
+1658
+01:12:41,199 --> 01:12:42,779
+hast für Pronomen oder
+
+1659
+01:12:42,779 --> 01:12:44,760
+Geschlechter oder so weiter, dann ist da ganz groß
+
+1660
+01:12:44,760 --> 01:12:46,920
+Alarm. Oder wenn halt ein bestimmtes Gewaltlevel
+
+1661
+01:12:46,920 --> 01:12:48,800
+nicht erreicht wird und so. Also es ist
+
+1662
+01:12:48,800 --> 01:12:50,720
+sehr, sehr unterschiedlich, was das sein kann.
+
+1663
+01:12:50,800 --> 01:12:52,840
+Aber es ist absurd. Es gibt ein ganzes
+
+1664
+01:12:52,840 --> 01:12:54,600
+Wiki darüber, wo sie ganz viele Spiele
+
+1665
+01:12:54,600 --> 01:12:56,859
+durchgeratet haben, warum man das nicht spielen
+
+1666
+01:12:56,859 --> 01:12:58,720
+sollte, weil da sieht ein Mann
+
+1667
+01:12:58,720 --> 01:13:00,720
+einen anderen Mann an und das könnte vielleicht gay
+
+1668
+01:13:00,720 --> 01:13:02,760
+sein oder so. Also wirklich auf dem
+
+1669
+01:13:02,760 --> 01:13:04,779
+untersten Level ist das
+
+1670
+01:13:04,960 --> 01:13:06,880
+was ich sagen will mit diesem
+
+1671
+01:13:06,880 --> 01:13:08,239
+ganzen Exkurs jetzt gerade ist.
+
+1672
+01:13:08,779 --> 01:13:10,880
+An der einen Stelle in dem momentan
+
+1673
+01:13:10,880 --> 01:13:12,739
+wichtigsten Medium, was wir haben in
+
+1674
+01:13:12,739 --> 01:13:14,800
+unserer Kultur, so reden wir über
+
+1675
+01:13:14,800 --> 01:13:16,800
+bestimmte Sachen nicht, so, also lassen die aus.
+
+1676
+01:13:16,920 --> 01:13:18,460
+Und auf der anderen Stelle werden uns
+
+1677
+01:13:18,460 --> 01:13:20,300
+Diskurse halt
+
+1678
+01:13:20,300 --> 01:13:22,739
+geführt, die mit der Wirklichkeit gar nichts
+
+1679
+01:13:22,739 --> 01:13:24,680
+zu tun haben, die sich aber darum drehen
+
+1680
+01:13:24,680 --> 01:13:26,859
+und Einfluss auch auf die Industrie haben.
+
+1681
+01:13:27,000 --> 01:13:28,720
+Also sprich, viele Publisher haben schon
+
+1682
+01:13:28,720 --> 01:13:30,560
+angefangen zu sagen, ja, die weibliche Heldin
+
+1683
+01:13:30,560 --> 01:13:31,840
+daraus machen vielleicht doch wieder Mann.
+
+1684
+01:13:32,880 --> 01:13:34,760
+Oder halt eben, wenn es dann irgendwie so
+
+1685
+01:13:34,760 --> 01:13:36,600
+Sachen gibt wie, naja, die Frau
+
+1686
+01:13:36,600 --> 01:13:38,539
+selber, die ist halt eine Actionheldin,
+
+1687
+01:13:38,619 --> 01:13:40,760
+eine Agentin und natürlich hat sie dann Uniform
+
+1688
+01:13:40,760 --> 01:13:42,800
+an so, weil Vollidiot geht
+
+1689
+01:13:42,800 --> 01:13:44,539
+der halbnackt ins Feld. Aber
+
+1690
+01:13:44,539 --> 01:13:46,539
+weil das wieder so ein paar von diesen
+
+1691
+01:13:46,539 --> 01:13:48,619
+lauten Krakelern gut finden, so gibt es
+
+1692
+01:13:48,619 --> 01:13:50,760
+jetzt Optionen, sie möglichst wenig bekleidet
+
+1693
+01:13:50,760 --> 01:13:52,920
+dann irgendwie zu spielen. Ludonarrative
+
+1694
+01:13:52,920 --> 01:13:54,640
+Dissonanz nennt sich das. Also es macht
+
+1695
+01:13:54,640 --> 01:13:56,000
+dann auch spielerisch keinen Sinn.
+
+1696
+01:13:56,480 --> 01:13:58,739
+Man stellt es aber dann so dar. Diese ganzen
+
+1697
+01:13:58,739 --> 01:14:00,760
+Sachen, also die Industrie dreht
+
+1698
+01:14:00,760 --> 01:14:02,699
+jetzt in Richtung dieser lauten
+
+1699
+01:14:02,699 --> 01:14:04,539
+Mehrheit, weil, und hier ist
+
+1700
+01:14:04,539 --> 01:14:06,340
+jetzt der große Bänger, diese
+
+1701
+01:14:06,340 --> 01:14:08,300
+Verbindung auch direkt mit der
+
+1702
+01:14:08,300 --> 01:14:10,399
+Magerbewegung zusammensteht. Also dieses Ganze
+
+1703
+01:14:10,399 --> 01:14:12,039
+von wegen, wir müssen gegen Rogue kämpfen,
+
+1704
+01:14:12,859 --> 01:14:14,500
+Männer sollten wieder mehr zu
+
+1705
+01:14:14,500 --> 01:14:16,420
+sagen haben, also in jedem Fall mehr als
+
+1706
+01:14:16,420 --> 01:14:18,439
+Frauen und die müssen auch wieder ihren
+
+1707
+01:14:18,439 --> 01:14:20,340
+Platz haben und so. Und außerdem ist das ja alles auch
+
+1708
+01:14:20,340 --> 01:14:22,359
+nur ein Scherz und so. Also, na, diese ganzen
+
+1709
+01:14:22,359 --> 01:14:24,500
+Mechaniken funktionieren da halt eben zusammen, greifen
+
+1710
+01:14:24,500 --> 01:14:26,739
+ineinander. So befruchtet man sich da gegenseitig.
+
+1711
+01:14:26,840 --> 01:14:28,439
+Die einen sagen, guck mal hier, die nehmen unseren
+
+1712
+01:14:28,439 --> 01:14:30,340
+armen Jungs hier die Spiele weg. Sondern die
+
+1713
+01:14:30,340 --> 01:14:32,340
+anderen sagen, ja, hier, wir sollten die aber mal
+
+1714
+01:14:32,340 --> 01:14:34,420
+wählen, weil das sind die einzigen, die sich denen entgegenstellen.
+
+1715
+01:14:34,539 --> 01:14:36,199
+Ne? Das ist richtig
+
+1716
+01:14:36,199 --> 01:14:38,399
+krass, wie diese Diskurse
+
+1717
+01:14:38,399 --> 01:14:40,100
+entweder, wie gesagt, nicht geführt werden oder
+
+1718
+01:14:40,100 --> 01:14:42,439
+geführt werden auf, vor dem Hintergrund
+
+1719
+01:14:42,439 --> 01:14:43,579
+dieser erfundenen Debatte.
+
+1720
+01:14:44,359 --> 01:14:46,180
+Und das, beides bewegt Politik,
+
+1721
+01:14:46,300 --> 01:14:47,659
+weil an der einen Stelle findet es halt nicht,
+
+1722
+01:14:48,039 --> 01:14:50,019
+weil es ist ja alles gut, es ist ja alles natürlich,
+
+1723
+01:14:50,199 --> 01:14:52,399
+wir wären alle reich. Sondern an der anderen Stelle
+
+1724
+01:14:52,399 --> 01:14:54,239
+sind dann diese Sachen von wegen so, ja,
+
+1725
+01:14:54,300 --> 01:14:56,159
+das ist die große Verschwörung, die jetzt irgendwie
+
+1726
+01:14:56,159 --> 01:14:58,439
+dafür sorgt, dass wir halt keine tollen Action-
+
+1727
+01:14:58,439 --> 01:14:59,760
+Spiele mehr spielen. Da gibt es, Entschuldigung,
+
+1728
+01:14:59,880 --> 01:15:01,960
+die eine Anekdote, da gibt es
+
+1729
+01:15:01,960 --> 01:15:04,159
+so Vergrößerungsaufnahmen, weil
+
+1730
+01:15:04,539 --> 01:15:06,380
+von uns halt ja so ein bisschen Pflaumen auf der Haut.
+
+1731
+01:15:06,479 --> 01:15:08,460
+Und da ist so eine Action-Heldin, so,
+
+1732
+01:15:08,539 --> 01:15:10,340
+die du dann da steuerst. Und da sieht man,
+
+1733
+01:15:10,399 --> 01:15:12,640
+wenn man da ganz doll ranzoomt,
+
+1734
+01:15:12,680 --> 01:15:14,380
+man sieht das Gesicht fast nie in sehr großer Aufnahme,
+
+1735
+01:15:14,460 --> 01:15:16,420
+aber ganz doll ranzoomt, dann siehst du so ein bisschen Pflaumen
+
+1736
+01:15:16,420 --> 01:15:18,279
+auf der Wange. Und dann haben sie gesagt, ja, das ist ja voll maskulin.
+
+1737
+01:15:19,000 --> 01:15:20,479
+Und haben dann angefangen
+
+1738
+01:15:20,479 --> 01:15:22,279
+mit Photoshop ihr irgendwelches
+
+1739
+01:15:22,279 --> 01:15:24,180
+so Glamour-Make-up aufzunehmen und sagen,
+
+1740
+01:15:24,260 --> 01:15:26,380
+so sieht eine richtige Frau aus. Das ist richtig
+
+1741
+01:15:26,380 --> 01:15:28,300
+krank, wie sie sich da selber dann so
+
+1742
+01:15:28,300 --> 01:15:30,019
+da heiß reden. Also,
+
+1743
+01:15:30,380 --> 01:15:32,279
+ich glaube, die wird noch
+
+1744
+01:15:32,279 --> 01:15:34,260
+spannend werden, so, was da noch auf uns
+
+1745
+01:15:34,260 --> 01:15:36,020
+zukommt. Und man muss ja ganz klar
+
+1746
+01:15:36,020 --> 01:15:38,260
+dazu sagen, also diese
+
+1747
+01:15:38,260 --> 01:15:39,579
+sogenannten
+
+1748
+01:15:39,579 --> 01:15:42,079
+Woken-Inhalte, oder man könnte
+
+1749
+01:15:42,079 --> 01:15:44,340
+auch sagen, Diversität
+
+1750
+01:15:44,340 --> 01:15:46,340
+in Variationen
+
+1751
+01:15:46,340 --> 01:15:47,659
+von Figuren etc.
+
+1752
+01:15:48,820 --> 01:15:50,300
+Auch das hat ja ein
+
+1753
+01:15:50,300 --> 01:15:51,980
+Großteil
+
+1754
+01:15:51,980 --> 01:15:53,880
+nicht nur damit zu tun, weil man irgendwie
+
+1755
+01:15:53,880 --> 01:15:55,960
+großer Freund von Universalismus
+
+1756
+01:15:55,960 --> 01:15:58,220
+ist. Also, ich will jetzt nicht abstreiten,
+
+1757
+01:15:58,480 --> 01:15:59,980
+dass es das vielleicht auch gibt,
+
+1758
+01:16:00,560 --> 01:16:02,180
+so, dass es wirklich überzeugte
+
+1759
+01:16:02,760 --> 01:16:04,199
+politische, aktivistische
+
+1760
+01:16:04,199 --> 01:16:06,000
+Spieleentwicklungsfirmen
+
+1761
+01:16:06,000 --> 01:16:07,960
+oder Entwickler gibt. Aber das
+
+1762
+01:16:07,960 --> 01:16:10,500
+allermeiste ist halt auf Kommerzialisierung
+
+1763
+01:16:10,500 --> 01:16:12,039
+ausgelegt. Also, es geht ja immer
+
+1764
+01:16:12,039 --> 01:16:14,239
+darum, auch Geschäft zu machen.
+
+1765
+01:16:14,800 --> 01:16:16,119
+Es sei denn jetzt so, in der
+
+1766
+01:16:16,119 --> 01:16:18,380
+ganzen Indie-Szene und so weiter,
+
+1767
+01:16:18,479 --> 01:16:20,079
+die ja immer noch sehr
+
+1768
+01:16:20,079 --> 01:16:22,099
+stark ist und sehr tolle und coole
+
+1769
+01:16:22,099 --> 01:16:24,760
+Spiele rausbringt. Aber diese ganzen Blockbuster-
+
+1770
+01:16:24,760 --> 01:16:26,079
+Firmen, das hatte meistens
+
+1771
+01:16:26,079 --> 01:16:27,859
+auch kapitalistische Gründe, weil
+
+1772
+01:16:27,859 --> 01:16:30,139
+eben es nicht so war, dass nur
+
+1773
+01:16:30,139 --> 01:16:32,039
+Jungs Spiele gespielt haben.
+
+1774
+01:16:32,159 --> 01:16:34,039
+Oder nur Weiße. Oder nur Weiße, genau.
+
+1775
+01:16:34,199 --> 01:16:35,300
+Aber man hat festgestellt,
+
+1776
+01:16:36,059 --> 01:16:37,760
+ja, die Zielgruppe ist halt
+
+1777
+01:16:37,760 --> 01:16:38,760
+diverse as fuck.
+
+1778
+01:16:39,559 --> 01:16:42,399
+Da sind LGBTQ-Leute
+
+1779
+01:16:42,399 --> 01:16:43,899
+dabei, da sind Frauen,
+
+1780
+01:16:44,199 --> 01:16:46,199
+Männer, unterschiedliche
+
+1781
+01:16:46,199 --> 01:16:48,199
+Hautfarben, unterschiedliche Nationalitäten,
+
+1782
+01:16:49,000 --> 01:16:50,300
+unterschiedliche Kulturen.
+
+1783
+01:16:50,519 --> 01:16:52,420
+Und das ist der Markt, den ich beackere.
+
+1784
+01:16:52,699 --> 01:16:54,159
+Und wenn ich ihn maximal
+
+1785
+01:16:54,159 --> 01:16:56,220
+beackern will, dann muss ich halt anschlussfähig
+
+1786
+01:16:56,220 --> 01:16:58,399
+sein zu verschiedenen Lebensrealitäten
+
+1787
+01:16:58,399 --> 01:17:00,179
+und Lebenswelten. Und das
+
+1788
+01:17:00,179 --> 01:17:02,119
+ist der einfache Grund, warum das
+
+1789
+01:17:02,119 --> 01:17:04,139
+auch so vielfältig letztendlich sich da
+
+1790
+01:17:04,140 --> 01:17:05,980
+gestellt hat. Und deswegen muss man hier
+
+1791
+01:17:05,980 --> 01:17:08,280
+ganz klar sagen, hier prallen
+
+1792
+01:17:08,280 --> 01:17:09,680
+zwei Ideologien aufeinander.
+
+1793
+01:17:10,300 --> 01:17:12,100
+Das eine ist die kapitalistische Ideologie
+
+1794
+01:17:12,100 --> 01:17:13,700
+und das andere ist die Magerideologie,
+
+1795
+01:17:13,900 --> 01:17:16,280
+die nichts anderes ist als White Supremacy und so weiter.
+
+1796
+01:17:16,500 --> 01:17:17,980
+Die natürlich Hand in Hand geht,
+
+1797
+01:17:18,220 --> 01:17:20,079
+auch in weiten Teilen mit Kapitalismus.
+
+1798
+01:17:20,260 --> 01:17:21,640
+Die aber wahrscheinlich eher so die
+
+1799
+01:17:21,640 --> 01:17:23,980
+1800er-Version darstellen soll.
+
+1800
+01:17:24,440 --> 01:17:26,200
+Und da uns wieder zurückführen
+
+1801
+01:17:26,200 --> 01:17:28,340
+soll, indem man eben diese hierarchischen
+
+1802
+01:17:28,340 --> 01:17:29,880
+Strukturen noch viel
+
+1803
+01:17:29,880 --> 01:17:31,760
+klarer benennt, indem man sie eben
+
+1804
+01:17:31,760 --> 01:17:34,079
+zuspitzt auf Hautfarbe,
+
+1805
+01:17:34,079 --> 01:17:36,539
+Herkunft, Religion und so weiter.
+
+1806
+01:17:37,140 --> 01:17:38,119
+Also man erweitert
+
+1807
+01:17:38,119 --> 01:17:39,880
+diese Hierarchie, die der Kapitalismus
+
+1808
+01:17:39,880 --> 01:17:41,899
+eh hervorbringt, aber
+
+1809
+01:17:41,899 --> 01:17:44,100
+nochmal ganz spezifisch auf so
+
+1810
+01:17:44,100 --> 01:17:45,859
+Ethnogeschichten.
+
+1811
+01:17:46,100 --> 01:17:48,359
+Und damit hat offenbar jetzt erstmal der Kapitalismus
+
+1812
+01:17:48,359 --> 01:17:50,019
+auch kein Problem.
+
+1813
+01:17:50,399 --> 01:17:52,159
+Zumindest eine ganze Zeit lang.
+
+1814
+01:17:52,680 --> 01:17:54,000
+Deswegen bin ich gespannt, wie
+
+1815
+01:17:54,000 --> 01:17:56,319
+das noch ausgehen wird, letztlich.
+
+1816
+01:17:56,760 --> 01:17:58,140
+Weil das würde ja am Ende
+
+1817
+01:17:58,140 --> 01:18:00,260
+bedeuten, dass ja alle,
+
+1818
+01:18:00,559 --> 01:18:02,220
+die eben nicht weiß,
+
+1819
+01:18:02,220 --> 01:18:04,059
+nicht männlich und so weiter sind,
+
+1820
+01:18:04,079 --> 01:18:06,039
+was sollen die dann noch spielen in Zukunft?
+
+1821
+01:18:06,199 --> 01:18:08,039
+Oder müssen die dann alles das Gleiche
+
+1822
+01:18:08,039 --> 01:18:10,159
+spielen und haben die dann auch die gleiche
+
+1823
+01:18:10,159 --> 01:18:12,119
+Freude daran? Oder wie soll ich mir das vorstellen?
+
+1824
+01:18:12,380 --> 01:18:13,739
+Die werden dann vielleicht aus anderen Ländern
+
+1825
+01:18:13,739 --> 01:18:16,100
+versorgt oder so. Also weil das Ding ist ja
+
+1826
+01:18:16,100 --> 01:18:17,960
+dieses, wenn wir mal gucken.
+
+1827
+01:18:18,680 --> 01:18:19,119
+Schweinehändler.
+
+1828
+01:18:21,319 --> 01:18:21,840
+Ehrlich, die
+
+1829
+01:18:21,840 --> 01:18:23,819
+LGBTQ-Spieler von der
+
+1830
+01:18:23,819 --> 01:18:24,659
+...
+
+1831
+01:18:24,659 --> 01:18:27,939
+Wenn wir uns mal angucken, wie sich aber Geschichten die letzten
+
+1832
+01:18:27,939 --> 01:18:29,899
+30 Jahre in Videospielen verändert haben.
+
+1833
+01:18:30,039 --> 01:18:32,000
+Da hast du ja heute Sachen, die bewegen dich über
+
+1834
+01:18:32,000 --> 01:18:33,920
+Wochen. Also in Last of Us 1,
+
+1835
+01:18:34,079 --> 01:18:36,140
+2. Das ist halt irgendwie ein vollkommen
+
+1836
+01:18:36,140 --> 01:18:38,079
+anderes Erlebnis, was du dann
+
+1837
+01:18:38,079 --> 01:18:40,260
+da irgendwie hast. Und das ist eben
+
+1838
+01:18:40,260 --> 01:18:41,859
+und auch darüber könnte man eine geile
+
+1839
+01:18:41,859 --> 01:18:44,059
+Folge machen, weil nämlich auch da hat sich riesig
+
+1840
+01:18:44,059 --> 01:18:45,539
+was entzündet an
+
+1841
+01:18:45,539 --> 01:18:48,159
+genau diesem Diskurs. Also insofern
+
+1842
+01:18:48,159 --> 01:18:50,000
+ist das sogar ein tolles Beispiel. Was ich sagen möchte, aber
+
+1843
+01:18:50,000 --> 01:18:52,100
+ist dieses, was soll's denn sein?
+
+1844
+01:18:52,619 --> 01:18:53,800
+Er, der weiße Mann,
+
+1845
+01:18:54,059 --> 01:18:56,079
+rettet sie, die weiße Prinzessin, und danach
+
+1846
+01:18:56,079 --> 01:18:58,079
+wird geheiratet. Also die Geschichte finde
+
+1847
+01:18:58,079 --> 01:18:59,500
+ich schon seit ich sechs bin nicht mehr spannend.
+
+1848
+01:18:59,939 --> 01:19:01,979
+Also all diese anderen Geschichten mit gebrochenen
+
+1849
+01:19:01,979 --> 01:19:03,920
+Hierarchien, mit komplexen Charakteren, mit
+
+1850
+01:19:03,920 --> 01:19:05,980
+einfach einer Welt, die sich echter anfühlt,
+
+1851
+01:19:06,039 --> 01:19:08,239
+weil halt andere echte Menschen dazugehören,
+
+1852
+01:19:08,699 --> 01:19:09,980
+wo auch andere Lebensrealitäten
+
+1853
+01:19:09,980 --> 01:19:11,899
+dabei sind. Das Schöne an so einem
+
+1854
+01:19:11,899 --> 01:19:13,699
+interaktiven Medium ist ja, dass man Sachen
+
+1855
+01:19:13,699 --> 01:19:16,140
+ausprobieren kann, die im normalen Leben nicht da sind.
+
+1856
+01:19:16,300 --> 01:19:18,220
+Und das ist halt nicht einfach mit der Knarre rumzulaufen
+
+1857
+01:19:18,220 --> 01:19:19,920
+und andere Leute zu erschießen, sondern es kann halt
+
+1858
+01:19:19,920 --> 01:19:21,739
+eben auch sowas sein wie, ich hätte es voll Bock,
+
+1859
+01:19:21,819 --> 01:19:23,859
+The Little Witch zu sein, das ist so ein cozy
+
+1860
+01:19:23,859 --> 01:19:25,819
+Game, wo du die ganze Zeit halt irgendwie nur so
+
+1861
+01:19:25,819 --> 01:19:27,260
+Tränke braust. So.
+
+1862
+01:19:28,220 --> 01:19:30,020
+In dem Ding darf es
+
+1863
+01:19:30,020 --> 01:19:32,020
+solche Sachen dann nicht geben, wenn sie
+
+1864
+01:19:32,020 --> 01:19:33,779
+ursprünglich mal Zielgruppe waren. Das wäre
+
+1865
+01:19:33,779 --> 01:19:36,139
+ungefähr so wie im Musikbereich,
+
+1866
+01:19:36,579 --> 01:19:38,059
+da gibt es so eine Gruppe, die sagt,
+
+1867
+01:19:38,259 --> 01:19:40,019
+wir gucken nur Musikantenstadel.
+
+1868
+01:19:40,199 --> 01:19:41,800
+Und Musik sollte nur sein wie
+
+1869
+01:19:41,800 --> 01:19:44,019
+Musikantenstadel. So stelle ich mir das vor.
+
+1870
+01:19:44,439 --> 01:19:46,300
+Jeder soll das hören, was er gerne mag,
+
+1871
+01:19:46,439 --> 01:19:47,279
+aber dieses
+
+1872
+01:19:47,279 --> 01:19:49,920
+zu sagen, und alle anderen haben sich
+
+1873
+01:19:49,920 --> 01:19:51,920
+dem zu fügen und es gibt nur noch
+
+1874
+01:19:51,920 --> 01:19:53,399
+Musik aus dem Musikantenstadel.
+
+1875
+01:19:53,939 --> 01:19:55,840
+Das erinnert mich daran. Es ist halt so
+
+1876
+01:19:55,840 --> 01:19:57,739
+maximal unterbelichtet.
+
+1877
+01:19:57,739 --> 01:19:59,659
+Es gibt ja noch genug Spiele, die das sozusagen
+
+1878
+01:19:59,659 --> 01:20:01,739
+bedient, das, was sie ja wollen. Aber sie wollen,
+
+1879
+01:20:01,899 --> 01:20:03,739
+dass ja alles so ist, was ja völlig
+
+1880
+01:20:03,779 --> 01:20:05,719
+irre ist.
+
+1881
+01:20:06,119 --> 01:20:07,659
+Ja, das ist ja auch eine
+
+1882
+01:20:07,659 --> 01:20:09,719
+spannende, typische, rechtsextremistische,
+
+1883
+01:20:09,840 --> 01:20:11,719
+faschistische Art, sich ranzuwansen.
+
+1884
+01:20:11,880 --> 01:20:13,619
+Erst sagt man so, können wir darüber
+
+1885
+01:20:13,619 --> 01:20:15,359
+reden? Dann sagen sie als nächstes so,
+
+1886
+01:20:15,479 --> 01:20:17,699
+darf es uns denn auch geben? So, dann
+
+1887
+01:20:17,699 --> 01:20:19,739
+dürfen wir dann die gleichen Rechte haben? Und dann
+
+1888
+01:20:19,739 --> 01:20:21,659
+sagt man so, eigentlich sind wir doch viel stärker. Und dann
+
+1889
+01:20:21,659 --> 01:20:23,679
+sagt man als nächstes so, und ihr müsst jetzt so leben
+
+1890
+01:20:23,679 --> 01:20:25,300
+wie wir, sonst dürft ihr nicht mehr sein.
+
+1891
+01:20:25,579 --> 01:20:27,619
+Weil das ist ja genau das, was sie jetzt gerade sagen, dass sie halt eben
+
+1892
+01:20:27,619 --> 01:20:29,439
+so Christentum, weißes Christentum soll
+
+1893
+01:20:29,439 --> 01:20:31,519
+vorherrschen und so weiter. Und das ist mal
+
+1894
+01:20:31,519 --> 01:20:33,579
+ganz lang Marsch gewesen. Diskurse waren ganz
+
+1895
+01:20:33,579 --> 01:20:35,220
+andere. Und genau das ist es hier mit
+
+1896
+01:20:35,220 --> 01:20:37,600
+dieses so, Games sollen auf eine bestimmte Art aussehen,
+
+1897
+01:20:37,680 --> 01:20:39,079
+nur für bestimmte Leute gespielt werden.
+
+1898
+01:20:39,519 --> 01:20:41,399
+Und jetzt eben das, was du sagst von wegen,
+
+1899
+01:20:41,500 --> 01:20:42,420
+das ist ein tolles Beispiel.
+
+1900
+01:20:43,399 --> 01:20:45,439
+Es läuft nur noch Musikantenstadel oder
+
+1901
+01:20:45,439 --> 01:20:46,739
+nichts anderes mehr.
+
+1902
+01:20:47,500 --> 01:20:49,260
+Ja, vielen Dank auch. Also insofern,
+
+1903
+01:20:49,579 --> 01:20:51,640
+lasst sie doch einfach sein, wie sie wollen. Aber genau das
+
+1904
+01:20:51,640 --> 01:20:53,640
+können sie nicht aushalten. Diese Gaming-Taliban.
+
+1905
+01:20:54,539 --> 01:20:55,180
+Das ist ja furchtbar.
+
+1906
+01:20:55,720 --> 01:20:57,720
+Ja, quasi, genau. Also ich glaube, wir haben jetzt
+
+1907
+01:20:57,720 --> 01:20:59,699
+so das Thema Anno ganz gut beleuchtet
+
+1908
+01:20:59,699 --> 01:21:01,519
+und warum das halt irgendwie relevant ist,
+
+1909
+01:21:01,539 --> 01:21:03,460
+darüber zu sprechen. Also ich finde ja zum
+
+1910
+01:21:03,460 --> 01:21:05,659
+Beispiel immer dann, wenn Inhalte noch ein bisschen
+
+1911
+01:21:05,659 --> 01:21:07,539
+weiter Kontext brauchen, finde ich ja
+
+1912
+01:21:07,539 --> 01:21:09,560
+so Tafeln ganz gut. Also zum Beispiel so
+
+1913
+01:21:09,560 --> 01:21:11,619
+bei den alten Disney-Filmen, die ja
+
+1914
+01:21:11,619 --> 01:21:13,300
+teilweise extrem problematisch waren,
+
+1915
+01:21:13,460 --> 01:21:15,319
+Darstellung von schwarzen Personen und so weiter
+
+1916
+01:21:15,319 --> 01:21:17,699
+und Sozialverhältnissen, dass wenn du den heute
+
+1917
+01:21:17,699 --> 01:21:19,399
+anschmeißt auf irgendeinem Streaming-Anbieter,
+
+1918
+01:21:19,399 --> 01:21:21,399
+dass vor so eine Tafel kommt, die das einordnet
+
+1919
+01:21:21,399 --> 01:21:23,439
+und dann sagt so, ja, das ist ein altes
+
+1920
+01:21:23,439 --> 01:21:25,399
+Stück und so weiter. Da stehen Sachen, die
+
+1921
+01:21:25,399 --> 01:21:26,960
+heute hurtvoll sein können und so.
+
+1922
+01:21:27,539 --> 01:21:29,399
+Blablabla. Daran stören sich ja
+
+1923
+01:21:29,399 --> 01:21:30,399
+übrigens auch wieder dieselben Leute.
+
+1924
+01:21:30,980 --> 01:21:33,359
+Also auch so irgendwie, wenn du jetzt irgendwie sagst von wegen,
+
+1925
+01:21:33,760 --> 01:21:35,340
+naja, wir müssen halt irgendwie über
+
+1926
+01:21:35,340 --> 01:21:37,220
+Diakal Mai, müssen wir vielleicht auch mal
+
+1927
+01:21:37,220 --> 01:21:39,399
+irgendwie so ein bisschen kritische Analyse drüber
+
+1928
+01:21:39,399 --> 01:21:41,079
+laufen, dann auch da, naja, ganz große
+
+1929
+01:21:41,079 --> 01:21:43,359
+Beharrungsstache und so. Aber das fände ich
+
+1930
+01:21:43,359 --> 01:21:45,100
+zum Beispiel, wenn man jetzt irgendwie sagt,
+
+1931
+01:21:45,279 --> 01:21:47,039
+wie könnte man mit so einem Thema umgehen?
+
+1932
+01:21:47,039 --> 01:21:49,279
+Ich möchte ein Spiel irgendwo
+
+1933
+01:21:49,279 --> 01:21:51,260
+historisch verortet machen, gleichzeitig
+
+1934
+01:21:51,260 --> 01:21:52,380
+möchte ich es halt irgendwie
+
+1935
+01:21:52,380 --> 01:21:55,199
+zugänglich machen, einfach machen und so
+
+1936
+01:21:55,199 --> 01:21:57,500
+weiter. So ein erklärender Kontext-Dingsbums
+
+1937
+01:21:57,500 --> 01:21:59,119
+oder so drumherum. Zumindest
+
+1938
+01:21:59,119 --> 01:22:01,199
+wenn das Spiel startet, könnte ja vielleicht was sein.
+
+1939
+01:22:01,300 --> 01:22:03,199
+Ja, auf jeden Fall. Also fände ich
+
+1940
+01:22:03,199 --> 01:22:04,420
+besser als
+
+1941
+01:22:04,420 --> 01:22:07,359
+Spiele zu schwärzen, zu löschen,
+
+1942
+01:22:07,679 --> 01:22:09,179
+wie auch immer. Also was
+
+1943
+01:22:09,179 --> 01:22:11,460
+mich zum Beispiel extrem nervt
+
+1944
+01:22:11,460 --> 01:22:13,059
+ist, das hat zumindest
+
+1945
+01:22:13,059 --> 01:22:15,239
+Netflix, meine ich, eine Zeit lang
+
+1946
+01:22:15,239 --> 01:22:17,260
+gemacht und wahrscheinlich auch andere Anbieter.
+
+1947
+01:22:17,840 --> 01:22:19,239
+Es gibt so eine Serie,
+
+1948
+01:22:19,399 --> 01:22:20,899
+die ich super gerne mag,
+
+1949
+01:22:21,079 --> 01:22:23,179
+Community heißt die. Und
+
+1950
+01:22:23,179 --> 01:22:24,899
+das ist wirklich eine
+
+1951
+01:22:24,899 --> 01:22:27,279
+super lustige Comedy-Serie
+
+1952
+01:22:27,279 --> 01:22:29,340
+und weit
+
+1953
+01:22:29,340 --> 01:22:31,500
+davon entfernt in so eine
+
+1954
+01:22:31,500 --> 01:22:33,139
+christlich-wunderbare,
+
+1955
+01:22:33,199 --> 01:22:35,420
+listische
+
+1956
+01:22:35,420 --> 01:22:37,159
+Ecke zu kommen, super
+
+1957
+01:22:37,159 --> 01:22:39,279
+divers und alles. Und da haben
+
+1958
+01:22:39,279 --> 01:22:41,300
+sie tatsächlich aus dem Offit,
+
+1959
+01:22:41,420 --> 01:22:43,099
+also wenn das gestreamt wird,
+
+1960
+01:22:43,260 --> 01:22:45,220
+eine Episode oder sogar zwei
+
+1961
+01:22:45,220 --> 01:22:47,460
+gelöscht, weil
+
+1962
+01:22:47,460 --> 01:22:49,079
+Achtung, jetzt kommt der Knaller.
+
+1963
+01:22:49,340 --> 01:22:51,159
+Die spielen nämlich in zwei,
+
+1964
+01:22:51,300 --> 01:22:53,079
+ist so eine Doppel-Episode, glaube ich, spielen die
+
+1965
+01:22:53,079 --> 01:22:55,059
+D&D. Und es gibt
+
+1966
+01:22:55,059 --> 01:22:56,859
+einen asiatischen
+
+1967
+01:22:56,859 --> 01:22:59,119
+Protagonisten. Also die sind sowieso
+
+1968
+01:22:59,119 --> 01:23:01,279
+super divers so als Ensemble.
+
+1969
+01:23:01,720 --> 01:23:03,099
+Inklusive übrigens alter,
+
+1970
+01:23:03,100 --> 01:23:05,160
+weißer Mann, der auch ein alten, weißen
+
+1971
+01:23:05,160 --> 01:23:07,500
+Mann ist. Wunderbar Chevy Chase
+
+1972
+01:23:07,500 --> 01:23:09,000
+verkörpert den. Und so
+
+1973
+01:23:09,000 --> 01:23:11,039
+richtig alter, weißer Mann. Und der
+
+1974
+01:23:11,039 --> 01:23:13,200
+wird aber auch dafür halt immer gegängelt
+
+1975
+01:23:13,200 --> 01:23:15,120
+und so weiter. Also das
+
+1976
+01:23:15,120 --> 01:23:16,800
+ist wirklich auch, würde ich sagen,
+
+1977
+01:23:17,000 --> 01:23:19,140
+wenn man sagt, das ist Vogue, dann ist es
+
+1978
+01:23:19,140 --> 01:23:21,020
+mit diese Serie. Aber halt in
+
+1979
+01:23:21,020 --> 01:23:22,960
+lustig Comedy und so weiter. Und
+
+1980
+01:23:22,960 --> 01:23:25,460
+auf jeden Fall, dieser asiatische
+
+1981
+01:23:25,460 --> 01:23:27,180
+Typ, der spielt
+
+1982
+01:23:27,180 --> 01:23:29,020
+D&D mit und spielt einen
+
+1983
+01:23:29,020 --> 01:23:31,180
+Dunkelelf und hat sich dazu
+
+1984
+01:23:31,180 --> 01:23:32,079
+schwarz angemalt.
+
+1985
+01:23:33,100 --> 01:23:35,440
+Und daran darfst du raten, warum sie diese Episode
+
+1986
+01:23:35,440 --> 01:23:37,340
+rausgenommen haben, weil es Blackfacing
+
+1987
+01:23:37,340 --> 01:23:37,620
+war.
+
+1988
+01:23:39,140 --> 01:23:40,620
+Und da würde ich sagen,
+
+1989
+01:23:41,620 --> 01:23:41,860
+also
+
+1990
+01:23:41,860 --> 01:23:45,280
+selbst die Tafel, würde ich schon sagen,
+
+1991
+01:23:46,240 --> 01:23:47,260
+weiß ich nicht, ob es die
+
+1992
+01:23:47,260 --> 01:23:48,240
+braucht dafür.
+
+1993
+01:23:49,360 --> 01:23:51,340
+Weil Blackfacing, also er hat
+
+1994
+01:23:51,340 --> 01:23:53,220
+ja keinen schwarzen Menschen
+
+1995
+01:23:53,220 --> 01:23:55,140
+verkörpert, sondern einen Dunkelelf.
+
+1996
+01:23:55,400 --> 01:23:57,160
+Und der Gag war ja, dass er einfach
+
+1997
+01:23:57,160 --> 01:23:59,260
+also auch super schwarz
+
+1998
+01:23:59,260 --> 01:24:00,760
+angemalt. Also noch nicht mal so
+
+1999
+01:24:00,760 --> 01:24:03,079
+Blackfacing, weil ursprünglich Blackfacing,
+
+2000
+01:24:03,100 --> 01:24:04,740
+ist ja, weil du schwarze
+
+2001
+01:24:04,740 --> 01:24:06,820
+Menschen imitieren wolltest,
+
+2002
+01:24:06,900 --> 01:24:08,620
+dich darüber lustig machen wolltest.
+
+2003
+01:24:08,940 --> 01:24:10,900
+Wie gesagt, da hätte selbst die Tafel
+
+2004
+01:24:10,900 --> 01:24:12,840
+fände ich ein bisschen too much.
+
+2005
+01:24:13,100 --> 01:24:15,000
+Aber sei es drum, da hätte
+
+2006
+01:24:15,000 --> 01:24:16,900
+man das zumindest machen können und sagen können,
+
+2007
+01:24:17,039 --> 01:24:19,060
+hey, Blackfacing hat hier
+
+2008
+01:24:19,060 --> 01:24:21,000
+zwar gar nicht so den Kontext, aber
+
+2009
+01:24:21,000 --> 01:24:23,100
+man muss wissen, dass da finde ich,
+
+2010
+01:24:23,300 --> 01:24:25,020
+schlägt man dann auch ein Stück weit über
+
+2011
+01:24:25,020 --> 01:24:26,980
+die Stringe. Das heißt, auch hier dieses
+
+2012
+01:24:26,980 --> 01:24:28,880
+Ausblenden und Wegdrücken
+
+2013
+01:24:28,880 --> 01:24:30,940
+finde ich gar nicht so produktiv,
+
+2014
+01:24:30,940 --> 01:24:32,060
+muss ich sagen an der Stelle.
+
+2015
+01:24:32,060 --> 01:24:34,340
+Ja, also dieses generell, wie
+
+2016
+01:24:34,340 --> 01:24:36,520
+Gesellschaft solche Sachen verhandelt und wie
+
+2017
+01:24:36,520 --> 01:24:38,000
+dann Akteure darauf reagieren,
+
+2018
+01:24:38,680 --> 01:24:40,280
+das ist halt eben alles in Bewegung.
+
+2019
+01:24:40,400 --> 01:24:42,539
+Kann es natürlich dann immer mal Überzeichnungen geben,
+
+2020
+01:24:42,660 --> 01:24:44,520
+Übertreibung und so weiter. Der Ausschlag
+
+2021
+01:24:44,520 --> 01:24:46,660
+aber in eine Welt hinter Menschenrechten
+
+2022
+01:24:46,660 --> 01:24:48,180
+kann natürlich da auch nicht die Regel,
+
+2023
+01:24:48,320 --> 01:24:50,580
+ich weiß, das hast du nicht gesagt, weil das ja immer ins Feld geführt
+
+2024
+01:24:50,580 --> 01:24:52,680
+wird. Das hört man tatsächlich
+
+2025
+01:24:52,680 --> 01:24:54,120
+als Argument, dieses nach dem Motto,
+
+2026
+01:24:54,520 --> 01:24:56,539
+ja, Menschen deportieren ist
+
+2027
+01:24:56,539 --> 01:24:58,380
+erlaubt, weil ihr habt damals ja
+
+2028
+01:24:58,380 --> 01:25:00,480
+dafür gesorgt, dass Dingsbums nicht mehr on air war.
+
+2029
+01:25:01,060 --> 01:25:02,039
+Also da war
+
+2030
+01:25:02,060 --> 01:25:03,600
+teilweise die Netzwerke auch
+
+2031
+01:25:03,600 --> 01:25:05,780
+sehr, sehr hypersensibel.
+
+2032
+01:25:06,060 --> 01:25:07,840
+Also wenn du irgendwie vor 15 Jahren mal was
+
+2033
+01:25:07,840 --> 01:25:09,780
+komisches getweetet hast und irgendeiner hat sich ein
+
+2034
+01:25:09,780 --> 01:25:11,440
+Screenshot gemacht, dann hat er quasi so
+
+2035
+01:25:11,440 --> 01:25:13,980
+irgendwie die Smoking Gun
+
+2036
+01:25:13,980 --> 01:25:15,740
+gehabt, womit er dein ganzes Leben
+
+2037
+01:25:15,740 --> 01:25:18,000
+... Also ich glaube, man kann
+
+2038
+01:25:18,000 --> 01:25:19,660
+da auf unterschiedliche Arten mit umgehen und
+
+2039
+01:25:19,660 --> 01:25:21,980
+gerade weil wir so eine hohe Konzentration von
+
+2040
+01:25:21,980 --> 01:25:23,880
+sehr starken Akteuren in den
+
+2041
+01:25:23,880 --> 01:25:25,880
+Vereinigten Staaten haben, wenn die einmal da irgendwie
+
+2042
+01:25:25,880 --> 01:25:28,020
+so eine Policy haben, dann ist da noch ein Compliance
+
+2043
+01:25:28,020 --> 01:25:29,920
+Sheriff dahinter, die sagen dann, nee,
+
+2044
+01:25:29,920 --> 01:25:31,760
+dieses machen wir nicht, dann wird das genauso
+
+2045
+01:25:31,760 --> 01:25:33,739
+gemacht. Und das führt dann natürlich dann zu Stilblüten,
+
+2046
+01:25:33,820 --> 01:25:35,560
+die seltsam sind. Kann man ja über alles reden.
+
+2047
+01:25:35,940 --> 01:25:37,760
+Aber grundsätzlich ist dieses, ich glaube,
+
+2048
+01:25:37,840 --> 01:25:39,780
+eine Gesellschaft, die auf solche Sachen
+
+2049
+01:25:39,780 --> 01:25:41,880
+achtet und dafür sensibel ist, jetzt nicht
+
+2050
+01:25:41,880 --> 01:25:43,480
+per se schlecht. Die Frage ist eben, ob sie
+
+2051
+01:25:43,480 --> 01:25:45,820
+übersensibel ist. Ich glaube auch, vielleicht
+
+2052
+01:25:45,820 --> 01:25:47,400
+hätte auch den Gag ja auch jemand verstanden.
+
+2053
+01:25:47,780 --> 01:25:49,820
+Gerade auch, wenn es in einem satirischen Format ist,
+
+2054
+01:25:49,860 --> 01:25:51,600
+glaube ich, ist der Umgang damit auch immer wieder
+
+2055
+01:25:51,600 --> 01:25:53,659
+okay. Es ist halt immer die Frage, was soll damit
+
+2056
+01:25:53,659 --> 01:25:55,699
+erreicht werden? Punch ich ab, punch ich down?
+
+2057
+01:25:56,140 --> 01:25:57,780
+Versuche ich den Zuschauer zu erwischen
+
+2058
+01:25:57,780 --> 01:25:59,920
+oder so? Keine Ahnung. Also ich glaube, das hätte
+
+2059
+01:25:59,920 --> 01:26:01,720
+die wahrscheinlich auch ausgehalten, aber
+
+2060
+01:26:01,720 --> 01:26:03,659
+naja, da war es dann eben nicht so. Da müssen
+
+2061
+01:26:03,659 --> 01:26:05,619
+wir, glaube ich, also wer hier zu tiefer einsteigen
+
+2062
+01:26:05,619 --> 01:26:07,920
+will, hört mal unsere Vogue-Episode,
+
+2063
+01:26:08,020 --> 01:26:09,039
+die wir auch letztes Jahr gemacht haben.
+
+2064
+01:26:09,460 --> 01:26:11,800
+Wer weiß, vielleicht hat auch jemand gesagt,
+
+2065
+01:26:11,900 --> 01:26:13,360
+jetzt zeige ich es denen mal richtig
+
+2066
+01:26:13,360 --> 01:26:15,480
+und zeige,
+
+2067
+01:26:15,720 --> 01:26:17,960
+wie ist es, wenn man es komplett übertreibt.
+
+2068
+01:26:18,039 --> 01:26:19,680
+Keine Ahnung. Ich finde es wichtig,
+
+2069
+01:26:19,840 --> 01:26:21,199
+dass darüber gesprochen wird, dass
+
+2070
+01:26:21,199 --> 01:26:23,539
+ich finde es auch keine Ausrede,
+
+2071
+01:26:23,579 --> 01:26:26,020
+zu sagen, ja, das ist eine Zumutung,
+
+2072
+01:26:26,260 --> 01:26:27,820
+weil die wahre Zumutung
+
+2073
+01:26:27,820 --> 01:26:29,619
+ist ja das, was verschleiert wird. Und solange
+
+2074
+01:26:29,619 --> 01:26:31,320
+es die gibt, muss ich,
+
+2075
+01:26:31,720 --> 01:26:34,180
+das zumindest auf dem absoluten
+
+2076
+01:26:34,180 --> 01:26:36,300
+Low-Level den überprivilegierten
+
+2077
+01:26:36,300 --> 01:26:38,020
+Menschen auch zumuten.
+
+2078
+01:26:38,560 --> 01:26:39,699
+Sie mit der Wahrheit zu
+
+2079
+01:26:39,699 --> 01:26:41,600
+konfrontieren, sie mit
+
+2080
+01:26:41,600 --> 01:26:43,220
+Verfehlungen zu konfrontieren,
+
+2081
+01:26:43,780 --> 01:26:45,320
+das ist im Vergleich zu den
+
+2082
+01:26:45,320 --> 01:26:47,960
+Verbrechen an die Menschlichkeit, die tagtäglich
+
+2083
+01:26:47,960 --> 01:26:49,320
+in real passieren,
+
+2084
+01:26:49,740 --> 01:26:51,920
+ein Scheiß dagegen. Das muss uns halt
+
+2085
+01:26:51,920 --> 01:26:53,699
+gegenwärtig sein. Ja, das mag
+
+2086
+01:26:53,699 --> 01:26:55,780
+einige nerven und so, aber
+
+2087
+01:26:55,780 --> 01:26:57,659
+arbeitet man in der Kobaltmine,
+
+2088
+01:26:57,659 --> 01:26:59,600
+das ist, glaube ich, 100 Millionen
+
+2089
+01:26:59,600 --> 01:27:01,699
+mal nerviger, als gesagt,
+
+2090
+01:27:01,720 --> 01:27:03,619
+zu bekommen, hey, es ist übrigens
+
+2091
+01:27:03,619 --> 01:27:05,800
+rassistisch, das und das Wort zu benutzen.
+
+2092
+01:27:06,400 --> 01:27:07,740
+So, jetzt fehlt zum
+
+2093
+01:27:07,740 --> 01:27:09,500
+Abschluss aber tatsächlich dein Urteil.
+
+2094
+01:27:09,640 --> 01:27:11,440
+Wie hat dir dieses Spiel gefallen? Ich ahne
+
+2095
+01:27:11,440 --> 01:27:12,280
+nichts Gutes.
+
+2096
+01:27:14,300 --> 01:27:15,539
+Du lässt mich nicht vermarkten.
+
+2097
+01:27:15,900 --> 01:27:17,199
+Ja, also tatsächlich, ich fand's auch
+
+2098
+01:27:17,199 --> 01:27:19,460
+total toll von der Anmutung her,
+
+2099
+01:27:19,619 --> 01:27:21,220
+von den Farben, der
+
+2100
+01:27:21,220 --> 01:27:23,560
+Musikscore. Also wenn du dann, das setzt
+
+2101
+01:27:23,560 --> 01:27:25,340
+sich ja hin und du weißt genau, die nächsten sechs Stunden
+
+2102
+01:27:25,340 --> 01:27:27,560
+machen jetzt nichts anderes. Und da ist es auch wichtig,
+
+2103
+01:27:27,680 --> 01:27:29,100
+dass die musikalische Untermalung
+
+2104
+01:27:29,100 --> 01:27:31,600
+einen nicht nervt und gleichzeitig halt irgendwie
+
+2105
+01:27:31,600 --> 01:27:33,840
+die Stille durchbricht. Die Mechaniken
+
+2106
+01:27:33,840 --> 01:27:35,700
+sind schön, gehen schnell, man rafft
+
+2107
+01:27:35,700 --> 01:27:37,500
+auch relativ schnell, was man da
+
+2108
+01:27:37,500 --> 01:27:39,240
+machen soll und so. Ich
+
+2109
+01:27:39,240 --> 01:27:41,579
+habe es nicht geschafft,
+
+2110
+01:27:41,700 --> 01:27:43,640
+tatsächlich so diese Sachen, über die ich mich geärgert
+
+2111
+01:27:43,640 --> 01:27:45,560
+habe, komplett zu verdrängen. Das war jetzt aber für mich
+
+2112
+01:27:45,560 --> 01:27:47,240
+jetzt kein Grund, das irgendwie doof zu finden.
+
+2113
+01:27:47,720 --> 01:27:49,140
+Es wurde mir ein bisschen zu langweilig.
+
+2114
+01:27:49,340 --> 01:27:51,260
+Das liegt auch ein bisschen daran, dass
+
+2115
+01:27:51,260 --> 01:27:53,480
+ich vielleicht gerade irgendwie
+
+2116
+01:27:53,480 --> 01:27:55,400
+eine andere Art von Ablenkung brauche oder so, aber
+
+2117
+01:27:55,400 --> 01:27:57,039
+ich hatte dann so nach so
+
+2118
+01:27:57,039 --> 01:27:59,500
+zwei Stunden dann echt so, okay, jetzt geht die nächste
+
+2119
+01:27:59,500 --> 01:28:01,200
+Registerkarte auf, jetzt baue ich die drei Güter.
+
+2120
+01:28:01,600 --> 01:28:02,960
+Okay, jetzt drücke ich auf schneller.
+
+2121
+01:28:03,600 --> 01:28:04,900
+Okay, jetzt ist das und das da.
+
+2122
+01:28:05,400 --> 01:28:07,440
+Also es wurde mir nachher ein bisschen so zu lame.
+
+2123
+01:28:07,800 --> 01:28:09,360
+Ich habe gemerkt, also für mich
+
+2124
+01:28:09,360 --> 01:28:11,520
+das Zivilisationsspiel, was mich immer kriegt,
+
+2125
+01:28:11,620 --> 01:28:13,420
+also das ist dann wirklich eine Gefahr für mein Leben.
+
+2126
+01:28:13,600 --> 01:28:15,360
+Also im Sinne von, dass ich dann Freitag anfange
+
+2127
+01:28:15,360 --> 01:28:17,180
+und irgendwie Sonntag durchspiele, ist
+
+2128
+01:28:17,180 --> 01:28:17,700
+Civilization.
+
+2129
+01:28:18,740 --> 01:28:21,240
+Und auch dieses Beyond the Stars und so,
+
+2130
+01:28:21,320 --> 01:28:23,039
+wo man quasi eine Kolonie
+
+2131
+01:28:23,039 --> 01:28:25,320
+auf einem anderen Planeten gründet und so, mit ganz
+
+2132
+01:28:25,320 --> 01:28:27,100
+anderen Bäumen und Entwicklungsfahnen.
+
+2133
+01:28:27,400 --> 01:28:29,660
+Das ist etwas, was mich jedes Mal kriegt.
+
+2134
+01:28:29,660 --> 01:28:31,539
+Also, dass man da irgendwie mit Religion und
+
+2135
+01:28:31,600 --> 01:28:33,420
+weiter viel machen kann, mit Kultur und so.
+
+2136
+01:28:33,760 --> 01:28:35,500
+Es soll was anderes, so, deswegen
+
+2137
+01:28:35,500 --> 01:28:37,420
+hinkt der Vergleich so ein bisschen, aber es hat
+
+2138
+01:28:37,420 --> 01:28:39,640
+jetzt tatsächlich mich nicht so
+
+2139
+01:28:39,640 --> 01:28:41,660
+gecatcht, so. Also ich habe es noch
+
+2140
+01:28:41,660 --> 01:28:43,640
+nicht deinstalliert. Also ich schaue mir
+
+2141
+01:28:43,640 --> 01:28:45,539
+den Spielstück bestimmt nochmal an und werde nochmal
+
+2142
+01:28:45,539 --> 01:28:47,039
+gucken, was da dann so passiert.
+
+2143
+01:28:47,440 --> 01:28:49,800
+Also Civilization kann ich dir, glaube ich,
+
+2144
+01:28:50,200 --> 01:28:51,760
+verraten, dass der aktuelle
+
+2145
+01:28:51,760 --> 01:28:53,120
+Teil zumindest nicht sehr gut
+
+2146
+01:28:53,120 --> 01:28:55,260
+bewertet ist. Da ist, glaube ich, immer noch
+
+2147
+01:28:55,260 --> 01:28:57,440
+die Nummer, was ist es, sechs?
+
+2148
+01:28:57,440 --> 01:28:58,620
+Das ist, glaube ich, davor.
+
+2149
+01:28:59,740 --> 01:29:01,160
+Ist, glaube ich, immer noch,
+
+2150
+01:29:01,159 --> 01:29:03,260
+wenn du dir das mit allen Erweiterungen
+
+2151
+01:29:03,260 --> 01:29:04,859
+und so weiter, ist es immer noch unschlagbar.
+
+2152
+01:29:05,079 --> 01:29:07,239
+Und es gibt einen guten
+
+2153
+01:29:07,239 --> 01:29:09,319
+Klon, den ich
+
+2154
+01:29:09,319 --> 01:29:10,979
+auch jetzt eine Zeit lang gespielt habe,
+
+2155
+01:29:11,079 --> 01:29:13,099
+den ich auch wesentlich besser finde,
+
+2156
+01:29:13,220 --> 01:29:14,139
+nämlich Humankind.
+
+2157
+01:29:15,399 --> 01:29:17,139
+Das heißt, da kannst du mal
+
+2158
+01:29:17,139 --> 01:29:18,880
+gucken, ob dich das
+
+2159
+01:29:18,880 --> 01:29:21,019
+anlacht, weil das ist so,
+
+2160
+01:29:21,220 --> 01:29:23,279
+ja, würde ich sagen, der bessere
+
+2161
+01:29:23,279 --> 01:29:25,099
+siebte Teil
+
+2162
+01:29:25,099 --> 01:29:26,960
+von Civilization, wenn man so will.
+
+2163
+01:29:27,699 --> 01:29:29,079
+Weil da kannst du dann
+
+2164
+01:29:29,079 --> 01:29:31,119
+tatsächlich auch zwischen Kultur,
+
+2165
+01:29:31,159 --> 01:29:33,599
+während Epochen wechseln,
+
+2166
+01:29:33,880 --> 01:29:35,300
+auch die Kultur wechseln.
+
+2167
+01:29:35,300 --> 01:29:36,399
+Okay, cool.
+
+2168
+01:29:36,880 --> 01:29:39,180
+Also du kannst dann sagen, okay, ich fange an
+
+2169
+01:29:39,180 --> 01:29:41,079
+als Asyrer und dann
+
+2170
+01:29:41,079 --> 01:29:42,579
+will ich aber eher in Richtung
+
+2171
+01:29:42,579 --> 01:29:44,880
+Rom oder keine Ahnung, was ist da,
+
+2172
+01:29:44,979 --> 01:29:46,279
+da gibt es zig Kulturen.
+
+2173
+01:29:47,059 --> 01:29:49,159
+Und somit hast du ja auch immer verschiedene Vorteile
+
+2174
+01:29:49,159 --> 01:29:50,939
+und so weiter, die du dann während des Spiels
+
+2175
+01:29:50,939 --> 01:29:52,739
+sozusagen verändern kannst. Ich glaube, das ganz neue
+
+2176
+01:29:52,739 --> 01:29:55,260
+Civilization hat so ähnliche Mechaniken.
+
+2177
+01:29:55,279 --> 01:29:56,159
+Ja, habe ich gehört, ja.
+
+2178
+01:29:56,939 --> 01:29:58,680
+Aber ich fand das auch sehr
+
+2179
+01:29:58,680 --> 01:30:00,760
+intuitiv von der Steuerung sehr
+
+2180
+01:30:01,159 --> 01:30:02,460
+gut gemacht und so weiter.
+
+2181
+01:30:02,739 --> 01:30:05,019
+Gebe ich hier mal als Tipp an dich und alle
+
+2182
+01:30:05,019 --> 01:30:06,439
+anderen mit Humankind.
+
+2183
+01:30:07,019 --> 01:30:08,899
+Super, dankeschön. Schaue ich mir mal an.
+
+2184
+01:30:10,539 --> 01:30:10,939
+So.
+
+2185
+01:30:11,779 --> 01:30:12,840
+Ja, jetzt nach
+
+2186
+01:30:12,840 --> 01:30:15,279
+ungefähr sieben, acht Episoden
+
+2187
+01:30:15,279 --> 01:30:17,119
+nur Gräuel und so weiter
+
+2188
+01:30:17,119 --> 01:30:18,699
+haben wir jetzt mal wieder ein bisschen Kultur gehabt.
+
+2189
+01:30:18,880 --> 01:30:20,539
+Jetzt haben wir den verschleierten Gräuel.
+
+2190
+01:30:20,680 --> 01:30:22,800
+Genau. Ich hoffe,
+
+2191
+01:30:23,180 --> 01:30:24,859
+es hat euch trotzdem Spaß gemacht,
+
+2192
+01:30:25,039 --> 01:30:27,000
+ein Stück weit hier mal was
+
+2193
+01:30:27,000 --> 01:30:29,019
+anderes zu besprechen, wie sonst
+
+2194
+01:30:29,019 --> 01:30:30,340
+üblich die Tagespolitik.
+
+2195
+01:30:30,340 --> 01:30:32,360
+Und lasst uns gerne
+
+2196
+01:30:32,360 --> 01:30:34,440
+mal einen Kommentar da, ob wir
+
+2197
+01:30:34,440 --> 01:30:36,380
+öfters uns solche
+
+2198
+01:30:36,380 --> 01:30:38,239
+Sachen mal angucken sollen und
+
+2199
+01:30:38,239 --> 01:30:40,460
+ideologisch sozusagen entschleiern
+
+2200
+01:30:40,460 --> 01:30:42,600
+sollen, weil ich sag mal
+
+2201
+01:30:42,600 --> 01:30:44,460
+im Filmbereich gibt es ja
+
+2202
+01:30:44,460 --> 01:30:46,119
+einen starken Akteur, der das tut.
+
+2203
+01:30:46,279 --> 01:30:48,319
+Wolfgang M. Schmidt mit seiner Filmanalyse.
+
+2204
+01:30:48,380 --> 01:30:49,060
+Grüße gehen raus.
+
+2205
+01:30:49,720 --> 01:30:52,420
+Der das ja mit Filmen macht, was wir
+
+2206
+01:30:52,420 --> 01:30:54,060
+heute hier weniger,
+
+2207
+01:30:54,239 --> 01:30:56,119
+sag ich mal, intellektuell
+
+2208
+01:30:56,119 --> 01:30:58,180
+wohlgeschliffen formuliert haben. Aber
+
+2209
+01:30:58,180 --> 01:31:00,100
+letztendlich macht er ja genau das,
+
+2210
+01:31:00,100 --> 01:31:02,060
+sich nämlich Filme anzugucken und
+
+2211
+01:31:02,060 --> 01:31:04,200
+welchen Diskurs produzieren
+
+2212
+01:31:04,200 --> 01:31:06,060
+und reproduzieren sie, vor
+
+2213
+01:31:06,060 --> 01:31:08,100
+allen Dingen in einer kapitalistischen Ideologie.
+
+2214
+01:31:08,380 --> 01:31:10,140
+Also wer Wolfgang noch nicht kennt,
+
+2215
+01:31:10,200 --> 01:31:12,360
+was ich kaum glaube, die uns zuhören,
+
+2216
+01:31:12,539 --> 01:31:14,020
+guckt euch die Filmanalyse
+
+2217
+01:31:14,020 --> 01:31:15,980
+auf YouTube an, wo eben alle
+
+2218
+01:31:15,980 --> 01:31:18,240
+möglichen Filme von ihm abgeklopft
+
+2219
+01:31:18,240 --> 01:31:20,020
+werden auf Ideologie. Sollte
+
+2220
+01:31:20,020 --> 01:31:22,220
+euch das also hier irgendwie gefallen
+
+2221
+01:31:22,220 --> 01:31:24,320
+haben und sagt, ja, kann ich mir vorstellen,
+
+2222
+01:31:24,880 --> 01:31:26,020
+guckt euch doch mal
+
+2223
+01:31:26,020 --> 01:31:27,820
+Bioshock an beispielsweise,
+
+2224
+01:31:27,820 --> 01:31:29,820
+weil da hätte man beispielsweise
+
+2225
+01:31:30,100 --> 01:31:32,220
+die Ayn Rand-Philosophie
+
+2226
+01:31:32,220 --> 01:31:33,360
+mit drin stecken,
+
+2227
+01:31:33,860 --> 01:31:36,120
+die aber hier tatsächlich kritisch auseinandergenommen
+
+2228
+01:31:36,120 --> 01:31:38,039
+wird und nicht einfach eins zu eins übernommen
+
+2229
+01:31:38,039 --> 01:31:39,940
+wird. Also wenn ihr sagt,
+
+2230
+01:31:40,039 --> 01:31:41,600
+hier, wir wollen mehr zu
+
+2231
+01:31:41,600 --> 01:31:43,920
+Politik und Gaming und Ideologie
+
+2232
+01:31:43,920 --> 01:31:46,300
+und Gaming hören, lasst gerne mal
+
+2233
+01:31:46,300 --> 01:31:47,620
+einen Kommentar dazu da.
+
+2234
+01:31:47,840 --> 01:31:49,780
+Wir werden es sicherlich nicht übertreiben,
+
+2235
+01:31:49,880 --> 01:31:51,480
+aber so haben wir zumindest mal einen Hinweis,
+
+2236
+01:31:51,740 --> 01:31:53,640
+liegen wir komplett daneben oder
+
+2237
+01:31:53,640 --> 01:31:56,260
+ist es auch etwas, was euch da draußen
+
+2238
+01:31:56,260 --> 01:31:58,039
+interessiert? Ganz genau.
+
+2239
+01:31:58,520 --> 01:32:00,020
+Ja, und mit jedem Kommentar,
+
+2240
+01:32:00,020 --> 01:32:01,940
+und jeder Antwort unterstützt
+
+2241
+01:32:01,940 --> 01:32:03,920
+ihr uns natürlich auch. Einige unterstützen uns
+
+2242
+01:32:03,920 --> 01:32:06,100
+auch per direkte Überweisung,
+
+2243
+01:32:06,160 --> 01:32:08,040
+per Paypal oder bei Steady. Vielen lieben Dank
+
+2244
+01:32:08,040 --> 01:32:10,120
+dafür. Das hilft uns immer sehr
+
+2245
+01:32:10,120 --> 01:32:12,020
+und wir freuen uns auch immer mit euch zu diskutieren,
+
+2246
+01:32:12,100 --> 01:32:13,780
+zum Beispiel bei Blue Sky und so weiter oder
+
+2247
+01:32:13,780 --> 01:32:16,120
+eben von euch bei Insta zu lesen.
+
+2248
+01:32:16,600 --> 01:32:17,900
+Die Leute, die uns mit
+
+2249
+01:32:17,900 --> 01:32:19,660
+am stärksten unterstützen, sind unsere sogenannten
+
+2250
+01:32:19,660 --> 01:32:22,020
+Hauptproduzenten. Das sind diejenigen, die das größte Paket
+
+2251
+01:32:22,020 --> 01:32:23,880
+bei Steady gebucht haben. Für
+
+2252
+01:32:23,880 --> 01:32:26,020
+diese Folge waren das Chris, Katharina,
+
+2253
+01:32:26,200 --> 01:32:27,680
+Patrick, Adrian, Alexander,
+
+2254
+01:32:27,980 --> 01:32:29,680
+Robert, Matthias, Andreas und
+
+2255
+01:32:30,020 --> 01:32:32,220
+Mike. Vielen lieben Dank. Vielen lieben
+
+2256
+01:32:32,220 --> 01:32:34,320
+Dank. Und wir hören
+
+2257
+01:32:34,320 --> 01:32:36,220
+uns nächste Woche wieder in aller
+
+2258
+01:32:36,220 --> 01:32:38,480
+Frische. Seid
+
+2259
+01:32:38,480 --> 01:32:39,840
+gerne wieder dabei
+
+2260
+01:32:39,840 --> 01:32:42,240
+und alles Gute für
+
+2261
+01:32:42,240 --> 01:32:43,840
+euch. Viel Gesundheit,
+
+2262
+01:32:43,980 --> 01:32:46,100
+merken wir in diesen Zeiten gerade.
+
+2263
+01:32:46,620 --> 01:32:47,900
+Alles geht so ein bisschen rum.
+
+2264
+01:32:48,480 --> 01:32:50,260
+Passt auf euch auf. Bis dann,
+
+2265
+01:32:50,260 --> 01:32:51,520
+ihr Lieben. Bis bald. Ciao.
+
+2266
+01:33:00,020 --> 01:33:02,020
+Ciao.
+
+2267
+01:33:02,020 --> 01:33:04,020
+Ciao.
+
+2268
+01:33:30,020 --> 01:33:32,020
+Ciao.
+
+2269
+01:33:32,020 --> 01:33:34,020
+Ciao.
+
+2270
+01:34:00,020 --> 01:34:06,120
+Ciao.
+
+2271
+01:34:28,040 --> 01:34:29,040
+Ciao.

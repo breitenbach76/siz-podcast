@@ -1,0 +1,23 @@
+episode,producers
+10,Alexander;Robert
+13,Alexander;Robert;Patrick
+14,Robert;Patrick
+22,Sendung waren Alexander;Chris;Katharina;Patrick;Robert
+26,Chris;Katharina;Patrick;Robert
+27,Chris;Katharina;Patrick
+37,Chris;Katharina;Patrick;Robert
+40,Chris;Alexander;Robert;Patrick
+43,Alexander;Katharina;Robert;Patrick
+45,Chris;Katharina;Alexander;Patrick;Robert
+47,Katharina;Patrick;Adrian;Alexander;Robert
+48,Katharina;Adrian;Patrick;Robert;Alexander
+50,Patrick;Adrian;Chris;Alexander;Robert
+54,Chris;Katharina;Patrick;Adrian;Alexander;Robert;Matthias;Andreas
+55,Katharina;Patrick;Adrian;Alexander;Robert;Matthias;Andreas
+56,Katharina;Patrick;Adrian;Alexander;Robert;Matthias;Andreas
+57,Chris;Katharina;Patrick;Adrian;Alexander;Robert;Matthias;Andreas
+58,Matthias;Robert;Alexander;Adrian;Patrick;Katharina;Chris
+61,Patrick;Katharina;Adrian;Alexander;Robert;Matthias;Andreas
+62,Katharina;Patrick;Adrian;Alexander;Robert;Matthias;Andreas
+64,Matthias;Robert;Alexander;Adrian;Patrick;Katharina;Chris
+67,Mike;Patrick;Andreas;Matthias;Chris;Katharina;Adrian;Alexander;Robert
